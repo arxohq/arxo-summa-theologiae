@@ -107,11 +107,11 @@ that path:
 
 ```sh
 LAW_RECON_BIN="$(node --input-type=module -e '
-  const { locateBinary } = await import(process.argv[1]);
+  const { locateBinary } = await import(process.argv[2]);
   const found = locateBinary();
   if (found.error) throw new Error(found.error);
   console.log(found.binary);
-' "$(npm root -g)/@arxo/cli/bin/law.js")"
+' -- locate-native "$(npm root -g)/@arxo/cli/bin/law.js")"
 ```
 
 From this directory:

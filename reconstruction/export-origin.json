@@ -374,13 +374,13 @@
     {
       "path": "README.md",
       "sourceSha256": "912f1d14a6123719155b2d67f61b519fdf169248191fbb0311ab35c352d652f7",
-      "publicSha256": "e1bd7c9dabfe276f3048448da0b849f501ce0e24d3bdc7159c398ea38cf184d6",
+      "publicSha256": "ab5d864ed40352f379a0dc239a2c53630b86f45bfe9d24a82bcc9f4bd38d48a6",
       "purpose": "Public native CLI instructions and pinned portable verification; model, test, source and obligation bytes unchanged."
     },
     {
       "path": "tools/README.md",
       "sourceSha256": "8406d8835fd3b810a3c0348160d07f94ba458f4fa8530e36a81dd931615b700b",
-      "publicSha256": "cb037271c473ef1b59628b97e8bc74a3200b37a739643e6a2c95a353e4cbc03f",
+      "publicSha256": "2c8acbfc514d62f674a2a9e8bbd43ca18e54125af8b8c650589140eaf4493627",
       "purpose": "Public native CLI instructions and pinned portable verification; model, test, source and obligation bytes unchanged."
     },
     {

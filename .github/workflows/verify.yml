@@ -38,7 +38,7 @@ jobs:
       - name: Locate the installed native CLI
         if: inputs.scope != 'reader'
         run: |
-          native=$(node --input-type=module -e 'const { locateBinary } = await import(process.argv[1]); const found = locateBinary(); if (found.error) throw new Error(found.error); console.log(found.binary)' "$(npm root -g)/@arxo/cli/bin/law.js")
+          native=$(node --input-type=module -e 'const { locateBinary } = await import(process.argv[2]); const found = locateBinary(); if (found.error) throw new Error(found.error); console.log(found.binary)' -- locate-native "$(npm root -g)/@arxo/cli/bin/law.js")
           printf 'LAW_RECON_BIN=%s\n' "$native" >> "$GITHUB_ENV"
       - name: Check the seven reconstructed articles and their reader examples
         if: inputs.scope != 'reader'
