@@ -253,11 +253,27 @@
   },
   "historicalEvidence": "Original inventory, audits and example expectations retained separately; no earlier acceptance transferred",
   "macos": "passed with published npm CLI; Node.js 20",
-  "linux": "pending public addressed CI",
+  "linux": {
+    "status": "passed",
+    "target": "Linux x86_64",
+    "node": "20",
+    "cliInstallation": "npm install -g @arxo/cli@0.2.4",
+    "checkedScenarios": 294,
+    "passedScenarios": 294,
+    "readerExamples": 20,
+    "canonicalDocuments": "match macOS saved documents and repeat execution",
+    "nativeAskReplay": "passed",
+    "workflow": "https://github.com/arxohq/arxo-summa-theologiae/actions/runs/38456037462",
+    "testedSourceCommit": "9222e75"
+  },
   "publicDelivery": {
-    "published": false,
-    "anonymousInstallation": "pending",
-    "modelNpm": "not_requested"
+    "published": true,
+    "repository": "https://github.com/arxohq/arxo-summa-theologiae",
+    "visibility": "PUBLIC",
+    "anonymousClone": "passed without Git credentials",
+    "anonymousInstallation": "passed: fresh npm CLI installation plus public clone; 20 examples, native ask/replay and inspect",
+    "modelNpm": "not_requested",
+    "release": "v0.1.0"
   },
   "releaseVerified": false,
   "corpus": "not_checked",
