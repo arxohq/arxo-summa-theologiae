@@ -1,0 +1,45 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_q1_a8 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-q1-a8";
+
+test "a granted faith principle supports an other conclusion, not proof of the principle" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert doctrine_principle("resurrection-of-Christ") { origin case_input; }
+        assert opponent_grants("opponent-A", "resurrection-of-Christ") { origin case_input; }
+        assert source_derivation("resurrection-of-Christ", "common-resurrection") { origin case_input; }
+    }
+    evaluate truth(available_argument("opponent-A", "common-resurrection"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(available_argument("opponent-A", "resurrection-of-Christ"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(proves_faith_article("human-reason", "resurrection-of-Christ"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+test "without any granted revealed principle only objection answering is available" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert opponent_grants_none("opponent-B") { origin case_input; }
+    }
+    evaluate truth(answerable_objection("opponent-B"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(available_argument("opponent-B", "faith-article-X"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+test "removing the granted principle removes that derivation" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert doctrine_principle("p") { origin case_input; }
+        assert source_derivation("p", "q") { origin case_input; }
+    }
+    evaluate truth(available_argument("opponent-C", "q"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}

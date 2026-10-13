@@ -1,0 +1,187 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a3 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a3";
+
+source SUMMA_I_II_Q90_A3 {
+ kind doctrine;
+ jurisdiction "none";
+ authority "Thomas Aquinas, Summa Theologiae";
+ number "I-II, q. 90, a. 3";
+ label en official "Pinned Latin source in sibling immutable source.txt and source-pin.json";
+}
+
+pub relation source_co_common_good_scope() kind normative_fact {
+ label en official "Law properly regards order to common good.";
+}
+
+pub relation source_co_caretaker() kind normative_fact {
+ label en official "Ordering the multitude to common good belongs to it or its public caretaker.";
+}
+
+pub relation source_co_end_authority() kind normative_fact {
+ label en official "Ordering to an end belongs to the one whose proper end it is.";
+}
+
+pub relation source_ad1_participation() kind normative_fact {
+ label en official "A person can be a law to himself participatively by sharing in a regulator’s order.";
+}
+
+pub relation source_ad2_virtue_goal() kind normative_fact {
+ label en official "The legislator aims to lead people toward virtue.";
+}
+
+pub relation source_ad2_private_admonition() kind normative_fact {
+ label en official "A private person can advise, but rejected advice lacks coercive force.";
+}
+
+pub relation source_ad2_public_penalty() kind normative_fact {
+ label en official "The multitude or public caretaker has coercive power to impose penalties.";
+}
+
+pub relation source_ad3_household_part_city() kind normative_fact {
+ label en official "A household is part of the city, the complete community.";
+}
+
+pub relation source_ad3_household_statutes() kind normative_fact {
+ label en official "A household governor can set precepts, but they do not thereby have proper law character.";
+}
+
+pub relation arg1_natural_participation() kind normative_fact {
+ label en official "The objection moves from natural performance of law’s works and self-as-law to private lawmaking.";
+}
+
+pub relation arg2_virtue_inducement() kind normative_fact {
+ label en official "The objection moves from anyone encouraging virtue to anyone being a legislator.";
+}
+
+pub relation arg3_household_governor() kind normative_fact {
+ label en official "The objection analogizes the household governor to the city ruler.";
+}
+
+pub relation sedcontra_people_constitution() kind normative_fact {
+ label en official "The sed contra defines law as a people’s constitution enacted with the people.";
+}
+
+pub relation public_office_has_care_of_whole() kind empirical {
+ label en official "Explicit case input: public office has care of whole.";
+}
+
+pub relation public_coercive_power() kind empirical {
+ label en official "Explicit case input: public coercive power.";
+}
+
+pub relation private_admonition() kind empirical {
+ label en official "Explicit case input: private admonition.";
+}
+
+pub relation private_inclination_under_regulator() kind empirical {
+ label en official "Explicit case input: private inclination under regulator.";
+}
+
+pub relation not_used() kind empirical {
+ label en official "Explicit case input: not used.";
+}
+
+pub relation household_governor() kind empirical {
+ label en official "Explicit case input: household governor.";
+}
+
+pub relation household_precept() kind empirical {
+ label en official "Explicit case input: household precept.";
+}
+
+pub relation public_caretaker_of_whole() kind normative_fact {
+ label en official "Intermediate relation: public caretaker of whole.";
+}
+
+pub relation whole_multitude_common_good_route() kind normative_fact {
+ label en official "Common-good ordering route held by the whole multitude.";
+}
+
+pub relation public_caretaker_common_good_route() kind normative_fact {
+ label en official "Common-good ordering route held by a public caretaker of the whole.";
+}
+
+pub relation private_participates_in_received_order() kind normative_fact {
+ label en official "Intermediate relation: private participates in received order.";
+}
+
+pub relation private_admonition_only() kind normative_fact {
+ label en official "Intermediate relation: private admonition only.";
+}
+
+pub relation public_coercive_lawmaking_route() kind normative_fact {
+ label en official "Intermediate relation: public coercive lawmaking route.";
+}
+
+pub relation household_statute_local_only() kind normative_fact {
+ label en official "Intermediate relation: household statute local only.";
+}
+
+pub relation household_end_nested_in_city_good() kind normative_fact {
+ label en official "Intermediate relation: household end nested in city good.";
+}
+
+pub relation private_coercive_power() kind empirical {
+ label en official "Explicit case input: private coercive power.";
+}
+
+pub relation whole_multitude_orders_good() kind empirical {
+ label en official "Explicit case input: whole multitude orders good.";
+}
+
+@source(SUMMA_I_II_Q90_A3)
+rule PublicCaretaker() strict {
+ label en official "Source-annotated intermediate reconstruction: PublicCaretaker.";
+ when source_co_caretaker() and public_office_has_care_of_whole();
+ then public_caretaker_of_whole();
+}
+
+@source(SUMMA_I_II_Q90_A3)
+rule WholeMultitudeOrdersCommonGood() strict {
+ label en official "The whole multitude orders the community to its common good under the source's common-good principle.";
+ when source_co_common_good_scope() and whole_multitude_orders_good();
+ then whole_multitude_common_good_route();
+}
+
+@source(SUMMA_I_II_Q90_A3)
+rule PublicCaretakerOrdersCommonGood() strict {
+ label en official "A public caretaker orders the community to common good under the source's care-of-whole principle.";
+ when source_co_common_good_scope() and source_co_caretaker() and public_caretaker_of_whole();
+ then public_caretaker_common_good_route();
+}
+
+@source(SUMMA_I_II_Q90_A3)
+rule ParticipationReceived() strict {
+ label en official "Source-annotated intermediate reconstruction: ParticipationReceived.";
+ when source_ad1_participation() and private_inclination_under_regulator();
+ then private_participates_in_received_order();
+}
+
+@source(SUMMA_I_II_Q90_A3)
+rule PrivateAdvice() strict {
+ label en official "Source-annotated intermediate reconstruction: PrivateAdvice.";
+ when source_ad2_private_admonition() and private_admonition() and not private_coercive_power();
+ then private_admonition_only();
+}
+
+@source(SUMMA_I_II_Q90_A3)
+rule PublicCoercion() strict {
+ label en official "Source-annotated intermediate reconstruction: PublicCoercion.";
+ when source_ad2_virtue_goal() and source_ad2_public_penalty() and public_caretaker_of_whole() and public_coercive_power();
+ then public_coercive_lawmaking_route();
+}
+
+@source(SUMMA_I_II_Q90_A3)
+rule HouseholdLocal() strict {
+ label en official "Source-annotated intermediate reconstruction: HouseholdLocal.";
+ when source_ad3_household_statutes() and household_governor() and household_precept();
+ then household_statute_local_only();
+}
+
+@source(SUMMA_I_II_Q90_A3)
+rule HouseholdNested() strict {
+ label en official "Source-annotated intermediate reconstruction: HouseholdNested.";
+ when source_ad3_household_part_city() and household_statute_local_only();
+ then household_end_nested_in_city_good();
+}

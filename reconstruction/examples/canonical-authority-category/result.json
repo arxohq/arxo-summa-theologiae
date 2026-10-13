@@ -1,0 +1,450 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:689c114243fa4b2bc7c70b26b28435ed728204985d8efdba123cf390f1d7cfd7",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:2256956853715b8591071741262eda86c2346c677d698a34bf2e5760637f2cc5",
+    "decisionTime": "2026-10-13T00:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "2026-10-13T00:00:00Z",
+    "legalTime": "2026-10-13",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:a96caf407b22e189b430f386149087f22ad4cfd6d4946b7cf02ee0dbe479fcc8",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:0eb1ed8640a897e3d05134385ef9f9be21ec0f0b9ce58c315320c517ae1ba185",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:a96caf407b22e189b430f386149087f22ad4cfd6d4946b7cf02ee0dbe479fcc8",
+    "timezone": "UTC"
+  },
+  "positions": [],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h0e559ddb096d86d18f94a5efc7e4e7f6c3f9474cee0f692ad785d9dcffddaf6d"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "doctor-A"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "claim-2"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#authority_supports"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h0e559ddb096d86d18f94a5efc7e4e7f6c3f9474cee0f692ad785d9dcffddaf6d",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h1067df798bf32b6dc1d142831faad3e7be676d1fab219dab26356909b8019936"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "scripture-A"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "claim-1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#authority_supports"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h1067df798bf32b6dc1d142831faad3e7be676d1fab219dab26356909b8019936",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h116d831eb59cc2878769189aeda9373974c0445d92c3722b14c37de604a36d6f"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "claim-3"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#natural_reason_knows"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h116d831eb59cc2878769189aeda9373974c0445d92c3722b14c37de604a36d6f",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h2aba62fe427d949523e1cf777d0fd7eeb441ef8b7045035e8000c5c631e88ada"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "philosopher-A"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#philosopher_authority"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h2aba62fe427d949523e1cf777d0fd7eeb441ef8b7045035e8000c5c631e88ada",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h6374f95932913383ab82a65ffd4718ee74c7739418da2de8b2c18a7220111e7e"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "philosopher-A"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "claim-3"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#authority_supports"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h6374f95932913383ab82a65ffd4718ee74c7739418da2de8b2c18a7220111e7e",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "philosopher-A"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "claim-3"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#probable_authority_support"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:PhilosopherAuthorityIsProbable:a42e4a78512292baf176b3b17bf2d23e99f45a40950fc6f13cd8401d78a515dd",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h116d831eb59cc2878769189aeda9373974c0445d92c3722b14c37de604a36d6f",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h2aba62fe427d949523e1cf777d0fd7eeb441ef8b7045035e8000c5c631e88ada",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h6374f95932913383ab82a65ffd4718ee74c7739418da2de8b2c18a7220111e7e"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-q1-a8#PhilosopherAuthorityIsProbable",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "philosopher-A"
+          },
+          "v1": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "claim-3"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q1-a8#assert-hc4db41e8e75fdf522f28ced5037582daeba8b7b856d254efa523c127012d404d"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "scripture-A"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#canonical_authority"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-hc4db41e8e75fdf522f28ced5037582daeba8b7b856d254efa523c127012d404d",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q1-a8#assert-heabae62c0bba819164a6634c1fa6fd286b2e83a262a6d0a30941f49729a7b376"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "scripture-A"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#revelation_recipient"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-heabae62c0bba819164a6634c1fa6fd286b2e83a262a6d0a30941f49729a7b376",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "scripture-A"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "claim-1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#necessary_authority_support"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:CanonicalRevelationAuthorityIsNecessary:7247c6c1b5e386c252ddec6eab879db479b183b9d11b8d0143a45c990870bd1e",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h1067df798bf32b6dc1d142831faad3e7be676d1fab219dab26356909b8019936",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-hc4db41e8e75fdf522f28ced5037582daeba8b7b856d254efa523c127012d404d",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-heabae62c0bba819164a6634c1fa6fd286b2e83a262a6d0a30941f49729a7b376"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-q1-a8#CanonicalRevelationAuthorityIsNecessary",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "scripture-A"
+          },
+          "v1": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "claim-1"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q1-a8#assert-hff69edc088ab44eed30ad10daf65bdb50071b20e6f80701e4c1c7d1e020b7a34"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "doctor-A"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#church_doctor_authority"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-hff69edc088ab44eed30ad10daf65bdb50071b20e6f80701e4c1c7d1e020b7a34",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "doctor-A"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "claim-2"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#probable_authority_support"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:ChurchDoctorAuthorityIsProbable:50d40845f6ec8bb3670525b6734ff21aa4902d018e3fd2889abfd7ae84db3c1e",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-h0e559ddb096d86d18f94a5efc7e4e7f6c3f9474cee0f692ad785d9dcffddaf6d",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q1-a8#assert-hff69edc088ab44eed30ad10daf65bdb50071b20e6f80701e4c1c7d1e020b7a34"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-q1-a8#ChurchDoctorAuthorityIsProbable",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "doctor-A"
+          },
+          "v1": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "claim-2"
+          }
+        }
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "literal": {
+            "args": [
+              {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Text"
+                },
+                "value": "scripture-A"
+              },
+              {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Text"
+                },
+                "value": "claim-1"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#necessary_authority_support"
+          },
+          "truthStatus": "TRUE_ONLY"
+        },
+        "evidence": [],
+        "id": "urn:proof:query:i-q1-a8#test/canonical%20revelation%2C%20church%20doctor%2C%20and%20philosopher%20support%20remain%20distinct/query/0",
+        "kind": "query_evaluation",
+        "premises": [
+          "urn:proof:apply:CanonicalRevelationAuthorityIsNecessary:7247c6c1b5e386c252ddec6eab879db479b183b9d11b8d0143a45c990870bd1e"
+        ],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:446eed866e448d26ac53c989947bf570da5cb4fb2e782932c1f53c7536c23dad",
+    "roots": [
+      "urn:proof:query:i-q1-a8#test/canonical%20revelation%2C%20church%20doctor%2C%20and%20philosopher%20support%20remain%20distinct/query/0"
+    ]
+  },
+  "resultHash": "sha256:87340acbd36fde4a2984e3306058ab432e17e63d24d65c26b729e1d26581e794",
+  "results": [
+    {
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:i-q1-a8#test/canonical%20revelation%2C%20church%20doctor%2C%20and%20philosopher%20support%20remain%20distinct/query/0",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatusSupports": [],
+      "proof": "urn:proof:query:i-q1-a8#test/canonical%20revelation%2C%20church%20doctor%2C%20and%20philosopher%20support%20remain%20distinct/query/0",
+      "query": "urn:la:aquinas:reconstruction:i-q1-a8#test/canonical%20revelation%2C%20church%20doctor%2C%20and%20philosopher%20support%20remain%20distinct/query/0",
+      "resultKind": "PROPOSITION",
+      "sourceAnchors": [],
+      "target": "urn:la:aquinas:reconstruction:i-q1-a8#necessary_authority_support",
+      "truthStatus": "TRUE_ONLY"
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

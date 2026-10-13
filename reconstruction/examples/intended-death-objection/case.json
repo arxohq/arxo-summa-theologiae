@@ -1,0 +1,80 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:02f6e407d7c76931fce01bdafdee0ee92fe82e5013500db006e3557984e55846",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    },
+    {
+      "contentHash": "sha256:f5b968ecbe235261a62014123198051f080c1926e5d10997a520d3d33ad39262",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-occurs",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    },
+    {
+      "contentHash": "sha256:627edd6582a9ad493cb08a077abf3414c8dd0b942d55b9e269e402b92a17f09c",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-intended-as-means",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death_intended_as_means_of_self_preservation"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-10-13T12:00:00Z",
+    "knowledgeTime": "2026-10-13T12:00:00Z",
+    "legalTime": "2026-10-13",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

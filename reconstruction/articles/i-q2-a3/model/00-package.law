@@ -1,0 +1,98 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_q2_a3 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-q2-a3";
+
+source SummaSTI_Q2_A3 {
+    kind theological_primary_text;
+    authority "Thomas Aquinas";
+    number "Summa Theologiae I q. 2 a. 3; https://www.corpusthomisticum.org/sth1002.html";
+}
+
+// Finite witness vocabulary. Philosophical principles are stipulated inputs;
+// no relation here asserts that God exists or that all regress terminates.
+relation in_potency(subject: Text, aspect: Text, state: Text) kind empirical;
+relation in_act(agent: Text, aspect: Text, state: Text) kind empirical;
+relation state_before(subject: Text, aspect: Text, state: Text) kind empirical;
+relation actualizes(agent: Text, subject: Text, aspect: Text, from_state: Text, to_state: Text) kind empirical;
+relation efficient_cause(cause: Text, effect: Text) kind empirical;
+relation designated_chain_start(root: Text, aspect: Text) kind empirical;
+relation source_order_irreflexive(subject: Text) kind normative_auxiliary;
+relation prior_to(cause: Text, effect: Text) kind derived;
+
+relation finite_actualization(subject: Text, aspect: Text, agent: Text, from_state: Text, to_state: Text) kind derived;
+relation moved_by_another(subject: Text, aspect: Text, agent: Text) kind derived;
+relation finite_cause_edge(cause: Text, effect: Text) kind derived;
+relation finite_two_link_cause_path(cause: Text, effect: Text) kind derived;
+relation finite_path_from_designated_start(root: Text, effect: Text) kind derived;
+relation finite_regular_pattern_toward_end(body: Text, operation: Text, outcome: Text) kind derived;
+
+relation observed_action(body: Text, operation: Text, outcome: Text, occurrence: Text) kind empirical;
+relation distinct_occurrences(body: Text, occurrence_a: Text, occurrence_b: Text) kind empirical;
+relation outcome_is_best(outcome: Text) kind empirical;
+
+// Protected conclusions are declared for the audit guard. There are no facts
+// or rules that derive these predicates.
+relation god_exists(target: Text) kind derived;
+relation first_mover(target: Text) kind derived;
+relation first_efficient_cause(target: Text) kind derived;
+relation per_se_necessary_being(target: Text) kind derived;
+relation maximum_perfection(target: Text) kind derived;
+relation intelligent_director(target: Text) kind derived;
+
+@source(SummaSTI_Q2_A3)
+rule ActualizationWitness(agent: Text, subject: Text, aspect: Text, from_state: Text, to_state: Text) strict {
+    when state_before(subject, aspect, from_state);
+    when in_potency(subject, aspect, to_state);
+    when in_act(agent, aspect, to_state);
+    when actualizes(agent, subject, aspect, from_state, to_state);
+    then finite_actualization(subject, aspect, agent, from_state, to_state);
+}
+
+@source(SummaSTI_Q2_A3)
+rule MovedByOtherInSameAspect(agent: Text, subject: Text, aspect: Text, from_state: Text, to_state: Text) strict {
+    when finite_actualization(subject, aspect, agent, from_state, to_state);
+    when agent != subject;
+    then moved_by_another(subject, aspect, agent);
+}
+
+@source(SummaSTI_Q2_A3)
+rule EfficientCauseImpliesPriorOrder(cause: Text, effect: Text) strict {
+    when efficient_cause(cause, effect);
+    then prior_to(cause, effect);
+}
+
+@source(SummaSTI_Q2_A3)
+rule SourceOrderIrreflexivity(subject: Text) strict {
+    when source_order_irreflexive(subject);
+    then not prior_to(subject, subject);
+}
+
+@source(SummaSTI_Q2_A3)
+rule FiniteCauseEdge(cause: Text, effect: Text) strict {
+    when efficient_cause(cause, effect);
+    then finite_cause_edge(cause, effect);
+}
+
+@source(SummaSTI_Q2_A3)
+rule FiniteTwoLinkCausePath(cause: Text, middle: Text, effect: Text) strict {
+    when finite_cause_edge(cause, middle);
+    when finite_cause_edge(middle, effect);
+    then finite_two_link_cause_path(cause, effect);
+}
+
+@source(SummaSTI_Q2_A3)
+rule FinitePathFromDesignatedChainStart(root: Text, middle: Text, effect: Text, aspect: Text) strict {
+    when designated_chain_start(root, aspect);
+    when finite_cause_edge(root, middle);
+    when finite_cause_edge(middle, effect);
+    then finite_path_from_designated_start(root, effect);
+}
+
+@source(SummaSTI_Q2_A3)
+rule RepeatedObservedPatternTowardBestOutcome(body: Text, operation: Text, outcome: Text, occurrence_a: Text, occurrence_b: Text) strict {
+    when observed_action(body, operation, outcome, occurrence_a);
+    when observed_action(body, operation, outcome, occurrence_b);
+    when distinct_occurrences(body, occurrence_a, occurrence_b);
+    when outcome_is_best(outcome);
+    then finite_regular_pattern_toward_end(body, operation, outcome);
+}

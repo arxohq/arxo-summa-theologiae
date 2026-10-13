@@ -1,0 +1,82 @@
+{
+  "format": "arxo.summa-reconstruction-source-pin/0.1",
+  "sourceReaderRepository": "https://github.com/arxohq/arxo-summa-theologiae",
+  "sourceReaderCommit": "bb392b0a091295239f40e2612f97b7291ca54939",
+  "inputs": [
+    {
+      "articleId": "ii-ii-q64-a7",
+      "sourceFile": "packages/ii-ii-iustitia/sources/summa-theologiae-ii-ii-iustitia/q64.la.txt",
+      "bytes": 32283,
+      "sha256": "affae831a11f177c73fb9549f6a0f9e5d5fd65beafd9891d4c5e9cb0bdda8bcf",
+      "excerptSha256": "2eb925551ac08aa2b00123752c08018ebe099d2f44ea8adfadd5265f7be632ff"
+    },
+    {
+      "articleId": "i-q1-a8",
+      "sourceFile": "packages/i-sacra-doctrina/sources/summa-theologiae-i-sacra-doctrina/q1.la.txt",
+      "bytes": 33974,
+      "sha256": "bc7132a2af64725d4466fbebc8b3f35fc3e6509ba2d869ac4dd1f57dc9245f5e",
+      "excerptSha256": "7fd320daecafe01c0076f272d96b1ff63ffc720f1e0564c6012c318fb056e401"
+    },
+    {
+      "articleId": "i-ii-q90-a1",
+      "sourceFile": "packages/law/sources/summa-theologiae-law/q90-92.la.txt",
+      "bytes": 44839,
+      "sha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+      "excerptSha256": "d0576aaa1a523f6dbd1e578731e97584aec0f60151d6242f8750a3557073e18b"
+    },
+    {
+      "articleId": "i-ii-q90-a2",
+      "sourceFile": "packages/law/sources/summa-theologiae-law/q90-92.la.txt",
+      "bytes": 44839,
+      "sha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+      "excerptSha256": "0452a4117a55e00695a7f6ce8b54f67d37361bebea087f6bfa063d4b66fc7ce0"
+    },
+    {
+      "articleId": "i-ii-q90-a3",
+      "sourceFile": "packages/law/sources/summa-theologiae-law/q90-92.la.txt",
+      "bytes": 44839,
+      "sha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+      "excerptSha256": "3e6abc86ac2150699be4b99f414f370aa227dcf42ac207e3cae01348c2625290"
+    },
+    {
+      "articleId": "i-ii-q90-a4",
+      "sourceFile": "packages/law/sources/summa-theologiae-law/q90-92.la.txt",
+      "bytes": 44839,
+      "sha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+      "excerptSha256": "98ca5cd483cb6019569e271dfbcb92d8b6c7a2245be9f90c6b0f162c3e1addab"
+    },
+    {
+      "articleId": "i-q2-a3",
+      "sourceFile": "packages/i-de-deo/sources/summa-theologiae-i-de-deo/q2.la.txt",
+      "bytes": 15076,
+      "sha256": "5b163cbe7649d14e0d50cc1e041f49399cdfc78bac9751f4bb07ee92b9e1b6a0",
+      "excerptSha256": "8591ab92a5e6684cff10af43c4ed99371b3c63bf2f41b3ea680531d77de2782b"
+    }
+  ],
+  "toolchain": {
+    "cliNpm": "@arxo/cli@0.2.4",
+    "binarySha256": "f92d66559467a23091c58e4d7cdf66666363e713c9b1b3b183e31ceff3c54433",
+    "version": {
+      "binaryHash": "sha256:f92d66559467a23091c58e4d7cdf66666363e713c9b1b3b183e31ceff3c54433",
+      "lawql": {
+        "language": "lawql/1",
+        "queryResult": "0.1"
+      },
+      "semantics": [
+        "law.core/0.2"
+      ],
+      "std": [
+        {
+          "language": "0.2",
+          "std": "0.2.0"
+        }
+      ],
+      "tool": "0.2.4"
+    },
+    "corpusRuntimeLockset": "unpublished; no installed runtime",
+    "corpusLocksetStatus": "UNPINNED_FROM_CORPUS_LOCKSET",
+    "executionSelection": "Published native darwin-arm64 CLI directly pinned by raw SHA-256, independently matching law version binaryHash; npm launcher SHA is recorded separately; no Cargo fallback.",
+    "launcherSha256": "54f2af8393c06f4f859fbd063d0067a7795f594fe62456259c16f647a6028bfc",
+    "platformPackage": "@arxo/cli-darwin-arm64@0.2.4"
+  }
+}

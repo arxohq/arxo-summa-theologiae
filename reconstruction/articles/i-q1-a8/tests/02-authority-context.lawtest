@@ -1,0 +1,76 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_q1_a8 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-q1-a8";
+
+test "canonical revelation, church doctor, and philosopher support remain distinct" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert canonical_authority("scripture-A") { origin case_input; }
+        assert revelation_recipient("scripture-A") { origin case_input; }
+        assert authority_supports("scripture-A", "claim-1") { origin case_input; }
+        assert church_doctor_authority("doctor-A") { origin case_input; }
+        assert authority_supports("doctor-A", "claim-2") { origin case_input; }
+        assert philosopher_authority("philosopher-A") { origin case_input; }
+        assert natural_reason_knows("claim-3") { origin case_input; }
+        assert authority_supports("philosopher-A", "claim-3") { origin case_input; }
+    }
+    evaluate truth(necessary_authority_support("scripture-A", "claim-1"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(probable_authority_support("doctor-A", "claim-2"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(probable_authority_support("philosopher-A", "claim-3"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(necessary_authority_support("doctor-A", "claim-2"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(necessary_authority_support("philosopher-A", "claim-3"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+test "natural reason manifests another matter and is scoped away from proving a faith article" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert natural_reason_manifests("reasoner-A", "matter-X") { origin case_input; }
+        assert human_reason_used_for("reasoner-A", "article-X") { origin case_input; }
+        assert faith_article("article-X") { origin case_input; }
+    }
+    evaluate truth(natural_reason_manifests("reasoner-A", "matter-X"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(human_reason_proof_excluded("reasoner-A", "article-X"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(proves_faith_article("reasoner-A", "article-X"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+test "removing revelation qualification removes necessary authority support" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert canonical_authority("scripture-B") { origin case_input; }
+        assert authority_supports("scripture-B", "claim-B") { origin case_input; }
+    }
+    evaluate truth(necessary_authority_support("scripture-B", "claim-B"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+
+test "philosopher authority without a natural-reason basis has no derived support" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert philosopher_authority("philosopher-B") { origin case_input; }
+        assert authority_supports("philosopher-B", "claim-B") { origin case_input; }
+    }
+    evaluate truth(probable_authority_support("philosopher-B", "claim-B"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(necessary_authority_support("philosopher-B", "claim-B"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}

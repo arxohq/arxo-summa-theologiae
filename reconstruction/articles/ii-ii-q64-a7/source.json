@@ -1,0 +1,107 @@
+{
+  "articleId": "ii-ii-q64-a7",
+  "part": "II-II",
+  "question": 64,
+  "article": 7,
+  "sourceFile": "packages/ii-ii-iustitia/sources/summa-theologiae-ii-ii-iustitia/q64.la.txt",
+  "sourceFileSha256": "affae831a11f177c73fb9549f6a0f9e5d5fd65beafd9891d4c5e9cb0bdda8bcf",
+  "sourceUrl": "https://www.corpusthomisticum.org/sth3064.html",
+  "sections": [
+    {
+      "id": "arg. 1",
+      "heading": "@@ II-II q. 64 a. 7 arg. 1",
+      "lineStart": 160,
+      "text": "@@ II-II q. 64 a. 7 arg. 1\nAd septimum sic proceditur. Videtur quod nulli liceat occidere aliquem se defendendo. Dicit enim Augustinus, ad Publicolam, de occidendis hominibus ne ab eis quisquam occidatur, non mihi placet consilium, nisi forte sit miles, aut publica functione teneatur, ut non pro se hoc faciat sed pro aliis, accepta legitima potestate, si eius congruat personae. Sed ille qui se defendendo occidit aliquem, ad hoc eum occidit ne ipse ab eo occidatur. Ergo hoc videtur esse illicitum.\n\n",
+      "lineEnd": 162,
+      "sha256": "2416ff784d83cc39210592d61423e6aa966770df213d39844d2416ff9727d012"
+    },
+    {
+      "id": "arg. 2",
+      "heading": "@@ II-II q. 64 a. 7 arg. 2",
+      "lineStart": 163,
+      "text": "@@ II-II q. 64 a. 7 arg. 2\nPraeterea, in I de Lib. Arb. dicitur, quomodo apud divinam providentiam a peccato liberi sunt qui pro his rebus quas contemni oportet, humana caede polluti sunt? Eas autem res dicit esse contemnendas quas homines inviti amittere possunt, ut ex praemissis patet. Horum autem est vita corporalis. Ergo pro conservanda vita corporali nulli licitum est hominem occidere.\n\n",
+      "lineEnd": 165,
+      "sha256": "566f8af4ebd85a89f04b6a60f8e627ba1eeb0eec1014daeb05f5b16404c865b2"
+    },
+    {
+      "id": "arg. 3",
+      "heading": "@@ II-II q. 64 a. 7 arg. 3",
+      "lineStart": 166,
+      "text": "@@ II-II q. 64 a. 7 arg. 3\nPraeterea, Nicolaus Papa dicit, et habetur in decretis, dist. l, de clericis pro quibus consuluisti, scilicet qui se defendendo Paganum occiderunt, si postea per poenitentiam possent ad pristinum statum redire aut ad altiorem ascendere, scito nos nullam occasionem dare, nec ullam tribuere licentiam eis quemlibet hominem quolibet modo occidendi. Sed ad praecepta moralia servanda tenentur communiter clerici et laici. Ergo etiam laicis non est licitum occidere aliquem se defendendo.\n\n",
+      "lineEnd": 168,
+      "sha256": "a78f2ce21bb12d8ed1a97b120517f77f491b09cdfc93bfa2f62004bd07e22a1a"
+    },
+    {
+      "id": "arg. 4",
+      "heading": "@@ II-II q. 64 a. 7 arg. 4",
+      "lineStart": 169,
+      "text": "@@ II-II q. 64 a. 7 arg. 4\nPraeterea, homicidium est gravius peccatum quam simplex fornicatio vel adulterium. Sed nulli licet committere simplicem fornicationem vel adulterium, vel quodcumque aliud peccatum mortale, pro conservatione propriae vitae, quia vita spiritualis praeferenda est corporali. Ergo nulli licet, defendendo seipsum, alium occidere ut propriam vitam conservet.\n\n",
+      "lineEnd": 171,
+      "sha256": "24b505be33e2a2e7080c0d1f92a3dc03cb57c9b13bdbb32cd0f665b058faeed1"
+    },
+    {
+      "id": "arg. 5",
+      "heading": "@@ II-II q. 64 a. 7 arg. 5",
+      "lineStart": 172,
+      "text": "@@ II-II q. 64 a. 7 arg. 5\nPraeterea, si arbor est mala, et fructus, ut dicitur Matth. VII. Sed ipsa defensio sui videtur esse illicita, secundum illud Rom. XII, non vos defendentes, carissimi. Ergo et occisio hominis exinde procedens est illicita.\n\n",
+      "lineEnd": 174,
+      "sha256": "eb7477c75d81040fa4ba32005dceb6989d7aabd32f2fbdd3050a83cbd7b9030e"
+    },
+    {
+      "id": "s. c.",
+      "heading": "@@ II-II q. 64 a. 7 s. c.",
+      "lineStart": 175,
+      "text": "@@ II-II q. 64 a. 7 s. c.\nSed contra est quod Exod. XXII dicitur, si effringens fur domum sive suffodiens fuerit inventus, et, accepto vulnere, mortuus fuerit, percussor non erit reus sanguinis. Sed multo magis licitum est defendere propriam vitam quam propriam domum. Ergo etiam si aliquis occidat aliquem pro defensione vitae suae, non erit reus homicidii.\n\n",
+      "lineEnd": 177,
+      "sha256": "c27967c92cf83b4e9881fd23c973edda26f427a2f3c727a5421c5d442f4b2b1d"
+    },
+    {
+      "id": "co.",
+      "heading": "@@ II-II q. 64 a. 7 co.",
+      "lineStart": 178,
+      "text": "@@ II-II q. 64 a. 7 co.\nRespondeo dicendum quod nihil prohibet unius actus esse duos effectus, quorum alter solum sit in intentione, alius vero sit praeter intentionem. Morales autem actus recipiunt speciem secundum id quod intenditur, non autem ab eo quod est praeter intentionem, cum sit per accidens, ut ex supradictis patet. Ex actu igitur alicuius seipsum defendentis duplex effectus sequi potest, unus quidem conservatio propriae vitae; alius autem occisio invadentis. Actus igitur huiusmodi ex hoc quod intenditur conservatio propriae vitae, non habet rationem illiciti, cum hoc sit cuilibet naturale quod se conservet in esse quantum potest. Potest tamen aliquis actus ex bona intentione proveniens illicitus reddi si non sit proportionatus fini. Et ideo si aliquis ad defendendum propriam vitam utatur maiori violentia quam oporteat, erit illicitum. Si vero moderate violentiam repellat, erit licita defensio, nam secundum iura, vim vi repellere licet cum moderamine inculpatae tutelae. Nec est necessarium ad salutem ut homo actum moderatae tutelae praetermittat ad evitandum occisionem alterius, quia plus tenetur homo vitae suae providere quam vitae alienae. Sed quia occidere hominem non licet nisi publica auctoritate propter bonum commune, ut ex supradictis patet; illicitum est quod homo intendat occidere hominem ut seipsum defendat, nisi ei qui habet publicam auctoritatem, qui, intendens hominem occidere ad sui defensionem, refert hoc ad publicum bonum, ut patet in milite pugnante contra hostes, et in ministro iudicis pugnante contra latrones. Quamvis et isti etiam peccent si privata libidine moveantur.\n\n",
+      "lineEnd": 180,
+      "sha256": "47dc93f801647df2c0e72cc6a79075cf3cdc0c6d9ed4cc293865663eac16e282"
+    },
+    {
+      "id": "ad 1",
+      "heading": "@@ II-II q. 64 a. 7 ad 1",
+      "lineStart": 181,
+      "text": "@@ II-II q. 64 a. 7 ad 1\nAd primum ergo dicendum quod auctoritas Augustini intelligenda est in eo casu quo quis intendit occidere hominem ut seipsum a morte liberet.\n\n",
+      "lineEnd": 183,
+      "sha256": "1a1e92a1ea6f7b634bea74297224d4fa231b77620143f7630f23a7e0cbcc09ee"
+    },
+    {
+      "id": "ad 2",
+      "heading": "@@ II-II q. 64 a. 7 ad 2",
+      "lineStart": 184,
+      "text": "@@ II-II q. 64 a. 7 ad 2\nIn quo etiam casu intelligitur auctoritas inducta ex libro de libero arbitrio. Unde signanter dicitur, pro his rebus, in quo designatur intentio. Et per hoc patet responsio ad secundum.\n\n",
+      "lineEnd": 186,
+      "sha256": "4d330fbcbceb25267bda21e2bd21804ba3208cfda8cc4efa358eb0dfd0c461cb"
+    },
+    {
+      "id": "ad 3",
+      "heading": "@@ II-II q. 64 a. 7 ad 3",
+      "lineStart": 187,
+      "text": "@@ II-II q. 64 a. 7 ad 3\nAd tertium dicendum quod irregularitas consequitur actum homicidii etiam si sit absque peccato, ut patet in iudice qui iuste aliquem condemnat ad mortem. Et propter hoc clericus, etiam si se defendendo interficiat aliquem, irregularis est, quamvis non intendat occidere, sed seipsum defendere.\n\n",
+      "lineEnd": 189,
+      "sha256": "97d6aa71cb1a4f08a6eb11884c0725b24af3002acee18b2a0d67eb40180f1bbe"
+    },
+    {
+      "id": "ad 4",
+      "heading": "@@ II-II q. 64 a. 7 ad 4",
+      "lineStart": 190,
+      "text": "@@ II-II q. 64 a. 7 ad 4\nAd quartum dicendum quod actus fornicationis vel adulterii non ordinatur ad conservationem propriae vitae ex necessitate, sicut actus ex quo quandoque sequitur homicidium.\n\n",
+      "lineEnd": 192,
+      "sha256": "3eeda7bb2345316eb2457a83c6accea70a120ef81cd54b1e9ee32ea523c8b0c6"
+    },
+    {
+      "id": "ad 5",
+      "heading": "@@ II-II q. 64 a. 7 ad 5",
+      "lineStart": 193,
+      "text": "@@ II-II q. 64 a. 7 ad 5\nAd quintum dicendum quod ibi prohibetur defensio quae est cum livore vindictae. Unde Glossa dicit, non vos defendentes, idest, non sitis referientes adversarios.\n\n",
+      "lineEnd": 195,
+      "sha256": "d58e0359be6c3d17c08c5a088fa80d1ddc8b1295acbb6e7fbea8c252fc4248b0"
+    }
+  ]
+}

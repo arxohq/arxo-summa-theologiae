@@ -1,0 +1,75 @@
+{
+  "articleId": "i-ii-q90-a1",
+  "part": "I-II",
+  "question": 90,
+  "article": 1,
+  "sourceFile": "packages/law/sources/summa-theologiae-law/q90-92.la.txt",
+  "sourceFileSha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+  "sourceUrl": "https://www.corpusthomisticum.org/sth2090.html",
+  "sections": [
+    {
+      "id": "arg. 1",
+      "heading": "@@ I-II q. 90 a. 1 arg. 1",
+      "lineStart": 4,
+      "text": "@@ I-II q. 90 a. 1 arg. 1\nAd primum sic proceditur. Videtur quod lex non sit aliquid rationis. Dicit enim apostolus, ad Rom. VII, video aliam legem in membris meis, et cetera. Sed nihil quod est rationis, est in membris, quia ratio non utitur organo corporali. Ergo lex non est aliquid rationis.\n\n",
+      "lineEnd": 6,
+      "sha256": "d4f3299c4c74f78491dea6e2094aa909d3735b04520a153896e46b1ac3b2b1d5"
+    },
+    {
+      "id": "arg. 2",
+      "heading": "@@ I-II q. 90 a. 1 arg. 2",
+      "lineStart": 7,
+      "text": "@@ I-II q. 90 a. 1 arg. 2\nPraeterea, in ratione non est nisi potentia, habitus et actus. Sed lex non est ipsa potentia rationis. Similiter etiam non est aliquis habitus rationis, quia habitus rationis sunt virtutes intellectuales, de quibus supra dictum est. Nec etiam est actus rationis, quia cessante rationis actu, lex cessaret, puta in dormientibus. Ergo lex non est aliquid rationis.\n\n",
+      "lineEnd": 9,
+      "sha256": "1e6f49f38c23f021198fd9b8700afa2d34583243b977d13d0c943643df6301f9"
+    },
+    {
+      "id": "arg. 3",
+      "heading": "@@ I-II q. 90 a. 1 arg. 3",
+      "lineStart": 10,
+      "text": "@@ I-II q. 90 a. 1 arg. 3\nPraeterea, lex movet eos qui subiiciuntur legi, ad recte agendum. Sed movere ad agendum proprie pertinet ad voluntatem, ut patet ex praemissis. Ergo lex non pertinet ad rationem, sed magis ad voluntatem, secundum quod etiam iurisperitus dicit, quod placuit principi, legis habet vigorem.\n\n",
+      "lineEnd": 12,
+      "sha256": "d440e001ac4a91401805a6c78cb9051f302ec6d17cff9341a1b120ef81b41573"
+    },
+    {
+      "id": "s. c.",
+      "heading": "@@ I-II q. 90 a. 1 s. c.",
+      "lineStart": 13,
+      "text": "@@ I-II q. 90 a. 1 s. c.\nSed contra est quod ad legem pertinet praecipere et prohibere. Sed imperare est rationis, ut supra habitum est. Ergo lex est aliquid rationis.\n\n",
+      "lineEnd": 15,
+      "sha256": "4fd566e122eea4b48543423909d7c6f1f70c8492c5cce27ebb3e6594f5a8c1ee"
+    },
+    {
+      "id": "co.",
+      "heading": "@@ I-II q. 90 a. 1 co.",
+      "lineStart": 16,
+      "text": "@@ I-II q. 90 a. 1 co.\nRespondeo dicendum quod lex quaedam regula est et mensura actuum, secundum quam inducitur aliquis ad agendum, vel ab agendo retrahitur, dicitur enim lex a ligando, quia obligat ad agendum. Regula autem et mensura humanorum actuum est ratio, quae est primum principium actuum humanorum, ut ex praedictis patet, rationis enim est ordinare ad finem, qui est primum principium in agendis, secundum philosophum. In unoquoque autem genere id quod est principium, est mensura et regula illius generis, sicut unitas in genere numeri, et motus primus in genere motuum. Unde relinquitur quod lex sit aliquid pertinens ad rationem.\n\n",
+      "lineEnd": 18,
+      "sha256": "5d73bccc3973646a62c02da6d975b50473f899e5103ea71925cba5137a9aaa99"
+    },
+    {
+      "id": "ad 1",
+      "heading": "@@ I-II q. 90 a. 1 ad 1",
+      "lineStart": 19,
+      "text": "@@ I-II q. 90 a. 1 ad 1\nAd primum ergo dicendum quod, cum lex sit regula quaedam et mensura, dicitur dupliciter esse in aliquo. Uno modo, sicut in mensurante et regulante. Et quia hoc est proprium rationis, ideo per hunc modum lex est in ratione sola. Alio modo, sicut in regulato et mensurato. Et sic lex est in omnibus quae inclinantur in aliquid ex aliqua lege, ita quod quaelibet inclinatio proveniens ex aliqua lege, potest dici lex, non essentialiter, sed quasi participative. Et hoc modo inclinatio ipsa membrorum ad concupiscendum lex membrorum vocatur.\n\n",
+      "lineEnd": 21,
+      "sha256": "5447024cf6a85e2bb9a83c4cb1d6b345fe8032044ba44af371fcc72e8b96254f"
+    },
+    {
+      "id": "ad 2",
+      "heading": "@@ I-II q. 90 a. 1 ad 2",
+      "lineStart": 22,
+      "text": "@@ I-II q. 90 a. 1 ad 2\nAd secundum dicendum quod, sicut in actibus exterioribus est considerare operationem et operatum, puta aedificationem et aedificatum; ita in operibus rationis est considerare ipsum actum rationis, qui est intelligere et ratiocinari, et aliquid per huiusmodi actum constitutum. Quod quidem in speculativa ratione primo quidem est definitio; secundo, enunciatio; tertio vero, syllogismus vel argumentatio. Et quia ratio etiam practica utitur quodam syllogismo in operabilibus, ut supra habitum est, secundum quod philosophus docet in VII Ethic.; ideo est invenire aliquid in ratione practica quod ita se habeat ad operationes, sicut se habet propositio in ratione speculativa ad conclusiones. Et huiusmodi propositiones universales rationis practicae ordinatae ad actiones, habent rationem legis. Quae quidem propositiones aliquando actualiter considerantur, aliquando vero habitualiter a ratione tenentur.\n\n",
+      "lineEnd": 24,
+      "sha256": "b719716ae45d9102d70bc85dacf765dc694570a90d8aefdc0a84e56844cd9e7c"
+    },
+    {
+      "id": "ad 3",
+      "heading": "@@ I-II q. 90 a. 1 ad 3",
+      "lineStart": 25,
+      "text": "@@ I-II q. 90 a. 1 ad 3\nAd tertium dicendum quod ratio habet vim movendi a voluntate, ut supra dictum est, ex hoc enim quod aliquis vult finem, ratio imperat de his quae sunt ad finem. Sed voluntas de his quae imperantur, ad hoc quod legis rationem habeat, oportet quod sit aliqua ratione regulata. Et hoc modo intelligitur quod voluntas principis habet vigorem legis, alioquin voluntas principis magis esset iniquitas quam lex.\n\n",
+      "lineEnd": 27,
+      "sha256": "60f697ee6099ca41fa9623607a909e188c10046ebf3d397f17dd986ef70b526f"
+    }
+  ]
+}

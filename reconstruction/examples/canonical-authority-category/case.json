@@ -1,0 +1,208 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:2e3fbf2ebd8ea7e02b7c506baf3d4386f6c12146826f63dede36958376afddf3",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q1-a8#assert-hc4db41e8e75fdf522f28ced5037582daeba8b7b856d254efa523c127012d404d",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "scripture-A"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#canonical_authority"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q1-a8"
+    },
+    {
+      "contentHash": "sha256:d1c82fc8d5a0741ddf12e5557e209fad5307358bfe39f4ce1cd3303899b2b502",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q1-a8#assert-heabae62c0bba819164a6634c1fa6fd286b2e83a262a6d0a30941f49729a7b376",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "scripture-A"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#revelation_recipient"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q1-a8"
+    },
+    {
+      "contentHash": "sha256:72ac288c9bcbed3b1c0d449c81b7439aed0989cf1afb781bfc0944e8d6ef277b",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h1067df798bf32b6dc1d142831faad3e7be676d1fab219dab26356909b8019936",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "scripture-A"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "claim-1"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#authority_supports"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q1-a8"
+    },
+    {
+      "contentHash": "sha256:19def1999cb6645fa25ee4efd79107a67bf174c1e0cda4e533a2de826d49eee4",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q1-a8#assert-hff69edc088ab44eed30ad10daf65bdb50071b20e6f80701e4c1c7d1e020b7a34",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "doctor-A"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#church_doctor_authority"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q1-a8"
+    },
+    {
+      "contentHash": "sha256:ef3af6dcdda3a30678429538226f6de596d4c63d95de6f55b6af0a9938f811c1",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h0e559ddb096d86d18f94a5efc7e4e7f6c3f9474cee0f692ad785d9dcffddaf6d",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "doctor-A"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "claim-2"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#authority_supports"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q1-a8"
+    },
+    {
+      "contentHash": "sha256:ad29674cd6d464bf7d7bb7305064e7d22c5ad7fe01721b5ed4804768adea8d1a",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h2aba62fe427d949523e1cf777d0fd7eeb441ef8b7045035e8000c5c631e88ada",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "philosopher-A"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#philosopher_authority"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q1-a8"
+    },
+    {
+      "contentHash": "sha256:75404f9332e92a49175121f176abf0db52a6b0750a3863673ed9c56777946d45",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h116d831eb59cc2878769189aeda9373974c0445d92c3722b14c37de604a36d6f",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "claim-3"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#natural_reason_knows"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q1-a8"
+    },
+    {
+      "contentHash": "sha256:902a61338a277a4381943c6290d71fed21f55d394573f761e16bf9dee6dc7c46",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q1-a8#assert-h6374f95932913383ab82a65ffd4718ee74c7739418da2de8b2c18a7220111e7e",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "philosopher-A"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "claim-3"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#authority_supports"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q1-a8"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-10-13T00:00:00Z",
+    "knowledgeTime": "2026-10-13T00:00:00Z",
+    "legalTime": "2026-10-13",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

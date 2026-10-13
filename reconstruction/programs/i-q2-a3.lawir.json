@@ -1,0 +1,1499 @@
+{
+  "artifactHash": "sha256:2c3311dd0e45e6b3db02c86a442de3686019cdca502720924539a6ea2570a432",
+  "features": [
+    "core-executable"
+  ],
+  "imports": [],
+  "metadata": {},
+  "nodes": [
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-q2-a3#SummaSTI_Q2_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v2"
+                },
+                {
+                  "kind": "var",
+                  "var": "v3"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#state_before"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v2"
+                },
+                {
+                  "kind": "var",
+                  "var": "v4"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#in_potency"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v0"
+                },
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v2"
+                },
+                {
+                  "kind": "var",
+                  "var": "v3"
+                },
+                {
+                  "kind": "var",
+                  "var": "v4"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#actualizes"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v0"
+                },
+                {
+                  "kind": "var",
+                  "var": "v2"
+                },
+                {
+                  "kind": "var",
+                  "var": "v4"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#in_act"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:7ffc89229bd119888587a60b581633aee47a810bfe3834105e6abb8379024e64",
+      "head": {
+        "args": [
+          {
+            "kind": "var",
+            "var": "v1"
+          },
+          {
+            "kind": "var",
+            "var": "v2"
+          },
+          {
+            "kind": "var",
+            "var": "v0"
+          },
+          {
+            "kind": "var",
+            "var": "v3"
+          },
+          {
+            "kind": "var",
+            "var": "v4"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#ActualizationWitness",
+      "interpretations": [],
+      "kind": "rule",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": [
+        {
+          "id": "v0",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v1",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v2",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v3",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v4",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ]
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-q2-a3#SummaSTI_Q2_A3"
+      ],
+      "body": {
+        "formula": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#efficient_cause"
+        },
+        "kind": "status",
+        "status": "established"
+      },
+      "contentHash": "sha256:220a679ce2b7c8bbbb0a0a6cd77dae181fd0c06bee654623d8c927d55213f049",
+      "head": {
+        "args": [
+          {
+            "kind": "var",
+            "var": "v0"
+          },
+          {
+            "kind": "var",
+            "var": "v1"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#EfficientCauseImpliesPriorOrder",
+      "interpretations": [],
+      "kind": "rule",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": [
+        {
+          "id": "v0",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v1",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ]
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-q2-a3#SummaSTI_Q2_A3"
+      ],
+      "body": {
+        "formula": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#efficient_cause"
+        },
+        "kind": "status",
+        "status": "established"
+      },
+      "contentHash": "sha256:72178ea13d152fc5f0b6d6d7aa8996189744fe44cb2fbd103eaf569d926e0f9d",
+      "head": {
+        "args": [
+          {
+            "kind": "var",
+            "var": "v0"
+          },
+          {
+            "kind": "var",
+            "var": "v1"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_cause_edge"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#FiniteCauseEdge",
+      "interpretations": [],
+      "kind": "rule",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": [
+        {
+          "id": "v0",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v1",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ]
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-q2-a3#SummaSTI_Q2_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v0"
+                },
+                {
+                  "kind": "var",
+                  "var": "v3"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#designated_chain_start"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v2"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_cause_edge"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v0"
+                },
+                {
+                  "kind": "var",
+                  "var": "v1"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_cause_edge"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:d82d3657d4340a8c8929c0aa4c2c0faf884fa00d54daee95dc3a6fa17290a007",
+      "head": {
+        "args": [
+          {
+            "kind": "var",
+            "var": "v0"
+          },
+          {
+            "kind": "var",
+            "var": "v2"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_path_from_designated_start"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#FinitePathFromDesignatedChainStart",
+      "interpretations": [],
+      "kind": "rule",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": [
+        {
+          "id": "v0",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v1",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v2",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v3",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ]
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-q2-a3#SummaSTI_Q2_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v2"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_cause_edge"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v0"
+                },
+                {
+                  "kind": "var",
+                  "var": "v1"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_cause_edge"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:5a6f25fdd672ffcf681fe002f9795d81507c24ea7ec5803f8c4a73797d786f54",
+      "head": {
+        "args": [
+          {
+            "kind": "var",
+            "var": "v0"
+          },
+          {
+            "kind": "var",
+            "var": "v2"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_two_link_cause_path"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#FiniteTwoLinkCausePath",
+      "interpretations": [],
+      "kind": "rule",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": [
+        {
+          "id": "v0",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v1",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v2",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ]
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-q2-a3#SummaSTI_Q2_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v2"
+                },
+                {
+                  "kind": "var",
+                  "var": "v0"
+                },
+                {
+                  "kind": "var",
+                  "var": "v3"
+                },
+                {
+                  "kind": "var",
+                  "var": "v4"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "kind": "comparison",
+            "left": {
+              "kind": "var",
+              "var": "v0"
+            },
+            "op": "ne",
+            "right": {
+              "kind": "var",
+              "var": "v1"
+            }
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:5110038361cc9d72fd8f3e0f6a4c874626ee8d495111f94450a07c4f59d6a3fa",
+      "head": {
+        "args": [
+          {
+            "kind": "var",
+            "var": "v1"
+          },
+          {
+            "kind": "var",
+            "var": "v2"
+          },
+          {
+            "kind": "var",
+            "var": "v0"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#moved_by_another"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#MovedByOtherInSameAspect",
+      "interpretations": [],
+      "kind": "rule",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": [
+        {
+          "id": "v0",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v1",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v2",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v3",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v4",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ]
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-q2-a3#SummaSTI_Q2_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v2"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#outcome_is_best"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v0"
+                },
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v2"
+                },
+                {
+                  "kind": "var",
+                  "var": "v3"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#observed_action"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v0"
+                },
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v2"
+                },
+                {
+                  "kind": "var",
+                  "var": "v4"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#observed_action"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v0"
+                },
+                {
+                  "kind": "var",
+                  "var": "v3"
+                },
+                {
+                  "kind": "var",
+                  "var": "v4"
+                }
+              ],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#distinct_occurrences"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:c9a9988597b6c9115f38c3ef82df0db0d9050bd0eab1b45b0da25d03e3a00826",
+      "head": {
+        "args": [
+          {
+            "kind": "var",
+            "var": "v0"
+          },
+          {
+            "kind": "var",
+            "var": "v1"
+          },
+          {
+            "kind": "var",
+            "var": "v2"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_regular_pattern_toward_end"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#RepeatedObservedPatternTowardBestOutcome",
+      "interpretations": [],
+      "kind": "rule",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": [
+        {
+          "id": "v0",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v1",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v2",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v3",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "v4",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ]
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-q2-a3#SummaSTI_Q2_A3"
+      ],
+      "body": {
+        "formula": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#source_order_irreflexive"
+        },
+        "kind": "status",
+        "status": "established"
+      },
+      "contentHash": "sha256:0dce5461bdaf2591420d67e492f5ccaa8d2187ce9be672cece45214f69866a42",
+      "head": {
+        "args": [
+          {
+            "kind": "var",
+            "var": "v0"
+          },
+          {
+            "kind": "var",
+            "var": "v0"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#SourceOrderIrreflexivity",
+      "interpretations": [],
+      "kind": "rule",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": [
+        {
+          "id": "v0",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ]
+    },
+    {
+      "authority": {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "Thomas Aquinas"
+      },
+      "contentHash": "sha256:985d4020b1b54e22a05f24356fa6d21aca4294418b078e56d7e44c16aad2eec4",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#SummaSTI_Q2_A3",
+      "kind": "source_work",
+      "number": "Summa Theologiae I q. 2 a. 3; https://www.corpusthomisticum.org/sth1002.html",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "sourceKind": "urn:la:aquinas:reconstruction:i-q2-a3#theological_primary_text"
+    },
+    {
+      "contentHash": "sha256:1792855bfa26f944aa4e3b91709986aec316f6dd13e49aa4d27a2a347aa69a3e",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#actualizes",
+      "kind": "symbol_decl",
+      "name": "actualizes",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#actualizes/arg/agent",
+          "name": "agent",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#actualizes/arg/subject",
+          "name": "subject",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#actualizes/arg/aspect",
+          "name": "aspect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#actualizes/arg/from_state",
+          "name": "from_state",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#actualizes/arg/to_state",
+          "name": "to_state",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "empirical",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:73c4618e73b30f5bcf3afb8d4610e9ae67b18a1fabcc6d8478506d1951c5f2b8",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#designated_chain_start",
+      "kind": "symbol_decl",
+      "name": "designated_chain_start",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#designated_chain_start/arg/root",
+          "name": "root",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#designated_chain_start/arg/aspect",
+          "name": "aspect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "empirical",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:93c3e9b9f6a9e2da43e603ac584864be16144aa0927a24f09590fc564f4bb4d4",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#distinct_occurrences",
+      "kind": "symbol_decl",
+      "name": "distinct_occurrences",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#distinct_occurrences/arg/body",
+          "name": "body",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#distinct_occurrences/arg/occurrence_a",
+          "name": "occurrence_a",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#distinct_occurrences/arg/occurrence_b",
+          "name": "occurrence_b",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "empirical",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:d24e449ea4dfdfc38f415bd9e9681585a75f8cade7b356e26398da77765f171e",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#efficient_cause",
+      "kind": "symbol_decl",
+      "name": "efficient_cause",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#efficient_cause/arg/cause",
+          "name": "cause",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#efficient_cause/arg/effect",
+          "name": "effect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "empirical",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:901fa20380b740a2f777f69e659efc2b3f970590bf53741df57e09014dd96d78",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization",
+      "kind": "symbol_decl",
+      "name": "finite_actualization",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization/arg/subject",
+          "name": "subject",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization/arg/aspect",
+          "name": "aspect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization/arg/agent",
+          "name": "agent",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization/arg/from_state",
+          "name": "from_state",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization/arg/to_state",
+          "name": "to_state",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:b7f36f625b8af28b59eb33c28e30dd0f57f5f488f853390d4033a44dfeeade75",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_cause_edge",
+      "kind": "symbol_decl",
+      "name": "finite_cause_edge",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_cause_edge/arg/cause",
+          "name": "cause",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_cause_edge/arg/effect",
+          "name": "effect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:f75de96080247b1bfa6ef78c329ccbad28b7bfde96a9d421667575269b7e66bd",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_path_from_designated_start",
+      "kind": "symbol_decl",
+      "name": "finite_path_from_designated_start",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_path_from_designated_start/arg/root",
+          "name": "root",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_path_from_designated_start/arg/effect",
+          "name": "effect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:493e53023f14ff36b5282a19fc1a0e2edf67b9efeb043795c379e5284c0f660f",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_regular_pattern_toward_end",
+      "kind": "symbol_decl",
+      "name": "finite_regular_pattern_toward_end",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_regular_pattern_toward_end/arg/body",
+          "name": "body",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_regular_pattern_toward_end/arg/operation",
+          "name": "operation",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_regular_pattern_toward_end/arg/outcome",
+          "name": "outcome",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:99fde0d61aaae90fba80c9aa3219244640aa42532792c8648351b0b87480dbde",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_two_link_cause_path",
+      "kind": "symbol_decl",
+      "name": "finite_two_link_cause_path",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_two_link_cause_path/arg/cause",
+          "name": "cause",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#finite_two_link_cause_path/arg/effect",
+          "name": "effect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:6fc1fca3c8e4c6eb849c95a7b2f7783ca1169db58b41672a7d4dc99f9ebfb250",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#first_efficient_cause",
+      "kind": "symbol_decl",
+      "name": "first_efficient_cause",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#first_efficient_cause/arg/target",
+          "name": "target",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:e7f3758dd4ebef86e182c9bb035a65eb6a58fa8aa48169e9a1f8dc3f71614802",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#first_mover",
+      "kind": "symbol_decl",
+      "name": "first_mover",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#first_mover/arg/target",
+          "name": "target",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:4deefec5c436b301777cdfd7ca9492d51cfaa12e16ee71e0bb058781a34232fe",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#god_exists",
+      "kind": "symbol_decl",
+      "name": "god_exists",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#god_exists/arg/target",
+          "name": "target",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:cb5313c915c7d94ae3b82565422fa69745df6900e772d04f7a810227738e884a",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#in_act",
+      "kind": "symbol_decl",
+      "name": "in_act",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#in_act/arg/agent",
+          "name": "agent",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#in_act/arg/aspect",
+          "name": "aspect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#in_act/arg/state",
+          "name": "state",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "empirical",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:d77781962a24a291e650f1572c87a50d060137eb460197993390242c6c561d1a",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#in_potency",
+      "kind": "symbol_decl",
+      "name": "in_potency",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#in_potency/arg/subject",
+          "name": "subject",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#in_potency/arg/aspect",
+          "name": "aspect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#in_potency/arg/state",
+          "name": "state",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "empirical",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:e0aa6da8826f3554331808a56ae1903e9f2d5cd5893385917651e013184dc8a3",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#intelligent_director",
+      "kind": "symbol_decl",
+      "name": "intelligent_director",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#intelligent_director/arg/target",
+          "name": "target",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:8e010f17ca81e7aab9c8198046a4db379c7d0d702ade1c3d416c8e920c14ce22",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#maximum_perfection",
+      "kind": "symbol_decl",
+      "name": "maximum_perfection",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#maximum_perfection/arg/target",
+          "name": "target",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:cd5a0b1425fc13f98216d406e8d16482920f2478eac3946da5987dc0b2110c12",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#moved_by_another",
+      "kind": "symbol_decl",
+      "name": "moved_by_another",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#moved_by_another/arg/subject",
+          "name": "subject",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#moved_by_another/arg/aspect",
+          "name": "aspect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#moved_by_another/arg/agent",
+          "name": "agent",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:62db865cdf0b4dba21654a8992f0be1e65953848aaee62b30b0e453a43810b78",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#observed_action",
+      "kind": "symbol_decl",
+      "name": "observed_action",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#observed_action/arg/body",
+          "name": "body",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#observed_action/arg/operation",
+          "name": "operation",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#observed_action/arg/outcome",
+          "name": "outcome",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#observed_action/arg/occurrence",
+          "name": "occurrence",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "empirical",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:eb17a32d44643cb75b66aabda5e4d35f3f1d16fc00fa4045755f3487bb8d88cc",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#outcome_is_best",
+      "kind": "symbol_decl",
+      "name": "outcome_is_best",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#outcome_is_best/arg/outcome",
+          "name": "outcome",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "empirical",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:2369422c16e32867678c292a0da9a15061e56c16823d323027418e1de469b593",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#per_se_necessary_being",
+      "kind": "symbol_decl",
+      "name": "per_se_necessary_being",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#per_se_necessary_being/arg/target",
+          "name": "target",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:7ca75c3de37f393aebd2e6c494613a478a5629539f61daf5db107219a8d1b727",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to",
+      "kind": "symbol_decl",
+      "name": "prior_to",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to/arg/cause",
+          "name": "cause",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to/arg/effect",
+          "name": "effect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "derived",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:c89594eb9540a250259e8f38d69c174288605fd662f1c98b11e7c6ad5ea3a9fa",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#source_order_irreflexive",
+      "kind": "symbol_decl",
+      "name": "source_order_irreflexive",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#source_order_irreflexive/arg/subject",
+          "name": "subject",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "normative_auxiliary",
+      "symbolKind": "relation"
+    },
+    {
+      "contentHash": "sha256:a4fc4105b7a67b2e20131f4e9ced495c05e374d234c3b0de2d81744d01fe5a93",
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#state_before",
+      "kind": "symbol_decl",
+      "name": "state_before",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3",
+      "parameters": [
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#state_before/arg/subject",
+          "name": "subject",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#state_before/arg/aspect",
+          "name": "aspect",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        },
+        {
+          "id": "urn:la:aquinas:reconstruction:i-q2-a3#state_before/arg/state",
+          "name": "state",
+          "type": {
+            "name": "urn:law:std#Text"
+          }
+        }
+      ],
+      "relationKind": "empirical",
+      "symbolKind": "relation"
+    }
+  ],
+  "package": {
+    "name": "la.aquinas.reconstruct.i_q2_a3",
+    "namespace": "urn:la:aquinas:reconstruction:i-q2-a3",
+    "semanticHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "version": "0.1.0"
+  },
+  "schemaVersion": "law.core.ir/0.7",
+  "semanticHash": "sha256:b9854b17e228fafff006c3a793b8dd4fffeef26075a2b0150cbeb6259da42a06",
+  "semanticVersion": "0.2.11",
+  "strata": [],
+  "theoryHash": "sha256:f84b9dedb8320f7d6e2594083c754e25d804ade4638488de80036d320d68148b"
+}

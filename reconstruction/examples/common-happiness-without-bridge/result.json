@@ -1,0 +1,139 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:4994a747f88fc609dbaa9971cefb01f18a99625b94fae27aaeb4e84392666d36",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:fe7d57ff6f199c858951ce1fde60df73229174635719650a2094d902f0bdab2f",
+    "decisionTime": "2026-10-13T12:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "2026-10-13T12:00:00Z",
+    "legalTime": "2026-10-13",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:c13c40ede1fbad2e00ddce29963cf7afa9a4cf320e067204a5ec9fd90cf185ed",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:a779891cac94a9e4ba5a95539ff636007ba833a7110c3927d09dcc6d08769929",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:c13c40ede1fbad2e00ddce29963cf7afa9a4cf320e067204a5ec9fd90cf185ed",
+    "timezone": "UTC"
+  },
+  "positions": [],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-ii-q90-a2#r1"
+        },
+        "conclusion": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_first_principle_practical_is_ultimate_end"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-ii-q90-a2#r1",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-ii-q90-a2#r2"
+        },
+        "conclusion": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_human_life_ultimate_end_happiness"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-ii-q90-a2#r2",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-ii-q90-a2#r2b"
+        },
+        "conclusion": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_prior_human_ultimate_end_is_happiness"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-ii-q90-a2#r2b",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#happiness_as_ultimate_end"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:UltimateHappiness:0a7f6c971cdc0ccbf096666d6c17f98df76e43da9077c6ee6dbd1793fe6c41ce",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-ii-q90-a2#r1",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-ii-q90-a2#r2",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-ii-q90-a2#r2b"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-ii-q90-a2#UltimateHappiness",
+        "sourceAnchors": [],
+        "substitution": {}
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "literal": {
+            "args": [],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#law_ordered_to_common_happiness"
+          },
+          "truthStatus": "NEITHER"
+        },
+        "evidence": [],
+        "id": "urn:proof:query:i-ii-q90-a2#test/common%20happiness%3A%20explicit%20removal%20blocks%20dependent%20conclusions/query/1",
+        "kind": "query_evaluation",
+        "premises": [],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:7969e6e7ec6eda85b5b1987ea518be6986ed29df822effcbd3a7f7604bba605d",
+    "roots": [
+      "urn:proof:query:i-ii-q90-a2#test/common%20happiness%3A%20explicit%20removal%20blocks%20dependent%20conclusions/query/1"
+    ]
+  },
+  "resultHash": "sha256:92aab840a1d26a1ba0fa44eb7025f68f48afa93b150c5b2ae02195f26b5ce45d",
+  "results": [
+    {
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:i-ii-q90-a2#test/common%20happiness%3A%20explicit%20removal%20blocks%20dependent%20conclusions/query/1",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatusSupports": [],
+      "proof": "urn:proof:query:i-ii-q90-a2#test/common%20happiness%3A%20explicit%20removal%20blocks%20dependent%20conclusions/query/1",
+      "query": "urn:la:aquinas:reconstruction:i-ii-q90-a2#test/common%20happiness%3A%20explicit%20removal%20blocks%20dependent%20conclusions/query/1",
+      "resultKind": "PROPOSITION",
+      "sourceAnchors": [],
+      "target": "urn:la:aquinas:reconstruction:i-ii-q90-a2#law_ordered_to_common_happiness",
+      "truthStatus": "NEITHER"
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

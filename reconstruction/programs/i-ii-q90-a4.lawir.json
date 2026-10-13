@@ -1,0 +1,1048 @@
+{
+  "artifactHash": "sha256:894d6f817dc703e2320e6c4ad42500f20ccf25f5435b77e970c52530fa6627dc",
+  "features": [
+    "core-executable"
+  ],
+  "imports": [],
+  "metadata": {},
+  "nodes": [
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a4#SUMMA_I_II_Q90_A4"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#rule_assigned_to_addressees"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_co_rule_application"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:6ec0b599e0b3e3ca6ff4ba30bc5b30dba7093158bece8277a3c1779d247a48ba",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#rule_applied_to_addressees"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#AppliedRule",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: AppliedRule."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a4#SUMMA_I_II_Q90_A4"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_co_binding_force"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#promulgation_brings_rule_to_knowledge"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#addressee_should_be_ruled"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:f60bdade20b7e8e91887ee87f6fc47750ff4dea532bf7f2f83fb15bbc354b840",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#binding_force_from_application"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#BindingApplication",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: BindingApplication."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a4#SUMMA_I_II_Q90_A4"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#issued_by_public_caretaker"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#law_to_common_good"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#promulgation_brings_rule_to_knowledge"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_definition_four_conditions"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#law_rationally_ordered"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:a52557a9c1ea09a9644a06e438f917ef5532a47202d8545a7ca9b02f804d44ec",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#four_conditions_present"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#FourConditions",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: FourConditions."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a4#SUMMA_I_II_Q90_A4"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#present_promulgation_occurred"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#durable_written_promulgation"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad3_reading"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad3_future_extension"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:128287e083182afe5a4194a5e16c0c11ca8c51a3821ad297f9e8713a8e9d27cc",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#future_addressee_reached_by_durable_writing"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#FutureWriting",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: FutureWriting."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a4#SUMMA_I_II_Q90_A4"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#rule_applied_to_addressees"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#promulgation_makes_known"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:961769fcc7274a6c73eb0bdee96a256ecba8d1f566ec478ee064a3d62875bf63",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#promulgation_brings_rule_to_knowledge"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#KnowledgeByPromulgation",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: KnowledgeByPromulgation."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a4#SUMMA_I_II_Q90_A4"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad1_natural_cognoscibility"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad1_natural_insertion"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#natural_law_inserted_and_knowable"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:3c213813ac54c58ca97a912b85b2d4149c1a8f95953bb3c854aefcf01e0540c5",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#natural_insertion_promulgates_natural_law"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#NaturalLawRoute",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: NaturalLawRoute."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a4#SUMMA_I_II_Q90_A4"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#remote_addressee_learns_by_others"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad2_transmission"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#promulgation_actually_occurred"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:af06b6a6ca65fee9987c324c75e2690d2a0ccba4d9e4fa9b9ab2a96c6205cf26",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a4#remote_addressee_reached_by_transmission"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#RemoteTransmission",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: RemoteTransmission."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "authority": {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "Thomas Aquinas, Summa Theologiae"
+      },
+      "contentHash": "sha256:88df2c96dbdb4a31553a7e0a9caa1a4bf664257ebf4ea51617d7b75b37c9d0f3",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#SUMMA_I_II_Q90_A4",
+      "jurisdiction": {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "none"
+      },
+      "kind": "source_work",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Pinned Latin source in sibling immutable source.txt and source-pin.json"
+        }
+      ],
+      "number": "I-II, q. 90, a. 4",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "sourceKind": "urn:la:aquinas:reconstruction:i-ii-q90-a4#doctrine"
+    },
+    {
+      "contentHash": "sha256:53137986d46cc6dcc5b2d9c307100a81ab6960a67b4c3618e11a8a50df7228ee",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#addressee_should_be_ruled",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: addressee should be ruled."
+        }
+      ],
+      "name": "addressee_should_be_ruled",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:400c6e69abddd9b76696c2ac35fabf1346762754205d2c86eb866a187be9699d",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#arg1_natural_law",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The objection argues natural law lacks promulgation and hence promulgation is not essential."
+        }
+      ],
+      "name": "arg1_natural_law",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:52289df402687ca9a57e220a8fe9fbd0a239ec43c98abd79505d4dd1635820e3",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#arg2_remote_persons",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The objection argues promulgation to present hearers cannot account for others being bound."
+        }
+      ],
+      "name": "arg2_remote_persons",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:70876caa9753a3f88ef1807739e0fa954ea97ebe787d345460d60570cd21ed4d",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#arg3_future_persons",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The objection argues present promulgation cannot ground future obligation."
+        }
+      ],
+      "name": "arg3_future_persons",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:88c2fc3f9ceb2ffa5486127ee76b1df409bed1e88484065011c8c22c04b6f5f5",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#binding_force_from_application",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: binding force from application."
+        }
+      ],
+      "name": "binding_force_from_application",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:ad2a2598e3c3710b87ef3da0727fa8b6dc73667d7dbc40e93893b9dd115a3790",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#durable_written_promulgation",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: durable written promulgation."
+        }
+      ],
+      "name": "durable_written_promulgation",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:18ef37ba786c9cc733636a1b5082d3bcf16328c89cadf4c2d53f7ee4f84e1c5f",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#four_conditions_present",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: law definition complete."
+        }
+      ],
+      "name": "four_conditions_present",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:132ffeb509975723c1896bca37efca7ea2786ce808c8c62f16ae617bd173f4c9",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#future_addressee_reached_by_durable_writing",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: future addressee reached by durable writing."
+        }
+      ],
+      "name": "future_addressee_reached_by_durable_writing",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:205fcd73457795e800df08194d55f842c602b29619276c87affa6eb815b89403",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#issued_by_public_caretaker",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: issued by public caretaker."
+        }
+      ],
+      "name": "issued_by_public_caretaker",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:87a1baee1c807c659fc22d508a04f1d3241b97405008ec5fd3c4d5c374dec35c",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#law_rationally_ordered",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: law rationally ordered."
+        }
+      ],
+      "name": "law_rationally_ordered",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:be04f9414ce1568ce757371915dac240e9cc183718fe7d16a7aeb2244a2f90ff",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#law_to_common_good",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: law to common good."
+        }
+      ],
+      "name": "law_to_common_good",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:59242b08b6ce70dcf00322e9486d256b1cb02cbcacb381dedae457041e10f471",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#natural_insertion_promulgates_natural_law",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: natural insertion promulgates natural law."
+        }
+      ],
+      "name": "natural_insertion_promulgates_natural_law",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:7f7fd1bbe186a7c1b9615a966c7bde08a2fe29f82d9de27724e6f9dd23a2d143",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#natural_law_inserted_and_knowable",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: natural law inserted and knowable."
+        }
+      ],
+      "name": "natural_law_inserted_and_knowable",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:7e1e7566dd1b1258428673f6d47bbe5a52aebee839b330dc072d1c95ad5e4da2",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#present_promulgation_occurred",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The law was promulgated in the present before its extension to future addressees."
+        }
+      ],
+      "name": "present_promulgation_occurred",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:98891a8ff93a42aae7518afdc605a88773d49739cce444603f3f86bdca6352fb",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#promulgation_actually_occurred",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A promulgation act actually occurred for this rule."
+        }
+      ],
+      "name": "promulgation_actually_occurred",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:c6db77ba5c52ef11898299d0a8afa2e9d958f20a34123cf804ef88f53d6c794f",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#promulgation_brings_rule_to_knowledge",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: promulgation brings rule to knowledge."
+        }
+      ],
+      "name": "promulgation_brings_rule_to_knowledge",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:d1e3c04d4930ab6234880d2240c50df92af2b52e8daae7ff42ef125d28642a50",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#promulgation_makes_known",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: promulgation makes known."
+        }
+      ],
+      "name": "promulgation_makes_known",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:64bab1e95ad11fc3cd6f63957cc401b60087f8f43cc7277176841144fdcd6eb8",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#remote_addressee_learns_by_others",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: remote addressee learns by others."
+        }
+      ],
+      "name": "remote_addressee_learns_by_others",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:9757ad02934a11e1ea110db102bcab7d18da4bfe36f56b73433f308b668ad814",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#remote_addressee_reached_by_transmission",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: remote addressee reached by transmission."
+        }
+      ],
+      "name": "remote_addressee_reached_by_transmission",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:ab6cc0f8e9fd7ab2362b35eadeb889045ad414affedb22a48e476f1f30a77f92",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#rule_applied_to_addressees",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: rule applied to addressees."
+        }
+      ],
+      "name": "rule_applied_to_addressees",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:45178badc98ed970f33f632eb8286417570a8c21ed846e1e9b58cc1263ed68ac",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#rule_assigned_to_addressees",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: rule assigned to addressees."
+        }
+      ],
+      "name": "rule_assigned_to_addressees",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:4a3f17de06ef006273e36916b1c52c76dc3e4a39d36bd5468472bd019672c8b3",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#sedcontra_promulgation",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The sed contra says laws are instituted when promulgated."
+        }
+      ],
+      "name": "sedcontra_promulgation",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:17c14f5243d935897f14d965744dc02faab6772a6d0030b53ef3d311608e4f86",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad1_natural_cognoscibility",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The source describes natural law as naturally knowable."
+        }
+      ],
+      "name": "source_ad1_natural_cognoscibility",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:10b1fa31620e837e9f0db64fa961431fbfe9149a662370c2fe57eeaf14d54d94",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad1_natural_insertion",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Natural law is promulgated through natural insertion in minds."
+        }
+      ],
+      "name": "source_ad1_natural_insertion",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:d67ba5ea8a8bf36e2ca6703c0deb211684ded89660cd7f0778d279637dd7c41d",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad2_transmission",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A remote addressee is reached when promulgation comes or can come to knowledge through others."
+        }
+      ],
+      "name": "source_ad2_transmission",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:3942dd3f4e425342b2aa1a2997187d8da62236073e8371b1e26f6df361e33258",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad3_future_extension",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Present promulgation extends into the future through durable writing."
+        }
+      ],
+      "name": "source_ad3_future_extension",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:97453928f1570bf548636dc5be77ba5c2298db61bad85aba5a891295b31404fb",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_ad3_reading",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Writing allows promulgation to continue through reading."
+        }
+      ],
+      "name": "source_ad3_reading",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:c92f9823aba27140375d0938f16266af76c146adcc56ece616d7a3f771ca7b11",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_co_binding_force",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Law’s binding force is connected to application to its addressees."
+        }
+      ],
+      "name": "source_co_binding_force",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:308afdc91b2048913318435a658d413485268de6e86166e12c9cfe5b71410332",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_co_rule_application",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A rule or measure is applied to those who are regulated."
+        }
+      ],
+      "name": "source_co_rule_application",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:30043b8cad885e163a8bbbb2ae66a8a0ec9c59490f2681e5721dd045660f304a",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a4#source_definition_four_conditions",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The definition gathers reason, common good, public care of community, and promulgation."
+        }
+      ],
+      "name": "source_definition_four_conditions",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    }
+  ],
+  "package": {
+    "name": "la.aquinas.reconstruct.i_ii_q90_a4",
+    "namespace": "urn:la:aquinas:reconstruction:i-ii-q90-a4",
+    "semanticHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "version": "0.1.0"
+  },
+  "schemaVersion": "law.core.ir/0.7",
+  "semanticHash": "sha256:6bf74869d09e1c2b4c93d13a9b32da7c85cdfcec3eba74068eb09a02c8bd0f2e",
+  "semanticVersion": "0.2.11",
+  "strata": [],
+  "theoryHash": "sha256:531ee393b8a3665fb7de394f821bcb2cb9551b4b4403edf672311ea66297c976"
+}

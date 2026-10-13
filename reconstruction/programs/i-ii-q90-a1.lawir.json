@@ -1,0 +1,1047 @@
+{
+  "artifactHash": "sha256:c681327f82e8ee023b32215308840d1d8f0cdba074e172a8487450d6e9e47071",
+  "features": [
+    "core-executable"
+  ],
+  "imports": [],
+  "metadata": {},
+  "nodes": [
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#law_as_practical_reason_measure"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad1_two_modes"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:88f1b546a47b5208b6d43c40ff7475ceebffcd1c6574e8e8e7479a00f53dff4c",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#law_in_regulator_essentially"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#EssentialRegulation",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: EssentialRegulation."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad2_habitual_retention"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#rational_proposition_product"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#universal_practical_proposition"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad2_operation_product"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:762c4697ed10180e8ecf4b87ce05351f0b08d1c34e5ceaddeda2dcc54d8e225e",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#law_retained_habitually"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#HabitualProduct",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: HabitualProduct."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#bridge_reason_as_principle_measures_human_acts"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_co_rule_measure"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#reason_as_rule_measure"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:8226f4d670d297d11c5ce5b8882c7a45aa617877ac8a2f3b16753a9d09bd8928",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#law_as_practical_reason_measure"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#LawAsMeasure",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: LawAsMeasure."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#private_inclination_under_regulator"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad1_two_modes"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:272a4043b9dbb9f0b49d086367e69e02e009feabde2cdb22f9017b0695cda8e6",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#inclination_law_participatively"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#ParticipativeInclination",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: ParticipativeInclination."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#law_as_practical_reason_measure"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_co_practical_universal_propositions"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:75ceadb6966c2b1daa57e0eb1f27d42e99621e7e5de605dd016ce956e227aa90",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#universal_practical_proposition"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#PracticalProposition",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: PracticalProposition."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_co_reason_orders_end"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_co_principle_measures_genus"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:0a386225680a5710a7558438ad5e037e70ef7788053683d1992f2380e57541c7",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#reason_as_rule_measure"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#ReasonEndIsMeasure",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: ReasonEndIsMeasure."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad3_will_reason_regulated"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_reason_regulated"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_motivates_reason"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:54f9b8b85963a5d8c42274a802a0127fc60c6291cb631d8f1f3761648725e6db",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_command_reason_regulated"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#ReasonRegulatesWill",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: ReasonRegulatesWill."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "authority": {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "Thomas Aquinas, Summa Theologiae"
+      },
+      "contentHash": "sha256:d2ff3cda8c2cd2888ccd2efee67e12974291bc342631a35a1e6b35851bdac59b",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1",
+      "jurisdiction": {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "none"
+      },
+      "kind": "source_work",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Pinned Latin source in sibling immutable source.txt and source-pin.json"
+        }
+      ],
+      "number": "I-II, q. 90, a. 1",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "sourceKind": "urn:la:aquinas:reconstruction:i-ii-q90-a1#doctrine"
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1"
+      ],
+      "body": {
+        "formula": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_command_reason_regulated"
+        },
+        "kind": "status",
+        "status": "established"
+      },
+      "contentHash": "sha256:6d399ad078c61e29ea011d5164d5e6b43de03437ceeacd29cdb9fd22ad3640f4",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_has_law_character"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#WillLawCharacter",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: WillLawCharacter."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a1#SUMMA_I_II_Q90_A1"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_directed_to_end"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad3_reason_moved_by_will"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:280e70dfe90744093a229be5170432903cdfcf5cc15f044cfc1bec3995c93fe5",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_motivates_reason"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#WillMotivates",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: WillMotivates."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "contentHash": "sha256:b89d2c71702ded5a17ee704a50ff0e2c10710f95f11b243da6e84ed244d421aa",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#arg1_members_objection",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The objection infers that law is not reason because law is named as being in bodily members."
+        }
+      ],
+      "name": "arg1_members_objection",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:95c2dfe06d2379c605174f536897db11d078687140a6cf371f7a373f4e7e92ba",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#arg2_power_habit_act",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The objection argues law is no power, habit, or act, and would cease during sleep."
+        }
+      ],
+      "name": "arg2_power_habit_act",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:499644b52efc6223cf25c1fabf63256dba8704a5206cd286632f673e7e9fb56b",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#arg3_will_moves",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The objection locates motion in will and cites the ruler’s pleasure."
+        }
+      ],
+      "name": "arg3_will_moves",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:ca604404bdbcdd0ee0826d9666e719b88dde67efac4900017054eeef580b3e6c",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#bridge_reason_as_principle_measures_human_acts",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Reconstructed bridge assumption: because reason is the principle measuring practical acts, a source-described law that is a rule and measure of acts pertains to reason."
+        }
+      ],
+      "name": "bridge_reason_as_principle_measures_human_acts",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:b6650b9489fb59f77129dad707caf3c0159b48bcc86ed1055e3d6e66fea2a142",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#inclination_law_participatively",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: inclination law participatively."
+        }
+      ],
+      "name": "inclination_law_participatively",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:05baf9a469bf3ed2dc86f7d1169e9e9a017c3a6acc0e8f6f11febf9dda68c590",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#law_as_practical_reason_measure",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: law as practical reason measure."
+        }
+      ],
+      "name": "law_as_practical_reason_measure",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:11d3358659ccb2eb37c2c9c9d2982764e84cfd797fb9e1333f5937fe423cfa07",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#law_in_regulator_essentially",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: law in regulator essentially."
+        }
+      ],
+      "name": "law_in_regulator_essentially",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:376da3c728e8fa7cd7800d31c7920c02eadb70168f194d1bf7b83a9ff7e2534c",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#law_retained_habitually",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: law retained habitually."
+        }
+      ],
+      "name": "law_retained_habitually",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:e94fc75c60bd2c16da25def7dfec50625ea9a92424cbc8a4c08f07ee30082a95",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#private_inclination_under_regulator",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: private inclination under regulator."
+        }
+      ],
+      "name": "private_inclination_under_regulator",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:61d347e6c4ae630f771f9ad4987a4bc63077ddb12de9079b0465fee1c2f3190a",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#rational_proposition_product",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: rational proposition product."
+        }
+      ],
+      "name": "rational_proposition_product",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:1d4039b7f09f4c2f6e0e0c1b64f2605212b9dc457ba45d8197611760b19e2d74",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#reason_as_rule_measure",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: reason as rule measure."
+        }
+      ],
+      "name": "reason_as_rule_measure",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:132f92773f064f37e056bf05df89c906b587015388019dd67b650b25a6bb3a57",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#sedcontra_command",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The sed contra identifies commanding and forbidding with reason."
+        }
+      ],
+      "name": "sedcontra_command",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:aba3ea44ee13a8d4883cc35a5caae26ed731a93a423b1724ee3beaa9e0626046",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad1_two_modes",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Law is in the regulator essentially and in regulated subjects participatively."
+        }
+      ],
+      "name": "source_ad1_two_modes",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:1cf98adb613fa86d436fb57b00e89ba0621d12a67d7639fd39e541b8a63082ef",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad2_habitual_retention",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Practical universal propositions can be retained habitually."
+        }
+      ],
+      "name": "source_ad2_habitual_retention",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:618dece2a018e2e02a2bfaba404f8bce61bb79f48e5692079122d9af1d1dfe67",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad2_operation_product",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Rational operation is distinguished from its constituted product."
+        }
+      ],
+      "name": "source_ad2_operation_product",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:0929a0decc713973576045818423d8fb8b900b7ed2317a154878df91ff075c64",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad3_reason_moved_by_will",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Will directed to an end moves practical reason."
+        }
+      ],
+      "name": "source_ad3_reason_moved_by_will",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:a9e097c3284b457926f8086370a3fb88a137b5a42025676f09f606e3e7978c75",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_ad3_will_reason_regulated",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A ruler’s will has law character only insofar as reason regulates it."
+        }
+      ],
+      "name": "source_ad3_will_reason_regulated",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:d129df0712a153549bcefbc44c53108ed52ed0da44da8c63703a79f6123176c1",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_co_practical_universal_propositions",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Universal practical propositions ordered to action have law character."
+        }
+      ],
+      "name": "source_co_practical_universal_propositions",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:029bf1621ce7b6be0ea88bc9f8d55f5a9e1173e68c141253ea6fdd6adbd1a10b",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_co_principle_measures_genus",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A principle is a measure and rule within its genus."
+        }
+      ],
+      "name": "source_co_principle_measures_genus",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:e1240e62e514bd86fa738d9a44b68e22e43ce6af15d96f3b2820b7e1136c23e7",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_co_reason_orders_end",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Practical reason orders acts to an end, first among practical principles."
+        }
+      ],
+      "name": "source_co_reason_orders_end",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:89aecce516640d388a0e95440a3182afc1db0e9d7d4cfa22dda13ae28c185638",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#source_co_rule_measure",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Law is a rule and measure of acts."
+        }
+      ],
+      "name": "source_co_rule_measure",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:87e68a6a1115290bcb5df19996fdc512046703c69c58af10cc0743b8b3a0373f",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#universal_practical_proposition",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: universal practical proposition."
+        }
+      ],
+      "name": "universal_practical_proposition",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:d7400e455b3e9c72cf2bfdf0c2a55c3ee8741d4751f8073a0127cdfbaa85898d",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_command_reason_regulated",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: will command reason regulated."
+        }
+      ],
+      "name": "will_command_reason_regulated",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:671a4c2501424b8b92d35b6bf11c100d07c104a24b1edae73fb8af29b5d52408",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_directed_to_end",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: will directed to end."
+        }
+      ],
+      "name": "will_directed_to_end",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:d1e4862f294cd24232a7e9c8be1ada58498bc02f17b5c7d8d72cab447d09a6ec",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_has_law_character",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: will has law character."
+        }
+      ],
+      "name": "will_has_law_character",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:5a45db82c6984dcf5d16c208e20b6e9a6e8193f7fe6be3077cf859013caa858d",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_motivates_reason",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: will motivates reason."
+        }
+      ],
+      "name": "will_motivates_reason",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:0c87455fd540c21d270c5b89e8162cdbc853e4e9d748e66dc2e044b4af8011c1",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a1#will_reason_regulated",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: will reason regulated."
+        }
+      ],
+      "name": "will_reason_regulated",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    }
+  ],
+  "package": {
+    "name": "la.aquinas.reconstruct.i_ii_q90_a1",
+    "namespace": "urn:la:aquinas:reconstruction:i-ii-q90-a1",
+    "semanticHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "version": "0.1.0"
+  },
+  "schemaVersion": "law.core.ir/0.7",
+  "semanticHash": "sha256:b8723e2d8c3d0ec2539fd6fc96200aca90c100ba2115f5ced09e31e57ae77ae2",
+  "semanticVersion": "0.2.11",
+  "strata": [],
+  "theoryHash": "sha256:4c22fc5370833ea385f61d5f4a42c9dbe058a2bc3e03ac7ddd0dc031d6238842"
+}

@@ -1,0 +1,123 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:d0f2a47d29fb7e42a26b3a266d4a5d9954f794361efd0d60118a5c3aa563089e",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p1",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_first_principle_practical_is_ultimate_end"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:a3984584f8402d5c042d4b64c5f5751eb9c634424acb2746b4e537ccecfba3ca",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p2",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_human_life_ultimate_end_happiness"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:61e3d78bbd9a1b239b1b48fb9bbe7c26099e56bab707bf6952cdff27f06e0b9b",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p2b",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_prior_human_ultimate_end_is_happiness"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:dbaacb77dd74aa3c57ebeddd485f4a7058fc78dfa73e528e364336f57acdf498",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p3",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_part_whole"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:e421d1b6637bf9112fdb19665e378f745a8e403f170afa59eb0c43cbd853eda1",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p4",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_person_part_community"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:5100bdf48a27641bad2f35d0f8e245db79c879caf74d7b2ca1b085f4f1f99f92",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p5",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_community_perfect"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:67741396a5f3de996fb015af91c76bc1aff80b82413533f11724bc8f8eb87cb8",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p6",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_focal_analogy"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:6716e14d0d49ef19a4a7b93182570f8077b8016012618b7e0f38fafed4138810",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#bridge",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#bridge_law_end_tracks_complete_community_happiness"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-10-13T12:00:00Z",
+    "knowledgeTime": "2026-10-13T12:00:00Z",
+    "legalTime": "2026-10-13",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

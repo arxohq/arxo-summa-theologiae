@@ -1,0 +1,95 @@
+{
+  "format": "arxo.summa-public-verification/0.1",
+  "scope": {
+    "stage": "pre-release addressed public checkout",
+    "releaseVersion": "0.2.0",
+    "releaseVerified": false,
+    "fullCorpus": "not_checked",
+    "fullArticlesVerified": 0,
+    "coreChanges": false
+  },
+  "runtime": {
+    "platformPackage": "@arxo/cli-darwin-arm64@0.2.4",
+    "cliSha256": "f92d66559467a23091c58e4d7cdf66666363e713c9b1b3b183e31ceff3c54433",
+    "cliPinMatches": true,
+    "cliVersionMatches": true,
+    "expectedExactRelease": "law.core/0.2.11",
+    "corpusLocksetStatus": "UNPINNED_FROM_CORPUS_LOCKSET"
+  },
+  "evidence": {
+    "sha256": "b3bb1b2dab26803566295bb85dc63e2922ac88931a33b567d6f5b8d163fe68bf",
+    "storage": "Local raw command and canonical-document evidence outside Git; CI evidence retained by the release workflow."
+  },
+  "totals": {
+    "scenariosPassed": 73,
+    "nativeEvaluationDocuments": 132,
+    "readerExamplesReplayed": 13
+  },
+  "articles": [
+    {
+      "articleId": "ii-ii-q64-a7",
+      "scenariosPassed": 24,
+      "scenariosFailed": 0,
+      "nativeEvaluationDocuments": 39,
+      "allRepeatedResultsMatch": true,
+      "protectedConclusionInputGuard": true,
+      "exportedProgramMatchesFreshLowering": true
+    },
+    {
+      "articleId": "i-q1-a8",
+      "scenariosPassed": 7,
+      "scenariosFailed": 0,
+      "nativeEvaluationDocuments": 17,
+      "allRepeatedResultsMatch": true,
+      "protectedConclusionInputGuard": true,
+      "exportedProgramMatchesFreshLowering": true
+    },
+    {
+      "articleId": "i-ii-q90-a1",
+      "scenariosPassed": 7,
+      "scenariosFailed": 0,
+      "nativeEvaluationDocuments": 15,
+      "allRepeatedResultsMatch": true,
+      "protectedConclusionInputGuard": true,
+      "exportedProgramMatchesFreshLowering": true
+    },
+    {
+      "articleId": "i-ii-q90-a2",
+      "scenariosPassed": 8,
+      "scenariosFailed": 0,
+      "nativeEvaluationDocuments": 15,
+      "allRepeatedResultsMatch": true,
+      "protectedConclusionInputGuard": true,
+      "exportedProgramMatchesFreshLowering": true
+    },
+    {
+      "articleId": "i-ii-q90-a3",
+      "scenariosPassed": 8,
+      "scenariosFailed": 0,
+      "nativeEvaluationDocuments": 14,
+      "allRepeatedResultsMatch": true,
+      "protectedConclusionInputGuard": true,
+      "exportedProgramMatchesFreshLowering": true
+    },
+    {
+      "articleId": "i-ii-q90-a4",
+      "scenariosPassed": 10,
+      "scenariosFailed": 0,
+      "nativeEvaluationDocuments": 14,
+      "allRepeatedResultsMatch": true,
+      "protectedConclusionInputGuard": true,
+      "exportedProgramMatchesFreshLowering": true
+    },
+    {
+      "articleId": "i-q2-a3",
+      "scenariosPassed": 9,
+      "scenariosFailed": 0,
+      "nativeEvaluationDocuments": 18,
+      "allRepeatedResultsMatch": true,
+      "protectedConclusionInputGuard": true,
+      "exportedProgramMatchesFreshLowering": true
+    }
+  ],
+  "linuxVerification": "Performed by the release workflow before any release asset is published.",
+  "historicalAcceptance": "reconstruction/reports/acceptance.json retains the original local authoring-stage report."
+}

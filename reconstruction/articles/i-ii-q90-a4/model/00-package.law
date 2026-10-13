@@ -1,0 +1,180 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a4 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a4";
+
+source SUMMA_I_II_Q90_A4 {
+ kind doctrine;
+ jurisdiction "none";
+ authority "Thomas Aquinas, Summa Theologiae";
+ number "I-II, q. 90, a. 4";
+ label en official "Pinned Latin source in sibling immutable source.txt and source-pin.json";
+}
+
+pub relation source_co_rule_application() kind normative_fact {
+ label en official "A rule or measure is applied to those who are regulated.";
+}
+
+pub relation source_co_binding_force() kind normative_fact {
+ label en official "Law’s binding force is connected to application to its addressees.";
+}
+
+pub relation source_ad1_natural_insertion() kind normative_fact {
+ label en official "Natural law is promulgated through natural insertion in minds.";
+}
+
+pub relation source_ad1_natural_cognoscibility() kind normative_fact {
+ label en official "The source describes natural law as naturally knowable.";
+}
+
+pub relation source_ad2_transmission() kind normative_fact {
+ label en official "A remote addressee is reached when promulgation comes or can come to knowledge through others.";
+}
+
+pub relation source_ad3_future_extension() kind normative_fact {
+ label en official "Present promulgation extends into the future through durable writing.";
+}
+
+pub relation source_ad3_reading() kind normative_fact {
+ label en official "Writing allows promulgation to continue through reading.";
+}
+
+pub relation source_definition_four_conditions() kind normative_fact {
+ label en official "The definition gathers reason, common good, public care of community, and promulgation.";
+}
+
+pub relation arg1_natural_law() kind normative_fact {
+ label en official "The objection argues natural law lacks promulgation and hence promulgation is not essential.";
+}
+
+pub relation arg2_remote_persons() kind normative_fact {
+ label en official "The objection argues promulgation to present hearers cannot account for others being bound.";
+}
+
+pub relation arg3_future_persons() kind normative_fact {
+ label en official "The objection argues present promulgation cannot ground future obligation.";
+}
+
+pub relation sedcontra_promulgation() kind normative_fact {
+ label en official "The sed contra says laws are instituted when promulgated.";
+}
+
+pub relation rule_assigned_to_addressees() kind empirical {
+ label en official "Explicit case input: rule assigned to addressees.";
+}
+
+pub relation promulgation_makes_known() kind empirical {
+ label en official "Explicit case input: promulgation makes known.";
+}
+
+pub relation addressee_should_be_ruled() kind empirical {
+ label en official "Explicit case input: addressee should be ruled.";
+}
+
+pub relation remote_addressee_learns_by_others() kind empirical {
+ label en official "Explicit case input: remote addressee learns by others.";
+}
+
+pub relation durable_written_promulgation() kind empirical {
+ label en official "Explicit case input: durable written promulgation.";
+}
+
+pub relation law_rationally_ordered() kind empirical {
+ label en official "Explicit case input: law rationally ordered.";
+}
+
+pub relation law_to_common_good() kind empirical {
+ label en official "Explicit case input: law to common good.";
+}
+
+pub relation issued_by_public_caretaker() kind empirical {
+ label en official "Explicit case input: issued by public caretaker.";
+}
+
+pub relation rule_applied_to_addressees() kind normative_fact {
+ label en official "Intermediate relation: rule applied to addressees.";
+}
+
+pub relation promulgation_brings_rule_to_knowledge() kind normative_fact {
+ label en official "Intermediate relation: promulgation brings rule to knowledge.";
+}
+
+pub relation binding_force_from_application() kind normative_fact {
+ label en official "Intermediate relation: binding force from application.";
+}
+
+pub relation natural_insertion_promulgates_natural_law() kind normative_fact {
+ label en official "Intermediate relation: natural insertion promulgates natural law.";
+}
+
+pub relation remote_addressee_reached_by_transmission() kind normative_fact {
+ label en official "Intermediate relation: remote addressee reached by transmission.";
+}
+
+pub relation future_addressee_reached_by_durable_writing() kind normative_fact {
+ label en official "Intermediate relation: future addressee reached by durable writing.";
+}
+
+pub relation four_conditions_present() kind normative_fact {
+ label en official "Intermediate relation: law definition complete.";
+}
+
+pub relation natural_law_inserted_and_knowable() kind empirical {
+ label en official "Explicit case input: natural law inserted and knowable.";
+}
+
+pub relation promulgation_actually_occurred() kind empirical {
+ label en official "A promulgation act actually occurred for this rule.";
+}
+
+pub relation present_promulgation_occurred() kind empirical {
+ label en official "The law was promulgated in the present before its extension to future addressees.";
+}
+
+@source(SUMMA_I_II_Q90_A4)
+rule AppliedRule() strict {
+ label en official "Source-annotated intermediate reconstruction: AppliedRule.";
+ when source_co_rule_application() and rule_assigned_to_addressees();
+ then rule_applied_to_addressees();
+}
+
+@source(SUMMA_I_II_Q90_A4)
+rule KnowledgeByPromulgation() strict {
+ label en official "Source-annotated intermediate reconstruction: KnowledgeByPromulgation.";
+ when rule_applied_to_addressees() and promulgation_makes_known();
+ then promulgation_brings_rule_to_knowledge();
+}
+
+@source(SUMMA_I_II_Q90_A4)
+rule BindingApplication() strict {
+ label en official "Source-annotated intermediate reconstruction: BindingApplication.";
+ when source_co_binding_force() and promulgation_brings_rule_to_knowledge() and addressee_should_be_ruled();
+ then binding_force_from_application();
+}
+
+@source(SUMMA_I_II_Q90_A4)
+rule NaturalLawRoute() strict {
+ label en official "Source-annotated intermediate reconstruction: NaturalLawRoute.";
+ when source_ad1_natural_insertion() and source_ad1_natural_cognoscibility() and natural_law_inserted_and_knowable();
+ then natural_insertion_promulgates_natural_law();
+}
+
+@source(SUMMA_I_II_Q90_A4)
+rule RemoteTransmission() strict {
+ label en official "Source-annotated intermediate reconstruction: RemoteTransmission.";
+ when source_ad2_transmission() and promulgation_actually_occurred() and remote_addressee_learns_by_others();
+ then remote_addressee_reached_by_transmission();
+}
+
+@source(SUMMA_I_II_Q90_A4)
+rule FutureWriting() strict {
+ label en official "Source-annotated intermediate reconstruction: FutureWriting.";
+ when source_ad3_future_extension() and source_ad3_reading() and present_promulgation_occurred() and durable_written_promulgation();
+ then future_addressee_reached_by_durable_writing();
+}
+
+@source(SUMMA_I_II_Q90_A4)
+rule FourConditions() strict {
+ label en official "Source-annotated intermediate reconstruction: FourConditions.";
+ when law_rationally_ordered() and law_to_common_good() and issued_by_public_caretaker() and promulgation_brings_rule_to_knowledge() and source_definition_four_conditions();
+ then four_conditions_present();
+}

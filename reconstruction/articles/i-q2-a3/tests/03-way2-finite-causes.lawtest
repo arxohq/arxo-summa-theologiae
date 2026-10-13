@@ -1,0 +1,35 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_q2_a3 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-q2-a3";
+
+test "two efficient-cause steps form a finite path from a designated start" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert designated_chain_start("root-A", "efficient-cause-order") { origin case_input; }
+        assert efficient_cause("root-A", "middle-A") { origin case_input; }
+        assert efficient_cause("middle-A", "effect-A") { origin case_input; }
+    }
+    evaluate truth(finite_cause_edge("root-A", "middle-A"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(finite_two_link_cause_path("root-A", "effect-A"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(finite_path_from_designated_start("root-A", "effect-A"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(first_efficient_cause("root-A"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+test "efficient self-causation conflicts with stipulated source order-irreflexivity" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert source_order_irreflexive("cause-X") { origin source_asserted; }
+        assert efficient_cause("cause-X", "cause-X") { origin case_input; }
+    }
+    evaluate truth(prior_to("cause-X", "cause-X"));
+    expect truth_status == BOTH;
+    expect evaluation_status == COMPUTED;
+}

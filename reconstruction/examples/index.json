@@ -1,0 +1,171 @@
+[
+  {
+    "name": "intended-death-objection",
+    "articleId": "ii-ii-q64-a7",
+    "sourceScenario": {
+      "title": "arg1/ad1: broad objection is supported when death is intended as a means",
+      "testIndex": 0,
+      "stepIndex": 0
+    },
+    "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/arg1%2Fad1%3A%20broad%20objection%20is%20supported%20when%20death%20is%20intended%20as%20a%20means/query/0",
+    "resultHash": "sha256:1219047753c0905a0e08b03c4f9664d076f85ccd8c93d57a1908e3bdab13b8a3",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "incidental-death-reply",
+    "articleId": "ii-ii-q64-a7",
+    "sourceScenario": {
+      "title": "arg1/ad1: explicit unintended death defeats that objection intermediate",
+      "testIndex": 1,
+      "stepIndex": 1
+    },
+    "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/arg1%2Fad1%3A%20explicit%20unintended%20death%20defeats%20that%20objection%20intermediate/query/1",
+    "resultHash": "sha256:279e7381c3aade383b66ce909021853ad761427b786510f24d378af9e635528e",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "conditional-defense",
+    "articleId": "ii-ii-q64-a7",
+    "sourceScenario": {
+      "title": "respondeo: preservation intention plus adjudicated proportion",
+      "testIndex": 0,
+      "stepIndex": 3
+    },
+    "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/respondeo%3A%20preservation%20intention%20plus%20adjudicated%20proportion/query/3",
+    "resultHash": "sha256:07d9c6d2f8c8566e31c4413ad046f296cb4cba3cdfdeefcf63e6eaa8094318ae",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "defense-awaits-judgment",
+    "articleId": "ii-ii-q64-a7",
+    "sourceScenario": {
+      "title": "respondeo: removing external proportion judgment removes that intermediate",
+      "testIndex": 1,
+      "stepIndex": 1
+    },
+    "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1",
+    "resultHash": "sha256:6c06e145a17a90bfdfe6db6219d700f9dba43fc17f82890afd666b1f2e511d06",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "conflicting-proportionality",
+    "articleId": "ii-ii-q64-a7",
+    "sourceScenario": {
+      "title": "conflicting external proportion judgments remain visible",
+      "testIndex": 3,
+      "stepIndex": 0
+    },
+    "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/conflicting%20external%20proportion%20judgments%20remain%20visible/query/0",
+    "resultHash": "sha256:adc688ff196d44da4332b8b4dbd471f631ed25a7c687c78c0bf6ece8779c5e7f",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "conflict-blocks-permission",
+    "articleId": "ii-ii-q64-a7",
+    "sourceScenario": {
+      "title": "conflicting external proportion judgments remain visible",
+      "testIndex": 3,
+      "stepIndex": 1
+    },
+    "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/conflicting%20external%20proportion%20judgments%20remain%20visible/query/1",
+    "resultHash": "sha256:cf907173dc619e82ee04ca71685028f9c2b954492a10c71b4b810383373abf96",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "clerical-irregularity",
+    "articleId": "ii-ii-q64-a7",
+    "sourceScenario": {
+      "title": "ad3: irregularity is separate from culpability",
+      "testIndex": 0,
+      "stepIndex": 0
+    },
+    "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/ad3%3A%20irregularity%20is%20separate%20from%20culpability/query/0",
+    "resultHash": "sha256:4f0a3da1db3e35313dc34531baa032ed3bf00e56d5f71edc5e6a3060dab795d2",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "common-happiness-with-bridge",
+    "articleId": "i-ii-q90-a2",
+    "sourceScenario": {
+      "title": "common happiness: positive and removal",
+      "testIndex": 0,
+      "stepIndex": 2
+    },
+    "queryId": "urn:la:aquinas:reconstruction:i-ii-q90-a2#test/common%20happiness%3A%20positive%20and%20removal/query/2",
+    "resultHash": "sha256:7ab426f24746fed793c93ca3f02b237c5f1c65be3dea4175b0a2f581f53dec6c",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "common-happiness-without-bridge",
+    "articleId": "i-ii-q90-a2",
+    "sourceScenario": {
+      "title": "common happiness: explicit removal blocks dependent conclusions",
+      "testIndex": 1,
+      "stepIndex": 1
+    },
+    "queryId": "urn:la:aquinas:reconstruction:i-ii-q90-a2#test/common%20happiness%3A%20explicit%20removal%20blocks%20dependent%20conclusions/query/1",
+    "resultHash": "sha256:92aab840a1d26a1ba0fa44eb7025f68f48afa93b150c5b2ae02195f26b5ce45d",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "canonical-authority-category",
+    "articleId": "i-q1-a8",
+    "sourceScenario": {
+      "title": "canonical revelation, church doctor, and philosopher support remain distinct",
+      "testIndex": 0,
+      "stepIndex": 0
+    },
+    "queryId": "urn:la:aquinas:reconstruction:i-q1-a8#test/canonical%20revelation%2C%20church%20doctor%2C%20and%20philosopher%20support%20remain%20distinct/query/0",
+    "resultHash": "sha256:87340acbd36fde4a2984e3306058ab432e17e63d24d65c26b729e1d26581e794",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "finite-actualization",
+    "articleId": "i-q2-a3",
+    "sourceScenario": {
+      "title": "potential and actual heat at the target state support a finite moved-by-another witness",
+      "testIndex": 0,
+      "stepIndex": 0
+    },
+    "queryId": "urn:la:aquinas:reconstruction:i-q2-a3#test/potential%20and%20actual%20heat%20at%20the%20target%20state%20support%20a%20finite%20moved-by-another%20witness/query/0",
+    "resultHash": "sha256:f573e168303cabf32ee9a15b437a66f639c86579af129cb232a255d1e1a91a75",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "first-mover-not-established",
+    "articleId": "i-q2-a3",
+    "sourceScenario": {
+      "title": "potential and actual heat at the target state support a finite moved-by-another witness",
+      "testIndex": 0,
+      "stepIndex": 2
+    },
+    "queryId": "urn:la:aquinas:reconstruction:i-q2-a3#test/potential%20and%20actual%20heat%20at%20the%20target%20state%20support%20a%20finite%20moved-by-another%20witness/query/2",
+    "resultHash": "sha256:3c3c527a285e30ea0a00808f517d81865bd07106028b898add5901486fd1e522",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  },
+  {
+    "name": "self-cause-order-conflict",
+    "articleId": "i-q2-a3",
+    "sourceScenario": {
+      "title": "efficient self-causation conflicts with stipulated source order-irreflexivity",
+      "testIndex": 1,
+      "stepIndex": 0
+    },
+    "queryId": "urn:la:aquinas:reconstruction:i-q2-a3#test/efficient%20self-causation%20conflicts%20with%20stipulated%20source%20order-irreflexivity/query/0",
+    "resultHash": "sha256:f87fdbc4a7adccf890b3c5dccadc22822559c62598eea28d36678b911ca2a1c9",
+    "recordedRuntime": "@arxo/cli@0.2.4",
+    "semantics": "law.core/0.2.11"
+  }
+]

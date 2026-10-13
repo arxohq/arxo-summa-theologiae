@@ -1,0 +1,22 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_q2_a3 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-q2-a3";
+
+test "potential and actual heat at the target state support a finite moved-by-another witness" {
+    given {
+        context { legal_time @2026-10-13; knowledge_time @2026-10-13T00:00:00Z; decision_time @2026-10-13T00:00:00Z; timezone "UTC"; }
+        assert state_before("wood", "temperature", "cold") { origin case_input; }
+        assert in_potency("wood", "temperature", "hot") { origin case_input; }
+        assert in_act("fire", "temperature", "hot") { origin case_input; }
+        assert actualizes("fire", "wood", "temperature", "cold", "hot") { origin case_input; }
+    }
+    evaluate truth(finite_actualization("wood", "temperature", "fire", "cold", "hot"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(moved_by_another("wood", "temperature", "fire"));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(first_mover("fire"));
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}

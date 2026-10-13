@@ -1,0 +1,679 @@
+{
+  "format": "arxo.summa-argument-reconstruction/0.1",
+  "articleId": "ii-ii-q64-a7",
+  "modelSpec": "la.aquinas.reconstruct.ii_ii_q64_a7@0.1.0",
+  "sourceSections": [
+    {
+      "section": "arg. 1",
+      "obligations": [
+        "arg1-augustine-scope"
+      ]
+    },
+    {
+      "section": "arg. 2",
+      "obligations": [
+        "arg2-bodily-life-objection"
+      ]
+    },
+    {
+      "section": "arg. 3",
+      "obligations": [
+        "arg3-irregularity-objection"
+      ]
+    },
+    {
+      "section": "arg. 4",
+      "obligations": [
+        "arg4-spiritual-life-comparison"
+      ]
+    },
+    {
+      "section": "arg. 5",
+      "obligations": [
+        "arg5-defense-and-fruit"
+      ]
+    },
+    {
+      "section": "s. c.",
+      "obligations": [
+        "sedcontra-house-life-comparison"
+      ]
+    },
+    {
+      "section": "co.",
+      "obligations": [
+        "co-means-entails-intention",
+        "co-two-effects",
+        "co-intention-species",
+        "co-proportionality",
+        "co-moderate-defense",
+        "co-self-life-priority",
+        "co-public-authority"
+      ]
+    },
+    {
+      "section": "ad 1",
+      "obligations": [
+        "arg1-augustine-scope"
+      ]
+    },
+    {
+      "section": "ad 2",
+      "obligations": [
+        "arg2-intention-scope"
+      ]
+    },
+    {
+      "section": "ad 3",
+      "obligations": [
+        "ad3-irregularity-versus-culpability"
+      ]
+    },
+    {
+      "section": "ad 4",
+      "obligations": [
+        "ad4-necessity-comparison"
+      ]
+    },
+    {
+      "section": "ad 5",
+      "obligations": [
+        "ad5-revenge-scope"
+      ]
+    }
+  ],
+  "premises": [
+    {
+      "id": "p-arg1-augustine",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 1"
+      ],
+      "statement": "Augustine's cited counsel is presented as concerning killing to avoid being killed, with a public-role qualification.",
+      "formalSymbols": [
+        "source_arg1_augustine_counsel"
+      ]
+    },
+    {
+      "id": "p-arg2",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 2"
+      ],
+      "statement": "The second objection treats bodily life as a loss one may suffer unwillingly, and therefore contemptible for its argument.",
+      "formalSymbols": [
+        "source_arg2_contemptible_loss"
+      ]
+    },
+    {
+      "id": "p-arg3",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 3"
+      ],
+      "statement": "The third objection reads a clerical warning as denying license to kill.",
+      "formalSymbols": [
+        "source_arg3_clerical_warning"
+      ]
+    },
+    {
+      "id": "p-arg4",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 4"
+      ],
+      "statement": "The fourth objection invokes spiritual-life priority and compares homicide with other mortal sins.",
+      "formalSymbols": [
+        "source_arg4_spiritual_life_priority"
+      ]
+    },
+    {
+      "id": "p-arg5",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 5"
+      ],
+      "statement": "The fifth objection invokes the tree-and-fruit inference about defense and its effect.",
+      "formalSymbols": [
+        "source_arg5_tree_and_fruit"
+      ]
+    },
+    {
+      "id": "p-sc",
+      "kind": "source_principle",
+      "sections": [
+        "s. c."
+      ],
+      "statement": "The sed contra compares defense of a house with defense of life.",
+      "formalSymbols": [
+        "source_sc_householder_comparison"
+      ]
+    },
+    {
+      "id": "p-co-effects",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "One act may have two effects, one intended and one beyond intention.",
+      "formalSymbols": [
+        "source_co_two_effects"
+      ]
+    },
+    {
+      "id": "p-co-intention",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Moral acts receive their species from what is intended rather than an incidental effect.",
+      "formalSymbols": [
+        "source_co_intention_species"
+      ]
+    },
+    {
+      "id": "p-co-proportion",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Good intention does not excuse force disproportionate to its end.",
+      "formalSymbols": [
+        "source_co_proportion"
+      ]
+    },
+    {
+      "id": "p-co-public",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Intended killing is reserved to public authority for the common good, and public actors may still act from private passion.",
+      "formalSymbols": [
+        "source_co_public_authority"
+      ]
+    },
+    {
+      "id": "p-co-own-life",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The respondeo states a comparative priority for providing for one's own life over the attacker's life.",
+      "formalSymbols": [
+        "source_co_self_life_priority"
+      ]
+    },
+    {
+      "id": "p-ad1",
+      "kind": "source_principle",
+      "sections": [
+        "ad 1"
+      ],
+      "statement": "Augustine's authority is scoped to intending to kill to free oneself from death.",
+      "formalSymbols": [
+        "source_ad1_augustine_scope"
+      ]
+    },
+    {
+      "id": "p-ad2",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "The second reply reads “for these things” as designating intention.",
+      "formalSymbols": [
+        "source_ad2_intention"
+      ]
+    },
+    {
+      "id": "p-ad3",
+      "kind": "source_principle",
+      "sections": [
+        "ad 3"
+      ],
+      "statement": "Irregularity follows a homicide act even without sin or intended killing.",
+      "formalSymbols": [
+        "source_ad3_irregularity"
+      ]
+    },
+    {
+      "id": "p-ad4",
+      "kind": "source_principle",
+      "sections": [
+        "ad 4"
+      ],
+      "statement": "Fornication/adultery is not ordered by necessity to preserving one's life, unlike an act from which homicide sometimes follows.",
+      "formalSymbols": [
+        "source_ad4_necessity_comparison"
+      ]
+    },
+    {
+      "id": "p-ad5",
+      "kind": "source_principle",
+      "sections": [
+        "ad 5"
+      ],
+      "statement": "The fifth reply reads the cited prohibition as addressing vindictive retaliation.",
+      "formalSymbols": [
+        "source_ad5_revenge_scope"
+      ]
+    }
+  ],
+  "obligations": [
+    {
+      "id": "arg1-augustine-scope",
+      "statement": "Represent the arg. 1 cited premise with the ad 1 scope restriction: the actor intends the attacker's death as a means of freeing himself from his own death; classify an occurring but explicitly not intended death separately.",
+      "sections": [
+        "arg. 1",
+        "ad 1"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_arg1_augustine_counsel",
+        "source_ad1_augustine_scope",
+        "self_defense_act",
+        "effect_occurs",
+        "intended_effect",
+        "augustine_objection_applies",
+        "death_intended_as_means_of_self_preservation",
+        "augustine_intended_killing_scope",
+        "killing_is_incidental",
+        "MeansEntailsIntent"
+      ],
+      "tests": [
+        "01-arg1-ad1-intended-scope.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "Runnable native argumentation, explicit-negative, unknown-intention, and means-versus-negative conflict scenarios are present. The death-as-means case remains an input; the lexical bridge to intended death is a conditional reconstruction, not an independent proof of Augustine or the reply.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "arg2-bodily-life-objection",
+      "statement": "Account for the second objection's stated premise that bodily life is among losses one can suffer unwillingly and should be contemned in its reasoning.",
+      "sections": [
+        "arg. 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+      "formalSymbols": [
+        "source_arg2_contemptible_loss"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg3-irregularity-objection",
+      "statement": "Account for the third objection's use of the clerical irregularity warning as an objection to permission.",
+      "sections": [
+        "arg. 3"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+      "formalSymbols": [
+        "source_arg3_clerical_warning"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg4-spiritual-life-comparison",
+      "statement": "Account for the fourth objection's spiritual-life priority and comparison with other mortal sins.",
+      "sections": [
+        "arg. 4"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+      "formalSymbols": [
+        "source_arg4_spiritual_life_priority"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg5-defense-and-fruit",
+      "statement": "Account for the fifth objection's inference from a purportedly bad defense to its effect.",
+      "sections": [
+        "arg. 5"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+      "formalSymbols": [
+        "source_arg5_tree_and_fruit"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "sedcontra-house-life-comparison",
+      "statement": "Account for the sed contra comparison from defense of a house to defense of life.",
+      "sections": [
+        "s. c."
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+      "formalSymbols": [
+        "source_sc_householder_comparison"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "co-means-entails-intention",
+      "statement": "Represent the conservative lexical bridge that an actor who intends death as a means thereby intends death, while preserving a conflict with explicit negative intention evidence.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "death_intended_as_means_of_self_preservation",
+        "MeansEntailsIntent",
+        "intended_effect"
+      ],
+      "tests": [
+        "01-arg1-ad1-intended-scope.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "A strict transition and BOTH-conflict scenario are implemented. The bridge is a declared reconstruction premise grounded in the source wording and does not establish the source principle independently.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "co-two-effects",
+      "statement": "Represent an act with an intended effect and a distinct occurring effect beyond intention.",
+      "sections": [
+        "co."
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_co_two_effects",
+        "intended_effect",
+        "effect_occurs",
+        "killing_is_incidental",
+        "MeansEntailsIntent"
+      ],
+      "tests": [
+        "01-arg1-ad1-intended-scope.lawtest",
+        "02-co-moderate-defense.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "Finite effect classification is encoded; it does not establish a universal metaphysical principle.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "co-intention-species",
+      "statement": "Record the respondeo premise that moral act species tracks intention, represented here by an intermediate intended-end classification.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_co_intention_species",
+        "defense_intentional_end"
+      ],
+      "tests": [
+        "02-co-moderate-defense.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The source-attested philosophical principle is an assumption, and the intermediate does not decide the protected conclusion.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "co-proportionality",
+      "statement": "Represent the condition that a good intention may be vitiated by force disproportionate to its end.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_co_proportion",
+        "vis_moderata"
+      ],
+      "tests": [
+        "02-co-moderate-defense.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "Claim level is CONDITIONAL on an external adjudicated finding of vis_moderata or its explicit negation; without either answer the query must remain REQUIRES_JUDGMENT.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "co-moderate-defense",
+      "statement": "Classify conditional licit defense only within an explicit self-defense act, with own-life preservation intention, incidental death, and an external proportionate-force judgment; the intended-killing public-authority route also requires that act scope and the same judgment.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "proportionate_defense_conditions",
+        "defensio_licita",
+        "defensio_illicita",
+        "self_defense_act",
+        "public_authority_common_good_route"
+      ],
+      "tests": [
+        "02-co-moderate-defense.lawtest",
+        "07-intended-killing-public-authority.lawtest"
+      ],
+      "dependsOn": [
+        "co-proportionality"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The conditional conclusion depends on declared source premises, an explicit self-defense act, represented intention/effect facts, and an external adjudicated vis_moderata finding. Absence requests judgment; BOTH remains visible on the judgment and blocks downstream conclusions under §§65–66.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "co-self-life-priority",
+      "statement": "Represent the respondeo's comparative premise that one need not omit moderate defense solely to avoid the assailant's death.",
+      "sections": [
+        "co."
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source principle and its comparative role are registered, but no independent bridge inference is encoded. This is an open reconstruction gap rather than an engine semantic limitation.",
+      "formalSymbols": [
+        "source_co_self_life_priority"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "co-public-authority",
+      "statement": "Keep intended killing, public authority, common-good orientation, private passion, and self-defense scope distinct; the conditional permission chain additionally requires an external moderate-force judgment.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "public_authority_common_good_route",
+        "defensio_licita",
+        "occisio_intenta_illicita",
+        "self_defense_act",
+        "vis_moderata"
+      ],
+      "tests": [
+        "03-co-public-authority-and-passion.lawtest",
+        "07-intended-killing-public-authority.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The intermediate public-authority/common-good route is distinct from private passion. Final conditional permission is derived only with an explicit self-defense act and vis_moderata; intended private killing is classified illicit only within the self-defense scope.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "arg2-intention-scope",
+      "statement": "Represent the ad 2 reply's reading of “for these things” as marking intention, aligned with ad 1.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+      "formalSymbols": [
+        "source_ad2_intention"
+      ],
+      "tests": [],
+      "dependsOn": [
+        "arg1-augustine-scope"
+      ]
+    },
+    {
+      "id": "ad3-irregularity-versus-culpability",
+      "statement": "Represent that irregularity may attach to a cleric's homicide act even without intended killing; preserve any culpability assessment as a separate external case finding.",
+      "sections": [
+        "ad 3"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "irregularity_attaches",
+        "moral_culpability"
+      ],
+      "tests": [
+        "04-ad3-irregularity-not-culpability.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The test records irregularity and an external absence-of-culpability finding separately; the model never equates them.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "ad4-necessity-comparison",
+      "statement": "Keep the reply's necessity distinction between fornication/adultery and a defensive act from which homicide may follow.",
+      "sections": [
+        "ad 4"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "fornication_or_adultery_not_necessary_for_life",
+        "defense_effect_can_follow_from_necessity"
+      ],
+      "tests": [
+        "05-ad4-necessity-distinction.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "Two typed intermediate findings are kept distinct; this does not resolve the objection's final normative comparison.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "ad5-revenge-scope",
+      "statement": "Represent the ad 5 reply's restriction to defense accompanied by vindictive retaliation.",
+      "sections": [
+        "ad 5"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "vindictive_retaliation",
+        "defense_with_vindictive_retaliation"
+      ],
+      "tests": [
+        "06-ad5-revenge-scope.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The branch classifies revenge motive, not ordinary moderate defense or a final permission status.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    }
+  ],
+  "replyTargets": [
+    {
+      "reply": "ad 1",
+      "objection": "arg. 1",
+      "target": "Augustine's warning about killing in self-preservation",
+      "mechanism": "scope restriction to the case in which the actor intends to kill to escape death; an occurring unintended death receives a distinct intermediate classification",
+      "obligations": [
+        "arg1-augustine-scope"
+      ]
+    },
+    {
+      "reply": "ad 2",
+      "objection": "arg. 2",
+      "target": "the phrase “for these things” in the cited authority",
+      "mechanism": "intention-scope clarification aligned with ad 1; no final objection resolution asserted",
+      "obligations": [
+        "arg2-intention-scope"
+      ]
+    },
+    {
+      "reply": "ad 3",
+      "objection": "arg. 3",
+      "target": "inference from clerical irregularity to a general moral prohibition",
+      "mechanism": "separate institutional irregularity classification from external moral-culpability findings",
+      "obligations": [
+        "ad3-irregularity-versus-culpability"
+      ]
+    },
+    {
+      "reply": "ad 4",
+      "objection": "arg. 4",
+      "target": "comparison of defensive homicide with fornication/adultery to preserve life",
+      "mechanism": "retain the reply as two typed necessity-related intermediates; no final moral ranking is inferred",
+      "obligations": [
+        "ad4-necessity-comparison"
+      ]
+    },
+    {
+      "reply": "ad 5",
+      "objection": "arg. 5",
+      "target": "the cited prohibition on defending oneself",
+      "mechanism": "scope the cited prohibition to vindictive retaliation, separately from the defensive act classification",
+      "obligations": [
+        "ad5-revenge-scope"
+      ]
+    }
+  ],
+  "protectedConclusions": [
+    "augustine_objection_applies",
+    "augustine_intended_killing_scope",
+    "killing_is_incidental",
+    "defense_intentional_end",
+    "proportionate_defense_conditions",
+    "excessive_defense_conditions",
+    "public_authority_common_good_route",
+    "defensio_licita",
+    "defensio_illicita",
+    "occisio_intenta_illicita",
+    "irregularity_attaches",
+    "fornication_or_adultery_not_necessary_for_life",
+    "defense_effect_can_follow_from_necessity",
+    "defense_with_vindictive_retaliation"
+  ],
+  "limitations": [
+    "Every source_principle is an expressly declared assumption attached through model-level @source metadata to a named SUMMA_Q64_A7_* section anchor; this is model provenance, not a claim that native proof sourceAnchors are populated or that a philosophical premise is independently proven.",
+    "The death-as-means to intended-death transition is a conservative lexical bridge declared by the reconstruction; explicit negative intention remains visible as BOTH and does not silently count as incidental death.",
+    "The sed contra house-to-life analogy is inventoried as a source premise; no transfer rule or resolution of its bridge is asserted.",
+    "The ad 3 model keeps irregularitas distinct from moral culpability by querying moral_culpability through an explicit negative literal.",
+    "Public authority and common-good orientation remain separate from private passion; a public role does not erase private passion. Conditional permission branches also require self_defense_act and the external vis_moderata judgment.",
+    "The model distinguishes intended killing from an unintended death, and revenge from moderated defense.",
+    "Finite scenarios cannot establish a universal no-regress principle or discharge unrepresented philosophical bridges.",
+    "This is an experimental article-local reconstruction, not full-article acceptance; fullArticleVerified remains false.",
+    "The Augustine scope path requires a case fact that killing is intended as a means to free oneself from death; generic intended death alone is insufficient.",
+    "Incidental killing uses an explicit negative literal for intended_effect; absence of a positive intent fact is not treated as evidence of non-intention.",
+    "The three conditional normative heads are derived rules only; no fixture asserts them as facts.",
+    "The argumentation query models only the scoped arg. 1/ad 1 intermediate; it makes no hard-coded priority claim and must be reviewed with skippedRules and resource-limit output when execution is available.",
+    "The source principle favoring provision for one’s own life is registered as a source premise; its independent justification remains open.",
+    "Proportionality is one external adjudicated input vis_moderata: absence requests judgment; explicit negation supports the excessive-force branch; a BOTH conflict is retained on the judgment itself and blocks both downstream branches under §§65–66, leaving their conclusions NEITHER/COMPUTED.",
+    "The arg. 1/ad 1 argumentation tests expose the queried class, but their simple test summaries do not retain skippedRules; coordinator review requires a canonical argumentation document before promotion.",
+    "A prior expectation that downstream conclusions were TRUE_ONLY under a BOTH vis_moderata judgment was corrected to NEITHER/COMPUTED in accordance with §§65–66; the direct BOTH judgment query is retained. The earlier failed snapshot and this correction history are preserved.",
+    "Selected-binary evidence: the revised model check passed, and 14 scenarios across the three changed fixtures passed after scope/bridge corrections. Four unchanged fixtures retain prior evidence for 9 scenarios; the combined article-local evidence is 23 scenarios, not full article acceptance. The corpus runtime lockset remains unpinned."
+  ],
+  "fullArticleVerified": false,
+  "review": {
+    "sourceReview": "coordinator plus independent Luna read-only review",
+    "runtimeEvidence": "Article-local published CLI check/lower/test and native repeated evaluation documents; final aggregate report is generated outside Git.",
+    "engineCertificate": "not_run",
+    "nativeProofSourceAnchors": "No native source-anchor certificate is claimed; model annotations and pinned section mapping provide project-level provenance.",
+    "fullArticleVerified": false
+  }
+}

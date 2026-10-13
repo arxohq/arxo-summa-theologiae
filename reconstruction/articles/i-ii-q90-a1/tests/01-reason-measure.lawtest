@@ -1,0 +1,56 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a1 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a1";
+
+test "measure: positive and removal" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "p1": source_co_reason_orders_end() { origin case_input; }
+  assert "p2": source_co_principle_measures_genus() { origin case_input; }
+  assert "p3": source_co_rule_measure() { origin case_input; }
+  assert "p4": bridge_reason_as_principle_measures_human_acts() { origin case_input; }
+ }
+ evaluate truth(reason_as_rule_measure());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+ evaluate truth(law_as_practical_reason_measure());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+ evaluate argumentation(law_as_practical_reason_measure());
+ expect issues_within(error);
+ expect argumentation_class(SKEPTICALLY_ACCEPTED);
+}
+
+test "measure: explicit removal blocks dependent conclusions" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "r1": source_co_principle_measures_genus() { origin case_input; }
+  assert "r2": source_co_rule_measure() { origin case_input; }
+  assert "r2b": bridge_reason_as_principle_measures_human_acts() { origin case_input; }
+  assert "removed": not source_co_reason_orders_end() { origin case_input; }
+ }
+ evaluate truth(reason_as_rule_measure());
+ expect result_kind == PROPOSITION;
+ expect truth_status == NEITHER;
+ expect evaluation_status == COMPUTED;
+ evaluate truth(law_as_practical_reason_measure());
+ expect result_kind == PROPOSITION;
+ expect truth_status == NEITHER;
+ expect evaluation_status == COMPUTED;
+}
+
+test "law as reason-measure remains conditional on constitutive bridge" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "p1": source_co_reason_orders_end() { origin case_input; }
+  assert "p2": source_co_principle_measures_genus() { origin case_input; }
+  assert "p3": source_co_rule_measure() { origin case_input; }
+  assert "absent-bridge": not bridge_reason_as_principle_measures_human_acts() { origin case_input; }
+ }
+ evaluate truth(law_as_practical_reason_measure());
+ expect result_kind == PROPOSITION;
+ expect truth_status == NEITHER;
+ expect evaluation_status == COMPUTED;
+}

@@ -1,0 +1,59 @@
+{
+  "articleId": "i-q1-a8",
+  "part": "I",
+  "question": 1,
+  "article": 8,
+  "sourceFile": "packages/i-sacra-doctrina/sources/summa-theologiae-i-sacra-doctrina/q1.la.txt",
+  "sourceFileSha256": "bc7132a2af64725d4466fbebc8b3f35fc3e6509ba2d869ac4dd1f57dc9245f5e",
+  "sourceUrl": "https://www.corpusthomisticum.org/sth1001.html",
+  "sections": [
+    {
+      "id": "arg. 1",
+      "heading": "@@ I q. 1 a. 8 arg. 1",
+      "lineStart": 133,
+      "text": "@@ I q. 1 a. 8 arg. 1\nAd octavum sic proceditur. Videtur quod haec doctrina non sit argumentativa. Dicit enim Ambrosius in libro I de fide Catholica, tolle argumenta, ubi fides quaeritur. Sed in hac doctrina praecipue fides quaeritur, unde dicitur Ioan. XX, haec scripta sunt ut credatis. Ergo sacra doctrina non est argumentativa.\n\n",
+      "lineEnd": 135,
+      "sha256": "9dd89d50f7373d5f9c018197259b4c82f42829708deffe6061ebf289e9a47463"
+    },
+    {
+      "id": "arg. 2",
+      "heading": "@@ I q. 1 a. 8 arg. 2",
+      "lineStart": 136,
+      "text": "@@ I q. 1 a. 8 arg. 2\nPraeterea, si sit argumentativa, aut argumentatur ex auctoritate, aut ex ratione. Si ex auctoritate, non videtur hoc congruere eius dignitati, nam locus ab auctoritate est infirmissimus, secundum Boetium. Si etiam ex ratione, hoc non congruit eius fini, quia secundum Gregorium in homilia, fides non habet meritum, ubi humana ratio praebet experimentum. Ergo sacra doctrina non est argumentativa.\n\n",
+      "lineEnd": 138,
+      "sha256": "43c87ec26c598c62de9c0879af8cb0096980f6168e939daad27fa114f13da34d"
+    },
+    {
+      "id": "s. c.",
+      "heading": "@@ I q. 1 a. 8 s. c.",
+      "lineStart": 139,
+      "text": "@@ I q. 1 a. 8 s. c.\nSed contra est quod dicitur ad Titum I, de episcopo, amplectentem eum qui secundum doctrinam est, fidelem sermonem, ut potens sit exhortari in doctrina sana, et eos qui contradicunt arguere.\n\n",
+      "lineEnd": 141,
+      "sha256": "3cc61aed9ff38783245e6d36ff2baddb66a5e5db4603caa2fefaa2a6012175c2"
+    },
+    {
+      "id": "co.",
+      "heading": "@@ I q. 1 a. 8 co.",
+      "lineStart": 142,
+      "text": "@@ I q. 1 a. 8 co.\nRespondeo dicendum quod, sicut aliae scientiae non argumentantur ad sua principia probanda, sed ex principiis argumentantur ad ostendendum alia in ipsis scientiis; ita haec doctrina non argumentatur ad sua principia probanda, quae sunt articuli fidei; sed ex eis procedit ad aliquid aliud ostendendum; sicut apostolus, I ad Cor. XV, ex resurrectione Christi argumentatur ad resurrectionem communem probandam. Sed tamen considerandum est in scientiis philosophicis, quod inferiores scientiae nec probant sua principia, nec contra negantem principia disputant, sed hoc relinquunt superiori scientiae, suprema vero inter eas, scilicet metaphysica, disputat contra negantem sua principia, si adversarius aliquid concedit, si autem nihil concedit, non potest cum eo disputare, potest tamen solvere rationes ipsius. Unde sacra Scriptura, cum non habeat superiorem, disputat cum negante sua principia, argumentando quidem, si adversarius aliquid concedat eorum quae per divinam revelationem habentur; sicut per auctoritates sacrae doctrinae disputamus contra haereticos, et per unum articulum contra negantes alium. Si vero adversarius nihil credat eorum quae divinitus revelantur, non remanet amplius via ad probandum articulos fidei per rationes, sed ad solvendum rationes, si quas inducit, contra fidem. Cum enim fides infallibili veritati innitatur, impossibile autem sit de vero demonstrari contrarium, manifestum est probationes quae contra fidem inducuntur, non esse demonstrationes, sed solubilia argumenta.\n\n",
+      "lineEnd": 144,
+      "sha256": "1ff81e116bb94fc689656a0d064015641d7c5b48b59b5486a9486c0db6355cb6"
+    },
+    {
+      "id": "ad 1",
+      "heading": "@@ I q. 1 a. 8 ad 1",
+      "lineStart": 145,
+      "text": "@@ I q. 1 a. 8 ad 1\nAd primum ergo dicendum quod, licet argumenta rationis humanae non habeant locum ad probandum quae fidei sunt, tamen ex articulis fidei haec doctrina ad alia argumentatur, ut dictum est.\n\n",
+      "lineEnd": 147,
+      "sha256": "8b423c6062a020c46e62f396d805ea1ceeea236a70e4cb3e1e37b64bca45e6ae"
+    },
+    {
+      "id": "ad 2",
+      "heading": "@@ I q. 1 a. 8 ad 2",
+      "lineStart": 148,
+      "text": "@@ I q. 1 a. 8 ad 2\nAd secundum dicendum quod argumentari ex auctoritate est maxime proprium huius doctrinae, eo quod principia huius doctrinae per revelationem habentur, et sic oportet quod credatur auctoritati eorum quibus revelatio facta est. Nec hoc derogat dignitati huius doctrinae, nam licet locus ab auctoritate quae fundatur super ratione humana, sit infirmissimus; locus tamen ab auctoritate quae fundatur super revelatione divina, est efficacissimus. Utitur tamen sacra doctrina etiam ratione humana, non quidem ad probandum fidem, quia per hoc tolleretur meritum fidei; sed ad manifestandum aliqua alia quae traduntur in hac doctrina. Cum enim gratia non tollat naturam, sed perficiat, oportet quod naturalis ratio subserviat fidei; sicut et naturalis inclinatio voluntatis obsequitur caritati. Unde et apostolus dicit, II ad Cor. X, in captivitatem redigentes omnem intellectum in obsequium Christi. Et inde est quod etiam auctoritatibus philosophorum sacra doctrina utitur, ubi per rationem naturalem veritatem cognoscere potuerunt; sicut Paulus, actuum XVII, inducit verbum Arati, dicens, sicut et quidam poetarum vestrorum dixerunt, genus Dei sumus. Sed tamen sacra doctrina huiusmodi auctoritatibus utitur quasi extraneis argumentis, et probabilibus. Auctoritatibus autem canonicae Scripturae utitur proprie, ex necessitate argumentando. Auctoritatibus autem aliorum doctorum Ecclesiae, quasi arguendo ex propriis, sed probabiliter. Innititur enim fides nostra revelationi apostolis et prophetis factae, qui canonicos libros scripserunt, non autem revelationi, si qua fuit aliis doctoribus facta. Unde dicit Augustinus, in epistola ad Hieronymum, solis eis Scripturarum libris qui canonici appellantur, didici hunc honorem deferre, ut nullum auctorem eorum in scribendo errasse aliquid firmissime credam. Alios autem ita lego, ut, quantalibet sanctitate doctrinaque praepolleant, non ideo verum putem, quod ipsi ita senserunt vel scripserunt.\n\n",
+      "lineEnd": 150,
+      "sha256": "229aa795e8d02d938e40fe1de803c6054e17c83133f2d06f4c106a0ad764147c"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [
+      {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "wood"
+      },
+      {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "temperature"
+      },
+      {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "fire"
+      },
+      {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "cold"
+      },
+      {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "hot"
+      }
+    ],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization"
+  },
+  "queryId": "urn:la:aquinas:reconstruction:i-q2-a3#test/potential%20and%20actual%20heat%20at%20the%20target%20state%20support%20a%20finite%20moved-by-another%20witness/query/0"
+}

@@ -1,0 +1,19 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [
+      {
+        "id": "urn:case:q64a7:p1",
+        "kind": "entity_ref"
+      },
+      {
+        "id": "urn:case:q64a7:act1",
+        "kind": "entity_ref"
+      }
+    ],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_licita"
+  },
+  "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/conflicting%20external%20proportion%20judgments%20remain%20visible/query/1"
+}

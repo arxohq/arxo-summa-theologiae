@@ -1,0 +1,36 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a3 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a3";
+
+test "private advice: positive and removal" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "p1": source_ad2_private_admonition() { origin case_input; }
+  assert "p2": private_admonition() { origin case_input; }
+  assert "private-no-coercion": not private_coercive_power() { origin case_input; }
+  assert "p3": source_ad1_participation() { origin case_input; }
+  assert "p4": private_inclination_under_regulator() { origin case_input; }
+ }
+ evaluate truth(private_admonition_only());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+ evaluate truth(private_participates_in_received_order());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+}
+
+test "private advice: explicit removal blocks dependent conclusions" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "r1": source_ad2_private_admonition() { origin case_input; }
+  assert "r2": source_ad1_participation() { origin case_input; }
+  assert "r3": private_inclination_under_regulator() { origin case_input; }
+  assert "removed": not private_admonition() { origin case_input; }
+ }
+ evaluate truth(private_admonition_only());
+ expect result_kind == PROPOSITION;
+ expect truth_status == NEITHER;
+ expect evaluation_status == COMPUTED;
+}

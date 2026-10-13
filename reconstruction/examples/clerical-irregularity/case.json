@@ -1,0 +1,103 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:bfbb373d31599364ea5b1d0dc167da30667f5d179345f369bbe23e14cca1f1a0",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#cleric",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#clerical_status"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    },
+    {
+      "contentHash": "sha256:c87f8ea64fca711c32086843c3d568076d6662b976dd0e3ba5a4b7153e566f70",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide-act",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide_act_occurs"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    },
+    {
+      "contentHash": "sha256:93acc30c12a973e00503c9ce16e57b273df0ee4d70f34f322030cce84002b747",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#no-intent-to-kill",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    },
+    {
+      "contentHash": "sha256:905ac8583c7b0688c2d4b293bb4c071c545f1263ccdfc037fbb41ed0567920af",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#no-culpability",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#moral_culpability"
+      },
+      "origin": "adjudicated",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-10-13T12:00:00Z",
+    "knowledgeTime": "2026-10-13T12:00:00Z",
+    "legalTime": "2026-10-13",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

@@ -1,0 +1,164 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a2 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a2";
+
+source SUMMA_I_II_Q90_A2 {
+ kind doctrine;
+ jurisdiction "none";
+ authority "Thomas Aquinas, Summa Theologiae";
+ number "I-II, q. 90, a. 2";
+ label en official "Pinned Latin source in sibling immutable source.txt and source-pin.json";
+}
+
+pub relation source_co_part_whole() kind normative_fact {
+ label en official "A part is ordered to a whole as imperfect to perfect.";
+}
+
+pub relation source_co_person_part_community() kind normative_fact {
+ label en official "An individual person is a part of a complete community.";
+}
+
+pub relation source_co_community_perfect() kind normative_fact {
+ label en official "The city is the complete political community.";
+}
+
+pub relation source_ad1_application() kind normative_fact {
+ label en official "Particular commands apply a law whose order remains to common good.";
+}
+
+pub relation source_ad2_final_cause() kind normative_fact {
+ label en official "A particular act can refer to common good through a common final cause, not a common genus or species.";
+}
+
+pub relation source_ad3_practical_resolution() kind normative_fact {
+ label en official "Practical reasoning is resolved to its ultimate end.";
+}
+
+pub relation arg1_particular_precepts() kind normative_fact {
+ label en official "The objection infers from singular commands that law need not aim at common good.";
+}
+
+pub relation arg2_particular_acts() kind normative_fact {
+ label en official "The objection infers from particular acts that law aims at a particular good.";
+}
+
+pub relation arg3_private_good() kind normative_fact {
+ label en official "The objection invokes rational private goods against an exclusively common end.";
+}
+
+pub relation sedcontra_common_utility() kind normative_fact {
+ label en official "The sed contra cites law written for common civic utility rather than private advantage.";
+}
+
+pub relation particular_act() kind empirical {
+ label en official "Explicit case input: particular act.";
+}
+
+pub relation practical_reason_resolves_to_end() kind empirical {
+ label en official "Explicit case input: practical reason resolves to end.";
+}
+
+pub relation happiness_as_ultimate_end() kind normative_fact {
+ label en official "Intermediate relation: happiness as ultimate end.";
+}
+
+pub relation person_ordered_to_community_whole() kind normative_fact {
+ label en official "Intermediate relation: person ordered to community whole.";
+}
+
+pub relation law_ordered_to_common_happiness() kind normative_fact {
+ label en official "Intermediate relation: law ordered to common happiness.";
+}
+
+pub relation particular_precept_ordered_to_common_good() kind normative_fact {
+ label en official "Intermediate relation: particular precept ordered to common good.";
+}
+
+pub relation particular_act_referred_by_final_cause() kind normative_fact {
+ label en official "Intermediate relation: particular act referred by final cause.";
+}
+
+pub relation practical_reason_resolved_to_common_end() kind normative_fact {
+ label en official "Intermediate relation: practical reason resolved to common end.";
+}
+
+pub relation particular_good_has_law_character() kind normative_fact {
+ label en official "Intermediate relation: particular good has law character.";
+}
+
+pub relation particular_command_applies_law() kind empirical {
+ label en official "Explicit case input: particular command applies law.";
+}
+
+pub relation particular_good() kind empirical {
+ label en official "Explicit case input: particular good.";
+}
+
+pub relation source_co_first_principle_practical_is_ultimate_end() kind normative_fact {
+ label en official "Source principle: the first principle in practical matters is the ultimate end.";
+}
+
+pub relation source_co_human_life_ultimate_end_happiness() kind normative_fact {
+ label en official "Source principle: happiness or beatitude is the ultimate end of human life.";
+}
+
+pub relation source_prior_human_ultimate_end_is_happiness() kind normative_fact {
+ label en official "Explicit source cross-reference premise from the prior treatment of the human ultimate end; imported as an assumption, not a verified lemma.";
+}
+
+pub relation source_co_focal_analogy() kind normative_fact {
+ label en official "Source principle: what is said most of a kind is its principle, and other cases are called so by ordered participation, illustrated by fire.";
+}
+
+pub relation bridge_law_end_tracks_complete_community_happiness() kind normative_fact {
+ label en official "Reconstructed bridge assumption: because persons are parts of the complete political community, a law’s ultimate-end order tracks the happiness of that whole community.";
+}
+
+@source(SUMMA_I_II_Q90_A2)
+rule UltimateHappiness() strict {
+ label en official "Source-annotated intermediate reconstruction: UltimateHappiness.";
+ when source_co_first_principle_practical_is_ultimate_end() and source_co_human_life_ultimate_end_happiness() and source_prior_human_ultimate_end_is_happiness();
+ then happiness_as_ultimate_end();
+}
+
+@source(SUMMA_I_II_Q90_A2)
+rule PersonCommunityOrder() strict {
+ label en official "Source-annotated intermediate reconstruction: PersonCommunityOrder.";
+ when source_co_part_whole() and source_co_person_part_community() and source_co_community_perfect();
+ then person_ordered_to_community_whole();
+}
+
+@source(SUMMA_I_II_Q90_A2)
+rule CommonHappinessOrder() strict {
+ label en official "Source-annotated intermediate reconstruction: CommonHappinessOrder.";
+ when happiness_as_ultimate_end() and person_ordered_to_community_whole() and source_co_focal_analogy() and bridge_law_end_tracks_complete_community_happiness();
+ then law_ordered_to_common_happiness();
+}
+
+@source(SUMMA_I_II_Q90_A2)
+rule ParticularPrecept() strict {
+ label en official "Source-annotated intermediate reconstruction: ParticularPrecept.";
+ when source_ad1_application() and particular_command_applies_law() and law_ordered_to_common_happiness();
+ then particular_precept_ordered_to_common_good();
+}
+
+@source(SUMMA_I_II_Q90_A2)
+rule FinalCauseParticular() strict {
+ label en official "Source-annotated intermediate reconstruction: FinalCauseParticular.";
+ when source_ad2_final_cause() and particular_act() and law_ordered_to_common_happiness();
+ then particular_act_referred_by_final_cause();
+}
+
+@source(SUMMA_I_II_Q90_A2)
+rule ReasonResolution() strict {
+ label en official "Source-annotated intermediate reconstruction: ReasonResolution.";
+ when source_ad3_practical_resolution() and happiness_as_ultimate_end() and practical_reason_resolves_to_end() and law_ordered_to_common_happiness();
+ then practical_reason_resolved_to_common_end();
+}
+
+@source(SUMMA_I_II_Q90_A2)
+rule DerivativePrivateGood() strict {
+ label en official "Source-annotated intermediate reconstruction: DerivativePrivateGood.";
+ when particular_precept_ordered_to_common_good() and particular_good();
+ then particular_good_has_law_character();
+}

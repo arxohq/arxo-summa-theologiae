@@ -1,0 +1,1113 @@
+{
+  "schemaVersion": "law.core.evaluation-request/0.2",
+  "semanticVersion": "0.2.11",
+  "ir": {
+    "artifactHash": "sha256:4994a747f88fc609dbaa9971cefb01f18a99625b94fae27aaeb4e84392666d36",
+    "features": [
+      "core-executable"
+    ],
+    "imports": [],
+    "metadata": {},
+    "nodes": [
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:i-ii-q90-a2#SUMMA_I_II_Q90_A2"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#bridge_law_end_tracks_complete_community_happiness"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#person_ordered_to_community_whole"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#happiness_as_ultimate_end"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_focal_analogy"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:190df659845e4e33da4b4a830c5c0781028e45358c0b85bf793e5bf0d70dbd7c",
+        "head": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#law_ordered_to_common_happiness"
+        },
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#CommonHappinessOrder",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source-annotated intermediate reconstruction: CommonHappinessOrder."
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": []
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:i-ii-q90-a2#SUMMA_I_II_Q90_A2"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_precept_ordered_to_common_good"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_good"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:d2a695933470a7eb9265be0ead2276b285c4192fa4b5387f74bca81cf5367bc8",
+        "head": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_good_has_law_character"
+        },
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#DerivativePrivateGood",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source-annotated intermediate reconstruction: DerivativePrivateGood."
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": []
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:i-ii-q90-a2#SUMMA_I_II_Q90_A2"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#law_ordered_to_common_happiness"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_act"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_ad2_final_cause"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:4214fdfac74b51b9e5444ceb8d28ec8c575e3f7e31693010309e68b5237148c2",
+        "head": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_act_referred_by_final_cause"
+        },
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#FinalCauseParticular",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source-annotated intermediate reconstruction: FinalCauseParticular."
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": []
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:i-ii-q90-a2#SUMMA_I_II_Q90_A2"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_command_applies_law"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_ad1_application"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#law_ordered_to_common_happiness"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:8b7c7048de3c3bdcf79b25f690f21f1688ea2f47f9af1ce43d172054235746d7",
+        "head": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_precept_ordered_to_common_good"
+        },
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#ParticularPrecept",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source-annotated intermediate reconstruction: ParticularPrecept."
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": []
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:i-ii-q90-a2#SUMMA_I_II_Q90_A2"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_community_perfect"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_part_whole"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_person_part_community"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:719bf3eec53e2e27d8cb23f9c62b298b54defb08dd8a64cbb5f321d2cdf86aa0",
+        "head": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#person_ordered_to_community_whole"
+        },
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#PersonCommunityOrder",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source-annotated intermediate reconstruction: PersonCommunityOrder."
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": []
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:i-ii-q90-a2#SUMMA_I_II_Q90_A2"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#law_ordered_to_common_happiness"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#practical_reason_resolves_to_end"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_ad3_practical_resolution"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#happiness_as_ultimate_end"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:5fba3504cd5ecd804cb2ab051d981641f07ce81bb465872aa1110c5b2978815a",
+        "head": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#practical_reason_resolved_to_common_end"
+        },
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#ReasonResolution",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source-annotated intermediate reconstruction: ReasonResolution."
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": []
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:540d25b109afb06d157ad1c8d3cdd0658709b893962beed434713f869024ebd7",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#SUMMA_I_II_Q90_A2",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source in sibling immutable source.txt and source-pin.json"
+          }
+        ],
+        "number": "I-II, q. 90, a. 2",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "sourceKind": "urn:la:aquinas:reconstruction:i-ii-q90-a2#doctrine"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:i-ii-q90-a2#SUMMA_I_II_Q90_A2"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_first_principle_practical_is_ultimate_end"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_prior_human_ultimate_end_is_happiness"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_human_life_ultimate_end_happiness"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:b0398cd012045ced0d38b482d30388c183f12f5e1402753d19215452a25daf1f",
+        "head": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#happiness_as_ultimate_end"
+        },
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#UltimateHappiness",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source-annotated intermediate reconstruction: UltimateHappiness."
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": []
+      },
+      {
+        "contentHash": "sha256:a0940f7daa0684359b50ac5b56bed89792cfac54a78c90848ad28a2ecb4dc2e0",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#arg1_particular_precepts",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The objection infers from singular commands that law need not aim at common good."
+          }
+        ],
+        "name": "arg1_particular_precepts",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:8c492552bf00bd96372646bde3af25b6af15d0c6e277912b5a119e5bd3aec97c",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#arg2_particular_acts",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The objection infers from particular acts that law aims at a particular good."
+          }
+        ],
+        "name": "arg2_particular_acts",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:2a171dfba3e70dc8f161be5310c9509d35e4bf9d6fa0ca547940e2d6926d83a3",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#arg3_private_good",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The objection invokes rational private goods against an exclusively common end."
+          }
+        ],
+        "name": "arg3_private_good",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:b7785c6e5085d05ec53b369fe3ed7d6cc85929e87c84344c81ee236364f18fb7",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#bridge_law_end_tracks_complete_community_happiness",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Reconstructed bridge assumption: because persons are parts of the complete political community, a law’s ultimate-end order tracks the happiness of that whole community."
+          }
+        ],
+        "name": "bridge_law_end_tracks_complete_community_happiness",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:b0abb74a1bfff15e14791d1bde606b412e1be311b904dc04ff0640a6303be37d",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#happiness_as_ultimate_end",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Intermediate relation: happiness as ultimate end."
+          }
+        ],
+        "name": "happiness_as_ultimate_end",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:3df2afe50aa929b2cbbb5ca3f07a671e777509f2cb87ee0841a14882f993fb4b",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#law_ordered_to_common_happiness",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Intermediate relation: law ordered to common happiness."
+          }
+        ],
+        "name": "law_ordered_to_common_happiness",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:44729deb7084e4146abeaad52495773d12ce36fb796c63ec14c718dbed63519a",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_act",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Explicit case input: particular act."
+          }
+        ],
+        "name": "particular_act",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:e4c65457c3569495b1c5d42b5ab601484293ec482b9121ffc598b3c7c63581b0",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_act_referred_by_final_cause",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Intermediate relation: particular act referred by final cause."
+          }
+        ],
+        "name": "particular_act_referred_by_final_cause",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:0cfd11119bb783f5cae9a2c5b87bf4174b90dcd9bffdc26e78155853cc9d72c8",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_command_applies_law",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Explicit case input: particular command applies law."
+          }
+        ],
+        "name": "particular_command_applies_law",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:7437374ded6faa720c075735d31638ca8929da700b10fd0c9df9795071529c1b",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_good",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Explicit case input: particular good."
+          }
+        ],
+        "name": "particular_good",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:768311b8a099265f15584f60170002489b96cd66322d2726953f5feb89ad5760",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_good_has_law_character",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Intermediate relation: particular good has law character."
+          }
+        ],
+        "name": "particular_good_has_law_character",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:a2aaa5a9d2e34559067387ea69cb26a7c664a62c89bf824a006dbf0dea4c2456",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#particular_precept_ordered_to_common_good",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Intermediate relation: particular precept ordered to common good."
+          }
+        ],
+        "name": "particular_precept_ordered_to_common_good",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:dc7148e0f8d758e6d98404cfe291151886dad552480d2d153aefcc619af398c3",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#person_ordered_to_community_whole",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Intermediate relation: person ordered to community whole."
+          }
+        ],
+        "name": "person_ordered_to_community_whole",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:f02bf2170b2e83f97914eae8339ff98cc49ddf76a2526abc09faf2b7a33bad0c",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#practical_reason_resolved_to_common_end",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Intermediate relation: practical reason resolved to common end."
+          }
+        ],
+        "name": "practical_reason_resolved_to_common_end",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:b691bdfcaccea873ff2275724a3dddf19f7ca034f5589e5304196627c553dea1",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#practical_reason_resolves_to_end",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Explicit case input: practical reason resolves to end."
+          }
+        ],
+        "name": "practical_reason_resolves_to_end",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:0a5ae0f006745c66368b865702e65095b13ddb1db9a2e322187082010f7b763f",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#sedcontra_common_utility",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The sed contra cites law written for common civic utility rather than private advantage."
+          }
+        ],
+        "name": "sedcontra_common_utility",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:9eeb00f453b80a35133242ff148c092b1df3661a1853fdd7db5f992972b0eef6",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_ad1_application",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Particular commands apply a law whose order remains to common good."
+          }
+        ],
+        "name": "source_ad1_application",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:3263141fabda74dd162b62ed03cb1ad072036ef7f19af4989ca0470ad57a5339",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_ad2_final_cause",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "A particular act can refer to common good through a common final cause, not a common genus or species."
+          }
+        ],
+        "name": "source_ad2_final_cause",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:19cbd46ea577b941e8b579776e56fc80c60fb6b5bfab87d058d79ba4a127f8cb",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_ad3_practical_resolution",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Practical reasoning is resolved to its ultimate end."
+          }
+        ],
+        "name": "source_ad3_practical_resolution",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:8b2427886096eba60b4e0c2ab6c667e31071b4976716ec02d93d1364fe2be7b4",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_community_perfect",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The city is the complete political community."
+          }
+        ],
+        "name": "source_co_community_perfect",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:f0640baff29b3354802e1d3e6e37a0c276f0b9089ce451528ab04f9cdadbdece",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_first_principle_practical_is_ultimate_end",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source principle: the first principle in practical matters is the ultimate end."
+          }
+        ],
+        "name": "source_co_first_principle_practical_is_ultimate_end",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:f1c710436914a1a022d6cb0c54c83d3e0185caeac81a9c195c3b6dffe0469fc4",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_focal_analogy",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source principle: what is said most of a kind is its principle, and other cases are called so by ordered participation, illustrated by fire."
+          }
+        ],
+        "name": "source_co_focal_analogy",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:6f0d81f5de413d9357072918d7ba2cb534985bc19a1fbb1226367ab20f80d1ca",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_human_life_ultimate_end_happiness",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Source principle: happiness or beatitude is the ultimate end of human life."
+          }
+        ],
+        "name": "source_co_human_life_ultimate_end_happiness",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:27c71a017c2cf91f3c7b4c6c4963c484fa169793c20f3f9ecb13daae665e0495",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_part_whole",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "A part is ordered to a whole as imperfect to perfect."
+          }
+        ],
+        "name": "source_co_part_whole",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:96c96af2fce95e8e1c3ffcbbc29afd746c5b70c3d4c11dd2ed22ad5d3b6a814d",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_person_part_community",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "An individual person is a part of a complete community."
+          }
+        ],
+        "name": "source_co_person_part_community",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:dca1585a95c4300f50a592646db47f31ed43072a5e8a7f07de852d4640ea8f1c",
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_prior_human_ultimate_end_is_happiness",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Explicit source cross-reference premise from the prior treatment of the human ultimate end; imported as an assumption, not a verified lemma."
+          }
+        ],
+        "name": "source_prior_human_ultimate_end_is_happiness",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+        "parameters": [],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      }
+    ],
+    "package": {
+      "name": "la.aquinas.reconstruct.i_ii_q90_a2",
+      "namespace": "urn:la:aquinas:reconstruction:i-ii-q90-a2",
+      "semanticHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+      "version": "0.1.0"
+    },
+    "schemaVersion": "law.core.ir/0.7",
+    "semanticHash": "sha256:2555eb741f82697984092c87af35fe2882ad5c080a86bf268ee9d88529c36013",
+    "semanticVersion": "0.2.11",
+    "strata": [],
+    "theoryHash": "sha256:c13c40ede1fbad2e00ddce29963cf7afa9a4cf320e067204a5ec9fd90cf185ed"
+  },
+  "case": {
+    "assertions": [
+      {
+        "contentHash": "sha256:d0f2a47d29fb7e42a26b3a266d4a5d9954f794361efd0d60118a5c3aa563089e",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p1",
+        "kind": "assertion",
+        "literal": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_first_principle_practical_is_ultimate_end"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+      },
+      {
+        "contentHash": "sha256:a3984584f8402d5c042d4b64c5f5751eb9c634424acb2746b4e537ccecfba3ca",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p2",
+        "kind": "assertion",
+        "literal": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_human_life_ultimate_end_happiness"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+      },
+      {
+        "contentHash": "sha256:61e3d78bbd9a1b239b1b48fb9bbe7c26099e56bab707bf6952cdff27f06e0b9b",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p2b",
+        "kind": "assertion",
+        "literal": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_prior_human_ultimate_end_is_happiness"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+      },
+      {
+        "contentHash": "sha256:dbaacb77dd74aa3c57ebeddd485f4a7058fc78dfa73e528e364336f57acdf498",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p3",
+        "kind": "assertion",
+        "literal": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_part_whole"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+      },
+      {
+        "contentHash": "sha256:e421d1b6637bf9112fdb19665e378f745a8e403f170afa59eb0c43cbd853eda1",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p4",
+        "kind": "assertion",
+        "literal": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_person_part_community"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+      },
+      {
+        "contentHash": "sha256:5100bdf48a27641bad2f35d0f8e245db79c879caf74d7b2ca1b085f4f1f99f92",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p5",
+        "kind": "assertion",
+        "literal": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_community_perfect"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+      },
+      {
+        "contentHash": "sha256:67741396a5f3de996fb015af91c76bc1aff80b82413533f11724bc8f8eb87cb8",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#p6",
+        "kind": "assertion",
+        "literal": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_focal_analogy"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+      },
+      {
+        "contentHash": "sha256:6716e14d0d49ef19a4a7b93182570f8077b8016012618b7e0f38fafed4138810",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#bridge",
+        "kind": "assertion",
+        "literal": {
+          "args": [],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#bridge_law_end_tracks_complete_community_happiness"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+      }
+    ],
+    "context": {
+      "decisionTime": "2026-10-13T12:00:00Z",
+      "knowledgeTime": "2026-10-13T12:00:00Z",
+      "legalTime": "2026-10-13",
+      "timezone": "UTC"
+    },
+    "options": {}
+  },
+  "query": {
+    "kind": "truth",
+    "literal": {
+      "args": [],
+      "kind": "literal",
+      "polarity": "positive",
+      "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#law_ordered_to_common_happiness"
+    },
+    "queryId": "urn:la:aquinas:reconstruction:i-ii-q90-a2#test/common%20happiness%3A%20positive%20and%20removal/query/2"
+  }
+}

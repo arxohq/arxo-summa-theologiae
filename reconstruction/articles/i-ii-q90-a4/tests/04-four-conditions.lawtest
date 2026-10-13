@@ -1,0 +1,37 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a4 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a4";
+
+test "definition: positive and removal" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "p1": source_definition_four_conditions() { origin case_input; }
+  assert "p2": law_rationally_ordered() { origin case_input; }
+  assert "p3": law_to_common_good() { origin case_input; }
+  assert "p4": issued_by_public_caretaker() { origin case_input; }
+  assert "p5": rule_assigned_to_addressees() { origin case_input; }
+  assert "p6": source_co_rule_application() { origin case_input; }
+  assert "p7": promulgation_makes_known() { origin case_input; }
+ }
+ evaluate truth(four_conditions_present());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+}
+
+test "definition: explicit removal blocks dependent conclusions" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "r1": source_definition_four_conditions() { origin case_input; }
+  assert "r2": law_rationally_ordered() { origin case_input; }
+  assert "r3": law_to_common_good() { origin case_input; }
+  assert "r4": rule_assigned_to_addressees() { origin case_input; }
+  assert "r5": source_co_rule_application() { origin case_input; }
+  assert "r6": promulgation_makes_known() { origin case_input; }
+  assert "removed": not issued_by_public_caretaker() { origin case_input; }
+ }
+ evaluate truth(four_conditions_present());
+ expect result_kind == PROPOSITION;
+ expect truth_status == NEITHER;
+ expect evaluation_status == COMPUTED;
+}

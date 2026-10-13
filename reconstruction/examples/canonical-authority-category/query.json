@@ -1,0 +1,25 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [
+      {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "scripture-A"
+      },
+      {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "claim-1"
+      }
+    ],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:reconstruction:i-q1-a8#necessary_authority_support"
+  },
+  "queryId": "urn:la:aquinas:reconstruction:i-q1-a8#test/canonical%20revelation%2C%20church%20doctor%2C%20and%20philosopher%20support%20remain%20distinct/query/0"
+}

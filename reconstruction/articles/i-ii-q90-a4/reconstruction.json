@@ -1,0 +1,494 @@
+{
+  "format": "arxo.summa-argument-reconstruction/0.1",
+  "articleId": "i-ii-q90-a4",
+  "modelSpec": "la.aquinas.reconstruct.i_ii_q90_a4@0.1.0",
+  "sourceSections": [
+    {
+      "section": "arg. 1",
+      "obligations": [
+        "arg1-natural-law"
+      ]
+    },
+    {
+      "section": "arg. 2",
+      "obligations": [
+        "arg2-remote-persons"
+      ]
+    },
+    {
+      "section": "arg. 3",
+      "obligations": [
+        "arg3-future-persons"
+      ]
+    },
+    {
+      "section": "s. c.",
+      "obligations": [
+        "sedcontra-promulgation"
+      ]
+    },
+    {
+      "section": "co.",
+      "obligations": [
+        "application-to-knowledge",
+        "four-condition-definition",
+        "promulgation-necessity-chain",
+        "promulgation-necessity-proof"
+      ]
+    },
+    {
+      "section": "ad 1",
+      "obligations": [
+        "natural-law-route"
+      ]
+    },
+    {
+      "section": "ad 2",
+      "obligations": [
+        "remote-transmission",
+        "remote-possible-knowledge"
+      ]
+    },
+    {
+      "section": "ad 3",
+      "obligations": [
+        "future-writing"
+      ]
+    }
+  ],
+  "premises": [
+    {
+      "id": "p-source_co_rule_application",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "A rule or measure is applied to those who are regulated.",
+      "formalSymbols": [
+        "source_co_rule_application"
+      ]
+    },
+    {
+      "id": "p-source_co_binding_force",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Law’s binding force is connected to application to its addressees.",
+      "formalSymbols": [
+        "source_co_binding_force"
+      ]
+    },
+    {
+      "id": "p-source_ad1_natural_insertion",
+      "kind": "source_principle",
+      "sections": [
+        "ad 1"
+      ],
+      "statement": "Natural law is promulgated through natural insertion in minds.",
+      "formalSymbols": [
+        "source_ad1_natural_insertion"
+      ]
+    },
+    {
+      "id": "p-source_ad1_natural_cognoscibility",
+      "kind": "source_principle",
+      "sections": [
+        "ad 1"
+      ],
+      "statement": "The source describes natural law as naturally knowable.",
+      "formalSymbols": [
+        "source_ad1_natural_cognoscibility"
+      ]
+    },
+    {
+      "id": "p-source_ad2_transmission",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "A remote addressee is reached when promulgation comes or can come to knowledge through others.",
+      "formalSymbols": [
+        "source_ad2_transmission"
+      ]
+    },
+    {
+      "id": "p-source_ad3_future_extension",
+      "kind": "source_principle",
+      "sections": [
+        "ad 3"
+      ],
+      "statement": "Present promulgation extends into the future through durable writing.",
+      "formalSymbols": [
+        "source_ad3_future_extension"
+      ]
+    },
+    {
+      "id": "p-source_ad3_reading",
+      "kind": "source_principle",
+      "sections": [
+        "ad 3"
+      ],
+      "statement": "Writing allows promulgation to continue through reading.",
+      "formalSymbols": [
+        "source_ad3_reading"
+      ]
+    },
+    {
+      "id": "p-source_definition_four_conditions",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The definition gathers reason, common good, public care of community, and promulgation.",
+      "formalSymbols": [
+        "source_definition_four_conditions"
+      ]
+    },
+    {
+      "id": "p-arg1-natural-law",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 1"
+      ],
+      "statement": "The objection argues natural law lacks promulgation and hence promulgation is not essential.",
+      "formalSymbols": [
+        "arg1_natural_law"
+      ]
+    },
+    {
+      "id": "p-arg2-remote-persons",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 2"
+      ],
+      "statement": "The objection argues promulgation to present hearers cannot account for others being bound.",
+      "formalSymbols": [
+        "arg2_remote_persons"
+      ]
+    },
+    {
+      "id": "p-arg3-future-persons",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 3"
+      ],
+      "statement": "The objection argues present promulgation cannot ground future obligation.",
+      "formalSymbols": [
+        "arg3_future_persons"
+      ]
+    },
+    {
+      "id": "p-sedcontra-promulgation",
+      "kind": "source_principle",
+      "sections": [
+        "s. c."
+      ],
+      "statement": "The sed contra says laws are instituted when promulgated.",
+      "formalSymbols": [
+        "sedcontra_promulgation"
+      ]
+    },
+    {
+      "id": "p-promulgation-happened",
+      "kind": "case_fact",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "An actual promulgation act occurred; this is separate from a remote addressee learning its content.",
+      "formalSymbols": [
+        "promulgation_actually_occurred"
+      ]
+    },
+    {
+      "id": "p-present-promulgation",
+      "kind": "case_fact",
+      "sections": [
+        "ad 3"
+      ],
+      "statement": "The law was promulgated in the present before the written record extended its reach into the future.",
+      "formalSymbols": [
+        "present_promulgation_occurred"
+      ]
+    }
+  ],
+  "obligations": [
+    {
+      "id": "application-to-knowledge",
+      "statement": "Represent promulgation as bringing an applied rule to the knowledge of addressees, a condition in the chain to binding force.",
+      "sections": [
+        "co."
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_co_rule_application",
+        "source_co_binding_force"
+      ],
+      "tests": [
+        "01-promulgation-binding.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "natural-law-route",
+      "statement": "Represent natural insertion and knowability as the source’s conditional promulgation route.",
+      "sections": [
+        "ad 1"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_ad1_natural_insertion",
+        "source_ad1_natural_cognoscibility"
+      ],
+      "tests": [
+        "05-natural-law-promulgation.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "remote-transmission",
+      "statement": "Represent the actual-learning branch only: an actual promulgation act occurs and the remote addressee learns through others.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "promulgation_actually_occurred",
+        "source_ad2_transmission"
+      ],
+      "tests": [
+        "02-remote-transmission.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The finite branch requires an actual promulgation act separately from actual learning. The source’s alternative “can come to knowledge” is not represented as fact or as a pseudo-modal flag.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "future-writing",
+      "statement": "Extend promulgation to future persons through durable writing that remains readable.",
+      "sections": [
+        "ad 3"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_ad3_future_extension",
+        "present_promulgation_occurred",
+        "source_ad3_reading"
+      ],
+      "tests": [
+        "03-future-writing.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The extension path requires present promulgation plus durable writing and reading; durable writing alone does not trigger the rule.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "four-condition-definition",
+      "statement": "Gather the four conditions named in the respondeo as a definition-shaped intermediate (rational ordering, common good, public care, and promulgation); this aggregation does not establish the separate necessity claim.",
+      "sections": [
+        "co."
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_definition_four_conditions"
+      ],
+      "tests": [
+        "04-four-conditions.lawtest"
+      ],
+      "dependsOn": [
+        "application-to-knowledge"
+      ],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The four supplied conditions are gathered into a named intermediate only. This does not prove that promulgation is necessary; that separate obligation remains open.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "arg1-natural-law",
+      "statement": "The objection argues natural law lacks promulgation and hence promulgation is not essential.",
+      "sections": [
+        "arg. 1"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg1_natural_law"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg2-remote-persons",
+      "statement": "The objection argues promulgation to present hearers cannot account for others being bound.",
+      "sections": [
+        "arg. 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg2_remote_persons"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg3-future-persons",
+      "statement": "The objection argues present promulgation cannot ground future obligation.",
+      "sections": [
+        "arg. 3"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg3_future_persons"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "sedcontra-promulgation",
+      "statement": "The sed contra says laws are instituted when promulgated.",
+      "sections": [
+        "s. c."
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "sedcontra_promulgation"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "promulgation-necessity-chain",
+      "statement": "Reconstruct the respondeo’s finite necessity chain: binding force belongs to law; a rule binds by application to addressees; promulgation brings that application into knowledge. This is distinct from merely gathering promulgation into the four-condition definition.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_co_rule_application",
+        "source_co_binding_force",
+        "rule_assigned_to_addressees",
+        "promulgation_makes_known",
+        "promulgation_brings_rule_to_knowledge",
+        "binding_force_from_application"
+      ],
+      "tests": [
+        "01-promulgation-binding.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "This is a finite conditional chain from source assumptions and addressee case inputs. It establishes no modality over all addressees or circumstances.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "remote-possible-knowledge",
+      "statement": "The source reply also allows that promulgation may be able to come to a remote person’s knowledge; this possibility/counterfactual branch is inventoried separately from actual learning.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The selected core fragment does not provide a suitable modal or counterfactual operator for the source’s “can come to knowledge” branch. No boolean possibility flag is asserted; absence of actual learning is not treated as falsity of possible knowledge.",
+      "formalSymbols": [
+        "source_ad2_transmission"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "promulgation-necessity-proof",
+      "statement": "Prove promulgation is necessary for law’s binding force in the general modal sense, separately from the finite rule-application chain and the four-condition aggregation.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The finite chain shows that these modeled cases derive binding force only through actual promulgation and knowledge. The available reconstruction does not establish the general modal necessity claim over possible addressees and situations. No modal flag or global theorem is encoded.",
+      "formalSymbols": [
+        "source_co_rule_application",
+        "source_co_binding_force",
+        "promulgation_brings_rule_to_knowledge",
+        "binding_force_from_application"
+      ],
+      "tests": [
+        "01-promulgation-binding.lawtest"
+      ],
+      "dependsOn": [
+        "promulgation-necessity-chain"
+      ]
+    }
+  ],
+  "replyTargets": [
+    {
+      "reply": "ad 1",
+      "objection": "arg. 1",
+      "target": "natural law and promulgation",
+      "mechanism": "Represent the source’s conditional route from natural insertion and natural knowability to promulgation.",
+      "obligations": [
+        "natural-law-route"
+      ]
+    },
+    {
+      "reply": "ad 2",
+      "objection": "arg. 2",
+      "target": "persons beyond the first audience",
+      "mechanism": "Model actual promulgation followed by actual learning through others; the source’s possible-knowledge branch remains separately UNSUPPORTED.",
+      "obligations": [
+        "remote-transmission"
+      ]
+    },
+    {
+      "reply": "ad 3",
+      "objection": "arg. 3",
+      "target": "obligations extending to the future",
+      "mechanism": "Require present promulgation and represent extension through durable writing and reading; writing alone is insufficient.",
+      "obligations": [
+        "future-writing"
+      ]
+    }
+  ],
+  "protectedConclusions": [
+    "rule_applied_to_addressees",
+    "promulgation_brings_rule_to_knowledge",
+    "binding_force_from_application",
+    "natural_insertion_promulgates_natural_law",
+    "remote_addressee_reached_by_transmission",
+    "future_addressee_reached_by_durable_writing",
+    "four_conditions_present"
+  ],
+  "limitations": [
+    "Source-attested philosophical principles are declared assumptions rather than independently established truths.",
+    "Case inputs and intermediate rules are local to this article and are not imported from earlier argument graphs.",
+    "Unknown inputs remain unknown; no absence of an assertion is treated as a negative fact.",
+    "Positive and premise-removal fixtures are present for each implemented branch.",
+    "Obligations remain NOT_VERIFIED or CONDITIONAL pending runtime execution and source review.",
+    "fullArticleVerified remains false; this finite reconstruction does not establish universal claims.",
+    "The remote-person route requires an actual promulgation event separately from transmission or learning. The future route requires present promulgation separately from durable writing.",
+    "The necessity chain is a finite conditional reconstruction from declared source principles; the four-condition definition alone does not establish necessity.",
+    "Remote reply modeling covers actual promulgation followed by actual learning through others; the source’s possible-knowledge branch is UNSUPPORTED by the selected fragment and is not represented with a boolean modal flag.",
+    "The general necessity of promulgation for binding force remains UNSUPPORTED: finite conditional derivations and the four-condition aggregation do not establish a modal necessity theorem.",
+    "An article-local argumentation query is present without engineered priorities. The selected CLI test summary exposes the argumentation class but does not retain skippedRules; no skippedRules-zero claim is made until a canonical argumentation document is inspected.",
+    "The @source annotation names the source article, but these test summaries do not emit native proof source-anchor evidence; no such proof evidence is claimed."
+  ],
+  "fullArticleVerified": false,
+  "review": {
+    "sourceReview": "coordinator plus independent Luna read-only review",
+    "runtimeEvidence": "Article-local published CLI check/lower/test and native repeated evaluation documents; final aggregate report is generated outside Git.",
+    "engineCertificate": "not_run",
+    "nativeProofSourceAnchors": "No native source-anchor certificate is claimed; model annotations and pinned section mapping provide project-level provenance.",
+    "fullArticleVerified": false
+  }
+}

@@ -1,0 +1,86 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.ii_ii_q64_a7 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:ii-ii-q64-a7";
+
+test "respondeo: preservation intention plus adjudicated proportion" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "self-defense": self_defense_act(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "preservation-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life")) { origin case_input; }
+        assert "proportion-adjudicated": vis_moderata(entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+        assert "death-occurs": effect_occurs(entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "death-explicitly-unintended": not intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin adjudicated; }
+    }
+    evaluate truth(defense_intentional_end(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(proportionate_defense_conditions(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(killing_is_incidental(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(defensio_licita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}
+
+test "respondeo: removing external proportion judgment removes that intermediate" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "self-defense": self_defense_act(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "preservation-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life")) { origin case_input; }
+        assert "death-explicitly-unintended": not intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin adjudicated; }
+    }
+    evaluate truth(vis_moderata(entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == REQUIRES_JUDGMENT;
+    evaluate truth(defensio_licita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == REQUIRES_JUDGMENT;
+}
+
+test "explicit negative proportionality judgment supports the excessive-force branch" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "self-defense": self_defense_act(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "preservation-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life")) { origin case_input; }
+        assert "force-not-moderate": not vis_moderata(entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(defensio_illicita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}
+
+// A direct BOTH is retained. Under §§65–66 it makes each downstream rule body dead,
+// so those conclusions correctly remain NEITHER/COMPUTED.
+test "conflicting external proportion judgments remain visible" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "self-defense": self_defense_act(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "preservation-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life")) { origin case_input; }
+        assert "death-occurs": effect_occurs(entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "death-not-intended": not intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin adjudicated; }
+        assert "proportion-adjudicated": vis_moderata(entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+        assert "excess-adjudicated": not vis_moderata(entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(vis_moderata(entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == BOTH;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(defensio_licita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(defensio_illicita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}

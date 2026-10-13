@@ -1,0 +1,182 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a1 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a1";
+
+source SUMMA_I_II_Q90_A1 {
+ kind doctrine;
+ jurisdiction "none";
+ authority "Thomas Aquinas, Summa Theologiae";
+ number "I-II, q. 90, a. 1";
+ label en official "Pinned Latin source in sibling immutable source.txt and source-pin.json";
+}
+
+pub relation source_co_rule_measure() kind normative_fact {
+ label en official "Law is a rule and measure of acts.";
+}
+
+pub relation source_co_reason_orders_end() kind normative_fact {
+ label en official "Practical reason orders acts to an end, first among practical principles.";
+}
+
+pub relation source_co_principle_measures_genus() kind normative_fact {
+ label en official "A principle is a measure and rule within its genus.";
+}
+
+pub relation source_co_practical_universal_propositions() kind normative_fact {
+ label en official "Universal practical propositions ordered to action have law character.";
+}
+
+pub relation source_ad1_two_modes() kind normative_fact {
+ label en official "Law is in the regulator essentially and in regulated subjects participatively.";
+}
+
+pub relation source_ad2_operation_product() kind normative_fact {
+ label en official "Rational operation is distinguished from its constituted product.";
+}
+
+pub relation source_ad2_habitual_retention() kind normative_fact {
+ label en official "Practical universal propositions can be retained habitually.";
+}
+
+pub relation source_ad3_reason_moved_by_will() kind normative_fact {
+ label en official "Will directed to an end moves practical reason.";
+}
+
+pub relation source_ad3_will_reason_regulated() kind normative_fact {
+ label en official "A ruler’s will has law character only insofar as reason regulates it.";
+}
+
+pub relation arg1_members_objection() kind normative_fact {
+ label en official "The objection infers that law is not reason because law is named as being in bodily members.";
+}
+
+pub relation arg2_power_habit_act() kind normative_fact {
+ label en official "The objection argues law is no power, habit, or act, and would cease during sleep.";
+}
+
+pub relation arg3_will_moves() kind normative_fact {
+ label en official "The objection locates motion in will and cites the ruler’s pleasure.";
+}
+
+pub relation sedcontra_command() kind normative_fact {
+ label en official "The sed contra identifies commanding and forbidding with reason.";
+}
+
+pub relation law_as_practical_reason_measure() kind empirical {
+ label en official "Explicit case input: law as practical reason measure.";
+}
+
+pub relation rational_proposition_product() kind empirical {
+ label en official "Explicit case input: rational proposition product.";
+}
+
+pub relation private_inclination_under_regulator() kind empirical {
+ label en official "Explicit case input: private inclination under regulator.";
+}
+
+pub relation will_directed_to_end() kind empirical {
+ label en official "Explicit case input: will directed to end.";
+}
+
+pub relation will_reason_regulated() kind empirical {
+ label en official "Explicit case input: will reason regulated.";
+}
+
+pub relation reason_as_rule_measure() kind normative_fact {
+ label en official "Intermediate relation: reason as rule measure.";
+}
+
+pub relation universal_practical_proposition() kind normative_fact {
+ label en official "Intermediate relation: universal practical proposition.";
+}
+
+pub relation law_retained_habitually() kind normative_fact {
+ label en official "Intermediate relation: law retained habitually.";
+}
+
+pub relation law_in_regulator_essentially() kind normative_fact {
+ label en official "Intermediate relation: law in regulator essentially.";
+}
+
+pub relation inclination_law_participatively() kind normative_fact {
+ label en official "Intermediate relation: inclination law participatively.";
+}
+
+pub relation will_motivates_reason() kind normative_fact {
+ label en official "Intermediate relation: will motivates reason.";
+}
+
+pub relation will_command_reason_regulated() kind normative_fact {
+ label en official "Intermediate relation: will command reason regulated.";
+}
+
+pub relation will_has_law_character() kind normative_fact {
+ label en official "Intermediate relation: will has law character.";
+}
+
+pub relation bridge_reason_as_principle_measures_human_acts() kind normative_fact {
+ label en official "Reconstructed bridge assumption: because reason is the principle measuring practical acts, a source-described law that is a rule and measure of acts pertains to reason.";
+}
+
+@source(SUMMA_I_II_Q90_A1)
+rule ReasonEndIsMeasure() strict {
+ label en official "Source-annotated intermediate reconstruction: ReasonEndIsMeasure.";
+ when source_co_reason_orders_end() and source_co_principle_measures_genus();
+ then reason_as_rule_measure();
+}
+
+@source(SUMMA_I_II_Q90_A1)
+rule LawAsMeasure() strict {
+ label en official "Source-annotated intermediate reconstruction: LawAsMeasure.";
+ when source_co_rule_measure() and reason_as_rule_measure() and bridge_reason_as_principle_measures_human_acts();
+ then law_as_practical_reason_measure();
+}
+
+@source(SUMMA_I_II_Q90_A1)
+rule PracticalProposition() strict {
+ label en official "Source-annotated intermediate reconstruction: PracticalProposition.";
+ when source_co_practical_universal_propositions() and law_as_practical_reason_measure();
+ then universal_practical_proposition();
+}
+
+@source(SUMMA_I_II_Q90_A1)
+rule HabitualProduct() strict {
+ label en official "Source-annotated intermediate reconstruction: HabitualProduct.";
+ when source_ad2_operation_product() and source_ad2_habitual_retention() and universal_practical_proposition() and rational_proposition_product();
+ then law_retained_habitually();
+}
+
+@source(SUMMA_I_II_Q90_A1)
+rule EssentialRegulation() strict {
+ label en official "Source-annotated intermediate reconstruction: EssentialRegulation.";
+ when source_ad1_two_modes() and law_as_practical_reason_measure();
+ then law_in_regulator_essentially();
+}
+
+@source(SUMMA_I_II_Q90_A1)
+rule ParticipativeInclination() strict {
+ label en official "Source-annotated intermediate reconstruction: ParticipativeInclination.";
+ when source_ad1_two_modes() and private_inclination_under_regulator();
+ then inclination_law_participatively();
+}
+
+@source(SUMMA_I_II_Q90_A1)
+rule WillMotivates() strict {
+ label en official "Source-annotated intermediate reconstruction: WillMotivates.";
+ when source_ad3_reason_moved_by_will() and will_directed_to_end();
+ then will_motivates_reason();
+}
+
+@source(SUMMA_I_II_Q90_A1)
+rule ReasonRegulatesWill() strict {
+ label en official "Source-annotated intermediate reconstruction: ReasonRegulatesWill.";
+ when source_ad3_will_reason_regulated() and will_motivates_reason() and will_reason_regulated();
+ then will_command_reason_regulated();
+}
+
+@source(SUMMA_I_II_Q90_A1)
+rule WillLawCharacter() strict {
+ label en official "Source-annotated intermediate reconstruction: WillLawCharacter.";
+ when will_command_reason_regulated();
+ then will_has_law_character();
+}

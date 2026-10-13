@@ -1,0 +1,25 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [
+      {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "cause-X"
+      },
+      {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "cause-X"
+      }
+    ],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to"
+  },
+  "queryId": "urn:la:aquinas:reconstruction:i-q2-a3#test/efficient%20self-causation%20conflicts%20with%20stipulated%20source%20order-irreflexivity/query/0"
+}

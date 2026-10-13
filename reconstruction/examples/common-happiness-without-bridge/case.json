@@ -1,0 +1,123 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:b16b15e6b8e267191173e5af0cb1c9857225bc2f7b95af2abd2c3ab770d18074",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#r1",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_first_principle_practical_is_ultimate_end"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:42c89517eaf538e3b04d28637a362023de15c591b5cdb6aec778d3fe01bceeb0",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#r2",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_human_life_ultimate_end_happiness"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:d0901e3e012e7b938ff53409e7deeb977146f9d4b8c42c38668c23bcfe7902a6",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#r2b",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_prior_human_ultimate_end_is_happiness"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:069f7ea9aad0d4445607ec9423439b5d40503bf5000e3987496eb541099c35cb",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#r3",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_part_whole"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:d82896b8c45410141f5235161591211ff26fbd3e573c76a2b2adf60007496389",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#r4",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_community_perfect"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:86fd06e51fa51f17e5b4381d37a9ddfd5c97d57374bb012ef4d496c3da321a2f",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#r5",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_focal_analogy"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:6716e14d0d49ef19a4a7b93182570f8077b8016012618b7e0f38fafed4138810",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#bridge",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#bridge_law_end_tracks_complete_community_happiness"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    },
+    {
+      "contentHash": "sha256:9be1504a49b1e115863dc6983980c65c11d5c9d1e6f78e24223ec0b9bfdf86ae",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a2#removed",
+      "kind": "assertion",
+      "literal": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#source_co_person_part_community"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a2"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-10-13T12:00:00Z",
+    "knowledgeTime": "2026-10-13T12:00:00Z",
+    "legalTime": "2026-10-13",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

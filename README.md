@@ -6,7 +6,7 @@ Explore Thomas Aquinas’s **Summa Theologiae** through pinned Latin sources, vi
 
 This is a research model of the text and selected applications. **An executable article is not a complete formalization of its philosophical reasoning.** The engine derives consequences of the model’s admitted premises; it does not independently establish their theological truth.
 
-[Run a question](#run-a-question) · [Law and arguments](#law-and-arguments) · [Explore the cases](#explore-the-cases) · [Browse the family](#browse-the-family-and-depth) · [Inspect evidence](#inspect-evidence) · [Reproduce](#reproduce-the-checks)
+[Run a question](#run-a-question) · [Law and arguments](#law-and-arguments) · [Argument reconstructions](#argument-reconstructions) · [Explore the cases](#explore-the-cases) · [Browse the family](#browse-the-family-and-depth) · [Inspect evidence](#inspect-evidence) · [Reproduce](#reproduce-the-checks)
 
 ## Run a question
 
@@ -51,6 +51,40 @@ The argument layer addresses **objections, sed contra, respondeo and replies**. 
 
 The applied layer uses selected *respondeo* conclusions. Some guards are deliberately simple: in the [God-exists example](examples/theological-head-applies), the rule is activated by `presented` and `question_of_existence`. This demonstrates the [declared application rule](packages/i-de-deo/02-applied.law), **not an automated reconstruction of the Five Ways**. The [companion input](examples/theological-head-not-established) lacks the second guard and yields `NEITHER`, not an explicit negative theological conclusion.
 
+## Argument reconstructions
+
+**New in v0.2.0:** seven independent experimental models reconstruct selected internal transitions, with explicit premises and intermediate conclusions. Begin with II–II q.64 a.7:
+
+```sh
+law eval reconstruction/examples/intended-death-objection
+law eval reconstruction/examples/incidental-death-reply
+```
+
+The first native argumentation answer is `SKEPTICALLY_ACCEPTED`. In the companion input, explicitly unintended death supplies the reply and the objection is `REJECTED`. An unknown intention does not supply that negative fact.
+
+```sh
+law eval reconstruction/examples/defense-awaits-judgment
+law eval reconstruction/examples/conflicting-proportionality
+law eval reconstruction/examples/first-mover-not-established
+```
+
+These retain, respectively, `REQUIRES_JUDGMENT / NEITHER`, conflicting proportionality as `BOTH`, and an unestablished first mover as `NEITHER`. A finite actualization witness is not a proof of a first mover or of all Five Ways.
+
+| Reconstruction | Scenarios | Checked finite fragments | Conditional | Source reconstruction only | Unsupported in this profile |
+|---|---:|---:|---:|---:|---:|
+| [II–II q.64 a.7](reconstruction/articles/ii-ii-q64-a7) | 24 | 5 | 5 | 7 | 0 |
+| [I q.1 a.8](reconstruction/articles/i-q1-a8) | 7 | 3 | 4 | 6 | 1 |
+| [I–II q.90 a.1](reconstruction/articles/i-ii-q90-a1) | 7 | 1 | 5 | 4 | 0 |
+| [I–II q.90 a.2](reconstruction/articles/i-ii-q90-a2) | 8 | 0 | 5 | 4 | 0 |
+| [I–II q.90 a.3](reconstruction/articles/i-ii-q90-a3) | 8 | 3 | 1 | 4 | 0 |
+| [I–II q.90 a.4](reconstruction/articles/i-ii-q90-a4) | 10 | 5 | 1 | 4 | 2 |
+| [I q.2 a.3 · control](reconstruction/articles/i-q2-a3) | 9 | 4 | 1 | 3 | 12 |
+| **Total** | **73** | **21** | **22** | **32** | **15** |
+
+The status columns classify **90 project-defined fragments and obligations**; they are not the article denominator used below. All **56 source sections** are mapped; **zero whole articles are fully verified**. Checked finite fragments retain their admitted source principles. Conditional bridges, external judgments, authority acceptance and unsupported universal or modal obligations stay visible even when a scenario passes.
+
+[Read the reconstruction contract and limits](reconstruction) · [Choose among 13 native examples](reconstruction/examples) · [Inspect all seven model identities](reconstruction/models.json) · [Recorded authoring acceptance](reconstruction/reports/acceptance.json)
+
 ## Explore the cases
 
 The six original [.lawcase inputs](cases/moral-cases/cases) supply 15 retained moral questions. Their expected outcomes come from the existing example kit; fresh CLI checks are recorded separately.
@@ -83,7 +117,7 @@ Double effect is a distinct applied package, `la.aquinas.duplex_effectus@0.1.0`.
 
 All 28 model specs and world identities are in [models.json](models.json). The 27 treatises cover **512 questions and 2669 author-numbered articles** in I–III. **Supplementum is outside this release.** Package versions remain **0.1.0**, semantics **`law.core/0.2.11`**. Models are independent, without package imports; the moral case kit explicitly binds its one dependency.
 
-| Model | Source range | Structurally EXECUTABLE / articles | Fresh scenarios passed |
+| Model | Source range | Structurally EXECUTABLE / articles | Recorded v0.1.0 scenarios passed |
 |---|---|---:|---:|
 | [Sacred doctrine](packages/i-sacra-doctrina) | I · qq. 1–1 | 10 / 10 | 6 |
 | [God](packages/i-de-deo) | I · qq. 2–26 | 149 / 149 | 8 |
@@ -118,7 +152,7 @@ The [per-unit depth report](reports/formalization-depth.json) uses the existing 
 
 **EXECUTABLE means a deriving rule references that article.** It measures structural executability, not the completeness of every premise or philosophical inference within the article. Graph rules and guarded application heads contribute to that measure. Unpinned translations, independent theological validity and *Supplementum* are not measured. No claim of “100% formalized” follows from the table.
 
-The earlier corpus inventory and audits are historical evidence. Fresh checks here comprise **294 scenarios over these 28 packages** and **20 reader examples**. The full corpus is `not_checked`; overall acceptance remains `releaseVerified: false`.
+The earlier corpus inventory and audits are historical evidence. The v0.1.0 verification records **294 scenarios over these 28 packages** and **20 reader examples**. The v0.2.0 delivery checks the seven new reconstructions and replays the original reader examples; it does not rerun those unchanged 294 scenarios. The full corpus is `not_checked`; overall acceptance remains `releaseVerified: false`.
 
 ## Inspect evidence
 
@@ -161,7 +195,7 @@ law test packages/duplex-effectus
 law test packages/law
 ```
 
-These execute only the selected packages. The manual [addressed CI](.github/workflows/verify.yml) verifies hashes, replays the 20 reader examples and original native ask, and tests the 28 explicitly listed models; it does not discover the full corpus. Optional maintainer entry: `python3.12 tools/check.py`; `--examples-only` skips package scenarios.
+These execute only the selected packages. The manual [addressed CI](.github/workflows/verify.yml) defaults to the seven reconstructions, repeated native evaluation, 13 new examples, original reader example replay and exact archive inventory. Select `reader` or `all-addressed` explicitly to rerun the 28 original packages. It does not discover the full corpus. Optional maintainer entry: `python3.12 tools/check.py --examples-only`; reconstruction maintainer instructions are [here](reconstruction/tools).
 
 [Verification](reports/verification.json) · [Source pin](source-pin.json) · [Runtime pin](toolchain.lock.json) · [Publication inventory](CANON-MANIFEST.json) · [Delivery and limits](docs/DELIVERY.md)
 

@@ -1,0 +1,384 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.ii_ii_q64_a7 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:ii-ii-q64-a7";
+
+source SUMMA_Q64_A7_ARG_1 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, arg. 1";
+    label en official "Pinned Latin source section arg. 1; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_ARG_2 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, arg. 2";
+    label en official "Pinned Latin source section arg. 2; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_ARG_3 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, arg. 3";
+    label en official "Pinned Latin source section arg. 3; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_ARG_4 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, arg. 4";
+    label en official "Pinned Latin source section arg. 4; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_ARG_5 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, arg. 5";
+    label en official "Pinned Latin source section arg. 5; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_SED_CONTRA {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, s. c.";
+    label en official "Pinned Latin source section s. c.; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_CO {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, co.";
+    label en official "Pinned Latin source section co.; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_AD_1 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, ad 1";
+    label en official "Pinned Latin source section ad 1; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_AD_2 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, ad 2";
+    label en official "Pinned Latin source section ad 2; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_AD_3 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, ad 3";
+    label en official "Pinned Latin source section ad 3; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_AD_4 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, ad 4";
+    label en official "Pinned Latin source section ad 4; see immutable source.txt and source.json";
+}
+source SUMMA_Q64_A7_AD_5 {
+    kind doctrine;
+    jurisdiction "none";
+    authority "Thomas Aquinas, Summa Theologiae";
+    number "II-II, q. 64, a. 7, ad 5";
+    label en official "Pinned Latin source section ad 5; see immutable source.txt and source.json";
+}
+
+// Experimental article-local reconstruction. The source anchors below are
+// declared assumptions extracted from the pinned Latin text; they are not
+// independently established philosophical truths.
+
+pub entity Person {
+    label en official "person in the represented act";
+}
+
+pub entity DefensiveAct {
+    label en official "a particular act described as self-defense";
+}
+
+pub entity Effect {
+    label en official "an effect associated with a particular act";
+}
+
+@source(SUMMA_Q64_A7_ARG_1)
+pub relation source_arg1_augustine_counsel(p: Person, a: DefensiveAct) kind normative_fact {
+    label en official "source premise: Augustine's cited counsel concerns killing a person lest the killer himself be killed, with the stated public-role qualification";
+}
+
+@source(SUMMA_Q64_A7_AD_1)
+pub relation source_ad1_augustine_scope(a: DefensiveAct) kind normative_fact {
+    label en official "source reply: Augustine's authority is to be understood in the case where one intends to kill in order to free oneself from death";
+}
+
+pub relation self_defense_act(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the represented act is performed as self-defense";
+}
+pub relation augustine_objection_applies(p: Person, a: DefensiveAct) kind institutional {
+    label en official "the arg. 1 objection's broad reading applies to this defensive act";
+}
+
+pub relation intended_effect(p: Person, a: DefensiveAct, e: Effect) kind empirical {
+    label en official "the actor intends this effect of the particular act";
+}
+
+pub relation effect_occurs(a: DefensiveAct, e: Effect) kind empirical {
+    label en official "this effect occurs from the particular act";
+}
+
+
+pub relation death_intended_as_means_of_self_preservation(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the actor intends the attacker's death as a means of freeing himself from his own death";
+}
+
+pub relation augustine_intended_killing_scope(p: Person, a: DefensiveAct) kind institutional {
+    label en official "the Augustine objection's cited scope applies to this act because killing is intended to avoid the actor's own death";
+}
+
+pub relation killing_is_incidental(p: Person, a: DefensiveAct) kind institutional {
+    label en official "the actor intends preservation of own life while the attacker's death occurs without being intended";
+}
+
+// Native argumentation witness: the objection is a defeasible intermediate.
+// The ad 1 reply attacks this same head with an explicit negative-intention
+// case; no rule priority has been selected by the model.
+@source(SUMMA_Q64_A7_ARG_1)
+rule BroadAugustineObjectionReading(p: Person, a: DefensiveAct) defeasible {
+    label en official "The broad objection reads a defensive death as intended to avoid the defender's death";
+    when self_defense_act(p, a) and effect_occurs(a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker"));
+    then augustine_objection_applies(p, a);
+}
+@source(SUMMA_Q64_A7_AD_1)
+rule AugustineReplyDefeatsBroadReading(p: Person, a: DefensiveAct) strict {
+    label en official "Ad 1 defeats the broad reading only when death is explicitly not intended and preservation is intended";
+    when self_defense_act(p, a) and intended_effect(p, a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life")) and not intended_effect(p, a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker"));
+    then not augustine_objection_applies(p, a);
+}
+
+// Reconstructed lexical bridge: “death as a means” entails that death is
+// intended. This conservative bridge makes conflicting case evidence visible.
+@source(SUMMA_Q64_A7_CO)
+rule MeansEntailsIntent(p: Person, a: DefensiveAct) strict {
+    label en official "Treat an expressly represented death-as-means intention as an intention to cause death";
+    when death_intended_as_means_of_self_preservation(p, a);
+    then intended_effect(p, a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker"));
+}
+
+@source(SUMMA_Q64_A7_AD_1)
+rule AugustineScopeFromObjectionAnchor(p: Person, a: DefensiveAct) strict {
+    label en official "The objection's Augustine citation is in scope only when death is intended to escape death";
+    when death_intended_as_means_of_self_preservation(p, a);
+    then augustine_intended_killing_scope(p, a);
+}
+
+@source(SUMMA_Q64_A7_CO)
+rule IncidentalKillingClassification(p: Person, a: DefensiveAct) strict {
+    label en official "Classify an occurring death as incidental when explicitly not intended and preservation is intended";
+    when intended_effect(p, a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life")) and effect_occurs(a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) and not intended_effect(p, a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker"));
+    then killing_is_incidental(p, a);
+}
+
+// Remaining source-attested premises. These are named source anchors in the
+// reconstruction and must be supplied as assumptions by each case scenario.
+@source(SUMMA_Q64_A7_ARG_2)
+pub relation source_arg2_contemptible_loss(p: Person, a: DefensiveAct) kind normative_fact {
+    label en official "source premise: the second objection treats bodily life as a loss that can be suffered unwillingly and therefore as contemptible for this argument";
+}
+@source(SUMMA_Q64_A7_ARG_3)
+pub relation source_arg3_clerical_warning(p: Person, a: DefensiveAct) kind normative_fact {
+    label en official "source premise: the third objection cites the clerical irregularity warning as denying license to kill";
+}
+@source(SUMMA_Q64_A7_ARG_4)
+pub relation source_arg4_spiritual_life_priority(a: DefensiveAct) kind normative_fact {
+    label en official "source premise: the fourth objection ranks spiritual life above bodily life and compares homicide with mortal sin";
+}
+@source(SUMMA_Q64_A7_ARG_5)
+pub relation source_arg5_tree_and_fruit(a: DefensiveAct) kind normative_fact {
+    label en official "source premise: the fifth objection infers an illicit effect from a supposedly illicit self-defense";
+}
+@source(SUMMA_Q64_A7_SED_CONTRA)
+pub relation source_sc_householder_comparison(a: DefensiveAct) kind normative_fact {
+    label en official "source premise: the sed contra compares defense of life with defense of a house against a burglar";
+}
+@source(SUMMA_Q64_A7_CO)
+pub relation source_co_intention_species(a: DefensiveAct) kind normative_fact {
+    label en official "source premise: the respondeo says moral acts receive their species from what is intended, not an incidental effect";
+}
+@source(SUMMA_Q64_A7_CO)
+pub relation source_co_two_effects(a: DefensiveAct) kind normative_fact {
+    label en official "source premise: one act may have two effects, one intended and one beyond intention";
+}
+@source(SUMMA_Q64_A7_CO)
+pub relation source_co_proportion(a: DefensiveAct) kind normative_fact {
+    label en official "source premise: a good intention can be vitiated when the act is not proportionate to its end";
+}
+@source(SUMMA_Q64_A7_CO)
+pub relation source_co_public_authority(a: DefensiveAct) kind normative_fact {
+    label en official "source premise: the respondeo reserves intended killing to public authority for the common good";
+}
+@source(SUMMA_Q64_A7_CO)
+pub relation source_co_self_life_priority(a: DefensiveAct) kind normative_fact {
+    label en official "source premise: the respondeo says moderate defense need not be omitted merely to avoid the assailant's death, because one is more bound to provide for one's own life";
+}
+@source(SUMMA_Q64_A7_AD_2)
+pub relation source_ad2_intention(a: DefensiveAct) kind normative_fact {
+    label en official "source reply: the phrase 'for these things' designates intention and carries the same scope as ad 1";
+}
+@source(SUMMA_Q64_A7_AD_3)
+pub relation source_ad3_irregularity(a: DefensiveAct) kind normative_fact {
+    label en official "source reply: irregularity follows a homicide act even without sin or intended killing";
+}
+@source(SUMMA_Q64_A7_AD_4)
+pub relation source_ad4_necessity_comparison(a: DefensiveAct) kind normative_fact {
+    label en official "source reply: fornication or adultery is not ordered by necessity to preserving one's life, unlike an act from which homicide sometimes follows";
+}
+@source(SUMMA_Q64_A7_AD_5)
+pub relation source_ad5_revenge_scope(a: DefensiveAct) kind normative_fact {
+    label en official "source reply: the prohibition concerns defense with vindictive resentment, namely returning harm to adversaries";
+}
+
+pub relation defense_intentional_end(p: Person, a: DefensiveAct) kind institutional {
+    label en official "the represented act is classified by its intended end: preserving the actor's own life";
+}
+external judgment relation vis_moderata(a: DefensiveAct) {
+    authority Court;
+    label en official "an adjudicator determines that defensive force is moderate in relation to its end";
+}
+pub relation proportionate_defense_conditions(p: Person, a: DefensiveAct) kind institutional {
+    label en official "preservation is intended and external proportionality judgment supports a moderate-defense classification";
+}
+pub relation excessive_defense_conditions(p: Person, a: DefensiveAct) kind institutional {
+    label en official "external adjudication classifies the force as excessive for the stated end";
+}
+pub relation public_authority(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the actor has public authority relevant to the represented act";
+}
+pub relation common_good_orientation(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the actor refers the intended killing to the common good";
+}
+pub relation private_passion_motive(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the actor is moved by private passion in the represented act";
+}
+pub relation public_authority_common_good_route(p: Person, a: DefensiveAct) kind institutional {
+    label en official "intended killing is accompanied by public authority and common-good orientation, without private passion";
+}
+pub relation clerical_status(p: Person) kind empirical {
+    label en official "the actor is a cleric";
+}
+pub relation homicide_act_occurs(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the act results in a human death classified here as homicide for the source's irregularity discussion";
+}
+pub relation irregularity_attaches(p: Person, a: DefensiveAct) kind institutional {
+    label en official "the source's clerical irregularity consequence attaches to the homicide act";
+}
+pub relation moral_culpability(p: Person, a: DefensiveAct) kind empirical {
+    label en official "an external case finding establishes moral culpability";
+}
+pub relation fornication_or_adultery_act(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the compared act is identified as fornication or adultery";
+}
+pub relation necessity_to_preserve_life(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the case fact or adjudication establishes that this act is necessary to preserving the actor's life";
+}
+pub relation defensive_act_from_which_homicide_follows(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the represented defensive act is one from which homicide sometimes follows";
+}
+pub relation fornication_or_adultery_not_necessary_for_life(p: Person, a: DefensiveAct) kind institutional {
+    label en official "the ad 4 comparison treats fornication or adultery as not necessary to preserving bodily life";
+}
+pub relation defense_effect_can_follow_from_necessity(p: Person, a: DefensiveAct) kind institutional {
+    label en official "the ad 4 comparison separately records that homicide can sometimes follow from a necessary defensive act";
+}
+pub relation vindictive_retaliation(p: Person, a: DefensiveAct) kind empirical {
+    label en official "the defense is motivated by vindictive retaliation against an adversary";
+}
+pub relation defense_with_vindictive_retaliation(p: Person, a: DefensiveAct) kind institutional {
+    label en official "the represented defense falls within the reply's vindictive-retaliation scope";
+}
+
+@source(SUMMA_Q64_A7_CO)
+rule IntendedEndClassification(p: Person, a: DefensiveAct) strict {
+    label en official "The intended preservation effect classifies the represented end";
+    when intended_effect(p, a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life"));
+    then defense_intentional_end(p, a);
+}
+@source(SUMMA_Q64_A7_CO)
+rule ModerateDefenseClassification(p: Person, a: DefensiveAct) strict {
+    label en official "A moderate-defense intermediate requires an external proportionality judgment";
+    when defense_intentional_end(p, a) and vis_moderata(a);
+    then proportionate_defense_conditions(p, a);
+}
+@source(SUMMA_Q64_A7_CO)
+rule ExcessiveDefenseClassification(p: Person, a: DefensiveAct) strict {
+    label en official "An excessive-force intermediate requires an explicit negative external judgment";
+    when defense_intentional_end(p, a) and not vis_moderata(a);
+    then excessive_defense_conditions(p, a);
+}
+@source(SUMMA_Q64_A7_CO)
+rule PublicAuthorityCommonGoodClassification(p: Person, a: DefensiveAct) strict {
+    label en official "Keep public authority and common-good orientation distinct from private passion";
+    when intended_effect(p, a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) and public_authority(p, a) and common_good_orientation(p, a) and not private_passion_motive(p, a);
+    then public_authority_common_good_route(p, a);
+}
+@source(SUMMA_Q64_A7_AD_3)
+rule ClericalIrregularityClassification(p: Person, a: DefensiveAct) strict {
+    label en official "The irregularity branch tracks clerical status and homicide occurrence, not culpability";
+    when clerical_status(p) and homicide_act_occurs(p, a);
+    then irregularity_attaches(p, a);
+}
+@source(SUMMA_Q64_A7_AD_4)
+rule Ad4FornicationComparison(p: Person, a: DefensiveAct) strict {
+    label en official "The source's ad 4 comparison depends on the identified act and an explicit non-necessity premise";
+    when fornication_or_adultery_act(p, a) and not necessity_to_preserve_life(p, a);
+    then fornication_or_adultery_not_necessary_for_life(p, a);
+}
+@source(SUMMA_Q64_A7_AD_4)
+rule Ad4DefensiveNecessityComparison(p: Person, a: DefensiveAct) strict {
+    label en official "Keep the defensive-act necessity comparison as a separate typed intermediate finding";
+    when defensive_act_from_which_homicide_follows(p, a) and necessity_to_preserve_life(p, a);
+    then defense_effect_can_follow_from_necessity(p, a);
+}
+@source(SUMMA_Q64_A7_AD_5)
+rule Ad5VindictiveScope(p: Person, a: DefensiveAct) strict {
+    label en official "The ad 5 reply scopes its cited prohibition to vindictive retaliation";
+    when self_defense_act(p, a) and vindictive_retaliation(p, a);
+    then defense_with_vindictive_retaliation(p, a);
+}
+
+
+// Protected conclusions are emitted only as rule heads, never supplied by cases.
+pub relation defensio_licita(p: Person, a: DefensiveAct) kind institutional {
+    label en official "conditional conclusion: proportionate defense with preservation intended and death not intended";
+}
+pub relation defensio_illicita(p: Person, a: DefensiveAct) kind institutional {
+    label en official "conditional conclusion: defensive act classified as excessive by the adjudicator";
+}
+pub relation occisio_intenta_illicita(p: Person, a: DefensiveAct) kind institutional {
+    label en official "conditional conclusion: intended killing without the public-authority/common-good route, or with private passion";
+}
+@source(SUMMA_Q64_A7_CO)
+rule PermissibleDefenseChain(p: Person, a: DefensiveAct) strict {
+    label en official "Conditional respondeo chain: own-life preservation, incidental death, and external moderate-force judgment";
+    when self_defense_act(p, a) and defense_intentional_end(p, a) and killing_is_incidental(p, a) and vis_moderata(a);
+    then defensio_licita(p, a);
+}
+@source(SUMMA_Q64_A7_CO)
+rule PublicAuthorityDefensiveKillingChain(p: Person, a: DefensiveAct) strict {
+    label en official "Conditional respondeo chain: intentional defensive killing routed to public authority and common good";
+    when self_defense_act(p, a) and public_authority_common_good_route(p, a) and vis_moderata(a);
+    then defensio_licita(p, a);
+}
+@source(SUMMA_Q64_A7_CO)
+rule ExcessiveDefenseChain(p: Person, a: DefensiveAct) strict {
+    label en official "Conditional respondeo chain: disproportionate force vitiates an otherwise good intended end";
+    when self_defense_act(p, a) and defense_intentional_end(p, a) and not vis_moderata(a);
+    then defensio_illicita(p, a);
+}
+@source(SUMMA_Q64_A7_CO)
+rule IntendedPrivateKillingChain(p: Person, a: DefensiveAct) strict {
+    label en official "Conditional respondeo chain: intended killing requires public authority for the common good and is illicit under private passion";
+    when self_defense_act(p, a) and intended_effect(p, a, entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) and (not public_authority(p, a) or not common_good_orientation(p, a) or private_passion_motive(p, a));
+    then occisio_intenta_illicita(p, a);
+}

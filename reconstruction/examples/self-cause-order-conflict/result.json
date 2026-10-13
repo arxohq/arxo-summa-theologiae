@@ -1,0 +1,336 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:2c3311dd0e45e6b3db02c86a442de3686019cdca502720924539a6ea2570a432",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:00ce4a988cd1125e32bab70e0b4638ab1693fcbeb02394d4182d6b1cd0d50b0a",
+    "decisionTime": "2026-10-13T00:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "2026-10-13T00:00:00Z",
+    "legalTime": "2026-10-13",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:f84b9dedb8320f7d6e2594083c754e25d804ade4638488de80036d320d68148b",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:3924d8a879b6b415e731c55d9e2bee1b7ac8303f7a6e2d55ed42b6d7a4c1b59f",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:f84b9dedb8320f7d6e2594083c754e25d804ade4638488de80036d320d68148b",
+    "timezone": "UTC"
+  },
+  "positions": [],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h2238d1f06883d3f8bfc92317eaa28012ce94b8d18635488019fc3bb978800bde"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#efficient_cause"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h2238d1f06883d3f8bfc92317eaa28012ce94b8d18635488019fc3bb978800bde",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:EfficientCauseImpliesPriorOrder:1351117f178f7321db33a8736fe8dfd80ed553d70f7a25eb518e260c7c220a83",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h2238d1f06883d3f8bfc92317eaa28012ce94b8d18635488019fc3bb978800bde"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-q2-a3#EfficientCauseImpliesPriorOrder",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          },
+          "v1": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          }
+        }
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_cause_edge"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:FiniteCauseEdge:0aa5ea643d9eb13c15683cf7e6083770e324e3bf4b45c60cc823c5ca781c761f",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h2238d1f06883d3f8bfc92317eaa28012ce94b8d18635488019fc3bb978800bde"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-q2-a3#FiniteCauseEdge",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          },
+          "v1": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          }
+        }
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_two_link_cause_path"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:FiniteTwoLinkCausePath:0f01ffc8b46b9b6390315b6693fa121ae94dfe4517de6d9ac9accf540bc9092f",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:apply:FiniteCauseEdge:0aa5ea643d9eb13c15683cf7e6083770e324e3bf4b45c60cc823c5ca781c761f"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-q2-a3#FiniteTwoLinkCausePath",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          },
+          "v1": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          },
+          "v2": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h42e6985e86d7f5bcde3a76e51ab2492080fe88f6f6d8f7f81ce5998080128da3"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#source_order_irreflexive"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h42e6985e86d7f5bcde3a76e51ab2492080fe88f6f6d8f7f81ce5998080128da3",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cause-X"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:SourceOrderIrreflexivity:d9dc25cd5b13c420688013b2c997f6a277917db2fd79d81fbb15f1744d2a44fd",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h42e6985e86d7f5bcde3a76e51ab2492080fe88f6f6d8f7f81ce5998080128da3"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-q2-a3#SourceOrderIrreflexivity",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          }
+        }
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "literal": {
+            "args": [
+              {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Text"
+                },
+                "value": "cause-X"
+              },
+              {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Text"
+                },
+                "value": "cause-X"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to"
+          },
+          "truthStatus": "BOTH"
+        },
+        "evidence": [],
+        "id": "urn:proof:query:i-q2-a3#test/efficient%20self-causation%20conflicts%20with%20stipulated%20source%20order-irreflexivity/query/0",
+        "kind": "query_evaluation",
+        "premises": [
+          "urn:proof:apply:EfficientCauseImpliesPriorOrder:1351117f178f7321db33a8736fe8dfd80ed553d70f7a25eb518e260c7c220a83",
+          "urn:proof:apply:SourceOrderIrreflexivity:d9dc25cd5b13c420688013b2c997f6a277917db2fd79d81fbb15f1744d2a44fd"
+        ],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:06a460fb634737e0f0cecf81e6a550eb24c336ee5f96628fb226b20711443a9d",
+    "roots": [
+      "urn:proof:query:i-q2-a3#test/efficient%20self-causation%20conflicts%20with%20stipulated%20source%20order-irreflexivity/query/0"
+    ]
+  },
+  "resultHash": "sha256:f87fdbc4a7adccf890b3c5dccadc22822559c62598eea28d36678b911ca2a1c9",
+  "results": [
+    {
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:i-q2-a3#test/efficient%20self-causation%20conflicts%20with%20stipulated%20source%20order-irreflexivity/query/0",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatusSupports": [],
+      "proof": "urn:proof:query:i-q2-a3#test/efficient%20self-causation%20conflicts%20with%20stipulated%20source%20order-irreflexivity/query/0",
+      "query": "urn:la:aquinas:reconstruction:i-q2-a3#test/efficient%20self-causation%20conflicts%20with%20stipulated%20source%20order-irreflexivity/query/0",
+      "resultKind": "PROPOSITION",
+      "sourceAnchors": [],
+      "target": "urn:la:aquinas:reconstruction:i-q2-a3#prior_to",
+      "truthStatus": "BOTH"
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

@@ -1,0 +1,75 @@
+{
+  "articleId": "i-ii-q90-a4",
+  "part": "I-II",
+  "question": 90,
+  "article": 4,
+  "sourceFile": "packages/law/sources/summa-theologiae-law/q90-92.la.txt",
+  "sourceFileSha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+  "sourceUrl": "https://www.corpusthomisticum.org/sth2090.html",
+  "sections": [
+    {
+      "id": "arg. 1",
+      "heading": "@@ I-II q. 90 a. 4 arg. 1",
+      "lineStart": 76,
+      "text": "@@ I-II q. 90 a. 4 arg. 1\nAd quartum sic proceditur. Videtur quod promulgatio non sit de ratione legis. Lex enim naturalis maxime habet rationem legis. Sed lex naturalis non indiget promulgatione. Ergo non est de ratione legis quod promulgetur.\n\n",
+      "lineEnd": 78,
+      "sha256": "a1155d8983d48b5248de49816eaf39212387800d098b1e78ef91f8619a99fd0d"
+    },
+    {
+      "id": "arg. 2",
+      "heading": "@@ I-II q. 90 a. 4 arg. 2",
+      "lineStart": 79,
+      "text": "@@ I-II q. 90 a. 4 arg. 2\nPraeterea, ad legem pertinet proprie obligare ad aliquid faciendum vel non faciendum. Sed non solum obligantur ad implendam legem illi coram quibus promulgatur lex, sed etiam alii. Ergo promulgatio non est de ratione legis.\n\n",
+      "lineEnd": 81,
+      "sha256": "1f1b3d81230f1851c08bc17474844dd51fdddb9007afdcb85549dec140ef255a"
+    },
+    {
+      "id": "arg. 3",
+      "heading": "@@ I-II q. 90 a. 4 arg. 3",
+      "lineStart": 82,
+      "text": "@@ I-II q. 90 a. 4 arg. 3\nPraeterea, obligatio legis extenditur etiam in futurum, quia leges futuris negotiis necessitatem imponunt, ut iura dicunt. Sed promulgatio fit ad praesentes. Ergo promulgatio non est de necessitate legis.\n\n",
+      "lineEnd": 84,
+      "sha256": "759fa1622afba4b25782da1e352929ade234434d0c5d3ae01afbd75e781d86ff"
+    },
+    {
+      "id": "s. c.",
+      "heading": "@@ I-II q. 90 a. 4 s. c.",
+      "lineStart": 85,
+      "text": "@@ I-II q. 90 a. 4 s. c.\nSed contra est quod dicitur in decretis, IV dist., quod leges instituuntur cum promulgantur.\n\n",
+      "lineEnd": 87,
+      "sha256": "60f9406bd1569eabba31570ded15ddb5de430f44406f6bc23f5325b04c2d5290"
+    },
+    {
+      "id": "co.",
+      "heading": "@@ I-II q. 90 a. 4 co.",
+      "lineStart": 88,
+      "text": "@@ I-II q. 90 a. 4 co.\nRespondeo dicendum quod, sicut dictum est, lex imponitur aliis per modum regulae et mensurae. Regula autem et mensura imponitur per hoc quod applicatur his quae regulantur et mensurantur. Unde ad hoc quod lex virtutem obligandi obtineat, quod est proprium legis, oportet quod applicetur hominibus qui secundum eam regulari debent. Talis autem applicatio fit per hoc quod in notitiam eorum deducitur ex ipsa promulgatione. Unde promulgatio necessaria est ad hoc quod lex habeat suam virtutem. Et sic ex quatuor praedictis potest colligi definitio legis, quae nihil est aliud quam quaedam rationis ordinatio ad bonum commune, ab eo qui curam communitatis habet, promulgata.\n\n",
+      "lineEnd": 90,
+      "sha256": "19478ab84856e6b9571520ddb582da0d122b15c09bfb1725e899a53868648997"
+    },
+    {
+      "id": "ad 1",
+      "heading": "@@ I-II q. 90 a. 4 ad 1",
+      "lineStart": 91,
+      "text": "@@ I-II q. 90 a. 4 ad 1\nAd primum ergo dicendum quod promulgatio legis naturae est ex hoc ipso quod Deus eam mentibus hominum inseruit naturaliter cognoscendam.\n\n",
+      "lineEnd": 93,
+      "sha256": "061a07902993bf60d5d5418857e3213046f4828eb0a86e343e88e1df6185ca51"
+    },
+    {
+      "id": "ad 2",
+      "heading": "@@ I-II q. 90 a. 4 ad 2",
+      "lineStart": 94,
+      "text": "@@ I-II q. 90 a. 4 ad 2\nAd secundum dicendum quod illi coram quibus lex non promulgatur, obligantur ad legem servandam, inquantum in eorum notitiam devenit per alios, vel devenire potest, promulgatione facta.\n\n",
+      "lineEnd": 96,
+      "sha256": "b516568fe95967edc441ab2ae4697924e6465b7ef02f77d7d5a3335d4af1ba74"
+    },
+    {
+      "id": "ad 3",
+      "heading": "@@ I-II q. 90 a. 4 ad 3",
+      "lineStart": 97,
+      "text": "@@ I-II q. 90 a. 4 ad 3\nAd tertium dicendum quod promulgatio praesens in futurum extenditur per firmitatem Scripturae, quae quodammodo semper eam promulgat. Unde Isidorus dicit, in II Etymol., quod lex a legendo vocata est, quia scripta est.\n\n",
+      "lineEnd": 99,
+      "sha256": "afad76bd10bc7eb162587e96c1d5233a2cef497158a77a2ef857c607168e2b8b"
+    }
+  ]
+}

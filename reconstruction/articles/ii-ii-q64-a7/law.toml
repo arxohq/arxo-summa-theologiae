@@ -1,0 +1,22 @@
+[package]
+name = "la.aquinas.reconstruct.ii_ii_q64_a7"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+
+[[tests]]
+family = "la.aquinas.reconstruct.ii_ii_q64_a7#article-local"
+regression = false
+suites = [
+  "tests/01-arg1-ad1-intended-scope.lawtest",
+  "tests/02-co-moderate-defense.lawtest",
+  "tests/03-co-public-authority-and-passion.lawtest",
+  "tests/04-ad3-irregularity-not-culpability.lawtest",
+  "tests/05-ad4-necessity-distinction.lawtest",
+  "tests/06-ad5-revenge-scope.lawtest",
+  "tests/07-intended-killing-public-authority.lawtest",
+]
+world = ["la.aquinas.reconstruct.ii_ii_q64_a7"]
+
+[authoring]
+local_imports = "explicit"

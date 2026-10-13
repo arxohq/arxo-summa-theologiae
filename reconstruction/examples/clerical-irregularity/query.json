@@ -1,0 +1,19 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [
+      {
+        "id": "urn:case:q64a7:p1",
+        "kind": "entity_ref"
+      },
+      {
+        "id": "urn:case:q64a7:act1",
+        "kind": "entity_ref"
+      }
+    ],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#irregularity_attaches"
+  },
+  "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/ad3%3A%20irregularity%20is%20separate%20from%20culpability/query/0"
+}

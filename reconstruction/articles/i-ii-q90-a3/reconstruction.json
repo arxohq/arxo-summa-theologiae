@@ -1,0 +1,402 @@
+{
+  "format": "arxo.summa-argument-reconstruction/0.1",
+  "articleId": "i-ii-q90-a3",
+  "modelSpec": "la.aquinas.reconstruct.i_ii_q90_a3@0.1.0",
+  "sourceSections": [
+    {
+      "section": "arg. 1",
+      "obligations": [
+        "arg1-natural-participation"
+      ]
+    },
+    {
+      "section": "arg. 2",
+      "obligations": [
+        "arg2-virtue-inducement"
+      ]
+    },
+    {
+      "section": "arg. 3",
+      "obligations": [
+        "arg3-household-governor"
+      ]
+    },
+    {
+      "section": "s. c.",
+      "obligations": [
+        "sedcontra-people-constitution"
+      ]
+    },
+    {
+      "section": "co.",
+      "obligations": [
+        "whole-care-lawmaking"
+      ]
+    },
+    {
+      "section": "ad 1",
+      "obligations": [
+        "participation-not-authorship"
+      ]
+    },
+    {
+      "section": "ad 2",
+      "obligations": [
+        "advice-vs-coercion"
+      ]
+    },
+    {
+      "section": "ad 3",
+      "obligations": [
+        "household-partial-end"
+      ]
+    }
+  ],
+  "premises": [
+    {
+      "id": "p-source_co_common_good_scope",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Law properly regards order to common good.",
+      "formalSymbols": [
+        "source_co_common_good_scope"
+      ]
+    },
+    {
+      "id": "p-source_co_caretaker",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Ordering the multitude to common good belongs to it or its public caretaker.",
+      "formalSymbols": [
+        "source_co_caretaker"
+      ]
+    },
+    {
+      "id": "p-source_co_end_authority",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Ordering to an end belongs to the one whose proper end it is.",
+      "formalSymbols": [
+        "source_co_end_authority"
+      ]
+    },
+    {
+      "id": "p-source_ad1_participation",
+      "kind": "source_principle",
+      "sections": [
+        "ad 1"
+      ],
+      "statement": "A person can be a law to himself participatively by sharing in a regulator’s order.",
+      "formalSymbols": [
+        "source_ad1_participation"
+      ]
+    },
+    {
+      "id": "p-source_ad2_virtue_goal",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "The legislator aims to lead people toward virtue.",
+      "formalSymbols": [
+        "source_ad2_virtue_goal"
+      ]
+    },
+    {
+      "id": "p-source_ad2_private_admonition",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "A private person can advise, but rejected advice lacks coercive force.",
+      "formalSymbols": [
+        "source_ad2_private_admonition"
+      ]
+    },
+    {
+      "id": "p-source_ad2_public_penalty",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "The multitude or public caretaker has coercive power to impose penalties.",
+      "formalSymbols": [
+        "source_ad2_public_penalty"
+      ]
+    },
+    {
+      "id": "p-source_ad3_household_part_city",
+      "kind": "source_principle",
+      "sections": [
+        "ad 3"
+      ],
+      "statement": "A household is part of the city, the complete community.",
+      "formalSymbols": [
+        "source_ad3_household_part_city"
+      ]
+    },
+    {
+      "id": "p-source_ad3_household_statutes",
+      "kind": "source_principle",
+      "sections": [
+        "ad 3"
+      ],
+      "statement": "A household governor can set precepts, but they do not thereby have proper law character.",
+      "formalSymbols": [
+        "source_ad3_household_statutes"
+      ]
+    },
+    {
+      "id": "p-arg1-natural-participation",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 1"
+      ],
+      "statement": "The objection moves from natural performance of law’s works and self-as-law to private lawmaking.",
+      "formalSymbols": [
+        "arg1_natural_participation"
+      ]
+    },
+    {
+      "id": "p-arg2-virtue-inducement",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 2"
+      ],
+      "statement": "The objection moves from anyone encouraging virtue to anyone being a legislator.",
+      "formalSymbols": [
+        "arg2_virtue_inducement"
+      ]
+    },
+    {
+      "id": "p-arg3-household-governor",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 3"
+      ],
+      "statement": "The objection analogizes the household governor to the city ruler.",
+      "formalSymbols": [
+        "arg3_household_governor"
+      ]
+    },
+    {
+      "id": "p-sedcontra-people-constitution",
+      "kind": "source_principle",
+      "sections": [
+        "s. c."
+      ],
+      "statement": "The sed contra defines law as a people’s constitution enacted with the people.",
+      "formalSymbols": [
+        "sedcontra_people_constitution"
+      ]
+    }
+  ],
+  "obligations": [
+    {
+      "id": "whole-care-lawmaking",
+      "statement": "Represent two separately typed common-good lawmaking routes: the whole multitude itself, and a public caretaker of that whole.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_co_common_good_scope",
+        "whole_multitude_orders_good",
+        "whole_multitude_common_good_route",
+        "source_co_caretaker",
+        "public_office_has_care_of_whole",
+        "public_caretaker_of_whole",
+        "public_caretaker_common_good_route"
+      ],
+      "tests": [
+        "01-public-caretaker.lawtest",
+        "04-whole-multitude.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The whole-multitude route and public-caretaker route are separate strict conjunctions with separate positive/removal fixtures; no disjunction or inference from private participation to legislative authority is used.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "participation-not-authorship",
+      "statement": "Represent participation in received natural/regulatory order without private legislative authorship.",
+      "sections": [
+        "ad 1"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_ad1_participation"
+      ],
+      "tests": [
+        "02-private-admonition.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "advice-vs-coercion",
+      "statement": "Distinguish private admonition from public coercive power to enact an effective law.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_ad2_virtue_goal",
+        "source_ad2_private_admonition",
+        "source_ad2_public_penalty"
+      ],
+      "tests": [
+        "02-private-admonition.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "household-partial-end",
+      "statement": "Represent household statutes as local precepts within an end nested under the complete community.",
+      "sections": [
+        "ad 3"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_ad3_household_part_city",
+        "source_ad3_household_statutes"
+      ],
+      "tests": [
+        "03-household-scope.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "arg1-natural-participation",
+      "statement": "The objection moves from natural performance of law’s works and self-as-law to private lawmaking.",
+      "sections": [
+        "arg. 1"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg1_natural_participation"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg2-virtue-inducement",
+      "statement": "The objection moves from anyone encouraging virtue to anyone being a legislator.",
+      "sections": [
+        "arg. 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg2_virtue_inducement"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg3-household-governor",
+      "statement": "The objection analogizes the household governor to the city ruler.",
+      "sections": [
+        "arg. 3"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg3_household_governor"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "sedcontra-people-constitution",
+      "statement": "The sed contra defines law as a people’s constitution enacted with the people.",
+      "sections": [
+        "s. c."
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "sedcontra_people_constitution"
+      ],
+      "tests": [],
+      "dependsOn": []
+    }
+  ],
+  "replyTargets": [
+    {
+      "reply": "ad 1",
+      "objection": "arg. 1",
+      "target": "“they are a law to themselves”",
+      "mechanism": "Represent natural law in a person as participation in an existing regulator’s order; do not infer private authorship.",
+      "obligations": [
+        "participation-not-authorship"
+      ]
+    },
+    {
+      "reply": "ad 2",
+      "objection": "arg. 2",
+      "target": "private virtue advice",
+      "mechanism": "Separate private admonition without coercive force from public penalty-enforcing authority.",
+      "obligations": [
+        "advice-vs-coercion"
+      ]
+    },
+    {
+      "reply": "ad 3",
+      "objection": "arg. 3",
+      "target": "household governance",
+      "mechanism": "Place the household as a part of the complete city; household statutes remain local precepts under the civic common good, not proper law.",
+      "obligations": [
+        "household-partial-end"
+      ]
+    }
+  ],
+  "protectedConclusions": [
+    "public_caretaker_of_whole",
+    "private_participates_in_received_order",
+    "private_admonition_only",
+    "public_coercive_lawmaking_route",
+    "household_statute_local_only",
+    "household_end_nested_in_city_good",
+    "whole_multitude_common_good_route",
+    "public_caretaker_common_good_route"
+  ],
+  "limitations": [
+    "Source-attested philosophical principles are declared assumptions rather than independently established truths.",
+    "Case inputs and intermediate rules are local to this article and are not imported from earlier argument graphs.",
+    "Unknown inputs remain unknown; no absence of an assertion is treated as a negative fact.",
+    "Positive and premise-removal fixtures are present for each implemented branch.",
+    "Obligations remain NOT_VERIFIED or CONDITIONAL pending runtime execution and source review.",
+    "fullArticleVerified remains false; this finite reconstruction does not establish universal claims.",
+    "Whole-multitude and public-caretaker lawmaking routes are separately represented as strict conjunctions; removing the whole-multitude case fact removes that route.",
+    "An article-local argumentation query is present without engineered priorities. The selected CLI test summary exposes the argumentation class but does not retain skippedRules; no skippedRules-zero claim is made until a canonical argumentation document is inspected.",
+    "The @source annotation names the source article, but these test summaries do not emit native proof source-anchor evidence; no such proof evidence is claimed."
+  ],
+  "fullArticleVerified": false,
+  "review": {
+    "sourceReview": "coordinator plus independent Luna read-only review",
+    "runtimeEvidence": "Article-local published CLI check/lower/test and native repeated evaluation documents; final aggregate report is generated outside Git.",
+    "engineCertificate": "not_run",
+    "nativeProofSourceAnchors": "No native source-anchor certificate is claimed; model annotations and pinned section mapping provide project-level provenance.",
+    "fullArticleVerified": false
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:4eeeb6c66d5101686b9da60e943de372e2d90e5a01a6c34c6e0c5ab88af1b9cc",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:c83e88d2d356b19d438886cc8d7a2fd8f36377b75cc3b852ccca00464cea188f",
+    "decisionTime": "2026-10-13T12:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "2026-10-13T12:00:00Z",
+    "legalTime": "2026-10-13",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:b69ff4342e8669ebbc29b025555ffc920f5ddd1e069747c497e403b73ed46237",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:2569849cf0ba1a63e24a18b47e53bd092529111b48ff43382403f85ff1204af3",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:b69ff4342e8669ebbc29b025555ffc920f5ddd1e069747c497e403b73ed46237",
+    "timezone": "UTC"
+  },
+  "positions": [],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#cleric"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#clerical_status"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#cleric",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide-act"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide_act_occurs"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide-act",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#irregularity_attaches"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:ClericalIrregularityClassification:2a20eb24320e7f18b11155f6bd3cf661c53e6da7f8237141e95b955dbdc5a0cd",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#cleric",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide-act"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#ClericalIrregularityClassification",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          "v1": {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "literal": {
+            "args": [
+              {
+                "id": "urn:case:q64a7:p1",
+                "kind": "entity_ref"
+              },
+              {
+                "id": "urn:case:q64a7:act1",
+                "kind": "entity_ref"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#irregularity_attaches"
+          },
+          "truthStatus": "TRUE_ONLY"
+        },
+        "evidence": [],
+        "id": "urn:proof:query:ii-ii-q64-a7#test/ad3%3A%20irregularity%20is%20separate%20from%20culpability/query/0",
+        "kind": "query_evaluation",
+        "premises": [
+          "urn:proof:apply:ClericalIrregularityClassification:2a20eb24320e7f18b11155f6bd3cf661c53e6da7f8237141e95b955dbdc5a0cd"
+        ],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:586c23d325082ca4849caf2b085aa537ca0b1aba6b0a634c85c64949c06df9a5",
+    "roots": [
+      "urn:proof:query:ii-ii-q64-a7#test/ad3%3A%20irregularity%20is%20separate%20from%20culpability/query/0"
+    ]
+  },
+  "resultHash": "sha256:4f0a3da1db3e35313dc34531baa032ed3bf00e56d5f71edc5e6a3060dab795d2",
+  "results": [
+    {
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:ii-ii-q64-a7#test/ad3%3A%20irregularity%20is%20separate%20from%20culpability/query/0",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatusSupports": [],
+      "proof": "urn:proof:query:ii-ii-q64-a7#test/ad3%3A%20irregularity%20is%20separate%20from%20culpability/query/0",
+      "query": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/ad3%3A%20irregularity%20is%20separate%20from%20culpability/query/0",
+      "resultKind": "PROPOSITION",
+      "sourceAnchors": [],
+      "target": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#irregularity_attaches",
+      "truthStatus": "TRUE_ONLY"
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

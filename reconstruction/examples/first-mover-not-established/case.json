@@ -1,0 +1,169 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:4d1a15bec100de4c4261da9fda9ae5b138419f78a4c3eb12f8ef6ea9e99c5312",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h071b67423abc2ba7d20fd453e9bc0c61d5b056146f53a4c0666005faf317e34c",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "wood"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "temperature"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cold"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#state_before"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3"
+    },
+    {
+      "contentHash": "sha256:764d74524b1de4cb770e454e199e505a9e4eb94883e101d19b47328132eb4504",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h1c279171e2280268e98b202b542022d7f73c0b9e3644d0fe1420e43103fdcac9",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "wood"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "temperature"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "hot"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#in_potency"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3"
+    },
+    {
+      "contentHash": "sha256:bc1de2fb236fcc79c21c7ed99c6b05650624cd223e349ea84d06d6857ac870c6",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#assert-heff3263cdfd5020ede92f39067cba8835e23c10093c5040b144a611b36b27570",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "fire"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "temperature"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "hot"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#in_act"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3"
+    },
+    {
+      "contentHash": "sha256:648ae81b99218a8be08ef650d2c82fa115efda9d3eab27a7e30df351d9489e61",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h8deb19918325dbb8feedf10811645fe41cfc0af0be5a887ae9b727e0f2cf4da1",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "fire"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "wood"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "temperature"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cold"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "hot"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#actualizes"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-10-13T00:00:00Z",
+    "knowledgeTime": "2026-10-13T00:00:00Z",
+    "legalTime": "2026-10-13",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

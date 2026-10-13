@@ -1,0 +1,44 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.ii_ii_q64_a7 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:ii-ii-q64-a7";
+
+test "public authority and common good form a separate intermediate route" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "death-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "authority": public_authority(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "common-good": common_good_orientation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "no-private-passion": not private_passion_motive(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(public_authority_common_good_route(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}
+
+test "private passion blocks public authority route" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "death-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "authority": public_authority(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "common-good": common_good_orientation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "private-passion": private_passion_motive(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(public_authority_common_good_route(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+test "removing public authority removes the route" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "death-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "common-good": common_good_orientation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "no-private-passion": not private_passion_motive(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(public_authority_common_good_route(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}

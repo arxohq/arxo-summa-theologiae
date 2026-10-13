@@ -1,0 +1,39 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a3 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a3";
+
+test "household: positive and removal" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "p1": source_ad3_household_part_city() { origin case_input; }
+  assert "p2": source_ad3_household_statutes() { origin case_input; }
+  assert "p3": household_governor() { origin case_input; }
+  assert "p4": household_precept() { origin case_input; }
+ }
+ evaluate truth(household_statute_local_only());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+ evaluate truth(household_end_nested_in_city_good());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+}
+
+test "household: explicit removal blocks dependent conclusions" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "r1": source_ad3_household_part_city() { origin case_input; }
+  assert "r2": source_ad3_household_statutes() { origin case_input; }
+  assert "r3": household_governor() { origin case_input; }
+  assert "removed": not household_precept() { origin case_input; }
+ }
+ evaluate truth(household_statute_local_only());
+ expect result_kind == PROPOSITION;
+ expect truth_status == NEITHER;
+ expect evaluation_status == COMPUTED;
+ evaluate truth(household_end_nested_in_city_good());
+ expect result_kind == PROPOSITION;
+ expect truth_status == NEITHER;
+ expect evaluation_status == COMPUTED;
+}

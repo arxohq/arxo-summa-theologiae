@@ -1,0 +1,414 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:2c3311dd0e45e6b3db02c86a442de3686019cdca502720924539a6ea2570a432",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:d5761d897f46778953b98634b5cc1dd605da158ab906c49a85d81beafe781538",
+    "decisionTime": "2026-10-13T00:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "2026-10-13T00:00:00Z",
+    "legalTime": "2026-10-13",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:f84b9dedb8320f7d6e2594083c754e25d804ade4638488de80036d320d68148b",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:d78ecc0c6e24b0b439b301ffd4d0f62823ab522b7344cae41c60809e1ebc32fa",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:f84b9dedb8320f7d6e2594083c754e25d804ade4638488de80036d320d68148b",
+    "timezone": "UTC"
+  },
+  "positions": [],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h071b67423abc2ba7d20fd453e9bc0c61d5b056146f53a4c0666005faf317e34c"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "wood"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "temperature"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cold"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#state_before"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h071b67423abc2ba7d20fd453e9bc0c61d5b056146f53a4c0666005faf317e34c",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h1c279171e2280268e98b202b542022d7f73c0b9e3644d0fe1420e43103fdcac9"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "wood"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "temperature"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "hot"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#in_potency"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h1c279171e2280268e98b202b542022d7f73c0b9e3644d0fe1420e43103fdcac9",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h8deb19918325dbb8feedf10811645fe41cfc0af0be5a887ae9b727e0f2cf4da1"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "fire"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "wood"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "temperature"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cold"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "hot"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#actualizes"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h8deb19918325dbb8feedf10811645fe41cfc0af0be5a887ae9b727e0f2cf4da1",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:i-q2-a3#assert-heff3263cdfd5020ede92f39067cba8835e23c10093c5040b144a611b36b27570"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "fire"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "temperature"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "hot"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#in_act"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-heff3263cdfd5020ede92f39067cba8835e23c10093c5040b144a611b36b27570",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "wood"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "temperature"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "fire"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "cold"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "hot"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#finite_actualization"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:ActualizationWitness:7ae2e8f9e76849015b8d86d79a5f3c1ff5f2c1979cc25e4ad407e2d1a0c1d130",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h071b67423abc2ba7d20fd453e9bc0c61d5b056146f53a4c0666005faf317e34c",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h1c279171e2280268e98b202b542022d7f73c0b9e3644d0fe1420e43103fdcac9",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-h8deb19918325dbb8feedf10811645fe41cfc0af0be5a887ae9b727e0f2cf4da1",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:i-q2-a3#assert-heff3263cdfd5020ede92f39067cba8835e23c10093c5040b144a611b36b27570"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-q2-a3#ActualizationWitness",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "fire"
+          },
+          "v1": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "wood"
+          },
+          "v2": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "temperature"
+          },
+          "v3": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cold"
+          },
+          "v4": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "hot"
+          }
+        }
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "wood"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "temperature"
+            },
+            {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "fire"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#moved_by_another"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:MovedByOtherInSameAspect:ff9451c09d5bdf138f1af009192d66d85b9510e4efe562731571ad744755e54b",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:apply:ActualizationWitness:7ae2e8f9e76849015b8d86d79a5f3c1ff5f2c1979cc25e4ad407e2d1a0c1d130"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:i-q2-a3#MovedByOtherInSameAspect",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "fire"
+          },
+          "v1": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "wood"
+          },
+          "v2": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "temperature"
+          },
+          "v3": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cold"
+          },
+          "v4": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "hot"
+          }
+        }
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "literal": {
+            "args": [
+              {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Text"
+                },
+                "value": "fire"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#first_mover"
+          },
+          "truthStatus": "NEITHER"
+        },
+        "evidence": [],
+        "id": "urn:proof:query:i-q2-a3#test/potential%20and%20actual%20heat%20at%20the%20target%20state%20support%20a%20finite%20moved-by-another%20witness/query/2",
+        "kind": "query_evaluation",
+        "premises": [],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:45ffa2017294b9764181e2baba86dfcf827e0b073625e6ea85d94a4eb85a2c7f",
+    "roots": [
+      "urn:proof:query:i-q2-a3#test/potential%20and%20actual%20heat%20at%20the%20target%20state%20support%20a%20finite%20moved-by-another%20witness/query/2"
+    ]
+  },
+  "resultHash": "sha256:3c3c527a285e30ea0a00808f517d81865bd07106028b898add5901486fd1e522",
+  "results": [
+    {
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:i-q2-a3#test/potential%20and%20actual%20heat%20at%20the%20target%20state%20support%20a%20finite%20moved-by-another%20witness/query/2",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatusSupports": [],
+      "proof": "urn:proof:query:i-q2-a3#test/potential%20and%20actual%20heat%20at%20the%20target%20state%20support%20a%20finite%20moved-by-another%20witness/query/2",
+      "query": "urn:la:aquinas:reconstruction:i-q2-a3#test/potential%20and%20actual%20heat%20at%20the%20target%20state%20support%20a%20finite%20moved-by-another%20witness/query/2",
+      "resultKind": "PROPOSITION",
+      "sourceAnchors": [],
+      "target": "urn:la:aquinas:reconstruction:i-q2-a3#first_mover",
+      "truthStatus": "NEITHER"
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

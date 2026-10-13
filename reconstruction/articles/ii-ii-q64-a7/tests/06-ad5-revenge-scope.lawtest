@@ -1,0 +1,38 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.ii_ii_q64_a7 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:ii-ii-q64-a7";
+
+test "ad5 classifies vindictive defense under the cited prohibition scope" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "self-defense": self_defense_act(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "revenge-motive": vindictive_retaliation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(defense_with_vindictive_retaliation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}
+
+test "ad5 revenge branch does not classify ordinary defense without retaliation" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "not-revenge": not vindictive_retaliation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(defense_with_vindictive_retaliation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+
+test "ad5 revenge outside self-defense scope is not classified" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "revenge-motive": vindictive_retaliation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(defense_with_vindictive_retaliation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}

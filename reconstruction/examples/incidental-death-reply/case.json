@@ -1,0 +1,111 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:02f6e407d7c76931fce01bdafdee0ee92fe82e5013500db006e3557984e55846",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    },
+    {
+      "contentHash": "sha256:f5b968ecbe235261a62014123198051f080c1926e5d10997a520d3d33ad39262",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-occurs",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    },
+    {
+      "contentHash": "sha256:191efdfa78e8b34eb242f591f19e8a6cb9333aaf6f1d875fe294f67aaf434f90",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    },
+    {
+      "contentHash": "sha256:5e2fca081fb214d55a35e7785432b1095428cff9ba566f07230b022cb5360468",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-explicitly-unintended",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+      },
+      "origin": "adjudicated",
+      "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-10-13T12:00:00Z",
+    "knowledgeTime": "2026-10-13T12:00:00Z",
+    "legalTime": "2026-10-13",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

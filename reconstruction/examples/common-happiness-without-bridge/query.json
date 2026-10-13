@@ -1,0 +1,10 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a2#law_ordered_to_common_happiness"
+  },
+  "queryId": "urn:la:aquinas:reconstruction:i-ii-q90-a2#test/common%20happiness%3A%20explicit%20removal%20blocks%20dependent%20conclusions/query/1"
+}

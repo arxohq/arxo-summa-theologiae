@@ -1,6 +1,16 @@
 name: Addressed Summa verification
 on:
   workflow_dispatch:
+    inputs:
+      scope:
+        description: Addressed verification scope
+        type: choice
+        options: [reconstruction, reader, all-addressed]
+        default: reconstruction
+      release_tag:
+        description: Optional new immutable release tag, such as v0.2.0
+        type: string
+        default: ''
 permissions:
   contents: read
 jobs:
@@ -19,5 +29,62 @@ jobs:
           python-version: '3.12'
       - name: Install the published CLI
         run: npm install -g @arxo/cli@0.2.4
-      - name: Verify selected models, reader examples and native ask
+      - name: Verify the original reader examples
+        if: inputs.scope == 'reconstruction'
+        run: python3 tools/check.py --examples-only
+      - name: Verify selected original models, reader examples and native ask
+        if: inputs.scope != 'reconstruction'
         run: python3 tools/check.py
+      - name: Locate the installed native CLI
+        if: inputs.scope != 'reader'
+        run: |
+          native=$(node --input-type=module -e 'const { locateBinary } = await import(process.argv[1]); const found = locateBinary(); if (found.error) throw new Error(found.error); console.log(found.binary)' "$(npm root -g)/@arxo/cli/bin/law.js")
+          printf 'LAW_RECON_BIN=%s\n' "$native" >> "$GITHUB_ENV"
+      - name: Check the seven reconstructed articles and their reader examples
+        if: inputs.scope != 'reader'
+        run: |
+          python3 reconstruction/tools/verify.py --all-selected --law-bin "$LAW_RECON_BIN" --out "$RUNNER_TEMP/reconstruction-evidence"
+          python3 tools/check_reconstruction.py --evidence "$RUNNER_TEMP/reconstruction-evidence"
+      - name: Retain addressed reconstruction evidence
+        if: inputs.scope != 'reader'
+        uses: actions/upload-artifact@v4
+        with:
+          name: reconstruction-evidence
+          path: ${{ runner.temp }}/reconstruction-evidence
+      - name: Export and verify the declared public archive
+        run: |
+          python3 tools/canon_publication.py export --source . --config publication.toml --out "$RUNNER_TEMP/summa-artifact"
+          python3 tools/canon_publication.py verify --artifact "$RUNNER_TEMP/summa-artifact"
+          mkdir -p "$RUNNER_TEMP/release"
+          version=$(python3 -c 'import json; print(json.load(open("CANON-MANIFEST.json"))["version"])')
+          archive="arxo-summa-theologiae-$version.tar.gz"
+          tar --sort=name --mtime=@0 --owner=0 --group=0 --numeric-owner -czf "$RUNNER_TEMP/release/$archive" -C "$RUNNER_TEMP/summa-artifact" .
+          (cd "$RUNNER_TEMP/release" && sha256sum "$archive" > "$archive.sha256")
+      - name: Retain the exact verified release archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: public-release
+          path: ${{ runner.temp }}/release
+  release:
+    if: inputs.release_tag != '' && inputs.scope != 'reader'
+    needs: summa
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/download-artifact@v4
+        with:
+          name: public-release
+          path: release
+      - name: Publish the verified immutable release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ inputs.release_tag }}
+        run: |
+          version=$(python3 -c 'import json; print(json.load(open("CANON-MANIFEST.json"))["version"])')
+          test "$RELEASE_TAG" = "v$version"
+          (cd release && sha256sum -c "arxo-summa-theologiae-$version.tar.gz.sha256")
+          gh release create "$RELEASE_TAG" release/* --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" --title "$RELEASE_TAG — Auditable Summa argument reconstructions" --notes-file docs/RELEASE-v0.2.0.md

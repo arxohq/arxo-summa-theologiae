@@ -1,0 +1,2245 @@
+{
+  "format": "arxo.summa-reconstruction-acceptance/0.1",
+  "scope": {
+    "selectedArticles": 7,
+    "sourceSections": 56,
+    "coreChanges": false,
+    "fullCorpus": "not_checked",
+    "published": false,
+    "releaseVerified": false,
+    "fullArticlesVerified": 0,
+    "engineCertificate": "not_run"
+  },
+  "sourcePinSha256": "6df40eb0def2404836ef5a5f4f6360b44cde3f7837e9d6b14c88f3615b003b49",
+  "runtime": {
+    "cliNpm": "@arxo/cli@0.2.4",
+    "platformPackage": "@arxo/cli-darwin-arm64@0.2.4",
+    "nativeBinarySha256": "f92d66559467a23091c58e4d7cdf66666363e713c9b1b3b183e31ceff3c54433",
+    "launcherSha256": "54f2af8393c06f4f859fbd063d0067a7795f594fe62456259c16f647a6028bfc",
+    "cliPinMatches": true,
+    "cliVersionMatches": true,
+    "corpusLocksetStatus": "UNPINNED_FROM_CORPUS_LOCKSET",
+    "semantics": "law.core/0.2.11"
+  },
+  "runtimeReport": {
+    "relativeEvidencePath": "final-native-evidence/report.json",
+    "sha256": "b242d00054044fa809dd49d4c22a25da6a5c6416cf1ea7924fc0929ad1bb9732",
+    "storage": "Raw canonical documents and commands are outside Git in the delivery evidence directory."
+  },
+  "statusDefinitions": {
+    "VERIFIED_IN_PROFILE": "The stated implemented finite fragment was source-reviewed and checked with current exact CLI bytes. No whole article, premise truth, or full-engine proof certificate is claimed.",
+    "CONDITIONAL": "An observed route depends on an explicit bridge, authority acceptance, lexical interpretation or external judgment.",
+    "RECONSTRUCTED": "Source reasoning is mapped but its complete transition has not been formally established.",
+    "UNSUPPORTED": "The required stronger/unbounded/modal proof obligation is not checked by this selected profile. It is not an invalidity verdict."
+  },
+  "obligationTotals": {
+    "VERIFIED_IN_PROFILE": 21,
+    "RECONSTRUCTED": 32,
+    "CONDITIONAL": 22,
+    "UNSUPPORTED": 15
+  },
+  "runtimeTotals": {
+    "scenarios": 73,
+    "evaluations": 132,
+    "sourceSections": 56
+  },
+  "allModelAndTestHashesCurrent": true,
+  "allRepeatedResultsMatch": true,
+  "nativeProofSourceAnchorCertificate": "NOT_PROVIDED",
+  "formalChecker": "not_run",
+  "articles": [
+    {
+      "articleId": "ii-ii-q64-a7",
+      "modelSpec": "la.aquinas.reconstruct.ii_ii_q64_a7@0.1.0",
+      "scenariosPassed": 24,
+      "scenariosFailed": 0,
+      "queryEvaluations": 39,
+      "obligationCounts": {
+        "VERIFIED_IN_PROFILE": 5,
+        "RECONSTRUCTED": 7,
+        "CONDITIONAL": 5
+      },
+      "sourceSections": 12,
+      "sourceFileSha256": "affae831a11f177c73fb9549f6a0f9e5d5fd65beafd9891d4c5e9cb0bdda8bcf",
+      "excerptSha256": "2eb925551ac08aa2b00123752c08018ebe099d2f44ea8adfadd5265f7be632ff",
+      "modelFiles": [
+        {
+          "bytes": 20569,
+          "path": "model/00-package.law",
+          "sha256": "e1bac99755879d1c831f47a8e34c3cb4379625f1903c23221564c7c0a37b6b5a"
+        }
+      ],
+      "testFiles": [
+        {
+          "bytes": 5235,
+          "path": "tests/01-arg1-ad1-intended-scope.lawtest",
+          "sha256": "05b099d326d7163284a23ff1af03d782ac012f276afd0e5b70d51bbb972ac3db"
+        },
+        {
+          "bytes": 6420,
+          "path": "tests/02-co-moderate-defense.lawtest",
+          "sha256": "5636501706c857a9f3154dd784942669782a0fa27d85739edd0ed991d33fbba0"
+        },
+        {
+          "bytes": 3346,
+          "path": "tests/03-co-public-authority-and-passion.lawtest",
+          "sha256": "f40d17149c9cca43d2d331fbedd2a28909a05d1dde3a7e0b227cb63944eb819d"
+        },
+        {
+          "bytes": 2014,
+          "path": "tests/04-ad3-irregularity-not-culpability.lawtest",
+          "sha256": "10c3e45b6ba78660d2b1b40c68c852e3945bf52b4680baab780103fac51e4001"
+        },
+        {
+          "bytes": 2162,
+          "path": "tests/05-ad4-necessity-distinction.lawtest",
+          "sha256": "12625b83050fc3482abfe053d43f20a24e29146a1381b8ab45e017ad4e95845e"
+        },
+        {
+          "bytes": 2159,
+          "path": "tests/06-ad5-revenge-scope.lawtest",
+          "sha256": "32e1626c5c03e4ef6c7530c69c277c68053ae015f35edd0bbfa76d3647b171b6"
+        },
+        {
+          "bytes": 7783,
+          "path": "tests/07-intended-killing-public-authority.lawtest",
+          "sha256": "48f89b8d1ec77c3233cdbba37d581c4e9376b9bc5b418c418c9308374fd95342"
+        }
+      ],
+      "modelAndTestHashesCurrent": true,
+      "repeatedResults": {
+        "status": "MEASURED",
+        "allMatch": true,
+        "documents": 39,
+        "outcomeHash": "NOT_PROVIDED"
+      },
+      "nativeManifest": {
+        "semantics": "law.core/0.2.11",
+        "programHash": "sha256:b69ff4342e8669ebbc29b025555ffc920f5ddd1e069747c497e403b73ed46237",
+        "semanticHash": "sha256:b9e647d6618de888d755733c06c2371a6d5fb029e738442e53063bfc03552c11",
+        "theoryHash": "sha256:b69ff4342e8669ebbc29b025555ffc920f5ddd1e069747c497e403b73ed46237",
+        "artifactHash": "sha256:4eeeb6c66d5101686b9da60e943de372e2d90e5a01a6c34c6e0c5ab88af1b9cc"
+      },
+      "protectedInputAssertionGuard": {
+        "ok": true,
+        "assertionsInspected": 81
+      },
+      "obligations": [
+        {
+          "id": "arg1-augustine-scope",
+          "statement": "Represent the arg. 1 cited premise with the ad 1 scope restriction: the actor intends the attacker's death as a means of freeing himself from his own death; classify an occurring but explicitly not intended death separately.",
+          "sections": [
+            "arg. 1",
+            "ad 1"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_arg1_augustine_counsel",
+            "source_ad1_augustine_scope",
+            "self_defense_act",
+            "effect_occurs",
+            "intended_effect",
+            "augustine_objection_applies",
+            "death_intended_as_means_of_self_preservation",
+            "augustine_intended_killing_scope",
+            "killing_is_incidental",
+            "MeansEntailsIntent"
+          ],
+          "tests": [
+            "01-arg1-ad1-intended-scope.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "Runnable native argumentation, explicit-negative, unknown-intention, and means-versus-negative conflict scenarios are present. The death-as-means case remains an input; the lexical bridge to intended death is a conditional reconstruction, not an independent proof of Augustine or the reply.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "arg2-bodily-life-objection",
+          "statement": "Account for the second objection's stated premise that bodily life is among losses one can suffer unwillingly and should be contemned in its reasoning.",
+          "sections": [
+            "arg. 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+          "formalSymbols": [
+            "source_arg2_contemptible_loss"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg3-irregularity-objection",
+          "statement": "Account for the third objection's use of the clerical irregularity warning as an objection to permission.",
+          "sections": [
+            "arg. 3"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+          "formalSymbols": [
+            "source_arg3_clerical_warning"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg4-spiritual-life-comparison",
+          "statement": "Account for the fourth objection's spiritual-life priority and comparison with other mortal sins.",
+          "sections": [
+            "arg. 4"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+          "formalSymbols": [
+            "source_arg4_spiritual_life_priority"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg5-defense-and-fruit",
+          "statement": "Account for the fifth objection's inference from a purportedly bad defense to its effect.",
+          "sections": [
+            "arg. 5"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+          "formalSymbols": [
+            "source_arg5_tree_and_fruit"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "sedcontra-house-life-comparison",
+          "statement": "Account for the sed contra comparison from defense of a house to defense of life.",
+          "sections": [
+            "s. c."
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+          "formalSymbols": [
+            "source_sc_householder_comparison"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "co-means-entails-intention",
+          "statement": "Represent the conservative lexical bridge that an actor who intends death as a means thereby intends death, while preserving a conflict with explicit negative intention evidence.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "death_intended_as_means_of_self_preservation",
+            "MeansEntailsIntent",
+            "intended_effect"
+          ],
+          "tests": [
+            "01-arg1-ad1-intended-scope.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "A strict transition and BOTH-conflict scenario are implemented. The bridge is a declared reconstruction premise grounded in the source wording and does not establish the source principle independently.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "co-two-effects",
+          "statement": "Represent an act with an intended effect and a distinct occurring effect beyond intention.",
+          "sections": [
+            "co."
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_co_two_effects",
+            "intended_effect",
+            "effect_occurs",
+            "killing_is_incidental",
+            "MeansEntailsIntent"
+          ],
+          "tests": [
+            "01-arg1-ad1-intended-scope.lawtest",
+            "02-co-moderate-defense.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "Finite effect classification is encoded; it does not establish a universal metaphysical principle.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "co-intention-species",
+          "statement": "Record the respondeo premise that moral act species tracks intention, represented here by an intermediate intended-end classification.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_co_intention_species",
+            "defense_intentional_end"
+          ],
+          "tests": [
+            "02-co-moderate-defense.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The source-attested philosophical principle is an assumption, and the intermediate does not decide the protected conclusion.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "co-proportionality",
+          "statement": "Represent the condition that a good intention may be vitiated by force disproportionate to its end.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_co_proportion",
+            "vis_moderata"
+          ],
+          "tests": [
+            "02-co-moderate-defense.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "Claim level is CONDITIONAL on an external adjudicated finding of vis_moderata or its explicit negation; without either answer the query must remain REQUIRES_JUDGMENT.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "co-moderate-defense",
+          "statement": "Classify conditional licit defense only within an explicit self-defense act, with own-life preservation intention, incidental death, and an external proportionate-force judgment; the intended-killing public-authority route also requires that act scope and the same judgment.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "proportionate_defense_conditions",
+            "defensio_licita",
+            "defensio_illicita",
+            "self_defense_act",
+            "public_authority_common_good_route"
+          ],
+          "tests": [
+            "02-co-moderate-defense.lawtest",
+            "07-intended-killing-public-authority.lawtest"
+          ],
+          "dependsOn": [
+            "co-proportionality"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The conditional conclusion depends on declared source premises, an explicit self-defense act, represented intention/effect facts, and an external adjudicated vis_moderata finding. Absence requests judgment; BOTH remains visible on the judgment and blocks downstream conclusions under §§65–66.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "co-self-life-priority",
+          "statement": "Represent the respondeo's comparative premise that one need not omit moderate defense solely to avoid the assailant's death.",
+          "sections": [
+            "co."
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source principle and its comparative role are registered, but no independent bridge inference is encoded. This is an open reconstruction gap rather than an engine semantic limitation.",
+          "formalSymbols": [
+            "source_co_self_life_priority"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "co-public-authority",
+          "statement": "Keep intended killing, public authority, common-good orientation, private passion, and self-defense scope distinct; the conditional permission chain additionally requires an external moderate-force judgment.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "public_authority_common_good_route",
+            "defensio_licita",
+            "occisio_intenta_illicita",
+            "self_defense_act",
+            "vis_moderata"
+          ],
+          "tests": [
+            "03-co-public-authority-and-passion.lawtest",
+            "07-intended-killing-public-authority.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The intermediate public-authority/common-good route is distinct from private passion. Final conditional permission is derived only with an explicit self-defense act and vis_moderata; intended private killing is classified illicit only within the self-defense scope.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "arg2-intention-scope",
+          "statement": "Represent the ad 2 reply's reading of “for these things” as marking intention, aligned with ad 1.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The pinned source section and its role in the argument are explicitly inventoried and source-anchored. Its inference or resolution has not been implemented as a runnable transition, so this is a reconstruction record rather than runtime verification.",
+          "formalSymbols": [
+            "source_ad2_intention"
+          ],
+          "tests": [],
+          "dependsOn": [
+            "arg1-augustine-scope"
+          ]
+        },
+        {
+          "id": "ad3-irregularity-versus-culpability",
+          "statement": "Represent that irregularity may attach to a cleric's homicide act even without intended killing; preserve any culpability assessment as a separate external case finding.",
+          "sections": [
+            "ad 3"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "irregularity_attaches",
+            "moral_culpability"
+          ],
+          "tests": [
+            "04-ad3-irregularity-not-culpability.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The test records irregularity and an external absence-of-culpability finding separately; the model never equates them.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "ad4-necessity-comparison",
+          "statement": "Keep the reply's necessity distinction between fornication/adultery and a defensive act from which homicide may follow.",
+          "sections": [
+            "ad 4"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "fornication_or_adultery_not_necessary_for_life",
+            "defense_effect_can_follow_from_necessity"
+          ],
+          "tests": [
+            "05-ad4-necessity-distinction.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "Two typed intermediate findings are kept distinct; this does not resolve the objection's final normative comparison.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "ad5-revenge-scope",
+          "statement": "Represent the ad 5 reply's restriction to defense accompanied by vindictive retaliation.",
+          "sections": [
+            "ad 5"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "vindictive_retaliation",
+            "defense_with_vindictive_retaliation"
+          ],
+          "tests": [
+            "06-ad5-revenge-scope.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The branch classifies revenge motive, not ordinary moderate defense or a final permission status.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        }
+      ],
+      "fullArticleVerified": false,
+      "metadataSha256": "340d41519007858c7b708297395070a4dc5b540b63fb596e844c6477d0021283"
+    },
+    {
+      "articleId": "i-q1-a8",
+      "modelSpec": "la.aquinas.reconstruct.i_q1_a8@0.1.0",
+      "scenariosPassed": 7,
+      "scenariosFailed": 0,
+      "queryEvaluations": 17,
+      "obligationCounts": {
+        "RECONSTRUCTED": 6,
+        "CONDITIONAL": 4,
+        "VERIFIED_IN_PROFILE": 3,
+        "UNSUPPORTED": 1
+      },
+      "sourceSections": 6,
+      "sourceFileSha256": "bc7132a2af64725d4466fbebc8b3f35fc3e6509ba2d869ac4dd1f57dc9245f5e",
+      "excerptSha256": "7fd320daecafe01c0076f272d96b1ff63ffc720f1e0564c6012c318fb056e401",
+      "modelFiles": [
+        {
+          "bytes": 3592,
+          "path": "model/00-package.law",
+          "sha256": "aa81a9db4a83f49118b3076e9ca0288ac7321bac535ef3f3425a7e568e1127cc"
+        }
+      ],
+      "testFiles": [
+        {
+          "bytes": 2236,
+          "path": "tests/01-faith-context.lawtest",
+          "sha256": "a6a8eac4db5d75546294558bdf45ecd160d19dc0a036f1ccb7cd1f4f2d703a2b"
+        },
+        {
+          "bytes": 3973,
+          "path": "tests/02-authority-context.lawtest",
+          "sha256": "4a3201ddd10a3346d7d26059651c1e484e844ee331ce48e0a3c3d59941b0270a"
+        }
+      ],
+      "modelAndTestHashesCurrent": true,
+      "repeatedResults": {
+        "status": "MEASURED",
+        "allMatch": true,
+        "documents": 17,
+        "outcomeHash": "NOT_PROVIDED"
+      },
+      "nativeManifest": {
+        "semantics": "law.core/0.2.11",
+        "programHash": "sha256:a96caf407b22e189b430f386149087f22ad4cfd6d4946b7cf02ee0dbe479fcc8",
+        "semanticHash": "sha256:7abf2306a23185c425d6732e25abcf8ecb4e1c65aca90723fb39572e0609c7a2",
+        "theoryHash": "sha256:a96caf407b22e189b430f386149087f22ad4cfd6d4946b7cf02ee0dbe479fcc8",
+        "artifactHash": "sha256:689c114243fa4b2bc7c70b26b28435ed728204985d8efdba123cf390f1d7cfd7"
+      },
+      "protectedInputAssertionGuard": {
+        "ok": true,
+        "assertionsInspected": 21
+      },
+      "obligations": [
+        {
+          "id": "arg1-faith-inquiry",
+          "statement": "The objection infers from faith being sought and an admonition to remove arguments that sacred doctrine is not argumentative.",
+          "sections": [
+            "arg. 1"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "This objection is inventoried as source text; the experimental model does not independently encode or validate the objection inference.",
+          "formalSymbols": [
+            "faith_sought",
+            "remove_arguments_where_faith_sought",
+            "doctrine_argumentative"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg2-authority-strength",
+          "statement": "The objection treats authority grounded in human reason as weak and questions arguing from authority in sacred doctrine.",
+          "sections": [
+            "arg. 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "This objection is inventoried as source text; the experimental model does not independently encode or validate the objection inference.",
+          "formalSymbols": [
+            "human_authority",
+            "authority_argument",
+            "weak_authority"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg2-reason-and-merit",
+          "statement": "The objection infers that reasoning to faith articles removes the merit of faith.",
+          "sections": [
+            "arg. 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "This objection is inventoried as source text; the experimental model does not independently encode or validate the objection inference.",
+          "formalSymbols": [
+            "human_reason",
+            "faith_merit",
+            "proves_faith_article"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "sedcontra-arguing",
+          "statement": "The sed contra cites an apostolic instruction to exhort in sound doctrine and argue against contradictors.",
+          "sections": [
+            "s. c."
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "Source citation and its argumentative force are recorded; the cited scriptural authority is not independently proven by this model.",
+          "formalSymbols": [
+            "apostolic_instruction",
+            "argue_against_contradictors"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "co-principles-not-proved",
+          "statement": "Sacred doctrine does not argue to prove its own principles, the articles of faith.",
+          "sections": [
+            "co."
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "Only the separation between argument availability and the protected faith-article proof relation is checked. The source principle that disciplines do not prove their own principles remains stipulated.",
+          "formalSymbols": [
+            "doctrine_principle",
+            "faith_article",
+            "proves_principle"
+          ],
+          "tests": [
+            "01-faith-context.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "Source reasoning is inventoried; its full stated transition is not established by the implemented finite scenarios."
+        },
+        {
+          "id": "co-derive-other-conclusions",
+          "statement": "Sacred doctrine proceeds from its principles to show other conclusions; the resurrection example is one such inference.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "faith_article",
+            "other_conclusion",
+            "supports_conclusion"
+          ],
+          "tests": [
+            "01-faith-context.lawtest"
+          ],
+          "dependsOn": [
+            "co-principles-not-proved"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The raw source_derivation mapping is a case-mapped source premise. The rule derives only conditional argument availability for an opponent who grants it; it does not prove the mapped conclusion or the premise.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "co-opponent-grants-revealed-principle",
+          "statement": "Disputation against an opponent who grants some revealed principles may reason from those granted principles.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Availability is observed given an explicitly supplied source_derivation mapping and a granted principle. That mapping is not a checked substantive derivation, so this route inherits the open bridge.",
+          "formalSymbols": [
+            "opponent",
+            "grants_revealed_principle",
+            "argument_available"
+          ],
+          "tests": [
+            "01-faith-context.lawtest"
+          ],
+          "dependsOn": [
+            "co-derive-other-conclusions"
+          ],
+          "verificationScope": "Runtime availability under a supplied derivation mapping; no proof of its conclusion.",
+          "priorReason": "Agreement is scoped to an opponent and does not prove that revelation occurred or that the authority is infallible.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "co-opponent-grants-none",
+          "statement": "If an opponent grants none of the divinely revealed principles, the route to proving faith articles by reasons is unavailable, though objections may be answered.",
+          "sections": [
+            "co."
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "opponent",
+            "grants_no_revealed_principle",
+            "proves_faith_article",
+            "answer_objection"
+          ],
+          "tests": [
+            "01-faith-context.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The explicit no-granted-principle case yields answerable_objection while argument availability and faith-article proof remain unknown.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "co-infallibility-and-defeating-objections",
+          "statement": "The source says faith rests on infallible truth and opposing arguments are solvable rather than demonstrations.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The metaphysical and epistemic claims about infallibility and demonstrative impossibility cannot be derived from the source inventory or this runtime without asserting them as conclusions.",
+          "formalSymbols": [
+            "infallible_truth",
+            "counterargument",
+            "demonstration"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "ad1-human-reason-scope",
+          "statement": "Human-reason arguments do not prove what belongs to faith, while doctrine can argue from articles of faith to other matters.",
+          "sections": [
+            "ad 1"
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "human_reason",
+            "faith_article",
+            "other_conclusion",
+            "proves_faith_article"
+          ],
+          "tests": [
+            "01-faith-context.lawtest"
+          ],
+          "dependsOn": [
+            "co-principles-not-proved"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "Source principles are represented as premises and remain conditional.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "ad2-revelation-authority",
+          "statement": "The authority of those to whom revelation was made is foundational to sacred doctrine because its principles are received by revelation.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "revelation",
+            "recipient",
+            "authority_of_recipient",
+            "doctrine_principle"
+          ],
+          "tests": [
+            "02-authority-context.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "Conditional on source-declared revelation and authority facts; the model does not prove revelation or infallibility.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "ad2-natural-reason-manifestation",
+          "statement": "Natural reason serves faith by manifesting other matters but does not prove faith itself.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "Role distinction is modeled with typed/scoped relations and explicit negative facts.",
+          "formalSymbols": [
+            "natural_reason",
+            "faith_article",
+            "manifest_other_matter",
+            "proves_faith_article"
+          ],
+          "tests": [
+            "02-authority-context.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "Source reasoning is inventoried; its full stated transition is not established by the implemented finite scenarios."
+        },
+        {
+          "id": "ad2-philosopher-probability",
+          "statement": "Philosophical authorities are extraneous and probable when they state truths knowable by natural reason.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "philosopher_authority",
+            "natural_reason_truth",
+            "probable_support"
+          ],
+          "tests": [
+            "02-authority-context.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "Represented as source-classified probable support, not a necessary inference.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "ad2-canonical-vs-doctors",
+          "statement": "Canonical authority with a revelation-recipient qualification yields necessary authority support, while Church doctor and philosopher classes yield only the source-specific probable-support fragments.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "canonical_authority",
+            "church_doctor_authority",
+            "necessary_support",
+            "probable_support"
+          ],
+          "tests": [
+            "02-authority-context.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "Tests exercise source-class distinctions and negative authority-type cases under stipulated classifications; they do not prove revelation or the truth of those authorities.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        }
+      ],
+      "fullArticleVerified": false,
+      "metadataSha256": "1a823e4680b4e3ba83335cf9489a2a94fee3c77f2f0d7e1eef742173d9fe4244"
+    },
+    {
+      "articleId": "i-ii-q90-a1",
+      "modelSpec": "la.aquinas.reconstruct.i_ii_q90_a1@0.1.0",
+      "scenariosPassed": 7,
+      "scenariosFailed": 0,
+      "queryEvaluations": 15,
+      "obligationCounts": {
+        "CONDITIONAL": 5,
+        "VERIFIED_IN_PROFILE": 1,
+        "RECONSTRUCTED": 4
+      },
+      "sourceSections": 8,
+      "sourceFileSha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+      "excerptSha256": "d0576aaa1a523f6dbd1e578731e97584aec0f60151d6242f8750a3557073e18b",
+      "modelFiles": [
+        {
+          "bytes": 6954,
+          "path": "model/00-package.law",
+          "sha256": "b9e5695bb085905171a66a8055ed485c6f85095296500fa756d24a58d29794f0"
+        }
+      ],
+      "testFiles": [
+        {
+          "bytes": 2590,
+          "path": "tests/01-reason-measure.lawtest",
+          "sha256": "948b43f3f479b49442cebfbd906acef24d65b537a8d5484d7c2f00dc4754ca32"
+        },
+        {
+          "bytes": 2627,
+          "path": "tests/02-habit-and-participation.lawtest",
+          "sha256": "b97ffd171fcbab82059b08a6e32da143286c13d25de4f5e15ad51b0cb3f390a4"
+        },
+        {
+          "bytes": 1854,
+          "path": "tests/03-will-regulation.lawtest",
+          "sha256": "a85956809db96797f52763ce6c757038bcf2e26c5db0bc55cedba5f0dc7884d2"
+        }
+      ],
+      "modelAndTestHashesCurrent": true,
+      "repeatedResults": {
+        "status": "MEASURED",
+        "allMatch": true,
+        "documents": 15,
+        "outcomeHash": "NOT_PROVIDED"
+      },
+      "nativeManifest": {
+        "semantics": "law.core/0.2.11",
+        "programHash": "sha256:4c22fc5370833ea385f61d5f4a42c9dbe058a2bc3e03ac7ddd0dc031d6238842",
+        "semanticHash": "sha256:28f3264a857403fd7c1e407ba9d6e404849d82a3b93ac556e06ef0f0afd2a5d9",
+        "theoryHash": "sha256:4c22fc5370833ea385f61d5f4a42c9dbe058a2bc3e03ac7ddd0dc031d6238842",
+        "artifactHash": "sha256:c681327f82e8ee023b32215308840d1d8f0cdba074e172a8487450d6e9e47071"
+      },
+      "protectedInputAssertionGuard": {
+        "ok": true,
+        "assertionsInspected": 40
+      },
+      "obligations": [
+        {
+          "id": "reason-as-measure",
+          "statement": "Chain from end-directed reason through first principle to reason as measure and law as measure.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_co_reason_orders_end",
+            "source_co_principle_measures_genus",
+            "source_co_rule_measure"
+          ],
+          "tests": [
+            "01-reason-measure.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "Finite source-principle chain is implemented and tested. Its transition from general end ordering to law-as-reason remains conditional on the separately declared constitutive bridge.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "practical-proposition",
+          "statement": "Universal practical proposition ordered to action receives law character as a product of practical reason.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_co_practical_universal_propositions",
+            "law_as_practical_reason_measure"
+          ],
+          "tests": [
+            "02-habit-and-participation.lawtest"
+          ],
+          "dependsOn": [
+            "reason-as-measure"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "Finite source-anchored chain is implemented; explicit philosophical premises and case inputs remain assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "habitual-persistence",
+          "statement": "Separate the rational operation from its proposition product; habitual retention explains persistence without occurrent thought.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_ad2_operation_product",
+            "source_ad2_habitual_retention"
+          ],
+          "tests": [
+            "02-habit-and-participation.lawtest"
+          ],
+          "dependsOn": [
+            "practical-proposition"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "Finite source-anchored chain is implemented; explicit philosophical premises and case inputs remain assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "essential-participative",
+          "statement": "Separate law in the regulator from derivative participation in a regulated subject.",
+          "sections": [
+            "ad 1"
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_ad1_two_modes"
+          ],
+          "tests": [
+            "02-habit-and-participation.lawtest"
+          ],
+          "dependsOn": [
+            "reason-as-measure"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "Finite source-anchored chain is implemented; explicit philosophical premises and case inputs remain assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "will-reason-order",
+          "statement": "Represent will as motivating reason while law-character requires reason-regulation.",
+          "sections": [
+            "ad 3"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_ad3_reason_moved_by_will",
+            "source_ad3_will_reason_regulated"
+          ],
+          "tests": [
+            "03-will-regulation.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "Finite source-anchored chain is implemented; explicit philosophical premises and case inputs remain assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "arg1-members-objection",
+          "statement": "The objection infers that law is not reason because law is named as being in bodily members.",
+          "sections": [
+            "arg. 1"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg1_members_objection"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg2-power-habit-act",
+          "statement": "The objection argues law is no power, habit, or act, and would cease during sleep.",
+          "sections": [
+            "arg. 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg2_power_habit_act"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg3-will-moves",
+          "statement": "The objection locates motion in will and cites the ruler’s pleasure.",
+          "sections": [
+            "arg. 3"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg3_will_moves"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "sedcontra-command",
+          "statement": "The sed contra identifies commanding and forbidding with reason.",
+          "sections": [
+            "s. c."
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "sedcontra_command"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "law-reason-measure-bridge",
+          "statement": "Connect law as a rule and measure of acts to law pertaining to reason only through the explicit constitutive bridge premise.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_co_rule_measure",
+            "reason_as_rule_measure",
+            "bridge_reason_as_principle_measures_human_acts",
+            "law_as_practical_reason_measure"
+          ],
+          "tests": [
+            "01-reason-measure.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The bridge is an explicit reconstructed assumption. Positive and removal fixtures show the runtime’s dependence on it; neither fixture independently proves it.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        }
+      ],
+      "fullArticleVerified": false,
+      "metadataSha256": "7319eda4d7f29a3b3eb8e22702be30cee6e86c28980fc68e3790497b34fb2c73"
+    },
+    {
+      "articleId": "i-ii-q90-a2",
+      "modelSpec": "la.aquinas.reconstruct.i_ii_q90_a2@0.1.0",
+      "scenariosPassed": 8,
+      "scenariosFailed": 0,
+      "queryEvaluations": 15,
+      "obligationCounts": {
+        "CONDITIONAL": 5,
+        "RECONSTRUCTED": 4
+      },
+      "sourceSections": 8,
+      "sourceFileSha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+      "excerptSha256": "0452a4117a55e00695a7f6ce8b54f67d37361bebea087f6bfa063d4b66fc7ce0",
+      "modelFiles": [
+        {
+          "bytes": 6940,
+          "path": "model/00-package.law",
+          "sha256": "b303a16fa9047d2d7ce6e162ae471caef851b5bd7354ff5b424835b19526cd6f"
+        }
+      ],
+      "testFiles": [
+        {
+          "bytes": 2757,
+          "path": "tests/01-common-happiness-chain.lawtest",
+          "sha256": "e40725a027a884d59f0abb99ef72de189e2bdb5eb8f6dc37827cc1a271249d0a"
+        },
+        {
+          "bytes": 2536,
+          "path": "tests/02-particular-final-cause.lawtest",
+          "sha256": "52f9822af0ed0418c0cea58441faab38b53039e557bdf1642f007abeaafbccd4"
+        },
+        {
+          "bytes": 2445,
+          "path": "tests/03-resolution-to-end.lawtest",
+          "sha256": "e9001994fc5baa0e7b5ffd55159eba318d1b951ea2e722aa4f557d8098a45b5c"
+        },
+        {
+          "bytes": 2882,
+          "path": "tests/04-particular-command.lawtest",
+          "sha256": "004c32dc782081de86b1e53ab17f2d8d93b25b1cfe473b4a70ec93038045c75a"
+        }
+      ],
+      "modelAndTestHashesCurrent": true,
+      "repeatedResults": {
+        "status": "MEASURED",
+        "allMatch": true,
+        "documents": 15,
+        "outcomeHash": "NOT_PROVIDED"
+      },
+      "nativeManifest": {
+        "semantics": "law.core/0.2.11",
+        "programHash": "sha256:c13c40ede1fbad2e00ddce29963cf7afa9a4cf320e067204a5ec9fd90cf185ed",
+        "semanticHash": "sha256:aa9cb23cd8b799b63217b275a06228d696115ba1aa929a07dcb65ef5bf7efb9c",
+        "theoryHash": "sha256:c13c40ede1fbad2e00ddce29963cf7afa9a4cf320e067204a5ec9fd90cf185ed",
+        "artifactHash": "sha256:4994a747f88fc609dbaa9971cefb01f18a99625b94fae27aaeb4e84392666d36"
+      },
+      "protectedInputAssertionGuard": {
+        "ok": true,
+        "assertionsInspected": 78
+      },
+      "obligations": [
+        {
+          "id": "ultimate-to-common",
+          "statement": "Use the stated ultimate-happiness premise with part-whole and person/community relations to derive an intermediate common-happiness order.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_co_first_principle_practical_is_ultimate_end",
+            "source_co_human_life_ultimate_end_happiness",
+            "source_prior_human_ultimate_end_is_happiness",
+            "happiness_as_ultimate_end",
+            "source_co_part_whole",
+            "source_co_person_part_community",
+            "source_co_community_perfect",
+            "person_ordered_to_community_whole",
+            "source_co_focal_analogy",
+            "bridge_law_end_tracks_complete_community_happiness",
+            "law_ordered_to_common_happiness"
+          ],
+          "tests": [
+            "01-common-happiness-chain.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The chain uses the identified practical-first-principle premise, human-ultimate-end premise, this precise imported prior-end assumption, part/whole ordering, the focal analogy, and an explicit reconstructed bridge. The imported premise is not treated as a verified lemma.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "particular-command",
+          "statement": "A singular command remains within the law’s common-good order by application.",
+          "sections": [
+            "ad 1"
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_ad1_application",
+            "particular_command_applies_law",
+            "law_ordered_to_common_happiness",
+            "particular_precept_ordered_to_common_good"
+          ],
+          "tests": [
+            "04-particular-command.lawtest"
+          ],
+          "dependsOn": [
+            "ultimate-to-common"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "final-cause",
+          "statement": "Connect a particular act to common good through shared final causation while distinguishing genus/species commonality.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_ad2_final_cause"
+          ],
+          "tests": [
+            "02-particular-final-cause.lawtest"
+          ],
+          "dependsOn": [
+            "ultimate-to-common"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "practical-resolution",
+          "statement": "Represent practical reasoning’s resolution to ultimate end as an intermediate reason for law character.",
+          "sections": [
+            "ad 3"
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_ad3_practical_resolution",
+            "happiness_as_ultimate_end",
+            "practical_reason_resolves_to_end",
+            "law_ordered_to_common_happiness",
+            "practical_reason_resolved_to_common_end"
+          ],
+          "tests": [
+            "03-resolution-to-end.lawtest"
+          ],
+          "dependsOn": [
+            "ultimate-to-common"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The route requires the derived common-happiness order as well as practical resolution to the ultimate end; common-end resolution therefore depends on the conditional ultimate-to-common chain.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "arg1-particular-precepts",
+          "statement": "The objection infers from singular commands that law need not aim at common good.",
+          "sections": [
+            "arg. 1"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg1_particular_precepts"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg2-particular-acts",
+          "statement": "The objection infers from particular acts that law aims at a particular good.",
+          "sections": [
+            "arg. 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg2_particular_acts"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg3-private-good",
+          "statement": "The objection invokes rational private goods against an exclusively common end.",
+          "sections": [
+            "arg. 3"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg3_private_good"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "sedcontra-common-utility",
+          "statement": "The sed contra cites law written for common civic utility rather than private advantage.",
+          "sections": [
+            "s. c."
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "sedcontra_common_utility"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "particular-command-derivative-good",
+          "statement": "Represent singular commands as applications of common-good order, then classify a private good as law-related only through that ordering.",
+          "sections": [
+            "ad 1"
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_ad1_application",
+            "particular_command_applies_law",
+            "law_ordered_to_common_happiness",
+            "particular_precept_ordered_to_common_good",
+            "particular_good",
+            "particular_good_has_law_character"
+          ],
+          "tests": [
+            "04-particular-command.lawtest"
+          ],
+          "dependsOn": [
+            "ultimate-to-common",
+            "particular-command"
+          ],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The route depends on the declared source principles and particular command/good inputs; finite runtime evidence does not discharge those assumptions.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        }
+      ],
+      "fullArticleVerified": false,
+      "metadataSha256": "a39c845055306cfa0599be57f6279091a8845ed177fa77d8ad5490484ef61c58"
+    },
+    {
+      "articleId": "i-ii-q90-a3",
+      "modelSpec": "la.aquinas.reconstruct.i_ii_q90_a3@0.1.0",
+      "scenariosPassed": 8,
+      "scenariosFailed": 0,
+      "queryEvaluations": 14,
+      "obligationCounts": {
+        "CONDITIONAL": 1,
+        "VERIFIED_IN_PROFILE": 3,
+        "RECONSTRUCTED": 4
+      },
+      "sourceSections": 8,
+      "sourceFileSha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+      "excerptSha256": "3e6abc86ac2150699be4b99f414f370aa227dcf42ac207e3cae01348c2625290",
+      "modelFiles": [
+        {
+          "bytes": 7102,
+          "path": "model/00-package.law",
+          "sha256": "90b70660614c7f8cbc82002ec2362f7dffe97c041b381e78499e57f8bf63e10e"
+        }
+      ],
+      "testFiles": [
+        {
+          "bytes": 2251,
+          "path": "tests/01-public-caretaker.lawtest",
+          "sha256": "19c1d6cb36cb83a0afc68e837752fee91bf0e2c6268da8e88082b1ad77488a5a"
+        },
+        {
+          "bytes": 1663,
+          "path": "tests/02-private-admonition.lawtest",
+          "sha256": "602fecd143f4858e4e1d9838d56bc9077289fada5a0eb7d3c2bd96dbf5b523bd"
+        },
+        {
+          "bytes": 1712,
+          "path": "tests/03-household-scope.lawtest",
+          "sha256": "72bdde910a131a296e37f37064b351b6f88ffd9de89fd40605d51b3ed79f8492"
+        },
+        {
+          "bytes": 1174,
+          "path": "tests/04-whole-multitude.lawtest",
+          "sha256": "d659631e8273ca06b87bfff4e8f83a3c6f5c2e8e35124df1fb1e537a3c05b8a1"
+        }
+      ],
+      "modelAndTestHashesCurrent": true,
+      "repeatedResults": {
+        "status": "MEASURED",
+        "allMatch": true,
+        "documents": 14,
+        "outcomeHash": "NOT_PROVIDED"
+      },
+      "nativeManifest": {
+        "semantics": "law.core/0.2.11",
+        "programHash": "sha256:9da4a9527e84ac16f4216fbe0b6997599ee21fd899c2a6acbd6b9cd2e4fdd991",
+        "semanticHash": "sha256:97077a3ad322fac3f2793173751907787546f8da6c48a30e48d75d558e0ee79d",
+        "theoryHash": "sha256:9da4a9527e84ac16f4216fbe0b6997599ee21fd899c2a6acbd6b9cd2e4fdd991",
+        "artifactHash": "sha256:b92364b147f932403030e3783452d69285ecb2cc7fdf14ae27a66fbe1ce2954f"
+      },
+      "protectedInputAssertionGuard": {
+        "ok": true,
+        "assertionsInspected": 35
+      },
+      "obligations": [
+        {
+          "id": "whole-care-lawmaking",
+          "statement": "Represent two separately typed common-good lawmaking routes: the whole multitude itself, and a public caretaker of that whole.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_co_common_good_scope",
+            "whole_multitude_orders_good",
+            "whole_multitude_common_good_route",
+            "source_co_caretaker",
+            "public_office_has_care_of_whole",
+            "public_caretaker_of_whole",
+            "public_caretaker_common_good_route"
+          ],
+          "tests": [
+            "01-public-caretaker.lawtest",
+            "04-whole-multitude.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The whole-multitude route and public-caretaker route are separate strict conjunctions with separate positive/removal fixtures; no disjunction or inference from private participation to legislative authority is used.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "participation-not-authorship",
+          "statement": "Represent participation in received natural/regulatory order without private legislative authorship.",
+          "sections": [
+            "ad 1"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_ad1_participation"
+          ],
+          "tests": [
+            "02-private-admonition.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "advice-vs-coercion",
+          "statement": "Distinguish private admonition from public coercive power to enact an effective law.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_ad2_virtue_goal",
+            "source_ad2_private_admonition",
+            "source_ad2_public_penalty"
+          ],
+          "tests": [
+            "02-private-admonition.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "household-partial-end",
+          "statement": "Represent household statutes as local precepts within an end nested under the complete community.",
+          "sections": [
+            "ad 3"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_ad3_household_part_city",
+            "source_ad3_household_statutes"
+          ],
+          "tests": [
+            "03-household-scope.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "arg1-natural-participation",
+          "statement": "The objection moves from natural performance of law’s works and self-as-law to private lawmaking.",
+          "sections": [
+            "arg. 1"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg1_natural_participation"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg2-virtue-inducement",
+          "statement": "The objection moves from anyone encouraging virtue to anyone being a legislator.",
+          "sections": [
+            "arg. 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg2_virtue_inducement"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg3-household-governor",
+          "statement": "The objection analogizes the household governor to the city ruler.",
+          "sections": [
+            "arg. 3"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg3_household_governor"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "sedcontra-people-constitution",
+          "statement": "The sed contra defines law as a people’s constitution enacted with the people.",
+          "sections": [
+            "s. c."
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "sedcontra_people_constitution"
+          ],
+          "tests": [],
+          "dependsOn": []
+        }
+      ],
+      "fullArticleVerified": false,
+      "metadataSha256": "c54c51118cd5b616b6bb0c5ae3be8d935000f727e284889ba58859331a0cfa34"
+    },
+    {
+      "articleId": "i-ii-q90-a4",
+      "modelSpec": "la.aquinas.reconstruct.i_ii_q90_a4@0.1.0",
+      "scenariosPassed": 10,
+      "scenariosFailed": 0,
+      "queryEvaluations": 14,
+      "obligationCounts": {
+        "VERIFIED_IN_PROFILE": 5,
+        "RECONSTRUCTED": 4,
+        "CONDITIONAL": 1,
+        "UNSUPPORTED": 2
+      },
+      "sourceSections": 8,
+      "sourceFileSha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+      "excerptSha256": "98ca5cd483cb6019569e271dfbcb92d8b6c7a2245be9f90c6b0f162c3e1addab",
+      "modelFiles": [
+        {
+          "bytes": 7044,
+          "path": "model/00-package.law",
+          "sha256": "4b0565c909bafd114acad67dccbbbc3b6a29c9dd6ac9da353a27f50b29c62105"
+        }
+      ],
+      "testFiles": [
+        {
+          "bytes": 2161,
+          "path": "tests/01-promulgation-binding.lawtest",
+          "sha256": "848c8e60be05a34a2624b696f337bbef6b976e2a5f0111eb99521e3df3b1b658"
+        },
+        {
+          "bytes": 1316,
+          "path": "tests/02-remote-transmission.lawtest",
+          "sha256": "609d375f86c10cebde978ed763a66d0df43c1db3853c47d58cb76f137d7ecac2"
+        },
+        {
+          "bytes": 1437,
+          "path": "tests/03-future-writing.lawtest",
+          "sha256": "7e059a5daa2b8b3f44bd3caf0f174cff2805963207e735fef3735888a79a1826"
+        },
+        {
+          "bytes": 1788,
+          "path": "tests/04-four-conditions.lawtest",
+          "sha256": "8cf38114cdbd74be9b89aa76eefe6c712cc86580266a6840f7066c267c6d92f5"
+        },
+        {
+          "bytes": 1364,
+          "path": "tests/05-natural-law-promulgation.lawtest",
+          "sha256": "22c01a861e469252c074a46fd9e2f137d8b6e163d842d1cd49ce1b92f72465d9"
+        }
+      ],
+      "modelAndTestHashesCurrent": true,
+      "repeatedResults": {
+        "status": "MEASURED",
+        "allMatch": true,
+        "documents": 14,
+        "outcomeHash": "NOT_PROVIDED"
+      },
+      "nativeManifest": {
+        "semantics": "law.core/0.2.11",
+        "programHash": "sha256:531ee393b8a3665fb7de394f821bcb2cb9551b4b4403edf672311ea66297c976",
+        "semanticHash": "sha256:662a9f7b021f2ab01ec43dcbe317b035cf409d3acebda2620e2fc17cd3e6287c",
+        "theoryHash": "sha256:531ee393b8a3665fb7de394f821bcb2cb9551b4b4403edf672311ea66297c976",
+        "artifactHash": "sha256:894d6f817dc703e2320e6c4ad42500f20ccf25f5435b77e970c52530fa6627dc"
+      },
+      "protectedInputAssertionGuard": {
+        "ok": true,
+        "assertionsInspected": 44
+      },
+      "obligations": [
+        {
+          "id": "application-to-knowledge",
+          "statement": "Represent promulgation as bringing an applied rule to the knowledge of addressees, a condition in the chain to binding force.",
+          "sections": [
+            "co."
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_co_rule_application",
+            "source_co_binding_force"
+          ],
+          "tests": [
+            "01-promulgation-binding.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "natural-law-route",
+          "statement": "Represent natural insertion and knowability as the source’s conditional promulgation route.",
+          "sections": [
+            "ad 1"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_ad1_natural_insertion",
+            "source_ad1_natural_cognoscibility"
+          ],
+          "tests": [
+            "05-natural-law-promulgation.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "remote-transmission",
+          "statement": "Represent the actual-learning branch only: an actual promulgation act occurs and the remote addressee learns through others.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "promulgation_actually_occurred",
+            "source_ad2_transmission"
+          ],
+          "tests": [
+            "02-remote-transmission.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The finite branch requires an actual promulgation act separately from actual learning. The source’s alternative “can come to knowledge” is not represented as fact or as a pseudo-modal flag.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "future-writing",
+          "statement": "Extend promulgation to future persons through durable writing that remains readable.",
+          "sections": [
+            "ad 3"
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_ad3_future_extension",
+            "present_promulgation_occurred",
+            "source_ad3_reading"
+          ],
+          "tests": [
+            "03-future-writing.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The extension path requires present promulgation plus durable writing and reading; durable writing alone does not trigger the rule.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "four-condition-definition",
+          "statement": "Gather the four conditions named in the respondeo as a definition-shaped intermediate (rational ordering, common good, public care, and promulgation); this aggregation does not establish the separate necessity claim.",
+          "sections": [
+            "co."
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "source_definition_four_conditions"
+          ],
+          "tests": [
+            "04-four-conditions.lawtest"
+          ],
+          "dependsOn": [
+            "application-to-knowledge"
+          ],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The four supplied conditions are gathered into a named intermediate only. This does not prove that promulgation is necessary; that separate obligation remains open.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "arg1-natural-law",
+          "statement": "The objection argues natural law lacks promulgation and hence promulgation is not essential.",
+          "sections": [
+            "arg. 1"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg1_natural_law"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg2-remote-persons",
+          "statement": "The objection argues promulgation to present hearers cannot account for others being bound.",
+          "sections": [
+            "arg. 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg2_remote_persons"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "arg3-future-persons",
+          "statement": "The objection argues present promulgation cannot ground future obligation.",
+          "sections": [
+            "arg. 3"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "arg3_future_persons"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "sedcontra-promulgation",
+          "statement": "The sed contra says laws are instituted when promulgated.",
+          "sections": [
+            "s. c."
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+          "formalSymbols": [
+            "sedcontra_promulgation"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "promulgation-necessity-chain",
+          "statement": "Reconstruct the respondeo’s finite necessity chain: binding force belongs to law; a rule binds by application to addressees; promulgation brings that application into knowledge. This is distinct from merely gathering promulgation into the four-condition definition.",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "source_co_rule_application",
+            "source_co_binding_force",
+            "rule_assigned_to_addressees",
+            "promulgation_makes_known",
+            "promulgation_brings_rule_to_knowledge",
+            "binding_force_from_application"
+          ],
+          "tests": [
+            "01-promulgation-binding.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "This is a finite conditional chain from source assumptions and addressee case inputs. It establishes no modality over all addressees or circumstances.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "remote-possible-knowledge",
+          "statement": "The source reply also allows that promulgation may be able to come to a remote person’s knowledge; this possibility/counterfactual branch is inventoried separately from actual learning.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The selected core fragment does not provide a suitable modal or counterfactual operator for the source’s “can come to knowledge” branch. No boolean possibility flag is asserted; absence of actual learning is not treated as falsity of possible knowledge.",
+          "formalSymbols": [
+            "source_ad2_transmission"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "promulgation-necessity-proof",
+          "statement": "Prove promulgation is necessary for law’s binding force in the general modal sense, separately from the finite rule-application chain and the four-condition aggregation.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The finite chain shows that these modeled cases derive binding force only through actual promulgation and knowledge. The available reconstruction does not establish the general modal necessity claim over possible addressees and situations. No modal flag or global theorem is encoded.",
+          "formalSymbols": [
+            "source_co_rule_application",
+            "source_co_binding_force",
+            "promulgation_brings_rule_to_knowledge",
+            "binding_force_from_application"
+          ],
+          "tests": [
+            "01-promulgation-binding.lawtest"
+          ],
+          "dependsOn": [
+            "promulgation-necessity-chain"
+          ]
+        }
+      ],
+      "fullArticleVerified": false,
+      "metadataSha256": "00ed45912f671065ba6346f32d8968811059cee53c18ac2a9066eecc7d71a2c6"
+    },
+    {
+      "articleId": "i-q2-a3",
+      "modelSpec": "la.aquinas.reconstruct.i_q2_a3@0.1.0",
+      "scenariosPassed": 9,
+      "scenariosFailed": 0,
+      "queryEvaluations": 18,
+      "obligationCounts": {
+        "RECONSTRUCTED": 3,
+        "VERIFIED_IN_PROFILE": 4,
+        "UNSUPPORTED": 12,
+        "CONDITIONAL": 1
+      },
+      "sourceSections": 6,
+      "sourceFileSha256": "5b163cbe7649d14e0d50cc1e041f49399cdfc78bac9751f4bb07ee92b9e1b6a0",
+      "excerptSha256": "8591ab92a5e6684cff10af43c4ed99371b3c63bf2f41b3ea680531d77de2782b",
+      "modelFiles": [
+        {
+          "bytes": 4604,
+          "path": "model/00-package.law",
+          "sha256": "5b07acb3be17b580c0cb156d02866df7490e51dd00a2f4e2c78c8f902b4076df"
+        }
+      ],
+      "testFiles": [
+        {
+          "bytes": 1162,
+          "path": "tests/01-way1-finite-actualization.lawtest",
+          "sha256": "8448c15e727fece6308cc8f1435407882538b2fa70346ac57092d83fe779e07a"
+        },
+        {
+          "bytes": 2554,
+          "path": "tests/02-way1-scope-and-removal.lawtest",
+          "sha256": "d18fd63dd6becde7422b614b032e2d1c67b08760d10ab1df145876bcf49657a2"
+        },
+        {
+          "bytes": 1730,
+          "path": "tests/03-way2-finite-causes.lawtest",
+          "sha256": "decafa40a88fcae03ab87c4ae8799a74b61fe40ebdc71a6449e40f0153dd051a"
+        },
+        {
+          "bytes": 1003,
+          "path": "tests/04-way2-cause-removal.lawtest",
+          "sha256": "5c6b35b47036f0998f56c63357b8dabe239ec047393f93358ef90bd0145c9484"
+        },
+        {
+          "bytes": 1780,
+          "path": "tests/05-way5-regularity.lawtest",
+          "sha256": "cc4b6a116fb9d19b64d5cfd77f588c257e2e73ef5b9454a66849dc0c17d7385c"
+        }
+      ],
+      "modelAndTestHashesCurrent": true,
+      "repeatedResults": {
+        "status": "MEASURED",
+        "allMatch": true,
+        "documents": 18,
+        "outcomeHash": "NOT_PROVIDED"
+      },
+      "nativeManifest": {
+        "semantics": "law.core/0.2.11",
+        "programHash": "sha256:f84b9dedb8320f7d6e2594083c754e25d804ade4638488de80036d320d68148b",
+        "semanticHash": "sha256:d78ecc0c6e24b0b439b301ffd4d0f62823ab522b7344cae41c60809e1ebc32fa",
+        "theoryHash": "sha256:f84b9dedb8320f7d6e2594083c754e25d804ade4638488de80036d320d68148b",
+        "artifactHash": "sha256:2c3311dd0e45e6b3db02c86a442de3686019cdca502720924539a6ea2570a432"
+      },
+      "protectedInputAssertionGuard": {
+        "ok": true,
+        "assertionsInspected": 30
+      },
+      "obligations": [
+        {
+          "id": "objection-evil-and-infinite-good",
+          "statement": "The objection infers that an infinite good would exclude all evil, while evil is observed.",
+          "sections": [
+            "arg. 1"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "Source inference and reply are inventoried; the theological permission-and-good-making response is not established by the finite causal fragments.",
+          "formalSymbols": [
+            "infinite_good",
+            "evil_exists",
+            "evil_excluded"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "objection-sufficient-natural-and-human-causes",
+          "statement": "The objection claims natural events reduce to nature and deliberate acts to human reason or will, so no divine posit is needed.",
+          "sections": [
+            "arg. 2"
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "The objection is recorded as a source argument; adequacy of those explanations is not decided by this model.",
+          "formalSymbols": [
+            "natural_event",
+            "nature_principle",
+            "deliberate_act",
+            "human_reason",
+            "human_will"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "sedcontra-ego-sum",
+          "statement": "The sed contra cites Exodus “I am who am” as an authority for the conclusion.",
+          "sections": [
+            "s. c."
+          ],
+          "status": "RECONSTRUCTED",
+          "reason": "Scriptural authority is recorded separately and is not converted into an independently verified ontological fact.",
+          "formalSymbols": [
+            "scriptural_authority",
+            "ego_sum"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "way1-actuality-potentiality",
+          "statement": "A finite actualization witness requires the subject to be potentially at the target state in an aspect, an actualizer actual at that same target state and aspect, and a recorded prior state transition.",
+          "sections": [
+            "co."
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "state_before",
+            "in_potency",
+            "in_act",
+            "actualizes",
+            "finite_actualization"
+          ],
+          "tests": [
+            "01-way1-finite-actualization.lawtest",
+            "02-way1-scope-and-removal.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "Tests check same-aspect target-state alignment for a finite case. The broader metaphysical act/potency principle remains a source premise.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "way1-moved-by-another",
+          "statement": "A finite same-aspect change has a moved-by-another witness only when the actualizer and moved subject are unequal.",
+          "sections": [
+            "co."
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "finite_actualization",
+            "moved_by_another",
+            "agent != subject"
+          ],
+          "tests": [
+            "01-way1-finite-actualization.lawtest",
+            "02-way1-scope-and-removal.lawtest"
+          ],
+          "dependsOn": [
+            "way1-actuality-potentiality"
+          ],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "The rule applies native Text inequality; the finite case does not establish universal dependence or a first mover.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "way1-no-self-motion-same-aspect",
+          "statement": "One thing cannot simultaneously be mover and moved in the same respect, while it may differ by respect.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The exact same-aspect impossibility principle is not independently derivable in the runtime; the model only scopes a finite witness by aspect.",
+          "formalSymbols": [
+            "subject",
+            "aspect",
+            "mover",
+            "moved"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "way1-first-mover-regress",
+          "statement": "An essentially ordered chain of movers cannot regress infinitely and therefore has a first unmoved mover.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "Unbounded regress cannot be represented or proven here; a finite chain with a stipulated unmoved root is only a conditional witness, not proof of universal termination.",
+          "formalSymbols": [
+            "mover",
+            "moves",
+            "first_mover",
+            "unmoved"
+          ],
+          "tests": [],
+          "dependsOn": [
+            "way1-moved-by-another"
+          ]
+        },
+        {
+          "id": "way2-efficient-cause-order",
+          "statement": "A finite efficient-cause chain can be composed from explicit cause edges and a designated starting node; efficient-cause edges map to a prior_to relation under a source-anchored bridge.",
+          "sections": [
+            "co."
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "efficient_cause",
+            "prior_to",
+            "finite_cause_edge",
+            "finite_two_link_cause_path",
+            "designated_chain_start",
+            "finite_path_from_designated_start"
+          ],
+          "tests": [
+            "03-way2-finite-causes.lawtest",
+            "04-way2-cause-removal.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "Finite paths are conditional on supplied edges and bookkeeping designation. They do not establish universal termination or an unmoved/first cause.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "way2-no-self-causation",
+          "statement": "Nothing is an efficient cause of itself because it would have to be prior to itself.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The source-order principle and efficient-cause-to-priority rule produce a BOTH-valued prior_to(x,x) conflict when self-causation is supplied. That conditional contradiction witness does not prove the self-cause input false or discharge the source claim.",
+          "formalSymbols": [
+            "efficient_cause",
+            "prior_to",
+            "source_order_irreflexive"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "way2-first-cause-regress",
+          "statement": "In an ordered efficient-cause chain, absence of a first cause would remove intermediate and ultimate effects; infinite regress is impossible.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "Unbounded regress and universal first-cause necessity are outside the finite runtime evidence.",
+          "formalSymbols": [
+            "first_cause",
+            "intermediate_cause",
+            "ultimate_effect",
+            "efficient_cause"
+          ],
+          "tests": [],
+          "dependsOn": [
+            "way2-efficient-cause-order"
+          ]
+        },
+        {
+          "id": "way3-possible-and-necessary",
+          "statement": "Generated and corrupted things are possible to be and not be; not all beings are merely possible.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The third Way depends on temporal modal quantification from possibility of nonexistence to a necessary being; that inference cannot be run in this finite profile.",
+          "formalSymbols": [
+            "generated",
+            "corrupted",
+            "possible_to_be",
+            "possible_not_to_be",
+            "necessary_being"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "way3-temporal-modal-step",
+          "statement": "If all beings were possible not to be, there would have been a time with nothing; nothing would begin without something existing, contrary to present existence.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "Temporal modal quantification and the transition from possible nonexistence to an all-absent time are not expressible without an unbounded/modal engine.",
+          "formalSymbols": [
+            "possible_not_to_be",
+            "time",
+            "nothing_exists",
+            "begins_to_exist",
+            "exists_now"
+          ],
+          "tests": [],
+          "dependsOn": [
+            "way3-possible-and-necessary"
+          ]
+        },
+        {
+          "id": "way3-per-se-necessity",
+          "statement": "A necessary being without a cause of its necessity is required, and is the cause of necessity in others.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The per-se necessity and causal closure steps are not independently established by this profile.",
+          "formalSymbols": [
+            "necessary_being",
+            "cause_of_necessity",
+            "per_se_necessary"
+          ],
+          "tests": [],
+          "dependsOn": [
+            "way3-temporal-modal-step"
+          ]
+        },
+        {
+          "id": "way4-degrees-and-maximality",
+          "statement": "Degrees of goodness, truth, and nobility imply a maximum in each relevant order.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The maximality inference over qualitative degrees is unsupported by available finite predicates.",
+          "formalSymbols": [
+            "degree",
+            "good",
+            "true",
+            "noble",
+            "maximum"
+          ],
+          "tests": [],
+          "dependsOn": []
+        },
+        {
+          "id": "way4-causal-bridge",
+          "statement": "What is maximal in a genus causes the properties of that genus; a maximally true/good/noble being causes being, goodness, and perfection in others.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The maximality-to-causation bridge is a substantive philosophical premise, not a runtime theorem.",
+          "formalSymbols": [
+            "maximum",
+            "genus",
+            "causes",
+            "being",
+            "goodness",
+            "perfection"
+          ],
+          "tests": [],
+          "dependsOn": [
+            "way4-degrees-and-maximality"
+          ]
+        },
+        {
+          "id": "way5-teleological-regularity",
+          "statement": "Two distinct observed occurrences of the same unintelligent body action with the same stipulated best outcome yield a finite regular-pattern witness; the universal claim about natural bodies remains open.",
+          "sections": [
+            "co."
+          ],
+          "status": "VERIFIED_IN_PROFILE",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "formalSymbols": [
+            "observed_action",
+            "distinct_occurrences",
+            "outcome_is_best",
+            "finite_regular_pattern_toward_end"
+          ],
+          "tests": [
+            "05-way5-regularity.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+          "priorReason": "This finite observation fragment does not establish final causation universally or exclude chance.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        },
+        {
+          "id": "way5-intelligent-direction",
+          "statement": "What lacks cognition tends to an end only when directed by an intelligent agent, as an arrow by an archer.",
+          "sections": [
+            "co."
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The teleological direction principle and universal intelligent director are not independently demonstrated.",
+          "formalSymbols": [
+            "unintelligent_body",
+            "end",
+            "directed_by",
+            "intelligent_agent"
+          ],
+          "tests": [],
+          "dependsOn": [
+            "way5-teleological-regularity"
+          ]
+        },
+        {
+          "id": "reply-evil-permitted-for-good",
+          "statement": "The reply says a supremely good God permits evil because omnipotence and goodness can bring good from evil.",
+          "sections": [
+            "ad 1"
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "This response presupposes the disputed divine attributes and a substantive providential bridge.",
+          "formalSymbols": [
+            "evil",
+            "permitted",
+            "good_from_evil",
+            "supremely_good",
+            "omnipotent"
+          ],
+          "tests": [],
+          "dependsOn": [
+            "objection-evil-and-infinite-good"
+          ]
+        },
+        {
+          "id": "reply-natural-and-human-causes-depend-on-higher-cause",
+          "statement": "Nature acts toward determinate ends under a higher agent; mutable and fallible human reason/will reduce to a first, unmoved, necessary principle.",
+          "sections": [
+            "ad 2"
+          ],
+          "status": "UNSUPPORTED",
+          "reason": "The reply's higher-cause conclusion depends on unsupported universal mover/cause termination, per-se necessity, and teleological direction transitions; finite witnesses do not close those dependencies.",
+          "formalSymbols": [
+            "natural_event",
+            "higher_agent",
+            "human_reason",
+            "human_will",
+            "mutable",
+            "fallible",
+            "first_principle"
+          ],
+          "tests": [],
+          "dependsOn": [
+            "way1-first-mover-regress",
+            "way2-first-cause-regress",
+            "way3-per-se-necessity",
+            "way5-intelligent-direction"
+          ]
+        },
+        {
+          "id": "way2-source-order-conflict-witness",
+          "statement": "A supplied self-cause edge and the source-order irreflexivity principle yield both positive and negative prior_to(x,x).",
+          "sections": [
+            "co."
+          ],
+          "status": "CONDITIONAL",
+          "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "formalSymbols": [
+            "efficient_cause",
+            "prior_to",
+            "source_order_irreflexive"
+          ],
+          "tests": [
+            "03-way2-finite-causes.lawtest"
+          ],
+          "dependsOn": [],
+          "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+          "priorReason": "The source_asserted order-irreflexivity axiom plus the stipulated efficient-cause-to-priority bridge yields BOTH for prior_to(x,x) when the scenario supplies a self-cause edge. This remains conditional on the source axiom and does not prove the edge false.",
+          "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+        }
+      ],
+      "fullArticleVerified": false,
+      "metadataSha256": "532fc2d960069aa0634d22a9bfa7733396573f12851f95407f95f903143b0f07"
+    }
+  ]
+}

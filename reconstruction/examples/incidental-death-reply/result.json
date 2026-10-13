@@ -1,0 +1,636 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:4eeeb6c66d5101686b9da60e943de372e2d90e5a01a6c34c6e0c5ab88af1b9cc",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:0cfd05795ae9d616a09b460555bea1b4ee9dfa8bfb44fed57ed0573bb3de94d0",
+    "decisionTime": "2026-10-13T12:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "2026-10-13T12:00:00Z",
+    "legalTime": "2026-10-13",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:b69ff4342e8669ebbc29b025555ffc920f5ddd1e069747c497e403b73ed46237",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:0e49a9961593531f78fc3cc4fbe2be1057141c38a0621a176c9b811aa53cf5b6",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:b69ff4342e8669ebbc29b025555ffc920f5ddd1e069747c497e403b73ed46237",
+    "timezone": "UTC"
+  },
+  "positions": [],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-explicitly-unintended"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-explicitly-unintended",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-occurs"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-occurs",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#killing_is_incidental"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:IncidentalKillingClassification:420d6248587a98937efe1f3ea1e1ebcfe2acf6b17ca3b3e0435edc1040fd4cce",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-explicitly-unintended",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-occurs",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IncidentalKillingClassification",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          "v1": {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:IntendedEndClassification:752c017eac95c5efc8bacc5a5521716fa7508010657b911acfd10530ebf0a313",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IntendedEndClassification",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          "v1": {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:AugustineReplyDefeatsBroadReading:e4bfc0fb3003d875d9c4419c52cf0a3cb4f4cf0e5b1ed2fa7152fd9c6186b69d",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-explicitly-unintended",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#AugustineReplyDefeatsBroadReading",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          "v1": {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "strength": "defeasible"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:BroadAugustineObjectionReading:946026fd7d7e558a9c35ddfd66e930e194f202247d2b6b51c0958272c2c6d529",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-occurs",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#BroadAugustineObjectionReading",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          "v1": {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "defeated": "urn:proof:apply:BroadAugustineObjectionReading:946026fd7d7e558a9c35ddfd66e930e194f202247d2b6b51c0958272c2c6d529",
+          "reason": "strict-opposition"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+        },
+        "evidence": [],
+        "id": "urn:proof:defeat:7c8cc99ae081b95aa49a501f1e3f12a259228cad3e33b73559dd5d94d84c876c",
+        "kind": "defeat",
+        "outcome": "DEFEATED",
+        "premises": [
+          "urn:proof:apply:AugustineReplyDefeatsBroadReading:e4bfc0fb3003d875d9c4419c52cf0a3cb4f4cf0e5b1ed2fa7152fd9c6186b69d",
+          "urn:proof:apply:BroadAugustineObjectionReading:946026fd7d7e558a9c35ddfd66e930e194f202247d2b6b51c0958272c2c6d529"
+        ],
+        "priorityPath": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "arguments": 8,
+          "literal": {
+            "args": [
+              {
+                "id": "urn:case:q64a7:p1",
+                "kind": "entity_ref"
+              },
+              {
+                "id": "urn:case:q64a7:act1",
+                "kind": "entity_ref"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+          },
+          "truthStatus": "FALSE_ONLY"
+        },
+        "evidence": [],
+        "id": "urn:proof:query:ii-ii-q64-a7#test/arg1%2Fad1%3A%20explicit%20unintended%20death%20defeats%20that%20objection%20intermediate/query/1",
+        "kind": "query_evaluation",
+        "premises": [],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:e21e84d81c5d242d26204b10143781ee11d13e376c57bafaefd342c272cfc18f",
+    "roots": [
+      "urn:proof:query:ii-ii-q64-a7#test/arg1%2Fad1%3A%20explicit%20unintended%20death%20defeats%20that%20objection%20intermediate/query/1"
+    ]
+  },
+  "resultHash": "sha256:279e7381c3aade383b66ce909021853ad761427b786510f24d378af9e635528e",
+  "results": [
+    {
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:ii-ii-q64-a7#test/arg1%2Fad1%3A%20explicit%20unintended%20death%20defeats%20that%20objection%20intermediate/query/1",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatusSupports": [],
+      "proof": "urn:proof:query:ii-ii-q64-a7#test/arg1%2Fad1%3A%20explicit%20unintended%20death%20defeats%20that%20objection%20intermediate/query/1",
+      "query": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/arg1%2Fad1%3A%20explicit%20unintended%20death%20defeats%20that%20objection%20intermediate/query/1",
+      "resultKind": "GRAPH",
+      "sourceAnchors": [],
+      "target": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies",
+      "truthStatus": "FALSE_ONLY",
+      "value": {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Map"
+        },
+        "value": {
+          "answer": {
+            "argumentsFor": [
+              "urn:arg:1"
+            ],
+            "class": "REJECTED"
+          },
+          "arguments": [
+            {
+              "id": "urn:arg:0",
+              "structure": {
+                "assumptions": [],
+                "conclusion": {
+                  "args": [
+                    {
+                      "id": "urn:case:q64a7:p1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:case:q64a7:act1",
+                      "kind": "entity_ref"
+                    }
+                  ],
+                  "kind": "literal",
+                  "polarity": "negative",
+                  "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+                },
+                "kind": "step",
+                "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#AugustineReplyDefeatsBroadReading",
+                "strength": "strict",
+                "subArguments": [
+                  "urn:arg:6",
+                  "urn:arg:7",
+                  "urn:arg:5"
+                ]
+              }
+            },
+            {
+              "id": "urn:arg:1",
+              "structure": {
+                "assumptions": [],
+                "conclusion": {
+                  "args": [
+                    {
+                      "id": "urn:case:q64a7:p1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:case:q64a7:act1",
+                      "kind": "entity_ref"
+                    }
+                  ],
+                  "kind": "literal",
+                  "polarity": "positive",
+                  "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+                },
+                "kind": "step",
+                "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#BroadAugustineObjectionReading",
+                "strength": "defeasible",
+                "subArguments": [
+                  "urn:arg:7",
+                  "urn:arg:4"
+                ]
+              }
+            },
+            {
+              "id": "urn:arg:2",
+              "structure": {
+                "assumptions": [],
+                "conclusion": {
+                  "args": [
+                    {
+                      "id": "urn:case:q64a7:p1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:case:q64a7:act1",
+                      "kind": "entity_ref"
+                    }
+                  ],
+                  "kind": "literal",
+                  "polarity": "positive",
+                  "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end"
+                },
+                "kind": "step",
+                "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IntendedEndClassification",
+                "strength": "strict",
+                "subArguments": [
+                  "urn:arg:6"
+                ]
+              }
+            },
+            {
+              "id": "urn:arg:3",
+              "structure": {
+                "assumptions": [],
+                "conclusion": {
+                  "args": [
+                    {
+                      "id": "urn:case:q64a7:p1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:case:q64a7:act1",
+                      "kind": "entity_ref"
+                    }
+                  ],
+                  "kind": "literal",
+                  "polarity": "positive",
+                  "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#killing_is_incidental"
+                },
+                "kind": "step",
+                "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IncidentalKillingClassification",
+                "strength": "strict",
+                "subArguments": [
+                  "urn:arg:6",
+                  "urn:arg:4",
+                  "urn:arg:5"
+                ]
+              }
+            },
+            {
+              "id": "urn:arg:4",
+              "structure": {
+                "conclusion": {
+                  "args": [
+                    {
+                      "id": "urn:case:q64a7:act1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                      "kind": "entity_ref"
+                    }
+                  ],
+                  "kind": "literal",
+                  "polarity": "positive",
+                  "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs"
+                },
+                "kind": "fact"
+              }
+            },
+            {
+              "id": "urn:arg:5",
+              "structure": {
+                "conclusion": {
+                  "args": [
+                    {
+                      "id": "urn:case:q64a7:p1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:case:q64a7:act1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                      "kind": "entity_ref"
+                    }
+                  ],
+                  "kind": "literal",
+                  "polarity": "negative",
+                  "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+                },
+                "kind": "fact"
+              }
+            },
+            {
+              "id": "urn:arg:6",
+              "structure": {
+                "conclusion": {
+                  "args": [
+                    {
+                      "id": "urn:case:q64a7:p1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:case:q64a7:act1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life",
+                      "kind": "entity_ref"
+                    }
+                  ],
+                  "kind": "literal",
+                  "polarity": "positive",
+                  "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+                },
+                "kind": "fact"
+              }
+            },
+            {
+              "id": "urn:arg:7",
+              "structure": {
+                "conclusion": {
+                  "args": [
+                    {
+                      "id": "urn:case:q64a7:p1",
+                      "kind": "entity_ref"
+                    },
+                    {
+                      "id": "urn:case:q64a7:act1",
+                      "kind": "entity_ref"
+                    }
+                  ],
+                  "kind": "literal",
+                  "polarity": "positive",
+                  "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+                },
+                "kind": "fact"
+              }
+            }
+          ],
+          "attacks": [
+            {
+              "attacker": "urn:arg:0",
+              "defeats": true,
+              "kind": "rebut",
+              "point": {
+                "kind": "step",
+                "path": []
+              },
+              "target": "urn:arg:1"
+            }
+          ],
+          "grounded": {
+            "in": [
+              "urn:arg:0",
+              "urn:arg:2",
+              "urn:arg:3",
+              "urn:arg:4",
+              "urn:arg:5",
+              "urn:arg:6",
+              "urn:arg:7"
+            ],
+            "out": [
+              "urn:arg:1"
+            ],
+            "undec": []
+          },
+          "limits": {
+            "maxArguments": 64,
+            "maxExtensions": 8,
+            "maxUndecided": 16
+          },
+          "preferredExtensions": [
+            [
+              "urn:arg:0",
+              "urn:arg:2",
+              "urn:arg:3",
+              "urn:arg:4",
+              "urn:arg:5",
+              "urn:arg:6",
+              "urn:arg:7"
+            ]
+          ],
+          "skippedRules": []
+        }
+      }
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

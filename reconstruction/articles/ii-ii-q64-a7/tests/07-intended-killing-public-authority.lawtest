@@ -1,0 +1,99 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.ii_ii_q64_a7 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:ii-ii-q64-a7";
+
+test "intended killing with public office and common good is a distinct route" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "self-defense": self_defense_act(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "proportion-adjudicated": vis_moderata(entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+        assert "death-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "authority": public_authority(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "common-good": common_good_orientation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "no-private-passion": not private_passion_motive(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(public_authority_common_good_route(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(defensio_licita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}
+
+test "public-authority route does not escape the self-defense scope" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "death-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "authority": public_authority(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "common-good": common_good_orientation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "no-private-passion": not private_passion_motive(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+        assert "proportion-adjudicated": vis_moderata(entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(defensio_licita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+test "public-authority self-defense without judgment requires adjudication" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "self-defense": self_defense_act(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "death-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "authority": public_authority(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "common-good": common_good_orientation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "no-private-passion": not private_passion_motive(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(vis_moderata(entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == REQUIRES_JUDGMENT;
+    evaluate truth(defensio_licita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == REQUIRES_JUDGMENT;
+}
+
+test "intended private killing outside self-defense scope does not derive the conclusion" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "death-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "private-passion": private_passion_motive(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(occisio_intenta_illicita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}
+
+test "intended killing with private passion is conditionally illicit" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "self-defense": self_defense_act(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "death-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "authority": public_authority(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "common-good": common_good_orientation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "private-passion": private_passion_motive(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(occisio_intenta_illicita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}
+
+test "intended killing without public authority is conditionally illicit" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "self-defense": self_defense_act(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "death-intended": intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "no-authority": not public_authority(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+        assert "common-good": common_good_orientation(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "no-private-passion": not private_passion_motive(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(occisio_intenta_illicita(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}

@@ -1,0 +1,62 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:7ed17efad7d177d251dd1cd1ee93c5235f08030743327949b9ef4edaad101434",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h42e6985e86d7f5bcde3a76e51ab2492080fe88f6f6d8f7f81ce5998080128da3",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#source_order_irreflexive"
+      },
+      "origin": "source_asserted",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3"
+    },
+    {
+      "contentHash": "sha256:0e28d9e32832358b987ef112648c1aca6c35eb4de0df01bdcb8b32de8c30e636",
+      "evidence": [],
+      "id": "urn:la:aquinas:reconstruction:i-q2-a3#assert-h2238d1f06883d3f8bfc92317eaa28012ce94b8d18635488019fc3bb978800bde",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          },
+          {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "cause-X"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-q2-a3#efficient_cause"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:reconstruction:i-q2-a3"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-10-13T00:00:00Z",
+    "knowledgeTime": "2026-10-13T00:00:00Z",
+    "legalTime": "2026-10-13",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

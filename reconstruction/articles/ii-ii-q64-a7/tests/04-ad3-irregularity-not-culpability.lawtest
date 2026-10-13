@@ -1,0 +1,32 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.ii_ii_q64_a7 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:ii-ii-q64-a7";
+
+test "ad3: irregularity is separate from culpability" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "cleric": clerical_status(entity_ref("urn:case:q64a7:p1")) { origin case_input; }
+        assert "homicide-act": homicide_act_occurs(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+        assert "no-intent-to-kill": not intended_effect(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1"), entity_ref("urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker")) { origin case_input; }
+        assert "no-culpability": not moral_culpability(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin adjudicated; }
+    }
+    evaluate truth(irregularity_attaches(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+    evaluate truth(moral_culpability(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == FALSE_ONLY;
+    expect evaluation_status == COMPUTED;
+}
+
+test "ad3 irregularity branch requires clerical status" {
+    given {
+        context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+        assert "homicide-act": homicide_act_occurs(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")) { origin case_input; }
+    }
+    evaluate truth(irregularity_attaches(entity_ref("urn:case:q64a7:p1"), entity_ref("urn:case:q64a7:act1")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}

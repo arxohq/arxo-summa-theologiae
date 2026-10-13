@@ -1,0 +1,464 @@
+{
+  "format": "arxo.summa-argument-reconstruction/0.1",
+  "articleId": "i-ii-q90-a2",
+  "modelSpec": "la.aquinas.reconstruct.i_ii_q90_a2@0.1.0",
+  "sourceSections": [
+    {
+      "section": "arg. 1",
+      "obligations": [
+        "arg1-particular-precepts"
+      ]
+    },
+    {
+      "section": "arg. 2",
+      "obligations": [
+        "arg2-particular-acts"
+      ]
+    },
+    {
+      "section": "arg. 3",
+      "obligations": [
+        "arg3-private-good"
+      ]
+    },
+    {
+      "section": "s. c.",
+      "obligations": [
+        "sedcontra-common-utility"
+      ]
+    },
+    {
+      "section": "co.",
+      "obligations": [
+        "ultimate-to-common"
+      ]
+    },
+    {
+      "section": "ad 1",
+      "obligations": [
+        "particular-command",
+        "particular-command-derivative-good"
+      ]
+    },
+    {
+      "section": "ad 2",
+      "obligations": [
+        "final-cause"
+      ]
+    },
+    {
+      "section": "ad 3",
+      "obligations": [
+        "practical-resolution"
+      ]
+    }
+  ],
+  "premises": [
+    {
+      "id": "p-source_co_part_whole",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "A part is ordered to a whole as imperfect to perfect.",
+      "formalSymbols": [
+        "source_co_part_whole"
+      ]
+    },
+    {
+      "id": "p-source_co_person_part_community",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "An individual person is a part of a complete community.",
+      "formalSymbols": [
+        "source_co_person_part_community"
+      ]
+    },
+    {
+      "id": "p-source_co_community_perfect",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The city is the complete political community.",
+      "formalSymbols": [
+        "source_co_community_perfect"
+      ]
+    },
+    {
+      "id": "p-source_ad1_application",
+      "kind": "source_principle",
+      "sections": [
+        "ad 1"
+      ],
+      "statement": "Particular commands apply a law whose order remains to common good.",
+      "formalSymbols": [
+        "source_ad1_application"
+      ]
+    },
+    {
+      "id": "p-source_ad2_final_cause",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "A particular act can refer to common good through a common final cause, not a common genus or species.",
+      "formalSymbols": [
+        "source_ad2_final_cause"
+      ]
+    },
+    {
+      "id": "p-source_ad3_practical_resolution",
+      "kind": "source_principle",
+      "sections": [
+        "ad 3"
+      ],
+      "statement": "Practical reasoning is resolved to its ultimate end.",
+      "formalSymbols": [
+        "source_ad3_practical_resolution"
+      ]
+    },
+    {
+      "id": "p-arg1-particular-precepts",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 1"
+      ],
+      "statement": "The objection infers from singular commands that law need not aim at common good.",
+      "formalSymbols": [
+        "arg1_particular_precepts"
+      ]
+    },
+    {
+      "id": "p-arg2-particular-acts",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 2"
+      ],
+      "statement": "The objection infers from particular acts that law aims at a particular good.",
+      "formalSymbols": [
+        "arg2_particular_acts"
+      ]
+    },
+    {
+      "id": "p-arg3-private-good",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 3"
+      ],
+      "statement": "The objection invokes rational private goods against an exclusively common end.",
+      "formalSymbols": [
+        "arg3_private_good"
+      ]
+    },
+    {
+      "id": "p-sedcontra-common-utility",
+      "kind": "source_principle",
+      "sections": [
+        "s. c."
+      ],
+      "statement": "The sed contra cites law written for common civic utility rather than private advantage.",
+      "formalSymbols": [
+        "sedcontra_common_utility"
+      ]
+    },
+    {
+      "id": "p-first-principle",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The respondeo identifies the ultimate end as the first principle in practical matters.",
+      "formalSymbols": [
+        "source_co_first_principle_practical_is_ultimate_end"
+      ]
+    },
+    {
+      "id": "p-human-happiness-end",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The respondeo identifies happiness or beatitude as the ultimate end of human life.",
+      "formalSymbols": [
+        "source_co_human_life_ultimate_end_happiness"
+      ]
+    },
+    {
+      "id": "p-prior-end-cross-reference",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Cross-referenced prior principle: happiness or beatitude is the ultimate end of human life. This exact premise is imported as an assumption, not a verified lemma.",
+      "formalSymbols": [
+        "source_prior_human_ultimate_end_is_happiness"
+      ]
+    },
+    {
+      "id": "p-focal-analogy",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The respondeo uses a focal analogy in which derivative cases are ordered to the case that is most fully named.",
+      "formalSymbols": [
+        "source_co_focal_analogy"
+      ]
+    },
+    {
+      "id": "p-community-bridge",
+      "kind": "reconstructed_bridge",
+      "sections": [
+        "co."
+      ],
+      "statement": "The inference from a person as a part of the complete community to law’s orientation to that community’s happiness is an explicit reconstructed bridge.",
+      "formalSymbols": [
+        "bridge_law_end_tracks_complete_community_happiness"
+      ]
+    }
+  ],
+  "obligations": [
+    {
+      "id": "ultimate-to-common",
+      "statement": "Use the stated ultimate-happiness premise with part-whole and person/community relations to derive an intermediate common-happiness order.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_co_first_principle_practical_is_ultimate_end",
+        "source_co_human_life_ultimate_end_happiness",
+        "source_prior_human_ultimate_end_is_happiness",
+        "happiness_as_ultimate_end",
+        "source_co_part_whole",
+        "source_co_person_part_community",
+        "source_co_community_perfect",
+        "person_ordered_to_community_whole",
+        "source_co_focal_analogy",
+        "bridge_law_end_tracks_complete_community_happiness",
+        "law_ordered_to_common_happiness"
+      ],
+      "tests": [
+        "01-common-happiness-chain.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The chain uses the identified practical-first-principle premise, human-ultimate-end premise, this precise imported prior-end assumption, part/whole ordering, the focal analogy, and an explicit reconstructed bridge. The imported premise is not treated as a verified lemma.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "particular-command",
+      "statement": "A singular command remains within the law’s common-good order by application.",
+      "sections": [
+        "ad 1"
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_ad1_application",
+        "particular_command_applies_law",
+        "law_ordered_to_common_happiness",
+        "particular_precept_ordered_to_common_good"
+      ],
+      "tests": [
+        "04-particular-command.lawtest"
+      ],
+      "dependsOn": [
+        "ultimate-to-common"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "final-cause",
+      "statement": "Connect a particular act to common good through shared final causation while distinguishing genus/species commonality.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_ad2_final_cause"
+      ],
+      "tests": [
+        "02-particular-final-cause.lawtest"
+      ],
+      "dependsOn": [
+        "ultimate-to-common"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The path is conditional on its declared source principles and case inputs; a passing finite scenario would not discharge those assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "practical-resolution",
+      "statement": "Represent practical reasoning’s resolution to ultimate end as an intermediate reason for law character.",
+      "sections": [
+        "ad 3"
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_ad3_practical_resolution",
+        "happiness_as_ultimate_end",
+        "practical_reason_resolves_to_end",
+        "law_ordered_to_common_happiness",
+        "practical_reason_resolved_to_common_end"
+      ],
+      "tests": [
+        "03-resolution-to-end.lawtest"
+      ],
+      "dependsOn": [
+        "ultimate-to-common"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The route requires the derived common-happiness order as well as practical resolution to the ultimate end; common-end resolution therefore depends on the conditional ultimate-to-common chain.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "arg1-particular-precepts",
+      "statement": "The objection infers from singular commands that law need not aim at common good.",
+      "sections": [
+        "arg. 1"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg1_particular_precepts"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg2-particular-acts",
+      "statement": "The objection infers from particular acts that law aims at a particular good.",
+      "sections": [
+        "arg. 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg2_particular_acts"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg3-private-good",
+      "statement": "The objection invokes rational private goods against an exclusively common end.",
+      "sections": [
+        "arg. 3"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg3_private_good"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "sedcontra-common-utility",
+      "statement": "The sed contra cites law written for common civic utility rather than private advantage.",
+      "sections": [
+        "s. c."
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "sedcontra_common_utility"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "particular-command-derivative-good",
+      "statement": "Represent singular commands as applications of common-good order, then classify a private good as law-related only through that ordering.",
+      "sections": [
+        "ad 1"
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_ad1_application",
+        "particular_command_applies_law",
+        "law_ordered_to_common_happiness",
+        "particular_precept_ordered_to_common_good",
+        "particular_good",
+        "particular_good_has_law_character"
+      ],
+      "tests": [
+        "04-particular-command.lawtest"
+      ],
+      "dependsOn": [
+        "ultimate-to-common",
+        "particular-command"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The route depends on the declared source principles and particular command/good inputs; finite runtime evidence does not discharge those assumptions.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    }
+  ],
+  "replyTargets": [
+    {
+      "reply": "ad 1",
+      "objection": "arg. 1",
+      "target": "particular commands",
+      "mechanism": "Treat a singular command as an application of the law’s order to common good.",
+      "obligations": [
+        "particular-command"
+      ]
+    },
+    {
+      "reply": "ad 2",
+      "objection": "arg. 2",
+      "target": "the particularity of human operations",
+      "mechanism": "Relate particular acts to common good by final causation, not by shared genus or species.",
+      "obligations": [
+        "final-cause"
+      ]
+    },
+    {
+      "reply": "ad 3",
+      "objection": "arg. 3",
+      "target": "private rational goods",
+      "mechanism": "Resolve practical reasoning to the ultimate end; common-good ordering depends on the declared happiness and community bridge premises.",
+      "obligations": [
+        "practical-resolution"
+      ]
+    }
+  ],
+  "protectedConclusions": [
+    "happiness_as_ultimate_end",
+    "person_ordered_to_community_whole",
+    "law_ordered_to_common_happiness",
+    "particular_precept_ordered_to_common_good",
+    "particular_act_referred_by_final_cause",
+    "practical_reason_resolved_to_common_end",
+    "particular_good_has_law_character"
+  ],
+  "limitations": [
+    "Source-attested philosophical principles are declared assumptions rather than independently established truths.",
+    "Case inputs and intermediate rules are local to this article and are not imported from earlier argument graphs.",
+    "Unknown inputs remain unknown; no absence of an assertion is treated as a negative fact.",
+    "Positive and premise-removal fixtures are present for each implemented branch.",
+    "Obligations remain NOT_VERIFIED or CONDITIONAL pending runtime execution and source review.",
+    "fullArticleVerified remains false; this finite reconstruction does not establish universal claims.",
+    "The source principle that happiness is the human ultimate end and the prior cross-reference are declared premises; common happiness follows only through the explicit reconstructed bridge from person/whole ordering and focal analogy.",
+    "An article-local argumentation query is present without engineered priorities. The selected CLI test summary exposes the argumentation class but does not retain skippedRules; no skippedRules-zero claim is made until a canonical argumentation document is inspected.",
+    "The @source annotation names the source article, but these test summaries do not emit native proof source-anchor evidence; no such proof evidence is claimed."
+  ],
+  "fullArticleVerified": false,
+  "review": {
+    "sourceReview": "coordinator plus independent Luna read-only review",
+    "runtimeEvidence": "Article-local published CLI check/lower/test and native repeated evaluation documents; final aggregate report is generated outside Git.",
+    "engineCertificate": "not_run",
+    "nativeProofSourceAnchors": "No native source-anchor certificate is claimed; model annotations and pinned section mapping provide project-level provenance.",
+    "fullArticleVerified": false
+  }
+}

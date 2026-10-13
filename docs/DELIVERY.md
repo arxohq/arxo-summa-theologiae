@@ -22,3 +22,30 @@ python3.12 tools/canon_publication.py verify --artifact /tmp/arxo-summa-artifact
 Use a new output directory. The publication inventory excludes Git history, caches, build products, node_modules and private authoring tools. Source and evaluation hashes are different identities; the original lowerer semanticHash placeholder is not substituted for a measured raw-world or package artifact hash.
 
 Full corpus `not_checked`; releaseVerified false. Historical source notices record the owner's earlier public-reader decision and are preserved. No modern translation or publisher HTML shell is added to the exported Latin text witnesses.
+
+## v0.2.0: additive argument reconstruction kit
+
+The original v0.1.0 reader and its 28 models remain byte-identical for source,
+case and registry inputs. Seven new independent experimental packages live in
+`reconstruction/`; their model versions are 0.1.0 and semantics law.core/0.2.11.
+They introduce subject reconstructions without changing Arxo core or the SDK.
+
+`reconstruction/export-origin.json` identifies the captured corpus source tree,
+exact original file bytes and intentional public documentation/runner adaptations.
+Compiled IR and 13 native reader examples come from the checked authoring runs;
+no private machine path is required to execute them. The original acceptance
+report is historical authoring evidence with `published: false`. The separate
+public verification report and CI artifacts identify delivery checks.
+
+The default CI scope checks 73 new scenarios and 132 native queries twice on
+Linux x64, the protected-input guard, 13 retained reader examples, and the original
+reader example replay. It checks all supplied hashes and exports the exact
+allowlisted archive through the existing exporter. It does not repeat the 294
+unchanged original scenarios or run the full corpus. A supplied matching release
+tag publishes that verified CI archive and its SHA-256 through GitHub Releases.
+
+There are 21 checked finite fragments, 22 conditional obligations, 32 source
+reconstructions and 15 unsupported obligations across 90 project-defined entries.
+No whole article is fully verified. Public delivery does not promote these
+statuses or imply a formal checker certificate. Full corpus remains not_checked
+and releaseVerified remains false.

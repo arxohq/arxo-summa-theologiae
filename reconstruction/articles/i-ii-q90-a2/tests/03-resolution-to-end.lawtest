@@ -1,0 +1,43 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a2 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a2";
+
+test "resolution: positive and removal" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "p1": source_co_first_principle_practical_is_ultimate_end() { origin case_input; }
+  assert "p2": source_co_human_life_ultimate_end_happiness() { origin case_input; }
+  assert "p2b": source_prior_human_ultimate_end_is_happiness() { origin case_input; }
+  assert "p3a": source_co_part_whole() { origin case_input; }
+  assert "p3b": source_co_person_part_community() { origin case_input; }
+  assert "p3c": source_co_community_perfect() { origin case_input; }
+  assert "p3d": source_co_focal_analogy() { origin case_input; }
+  assert "p3e": bridge_law_end_tracks_complete_community_happiness() { origin case_input; }
+  assert "p3": source_ad3_practical_resolution() { origin case_input; }
+  assert "p4": practical_reason_resolves_to_end() { origin case_input; }
+ }
+ evaluate truth(practical_reason_resolved_to_common_end());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+}
+
+test "resolution: explicit removal blocks dependent conclusions" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "r1": source_co_first_principle_practical_is_ultimate_end() { origin case_input; }
+  assert "r2": source_co_human_life_ultimate_end_happiness() { origin case_input; }
+  assert "r2b": source_prior_human_ultimate_end_is_happiness() { origin case_input; }
+  assert "r3a": source_co_part_whole() { origin case_input; }
+  assert "r3b": source_co_person_part_community() { origin case_input; }
+  assert "r3c": source_co_community_perfect() { origin case_input; }
+  assert "r3d": source_co_focal_analogy() { origin case_input; }
+  assert "removed-bridge": not bridge_law_end_tracks_complete_community_happiness() { origin case_input; }
+  assert "r3": source_ad3_practical_resolution() { origin case_input; }
+  assert "removed": not practical_reason_resolves_to_end() { origin case_input; }
+ }
+ evaluate truth(practical_reason_resolved_to_common_end());
+ expect result_kind == PROPOSITION;
+ expect truth_status == NEITHER;
+ expect evaluation_status == COMPUTED;
+}

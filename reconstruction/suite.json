@@ -1,0 +1,23 @@
+{
+  "format": "arxo.summa-reconstruction-suite/0.1",
+  "coreChanges": false,
+  "fullCorpus": "not_checked",
+  "published": false,
+  "releaseVerified": false,
+  "order": [
+    "ii-ii-q64-a7",
+    "i-q1-a8",
+    "i-ii-q90-a1",
+    "i-ii-q90-a2",
+    "i-ii-q90-a3",
+    "i-ii-q90-a4",
+    "i-q2-a3"
+  ],
+  "pilot": "ii-ii-q64-a7",
+  "heldOut": {
+    "article": "i-q2-a3",
+    "frozenBeforeImplementation": true,
+    "criterion": "Review every source section, all Five Ways, both objections and both replies. Distinguish executable finite fragments, conditional assumptions, unsupported obligations and genuine checked counterexamples. No required green acceptance and no expected philosophical validity assigned."
+  },
+  "scope": "Seven articles; initial six include II-II q64 a7 once. Experimental reconstruction fixtures, not registered replacements for current canon models."
+}

@@ -1,0 +1,393 @@
+{
+  "format": "arxo.summa-reconstruction-export/0.1",
+  "sourceRepository": "https://github.com/arxohq/arxo-corpus",
+  "capture": "Selected locally authored, source-reviewed and checked bytes; source tree identifies the snapshot, not a corpus commit.",
+  "sourceTree": "4c94f4594ef2cfe8d3690ecf188fb440e1ae6012",
+  "files": [
+    {
+      "path": "CONTRACT.md",
+      "sha256": "4a615ac87d6820a6d681f47c20bf4e853a9b24ef8504ac9cea214582f85bb9e9",
+      "bytes": 4492
+    },
+    {
+      "path": "README.md",
+      "sha256": "912f1d14a6123719155b2d67f61b519fdf169248191fbb0311ab35c352d652f7",
+      "bytes": 7278
+    },
+    {
+      "path": "articles/i-ii-q90-a1/README.md",
+      "sha256": "8d61530bb4140e98b40cf0a1c7575295e5f2aa7b408caa1096e34b7a3b8072f8",
+      "bytes": 1087
+    },
+    {
+      "path": "articles/i-ii-q90-a1/model/00-package.law",
+      "sha256": "b9e5695bb085905171a66a8055ed485c6f85095296500fa756d24a58d29794f0",
+      "bytes": 6954
+    },
+    {
+      "path": "articles/i-ii-q90-a1/reconstruction.json",
+      "sha256": "7319eda4d7f29a3b3eb8e22702be30cee6e86c28980fc68e3790497b34fb2c73",
+      "bytes": 18026
+    },
+    {
+      "path": "articles/i-ii-q90-a1/source.json",
+      "sha256": "27353b9ab740490fd2f15ac84e87e546af160d42430672cfbbc0ed4f3c291ca2",
+      "bytes": 5882
+    },
+    {
+      "path": "articles/i-ii-q90-a1/source.txt",
+      "sha256": "d0576aaa1a523f6dbd1e578731e97584aec0f60151d6242f8750a3557073e18b",
+      "bytes": 3739
+    },
+    {
+      "path": "articles/i-ii-q90-a1/tests/01-reason-measure.lawtest",
+      "sha256": "948b43f3f479b49442cebfbd906acef24d65b537a8d5484d7c2f00dc4754ca32",
+      "bytes": 2590
+    },
+    {
+      "path": "articles/i-ii-q90-a1/tests/02-habit-and-participation.lawtest",
+      "sha256": "b97ffd171fcbab82059b08a6e32da143286c13d25de4f5e15ad51b0cb3f390a4",
+      "bytes": 2627
+    },
+    {
+      "path": "articles/i-ii-q90-a1/tests/03-will-regulation.lawtest",
+      "sha256": "a85956809db96797f52763ce6c757038bcf2e26c5db0bc55cedba5f0dc7884d2",
+      "bytes": 1854
+    },
+    {
+      "path": "articles/i-ii-q90-a2/README.md",
+      "sha256": "0566e7a73c2e1cf1575028639f45ef14bf8cbc5218e7506fc189b71830033baa",
+      "bytes": 1087
+    },
+    {
+      "path": "articles/i-ii-q90-a2/model/00-package.law",
+      "sha256": "b303a16fa9047d2d7ce6e162ae471caef851b5bd7354ff5b424835b19526cd6f",
+      "bytes": 6940
+    },
+    {
+      "path": "articles/i-ii-q90-a2/reconstruction.json",
+      "sha256": "a39c845055306cfa0599be57f6279091a8845ed177fa77d8ad5490484ef61c58",
+      "bytes": 18033
+    },
+    {
+      "path": "articles/i-ii-q90-a2/source.json",
+      "sha256": "71f32d0615c45427756544fdfeea28eba780a2f37260ea6deb5ee3f61af42d9c",
+      "bytes": 5574
+    },
+    {
+      "path": "articles/i-ii-q90-a2/source.txt",
+      "sha256": "0452a4117a55e00695a7f6ce8b54f67d37361bebea087f6bfa063d4b66fc7ce0",
+      "bytes": 3427
+    },
+    {
+      "path": "articles/i-ii-q90-a2/tests/01-common-happiness-chain.lawtest",
+      "sha256": "e40725a027a884d59f0abb99ef72de189e2bdb5eb8f6dc37827cc1a271249d0a",
+      "bytes": 2757
+    },
+    {
+      "path": "articles/i-ii-q90-a2/tests/02-particular-final-cause.lawtest",
+      "sha256": "52f9822af0ed0418c0cea58441faab38b53039e557bdf1642f007abeaafbccd4",
+      "bytes": 2536
+    },
+    {
+      "path": "articles/i-ii-q90-a2/tests/03-resolution-to-end.lawtest",
+      "sha256": "e9001994fc5baa0e7b5ffd55159eba318d1b951ea2e722aa4f557d8098a45b5c",
+      "bytes": 2445
+    },
+    {
+      "path": "articles/i-ii-q90-a2/tests/04-particular-command.lawtest",
+      "sha256": "004c32dc782081de86b1e53ab17f2d8d93b25b1cfe473b4a70ec93038045c75a",
+      "bytes": 2882
+    },
+    {
+      "path": "articles/i-ii-q90-a3/README.md",
+      "sha256": "7158ea8c1ab48fbc7c72acfd39c150a7a9859c1c5022e6d99e28de056e705f20",
+      "bytes": 1087
+    },
+    {
+      "path": "articles/i-ii-q90-a3/model/00-package.law",
+      "sha256": "90b70660614c7f8cbc82002ec2362f7dffe97c041b381e78499e57f8bf63e10e",
+      "bytes": 7102
+    },
+    {
+      "path": "articles/i-ii-q90-a3/reconstruction.json",
+      "sha256": "c54c51118cd5b616b6bb0c5ae3be8d935000f727e284889ba58859331a0cfa34",
+      "bytes": 15316
+    },
+    {
+      "path": "articles/i-ii-q90-a3/source.json",
+      "sha256": "daf36f7cd61e4a97066de0069a383c044a0069cc7cae8f49e1981219499b8faf",
+      "bytes": 4946
+    },
+    {
+      "path": "articles/i-ii-q90-a3/source.txt",
+      "sha256": "3e6abc86ac2150699be4b99f414f370aa227dcf42ac207e3cae01348c2625290",
+      "bytes": 2799
+    },
+    {
+      "path": "articles/i-ii-q90-a3/tests/01-public-caretaker.lawtest",
+      "sha256": "19c1d6cb36cb83a0afc68e837752fee91bf0e2c6268da8e88082b1ad77488a5a",
+      "bytes": 2251
+    },
+    {
+      "path": "articles/i-ii-q90-a3/tests/02-private-admonition.lawtest",
+      "sha256": "602fecd143f4858e4e1d9838d56bc9077289fada5a0eb7d3c2bd96dbf5b523bd",
+      "bytes": 1663
+    },
+    {
+      "path": "articles/i-ii-q90-a3/tests/03-household-scope.lawtest",
+      "sha256": "72bdde910a131a296e37f37064b351b6f88ffd9de89fd40605d51b3ed79f8492",
+      "bytes": 1712
+    },
+    {
+      "path": "articles/i-ii-q90-a3/tests/04-whole-multitude.lawtest",
+      "sha256": "d659631e8273ca06b87bfff4e8f83a3c6f5c2e8e35124df1fb1e537a3c05b8a1",
+      "bytes": 1174
+    },
+    {
+      "path": "articles/i-ii-q90-a4/README.md",
+      "sha256": "87ef68823ddb8ac20b73b43193dd5e7307659810d99f58d6f8cdb35919f4be4a",
+      "bytes": 1087
+    },
+    {
+      "path": "articles/i-ii-q90-a4/model/00-package.law",
+      "sha256": "4b0565c909bafd114acad67dccbbbc3b6a29c9dd6ac9da353a27f50b29c62105",
+      "bytes": 7044
+    },
+    {
+      "path": "articles/i-ii-q90-a4/reconstruction.json",
+      "sha256": "00ed45912f671065ba6346f32d8968811059cee53c18ac2a9066eecc7d71a2c6",
+      "bytes": 20680
+    },
+    {
+      "path": "articles/i-ii-q90-a4/source.json",
+      "sha256": "5a4899531eb86e96a69a00498a8367025de1f8a75e9faaa61dc0ebdf4ba79bd2",
+      "bytes": 4306
+    },
+    {
+      "path": "articles/i-ii-q90-a4/source.txt",
+      "sha256": "98ca5cd483cb6019569e271dfbcb92d8b6c7a2245be9f90c6b0f162c3e1addab",
+      "bytes": 2159
+    },
+    {
+      "path": "articles/i-ii-q90-a4/tests/01-promulgation-binding.lawtest",
+      "sha256": "848c8e60be05a34a2624b696f337bbef6b976e2a5f0111eb99521e3df3b1b658",
+      "bytes": 2161
+    },
+    {
+      "path": "articles/i-ii-q90-a4/tests/02-remote-transmission.lawtest",
+      "sha256": "609d375f86c10cebde978ed763a66d0df43c1db3853c47d58cb76f137d7ecac2",
+      "bytes": 1316
+    },
+    {
+      "path": "articles/i-ii-q90-a4/tests/03-future-writing.lawtest",
+      "sha256": "7e059a5daa2b8b3f44bd3caf0f174cff2805963207e735fef3735888a79a1826",
+      "bytes": 1437
+    },
+    {
+      "path": "articles/i-ii-q90-a4/tests/04-four-conditions.lawtest",
+      "sha256": "8cf38114cdbd74be9b89aa76eefe6c712cc86580266a6840f7066c267c6d92f5",
+      "bytes": 1788
+    },
+    {
+      "path": "articles/i-ii-q90-a4/tests/05-natural-law-promulgation.lawtest",
+      "sha256": "22c01a861e469252c074a46fd9e2f137d8b6e163d842d1cd49ce1b92f72465d9",
+      "bytes": 1364
+    },
+    {
+      "path": "articles/i-q1-a8/README.md",
+      "sha256": "c7b311c46921f14b64d7eb480fb77ca161bbf02e53c74d3534730711f07b7be0",
+      "bytes": 2239
+    },
+    {
+      "path": "articles/i-q1-a8/model/00-package.law",
+      "sha256": "aa81a9db4a83f49118b3076e9ca0288ac7321bac535ef3f3425a7e568e1127cc",
+      "bytes": 3592
+    },
+    {
+      "path": "articles/i-q1-a8/reconstruction.json",
+      "sha256": "1a823e4680b4e3ba83335cf9489a2a94fee3c77f2f0d7e1eef742173d9fe4244",
+      "bytes": 19052
+    },
+    {
+      "path": "articles/i-q1-a8/source.json",
+      "sha256": "097910e1ba95aa928041fe849ca05965acb926c758b93a46058d2f351eb73c0e",
+      "bytes": 6359
+    },
+    {
+      "path": "articles/i-q1-a8/source.txt",
+      "sha256": "7fd320daecafe01c0076f272d96b1ff63ffc720f1e0564c6012c318fb056e401",
+      "bytes": 4664
+    },
+    {
+      "path": "articles/i-q1-a8/tests/01-faith-context.lawtest",
+      "sha256": "a6a8eac4db5d75546294558bdf45ecd160d19dc0a036f1ccb7cd1f4f2d703a2b",
+      "bytes": 2236
+    },
+    {
+      "path": "articles/i-q1-a8/tests/02-authority-context.lawtest",
+      "sha256": "4a3201ddd10a3346d7d26059651c1e484e844ee331ce48e0a3c3d59941b0270a",
+      "bytes": 3973
+    },
+    {
+      "path": "articles/i-q2-a3/README.md",
+      "sha256": "cfc0abab942074bca8f4309ee87a8d115b0adc76d3adaed65224d76e263386cc",
+      "bytes": 2648
+    },
+    {
+      "path": "articles/i-q2-a3/model/00-package.law",
+      "sha256": "5b07acb3be17b580c0cb156d02866df7490e51dd00a2f4e2c78c8f902b4076df",
+      "bytes": 4604
+    },
+    {
+      "path": "articles/i-q2-a3/reconstruction.json",
+      "sha256": "532fc2d960069aa0634d22a9bfa7733396573f12851f95407f95f903143b0f07",
+      "bytes": 24308
+    },
+    {
+      "path": "articles/i-q2-a3/source.json",
+      "sha256": "655c0b6e6e310f508509e13871750dc5ae32f792fdf39f032f9502ff03ad198d",
+      "bytes": 8207
+    },
+    {
+      "path": "articles/i-q2-a3/source.txt",
+      "sha256": "8591ab92a5e6684cff10af43c4ed99371b3c63bf2f41b3ea680531d77de2782b",
+      "bytes": 6541
+    },
+    {
+      "path": "articles/i-q2-a3/tests/01-way1-finite-actualization.lawtest",
+      "sha256": "8448c15e727fece6308cc8f1435407882538b2fa70346ac57092d83fe779e07a",
+      "bytes": 1162
+    },
+    {
+      "path": "articles/i-q2-a3/tests/02-way1-scope-and-removal.lawtest",
+      "sha256": "d18fd63dd6becde7422b614b032e2d1c67b08760d10ab1df145876bcf49657a2",
+      "bytes": 2554
+    },
+    {
+      "path": "articles/i-q2-a3/tests/03-way2-finite-causes.lawtest",
+      "sha256": "decafa40a88fcae03ab87c4ae8799a74b61fe40ebdc71a6449e40f0153dd051a",
+      "bytes": 1730
+    },
+    {
+      "path": "articles/i-q2-a3/tests/04-way2-cause-removal.lawtest",
+      "sha256": "5c6b35b47036f0998f56c63357b8dabe239ec047393f93358ef90bd0145c9484",
+      "bytes": 1003
+    },
+    {
+      "path": "articles/i-q2-a3/tests/05-way5-regularity.lawtest",
+      "sha256": "cc4b6a116fb9d19b64d5cfd77f588c257e2e73ef5b9454a66849dc0c17d7385c",
+      "bytes": 1780
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/README.md",
+      "sha256": "f1a9cbf2b1515ba9939d1879d5cd477cf246de2eddc16a5cf4960bd4a0477329",
+      "bytes": 3996
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/law.toml",
+      "sha256": "bc90ee131c6ce992ef8386f9c6a70504bfc349b4a455c930eb189d5196953238",
+      "bytes": 680
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/model/00-package.law",
+      "sha256": "e1bac99755879d1c831f47a8e34c3cb4379625f1903c23221564c7c0a37b6b5a",
+      "bytes": 20569
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/reconstruction.json",
+      "sha256": "340d41519007858c7b708297395070a4dc5b540b63fb596e844c6477d0021283",
+      "bytes": 30866
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/source.json",
+      "sha256": "4c0485e3f0f48925bcecbe833a035cce9932bd33e70d7fb38fb376df89b25ffd",
+      "bytes": 8228
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/source.txt",
+      "sha256": "2eb925551ac08aa2b00123752c08018ebe099d2f44ea8adfadd5265f7be632ff",
+      "bytes": 5116
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/tests/01-arg1-ad1-intended-scope.lawtest",
+      "sha256": "05b099d326d7163284a23ff1af03d782ac012f276afd0e5b70d51bbb972ac3db",
+      "bytes": 5235
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/tests/02-co-moderate-defense.lawtest",
+      "sha256": "5636501706c857a9f3154dd784942669782a0fa27d85739edd0ed991d33fbba0",
+      "bytes": 6420
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/tests/03-co-public-authority-and-passion.lawtest",
+      "sha256": "f40d17149c9cca43d2d331fbedd2a28909a05d1dde3a7e0b227cb63944eb819d",
+      "bytes": 3346
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/tests/04-ad3-irregularity-not-culpability.lawtest",
+      "sha256": "10c3e45b6ba78660d2b1b40c68c852e3945bf52b4680baab780103fac51e4001",
+      "bytes": 2014
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/tests/05-ad4-necessity-distinction.lawtest",
+      "sha256": "12625b83050fc3482abfe053d43f20a24e29146a1381b8ab45e017ad4e95845e",
+      "bytes": 2162
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/tests/06-ad5-revenge-scope.lawtest",
+      "sha256": "32e1626c5c03e4ef6c7530c69c277c68053ae015f35edd0bbfa76d3647b171b6",
+      "bytes": 2159
+    },
+    {
+      "path": "articles/ii-ii-q64-a7/tests/07-intended-killing-public-authority.lawtest",
+      "sha256": "48f89b8d1ec77c3233cdbba37d581c4e9376b9bc5b418c418c9308374fd95342",
+      "bytes": 7783
+    },
+    {
+      "path": "reports/acceptance.json",
+      "sha256": "9bc398adac8f81352aa184feb92086613193fb649a015ab265f7c18d2da2d203",
+      "bytes": 112037
+    },
+    {
+      "path": "source-pin.json",
+      "sha256": "6df40eb0def2404836ef5a5f4f6360b44cde3f7837e9d6b14c88f3615b003b49",
+      "bytes": 3509
+    },
+    {
+      "path": "suite.json",
+      "sha256": "be5b926decf4427b9a0c108068bc0e3fb4850fe33ef99d3d20a67415f5c18145",
+      "bytes": 878
+    },
+    {
+      "path": "tools/README.md",
+      "sha256": "8406d8835fd3b810a3c0348160d07f94ba458f4fa8530e36a81dd931615b700b",
+      "bytes": 2933
+    },
+    {
+      "path": "tools/verify.py",
+      "sha256": "4df890c01638dd3e19ca144d59a3c362678980e4912e55479a38123d1f8de65c",
+      "bytes": 35538
+    }
+  ],
+  "publicAdaptations": [
+    {
+      "path": "README.md",
+      "sourceSha256": "912f1d14a6123719155b2d67f61b519fdf169248191fbb0311ab35c352d652f7",
+      "publicSha256": "e1bd7c9dabfe276f3048448da0b849f501ce0e24d3bdc7159c398ea38cf184d6",
+      "purpose": "Public native CLI instructions and pinned portable verification; model, test, source and obligation bytes unchanged."
+    },
+    {
+      "path": "tools/README.md",
+      "sourceSha256": "8406d8835fd3b810a3c0348160d07f94ba458f4fa8530e36a81dd931615b700b",
+      "publicSha256": "cb037271c473ef1b59628b97e8bc74a3200b37a739643e6a2c95a353e4cbc03f",
+      "purpose": "Public native CLI instructions and pinned portable verification; model, test, source and obligation bytes unchanged."
+    },
+    {
+      "path": "tools/verify.py",
+      "sourceSha256": "4df890c01638dd3e19ca144d59a3c362678980e4912e55479a38123d1f8de65c",
+      "publicSha256": "f2fecebb9c8247f274c6c61d33843e17effb0ec8030842987e9fd0fe8f19606f",
+      "purpose": "Public native CLI instructions and pinned portable verification; model, test, source and obligation bytes unchanged."
+    }
+  ]
+}

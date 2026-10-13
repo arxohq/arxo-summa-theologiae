@@ -1,0 +1,652 @@
+{
+  "format": "arxo.summa-argument-reconstruction/0.1",
+  "articleId": "i-q2-a3",
+  "modelSpec": "la.aquinas.reconstruct.i_q2_a3@0.1.0",
+  "sourceSections": [
+    {
+      "section": "arg. 1",
+      "obligations": [
+        "objection-evil-and-infinite-good"
+      ]
+    },
+    {
+      "section": "arg. 2",
+      "obligations": [
+        "objection-sufficient-natural-and-human-causes"
+      ]
+    },
+    {
+      "section": "s. c.",
+      "obligations": [
+        "sedcontra-ego-sum"
+      ]
+    },
+    {
+      "section": "co.",
+      "obligations": [
+        "way1-actuality-potentiality",
+        "way1-moved-by-another",
+        "way1-no-self-motion-same-aspect",
+        "way1-first-mover-regress",
+        "way2-efficient-cause-order",
+        "way2-no-self-causation",
+        "way2-source-order-conflict-witness",
+        "way2-first-cause-regress",
+        "way3-possible-and-necessary",
+        "way3-temporal-modal-step",
+        "way3-per-se-necessity",
+        "way4-degrees-and-maximality",
+        "way4-causal-bridge",
+        "way5-teleological-regularity",
+        "way5-intelligent-direction"
+      ]
+    },
+    {
+      "section": "ad 1",
+      "obligations": [
+        "reply-evil-permitted-for-good"
+      ]
+    },
+    {
+      "section": "ad 2",
+      "obligations": [
+        "reply-natural-and-human-causes-depend-on-higher-cause"
+      ]
+    }
+  ],
+  "premises": [
+    {
+      "id": "p1",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "A finite actualization instance can be described by a subject, respect, potential state, actual state, and an actualizer.",
+      "formalSymbols": [
+        "subject",
+        "aspect",
+        "in_potency",
+        "in_act",
+        "actualizes"
+      ]
+    },
+    {
+      "id": "p2",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The source distinguishes actuality and potentiality in the same respect from different respects.",
+      "formalSymbols": [
+        "subject",
+        "aspect",
+        "in_potency",
+        "in_act"
+      ]
+    },
+    {
+      "id": "p3",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The source posits ordered efficient causes and rejects self-causation on the ground that a cause would then be prior to itself.",
+      "formalSymbols": [
+        "efficient_cause",
+        "prior_to",
+        "source_order_irreflexive"
+      ]
+    },
+    {
+      "id": "p4",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The third way reasons from generation/corruption and modal possibility to necessary being.",
+      "formalSymbols": [
+        "possible_not_to_be",
+        "necessary_being"
+      ]
+    },
+    {
+      "id": "p5",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The fourth way reasons from degrees to maximality and from maximality to causation of perfections.",
+      "formalSymbols": [
+        "degree",
+        "maximum",
+        "causes",
+        "perfection"
+      ]
+    },
+    {
+      "id": "p6",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The fifth way describes regular operation toward ends in unintelligent natural bodies and infers intelligent direction.",
+      "formalSymbols": [
+        "unintelligent_body",
+        "regular_action",
+        "end",
+        "intelligent_agent"
+      ]
+    },
+    {
+      "id": "p7",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 1",
+        "ad 1"
+      ],
+      "statement": "The objection cites evil; the reply asserts that good can be brought from permitted evil.",
+      "formalSymbols": [
+        "evil",
+        "good_from_evil"
+      ]
+    },
+    {
+      "id": "p8",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 2",
+        "ad 2"
+      ],
+      "statement": "The objection assigns natural events to nature and deliberate acts to human reason/will; the reply cites higher direction and a first principle.",
+      "formalSymbols": [
+        "nature_principle",
+        "human_reason",
+        "human_will",
+        "higher_agent",
+        "first_principle"
+      ]
+    },
+    {
+      "id": "p9",
+      "kind": "source_principle",
+      "sections": [
+        "s. c."
+      ],
+      "statement": "The sed contra cites Exodus “I am who am.”",
+      "formalSymbols": [
+        "scriptural_authority",
+        "ego_sum"
+      ]
+    },
+    {
+      "id": "p10",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "The source rejects a cause being prior to itself.",
+      "formalSymbols": [
+        "source_order_irreflexive",
+        "prior_to"
+      ]
+    },
+    {
+      "id": "p11",
+      "kind": "reconstructed_bridge",
+      "sections": [
+        "co."
+      ],
+      "statement": "For this finite profile, an efficient-cause edge is mapped to a prior_to relation so that the source-order rationale can be exposed as a conditional conflict witness.",
+      "formalSymbols": [
+        "efficient_cause",
+        "prior_to"
+      ]
+    }
+  ],
+  "obligations": [
+    {
+      "id": "objection-evil-and-infinite-good",
+      "statement": "The objection infers that an infinite good would exclude all evil, while evil is observed.",
+      "sections": [
+        "arg. 1"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "Source inference and reply are inventoried; the theological permission-and-good-making response is not established by the finite causal fragments.",
+      "formalSymbols": [
+        "infinite_good",
+        "evil_exists",
+        "evil_excluded"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "objection-sufficient-natural-and-human-causes",
+      "statement": "The objection claims natural events reduce to nature and deliberate acts to human reason or will, so no divine posit is needed.",
+      "sections": [
+        "arg. 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The objection is recorded as a source argument; adequacy of those explanations is not decided by this model.",
+      "formalSymbols": [
+        "natural_event",
+        "nature_principle",
+        "deliberate_act",
+        "human_reason",
+        "human_will"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "sedcontra-ego-sum",
+      "statement": "The sed contra cites Exodus “I am who am” as an authority for the conclusion.",
+      "sections": [
+        "s. c."
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "Scriptural authority is recorded separately and is not converted into an independently verified ontological fact.",
+      "formalSymbols": [
+        "scriptural_authority",
+        "ego_sum"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "way1-actuality-potentiality",
+      "statement": "A finite actualization witness requires the subject to be potentially at the target state in an aspect, an actualizer actual at that same target state and aspect, and a recorded prior state transition.",
+      "sections": [
+        "co."
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "state_before",
+        "in_potency",
+        "in_act",
+        "actualizes",
+        "finite_actualization"
+      ],
+      "tests": [
+        "01-way1-finite-actualization.lawtest",
+        "02-way1-scope-and-removal.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "Tests check same-aspect target-state alignment for a finite case. The broader metaphysical act/potency principle remains a source premise.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "way1-moved-by-another",
+      "statement": "A finite same-aspect change has a moved-by-another witness only when the actualizer and moved subject are unequal.",
+      "sections": [
+        "co."
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "finite_actualization",
+        "moved_by_another",
+        "agent != subject"
+      ],
+      "tests": [
+        "01-way1-finite-actualization.lawtest",
+        "02-way1-scope-and-removal.lawtest"
+      ],
+      "dependsOn": [
+        "way1-actuality-potentiality"
+      ],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The rule applies native Text inequality; the finite case does not establish universal dependence or a first mover.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "way1-no-self-motion-same-aspect",
+      "statement": "One thing cannot simultaneously be mover and moved in the same respect, while it may differ by respect.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The exact same-aspect impossibility principle is not independently derivable in the runtime; the model only scopes a finite witness by aspect.",
+      "formalSymbols": [
+        "subject",
+        "aspect",
+        "mover",
+        "moved"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "way1-first-mover-regress",
+      "statement": "An essentially ordered chain of movers cannot regress infinitely and therefore has a first unmoved mover.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "Unbounded regress cannot be represented or proven here; a finite chain with a stipulated unmoved root is only a conditional witness, not proof of universal termination.",
+      "formalSymbols": [
+        "mover",
+        "moves",
+        "first_mover",
+        "unmoved"
+      ],
+      "tests": [],
+      "dependsOn": [
+        "way1-moved-by-another"
+      ]
+    },
+    {
+      "id": "way2-efficient-cause-order",
+      "statement": "A finite efficient-cause chain can be composed from explicit cause edges and a designated starting node; efficient-cause edges map to a prior_to relation under a source-anchored bridge.",
+      "sections": [
+        "co."
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "efficient_cause",
+        "prior_to",
+        "finite_cause_edge",
+        "finite_two_link_cause_path",
+        "designated_chain_start",
+        "finite_path_from_designated_start"
+      ],
+      "tests": [
+        "03-way2-finite-causes.lawtest",
+        "04-way2-cause-removal.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "Finite paths are conditional on supplied edges and bookkeeping designation. They do not establish universal termination or an unmoved/first cause.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "way2-no-self-causation",
+      "statement": "Nothing is an efficient cause of itself because it would have to be prior to itself.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The source-order principle and efficient-cause-to-priority rule produce a BOTH-valued prior_to(x,x) conflict when self-causation is supplied. That conditional contradiction witness does not prove the self-cause input false or discharge the source claim.",
+      "formalSymbols": [
+        "efficient_cause",
+        "prior_to",
+        "source_order_irreflexive"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "way2-first-cause-regress",
+      "statement": "In an ordered efficient-cause chain, absence of a first cause would remove intermediate and ultimate effects; infinite regress is impossible.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "Unbounded regress and universal first-cause necessity are outside the finite runtime evidence.",
+      "formalSymbols": [
+        "first_cause",
+        "intermediate_cause",
+        "ultimate_effect",
+        "efficient_cause"
+      ],
+      "tests": [],
+      "dependsOn": [
+        "way2-efficient-cause-order"
+      ]
+    },
+    {
+      "id": "way3-possible-and-necessary",
+      "statement": "Generated and corrupted things are possible to be and not be; not all beings are merely possible.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The third Way depends on temporal modal quantification from possibility of nonexistence to a necessary being; that inference cannot be run in this finite profile.",
+      "formalSymbols": [
+        "generated",
+        "corrupted",
+        "possible_to_be",
+        "possible_not_to_be",
+        "necessary_being"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "way3-temporal-modal-step",
+      "statement": "If all beings were possible not to be, there would have been a time with nothing; nothing would begin without something existing, contrary to present existence.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "Temporal modal quantification and the transition from possible nonexistence to an all-absent time are not expressible without an unbounded/modal engine.",
+      "formalSymbols": [
+        "possible_not_to_be",
+        "time",
+        "nothing_exists",
+        "begins_to_exist",
+        "exists_now"
+      ],
+      "tests": [],
+      "dependsOn": [
+        "way3-possible-and-necessary"
+      ]
+    },
+    {
+      "id": "way3-per-se-necessity",
+      "statement": "A necessary being without a cause of its necessity is required, and is the cause of necessity in others.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The per-se necessity and causal closure steps are not independently established by this profile.",
+      "formalSymbols": [
+        "necessary_being",
+        "cause_of_necessity",
+        "per_se_necessary"
+      ],
+      "tests": [],
+      "dependsOn": [
+        "way3-temporal-modal-step"
+      ]
+    },
+    {
+      "id": "way4-degrees-and-maximality",
+      "statement": "Degrees of goodness, truth, and nobility imply a maximum in each relevant order.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The maximality inference over qualitative degrees is unsupported by available finite predicates.",
+      "formalSymbols": [
+        "degree",
+        "good",
+        "true",
+        "noble",
+        "maximum"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "way4-causal-bridge",
+      "statement": "What is maximal in a genus causes the properties of that genus; a maximally true/good/noble being causes being, goodness, and perfection in others.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The maximality-to-causation bridge is a substantive philosophical premise, not a runtime theorem.",
+      "formalSymbols": [
+        "maximum",
+        "genus",
+        "causes",
+        "being",
+        "goodness",
+        "perfection"
+      ],
+      "tests": [],
+      "dependsOn": [
+        "way4-degrees-and-maximality"
+      ]
+    },
+    {
+      "id": "way5-teleological-regularity",
+      "statement": "Two distinct observed occurrences of the same unintelligent body action with the same stipulated best outcome yield a finite regular-pattern witness; the universal claim about natural bodies remains open.",
+      "sections": [
+        "co."
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "observed_action",
+        "distinct_occurrences",
+        "outcome_is_best",
+        "finite_regular_pattern_toward_end"
+      ],
+      "tests": [
+        "05-way5-regularity.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "This finite observation fragment does not establish final causation universally or exclude chance.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "way5-intelligent-direction",
+      "statement": "What lacks cognition tends to an end only when directed by an intelligent agent, as an arrow by an archer.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The teleological direction principle and universal intelligent director are not independently demonstrated.",
+      "formalSymbols": [
+        "unintelligent_body",
+        "end",
+        "directed_by",
+        "intelligent_agent"
+      ],
+      "tests": [],
+      "dependsOn": [
+        "way5-teleological-regularity"
+      ]
+    },
+    {
+      "id": "reply-evil-permitted-for-good",
+      "statement": "The reply says a supremely good God permits evil because omnipotence and goodness can bring good from evil.",
+      "sections": [
+        "ad 1"
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "This response presupposes the disputed divine attributes and a substantive providential bridge.",
+      "formalSymbols": [
+        "evil",
+        "permitted",
+        "good_from_evil",
+        "supremely_good",
+        "omnipotent"
+      ],
+      "tests": [],
+      "dependsOn": [
+        "objection-evil-and-infinite-good"
+      ]
+    },
+    {
+      "id": "reply-natural-and-human-causes-depend-on-higher-cause",
+      "statement": "Nature acts toward determinate ends under a higher agent; mutable and fallible human reason/will reduce to a first, unmoved, necessary principle.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The reply's higher-cause conclusion depends on unsupported universal mover/cause termination, per-se necessity, and teleological direction transitions; finite witnesses do not close those dependencies.",
+      "formalSymbols": [
+        "natural_event",
+        "higher_agent",
+        "human_reason",
+        "human_will",
+        "mutable",
+        "fallible",
+        "first_principle"
+      ],
+      "tests": [],
+      "dependsOn": [
+        "way1-first-mover-regress",
+        "way2-first-cause-regress",
+        "way3-per-se-necessity",
+        "way5-intelligent-direction"
+      ]
+    },
+    {
+      "id": "way2-source-order-conflict-witness",
+      "statement": "A supplied self-cause edge and the source-order irreflexivity principle yield both positive and negative prior_to(x,x).",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "efficient_cause",
+        "prior_to",
+        "source_order_irreflexive"
+      ],
+      "tests": [
+        "03-way2-finite-causes.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The source_asserted order-irreflexivity axiom plus the stipulated efficient-cause-to-priority bridge yields BOTH for prior_to(x,x) when the scenario supplies a self-cause edge. This remains conditional on the source axiom and does not prove the edge false.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    }
+  ],
+  "replyTargets": [
+    {
+      "reply": "ad 1",
+      "objection": "arg. 1",
+      "target": "evil is permitted by a supremely good and omnipotent God so good may be brought from it",
+      "mechanism": "theodical bridge presupposing the divine attributes and providential relation",
+      "obligations": [
+        "objection-evil-and-infinite-good",
+        "reply-evil-permitted-for-good"
+      ]
+    },
+    {
+      "reply": "ad 2",
+      "objection": "arg. 2",
+      "target": "natural and deliberate causes reduce to a higher cause and first principle",
+      "mechanism": "higher-agent dependence plus mover/efficient-cause/necessity claims",
+      "obligations": [
+        "objection-sufficient-natural-and-human-causes",
+        "reply-natural-and-human-causes-depend-on-higher-cause"
+      ]
+    }
+  ],
+  "protectedConclusions": [
+    "god_exists",
+    "first_mover",
+    "first_efficient_cause",
+    "per_se_necessary_being",
+    "maximum_perfection",
+    "intelligent_director"
+  ],
+  "limitations": [
+    "Each Way is a separate obligation; evidence for one finite fragment does not accept the other Ways or the article conclusion.",
+    "Finite causal chains with a stipulated root support only conditional witness claims. They do not establish that every chain terminates or that an infinite regress is impossible.",
+    "Temporal modal quantification, qualitative maximality, and universal teleological direction remain unsupported by this finite profile.",
+    "No God-existence fact, old conclusion relation, or conclusion-shaped proof flag is imported or asserted.",
+    "The scriptural citation is recorded as authority evidence, not as an independently checked ontological fact.",
+    "Full article verification is not claimed.",
+    "Way 1 checks target-state and aspect identity in a finite change witness, and native Text inequality blocks a same-agent witness. These checks do not prove a universal first mover.",
+    "Way 2 maps supplied efficient-cause edges to prior_to under a named source-order principle. A supplied self-cause edge yields BOTH for prior_to(x,x); this conditional conflict does not prove the edge false.",
+    "The finite Way 2 chain uses a designated starting node as bookkeeping only; the model does not assume that node is unmoved or first."
+  ],
+  "fullArticleVerified": false,
+  "review": {
+    "sourceReview": "coordinator plus independent Luna read-only review",
+    "runtimeEvidence": "Article-local published CLI check/lower/test and native repeated evaluation documents; final aggregate report is generated outside Git.",
+    "engineCertificate": "not_run",
+    "nativeProofSourceAnchors": "No native source-anchor certificate is claimed; model annotations and pinned section mapping provide project-level provenance.",
+    "fullArticleVerified": false
+  }
+}

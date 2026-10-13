@@ -1,0 +1,1072 @@
+{
+  "artifactHash": "sha256:b92364b147f932403030e3783452d69285ecb2cc7fdf14ae27a66fbe1ce2954f",
+  "features": [
+    "core-executable"
+  ],
+  "imports": [],
+  "metadata": {},
+  "nodes": [
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a3#SUMMA_I_II_Q90_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#household_precept"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad3_household_statutes"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#household_governor"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:845f9a26790ce797c666fe60fede508026d83a96ec790155519a74ed5b85fc76",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#household_statute_local_only"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#HouseholdLocal",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: HouseholdLocal."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a3#SUMMA_I_II_Q90_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad3_household_part_city"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#household_statute_local_only"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:92ec6ab97dd24b6bcd3918094495ad55f6dea8e355550da6a30ae31af676d1ea",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#household_end_nested_in_city_good"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#HouseholdNested",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: HouseholdNested."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a3#SUMMA_I_II_Q90_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad1_participation"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_inclination_under_regulator"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:ae3bb76eaeefd3db45299bc3d95fd73be3d4b82dd05d380539209c5f85e4545f",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_participates_in_received_order"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#ParticipationReceived",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: ParticipationReceived."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a3#SUMMA_I_II_Q90_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad2_private_admonition"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_admonition"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "negative",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_coercive_power"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:117fd78678ca5140062f004e11df0065129977f2e76acf6ab4659a314599d3ce",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_admonition_only"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#PrivateAdvice",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: PrivateAdvice."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a3#SUMMA_I_II_Q90_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_co_caretaker"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_office_has_care_of_whole"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:b07a224fcece160724bc44a2e787def0d1652e48fea3581d423196cde1ce293d",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_caretaker_of_whole"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#PublicCaretaker",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: PublicCaretaker."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a3#SUMMA_I_II_Q90_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_co_common_good_scope"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_co_caretaker"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_caretaker_of_whole"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:ae4f6ba56574ff1915a15595067efd97630992bf5cc2e12e1ac61a9e965a2fa8",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_caretaker_common_good_route"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#PublicCaretakerOrdersCommonGood",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A public caretaker orders the community to common good under the source's care-of-whole principle."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a3#SUMMA_I_II_Q90_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad2_public_penalty"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_coercive_power"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_caretaker_of_whole"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad2_virtue_goal"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:7fde32cdc9948566cc8248442d8a257dfcb6fae4dcf9d429dbd30e8eee355551",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_coercive_lawmaking_route"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#PublicCoercion",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Source-annotated intermediate reconstruction: PublicCoercion."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "authority": {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "Thomas Aquinas, Summa Theologiae"
+      },
+      "contentHash": "sha256:8e005c1ae7f4e8c8460c76120395ca2424a4966512a9a8a113d76dfa34d77f61",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#SUMMA_I_II_Q90_A3",
+      "jurisdiction": {
+        "kind": "value",
+        "type": {
+          "name": "urn:law:std#Text"
+        },
+        "value": "none"
+      },
+      "kind": "source_work",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Pinned Latin source in sibling immutable source.txt and source-pin.json"
+        }
+      ],
+      "number": "I-II, q. 90, a. 3",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "sourceKind": "urn:la:aquinas:reconstruction:i-ii-q90-a3#doctrine"
+    },
+    {
+      "anchors": [
+        "urn:la:aquinas:reconstruction:i-ii-q90-a3#SUMMA_I_II_Q90_A3"
+      ],
+      "body": {
+        "items": [
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_co_common_good_scope"
+            },
+            "kind": "status",
+            "status": "established"
+          },
+          {
+            "formula": {
+              "args": [],
+              "kind": "literal",
+              "polarity": "positive",
+              "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#whole_multitude_orders_good"
+            },
+            "kind": "status",
+            "status": "established"
+          }
+        ],
+        "kind": "and"
+      },
+      "contentHash": "sha256:4964f20ec3847cb1dd6ecb56e255790e60daad4f9fbabf93b8d7082b4f3c1562",
+      "head": {
+        "args": [],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:reconstruction:i-ii-q90-a3#whole_multitude_common_good_route"
+      },
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#WholeMultitudeOrdersCommonGood",
+      "interpretations": [],
+      "kind": "rule",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The whole multitude orders the community to its common good under the source's common-good principle."
+        }
+      ],
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "scope": {
+        "kind": "boolean",
+        "value": true
+      },
+      "strength": "strict",
+      "variables": []
+    },
+    {
+      "contentHash": "sha256:b37215038963d18942b29e0e71c00d67c99b463506c78d2f7193315221433c52",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#arg1_natural_participation",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The objection moves from natural performance of law’s works and self-as-law to private lawmaking."
+        }
+      ],
+      "name": "arg1_natural_participation",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:db28ad03e5b617d04360600ff3e715ef480f21307b56b794580ce945d9d9599b",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#arg2_virtue_inducement",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The objection moves from anyone encouraging virtue to anyone being a legislator."
+        }
+      ],
+      "name": "arg2_virtue_inducement",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:67f792e8c43fc34a142172eba81acaf5b94dce24a7697c4bff8e5c4add0ba771",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#arg3_household_governor",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The objection analogizes the household governor to the city ruler."
+        }
+      ],
+      "name": "arg3_household_governor",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:a0c17d5d97adc5b97faa46c599716eddbb8d6c18e9e8512dcb56726e7ac700cd",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#household_end_nested_in_city_good",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: household end nested in city good."
+        }
+      ],
+      "name": "household_end_nested_in_city_good",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:82f4bec29f83c325cf66603d300d0278b8a704881698a503dd6a2d89a715f512",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#household_governor",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: household governor."
+        }
+      ],
+      "name": "household_governor",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:9df92e4740805352f4cc0c459a755d2a4d806ff843d5d9899c59547536703ea1",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#household_precept",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: household precept."
+        }
+      ],
+      "name": "household_precept",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:6afef9a35339c98084403f7c831204ac3a67c4bcf094acacb52677367d352be5",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#household_statute_local_only",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: household statute local only."
+        }
+      ],
+      "name": "household_statute_local_only",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:e416e8545094f280e306529eb8597b62fd8230f5c7abf24e8c3130d350d28e2a",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#not_used",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: not used."
+        }
+      ],
+      "name": "not_used",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:1e9390898ff42771d1c56b0fe5c9c6df39bf1c478a278ee72415a9598da4ea03",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_admonition",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: private admonition."
+        }
+      ],
+      "name": "private_admonition",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:7737fa1256b90839d7bb3bd37908fb70e59b96eb9191ad28c1fcc72a73dcf02b",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_admonition_only",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: private admonition only."
+        }
+      ],
+      "name": "private_admonition_only",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:6de87e611bc59495572d95ea026cf36ebb0f4700611500bf50be5b5440f27559",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_coercive_power",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: private coercive power."
+        }
+      ],
+      "name": "private_coercive_power",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:a58d368336faae44e1f792fa2b3c096f0f15aa1ecc073bc011c754e288268ec5",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_inclination_under_regulator",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: private inclination under regulator."
+        }
+      ],
+      "name": "private_inclination_under_regulator",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:47eed16ca37dd25005f33344bffb7c0dd86d314b98a7fa7c96b69b014caae31d",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#private_participates_in_received_order",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: private participates in received order."
+        }
+      ],
+      "name": "private_participates_in_received_order",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:643ed87a1759be31a0bcf728d145be9fb4a6cad6b8130746e364a9e6be758195",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_caretaker_common_good_route",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Common-good ordering route held by a public caretaker of the whole."
+        }
+      ],
+      "name": "public_caretaker_common_good_route",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:36e3c9d9bdd0abf9222a68f83a8933e10ccd7b5f98a29a52aad9f50e1b2b67f0",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_caretaker_of_whole",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: public caretaker of whole."
+        }
+      ],
+      "name": "public_caretaker_of_whole",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:d60c5b9b5f90dcdce12e9e9d5d37faab766f98d91edbc0372f47e04368b6e877",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_coercive_lawmaking_route",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Intermediate relation: public coercive lawmaking route."
+        }
+      ],
+      "name": "public_coercive_lawmaking_route",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:8998b63f343c61ce1c7450d022895857c6f608ec036a80fff911617d0a67a1fe",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_coercive_power",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: public coercive power."
+        }
+      ],
+      "name": "public_coercive_power",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:69efb5fd25cda73c0cbacb58aef83811ac8465a329bd3f73b50b1c7249ca9fb8",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#public_office_has_care_of_whole",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: public office has care of whole."
+        }
+      ],
+      "name": "public_office_has_care_of_whole",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:1596720526675ccb27e13f30b3c188d01f76971cbc7b42d010cd8b3cd3d78457",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#sedcontra_people_constitution",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The sed contra defines law as a people’s constitution enacted with the people."
+        }
+      ],
+      "name": "sedcontra_people_constitution",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:410d236b4833246f9dc1dc47eb1efb49144f15344d72353f72279d80fd22db43",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad1_participation",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A person can be a law to himself participatively by sharing in a regulator’s order."
+        }
+      ],
+      "name": "source_ad1_participation",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:c912638cfa4cb22ca13360882e3d9578e5769c20263250d1dfdf2c93bb0ab380",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad2_private_admonition",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A private person can advise, but rejected advice lacks coercive force."
+        }
+      ],
+      "name": "source_ad2_private_admonition",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:cf72360bdb0672a556310ac8845caa56cd975d7db2a8cadddbc0f31ddb4e09e1",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad2_public_penalty",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The multitude or public caretaker has coercive power to impose penalties."
+        }
+      ],
+      "name": "source_ad2_public_penalty",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:7aa37f8a3836de1d07e864e9ad7ba29fd287ec1db005876cba08463d8508fa53",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad2_virtue_goal",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "The legislator aims to lead people toward virtue."
+        }
+      ],
+      "name": "source_ad2_virtue_goal",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:ab73e9018e21fbc72cf37185697035ea6810e610b2c47ac7bda708a6d7624325",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad3_household_part_city",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A household is part of the city, the complete community."
+        }
+      ],
+      "name": "source_ad3_household_part_city",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:8b059377a38fcca1d95b9ce799039b067a204028d099dd2f5a81cb1aaf530cef",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_ad3_household_statutes",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "A household governor can set precepts, but they do not thereby have proper law character."
+        }
+      ],
+      "name": "source_ad3_household_statutes",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:84c913d9ff847e4eded94e38302bd4793717e2c453f6352890fff178d0761c93",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_co_caretaker",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Ordering the multitude to common good belongs to it or its public caretaker."
+        }
+      ],
+      "name": "source_co_caretaker",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:cfef321823482f2be43bf430934602e48785ff1bf02cc834d2865e349e2bd38a",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_co_common_good_scope",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Law properly regards order to common good."
+        }
+      ],
+      "name": "source_co_common_good_scope",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:8f901b1a28a5621d581970324a4dcb992d09395c6e46ca6ac11e3dc1a7964d2b",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#source_co_end_authority",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Ordering to an end belongs to the one whose proper end it is."
+        }
+      ],
+      "name": "source_co_end_authority",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:0d78c44b8f4f0e09dad22eb26f071ac021e3a54935fe9838120d54b4fe2dbf2e",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#whole_multitude_common_good_route",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Common-good ordering route held by the whole multitude."
+        }
+      ],
+      "name": "whole_multitude_common_good_route",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "normative_fact",
+      "symbolKind": "relation",
+      "visibility": "public"
+    },
+    {
+      "contentHash": "sha256:ddcbfd8d9483efa8d844bfe0816d211945fafb373bd08fb9a077d6f51bfcdfbe",
+      "id": "urn:la:aquinas:reconstruction:i-ii-q90-a3#whole_multitude_orders_good",
+      "kind": "symbol_decl",
+      "labels": [
+        {
+          "language": "en",
+          "status": "official",
+          "text": "Explicit case input: whole multitude orders good."
+        }
+      ],
+      "name": "whole_multitude_orders_good",
+      "package": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+      "parameters": [],
+      "relationKind": "empirical",
+      "symbolKind": "relation",
+      "visibility": "public"
+    }
+  ],
+  "package": {
+    "name": "la.aquinas.reconstruct.i_ii_q90_a3",
+    "namespace": "urn:la:aquinas:reconstruction:i-ii-q90-a3",
+    "semanticHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "version": "0.1.0"
+  },
+  "schemaVersion": "law.core.ir/0.7",
+  "semanticHash": "sha256:0c4de0a1da3af52c116d00b3610e150a66363d61cb6a04f718da3b6f57a62e9b",
+  "semanticVersion": "0.2.11",
+  "strata": [],
+  "theoryHash": "sha256:9da4a9527e84ac16f4216fbe0b6997599ee21fd899c2a6acbd6b9cd2e4fdd991"
+}

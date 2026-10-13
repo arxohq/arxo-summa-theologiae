@@ -1,0 +1,3913 @@
+{
+  "schemaVersion": "law.core.evaluation-request/0.2",
+  "semanticVersion": "0.2.11",
+  "ir": {
+    "artifactHash": "sha256:4eeeb6c66d5101686b9da60e943de372e2d90e5a01a6c34c6e0c5ab88af1b9cc",
+    "features": [
+      "core-executable"
+    ],
+    "imports": [],
+    "metadata": {},
+    "nodes": [
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_4"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensive_act_from_which_homicide_follows"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#necessity_to_preserve_life"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:db81962c849c6de1c645d0ca840ae8f7e34001262c9f4ce6f5aa597d43c02636",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_effect_can_follow_from_necessity"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Ad4DefensiveNecessityComparison",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Keep the defensive-act necessity comparison as a separate typed intermediate finding"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_4"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#necessity_to_preserve_life"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#fornication_or_adultery_act"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:b2d09488cb7848185880eca998096c809f52aed19a05f2b84b0e3f17d492bf8d",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#fornication_or_adultery_not_necessary_for_life"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Ad4FornicationComparison",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The source's ad 4 comparison depends on the identified act and an explicit non-necessity premise"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_5"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vindictive_retaliation"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:446664c4667b52efc90b1c9c018d06708927e294958ab997745ea6ca52112267",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_with_vindictive_retaliation"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Ad5VindictiveScope",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The ad 5 reply scopes its cited prohibition to vindictive retaliation"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_1"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:f99010f5f42156882319ca47473041bea6f9f6c3495d2f967c1ad2a494797063",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#AugustineReplyDefeatsBroadReading",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Ad 1 defeats the broad reading only when death is explicitly not intended and preservation is intended"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_1"
+        ],
+        "body": {
+          "formula": {
+            "args": [
+              {
+                "kind": "var",
+                "var": "v0"
+              },
+              {
+                "kind": "var",
+                "var": "v1"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death_intended_as_means_of_self_preservation"
+          },
+          "kind": "status",
+          "status": "established"
+        },
+        "contentHash": "sha256:843f737b29ba182a8962509d5a2feb06a8cf223ec3e660fa12f2b6a99c3cd37d",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_intended_killing_scope"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#AugustineScopeFromObjectionAnchor",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The objection's Augustine citation is in scope only when death is intended to escape death"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_1"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:0799d6756ee3514efbaa5058d8f225eb7a8f5b9f031db7434d9a8a5bad7676d1",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#BroadAugustineObjectionReading",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The broad objection reads a defensive death as intended to avoid the defender's death"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "defeasible",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_3"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide_act_occurs"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#clerical_status"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:2f95b554f6ddf94572ea99d629e41d903017a604848bf9735797c10fef2e9118",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#irregularity_attaches"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#ClericalIrregularityClassification",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The irregularity branch tracks clerical status and homicide occurrence, not culpability"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:3ab35525d53089fa7979094d6ba9f527cc688f0ac4c6770e33dec06977276d72",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct",
+        "kind": "type_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "a particular act described as self-defense"
+          }
+        ],
+        "name": "DefensiveAct",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "typeKind": "entity",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:9fc8e01527c826afb682ff6ec608194158720e5d8524ada6b773c8ce7aed96df",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Effect",
+        "kind": "type_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "an effect associated with a particular act"
+          }
+        ],
+        "name": "Effect",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "typeKind": "entity",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:1f7f5d50cf561d639bf5a0f78246afac8f3f19a4c6f2585f93b72ec60193d159",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_illicita"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#ExcessiveDefenseChain",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Conditional respondeo chain: disproportionate force vitiates an otherwise good intended end"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:75d41e2657eac007d669102edb1af8c2886f878c956f54bf267ef241a479a04d",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#excessive_defense_conditions"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#ExcessiveDefenseClassification",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "An excessive-force intermediate requires an explicit negative external judgment"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:4c1992076f0fcfc2adecd5f7560b9261be959dfeba9a1e0ac2875b4e1dc78a18",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#killing_is_incidental"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IncidentalKillingClassification",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Classify an occurring death as incidental when explicitly not intended and preservation is intended"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "formula": {
+            "args": [
+              {
+                "kind": "var",
+                "var": "v0"
+              },
+              {
+                "kind": "var",
+                "var": "v1"
+              },
+              {
+                "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life",
+                "kind": "entity_ref"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+          },
+          "kind": "status",
+          "status": "established"
+        },
+        "contentHash": "sha256:403f6db0b4096ac341e7a63cd1b9790b25742fd940909ba4624d3b1d19e63ec8",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IntendedEndClassification",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "The intended preservation effect classifies the represented end"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:fe2907fa5ee08769e0051641c272a717ab9ab1b514f3da620b139d3c88987410",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#occisio_intenta_illicita"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IntendedPrivateKillingChain/alt/1",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Conditional respondeo chain: intended killing requires public authority for the common good and is illicit under private passion"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#common_good_orientation"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:35be8d8dfb0e16c8ce2cba139a1b6275087e7661d7b317632d9c118db3385c9a",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#occisio_intenta_illicita"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IntendedPrivateKillingChain/alt/2",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Conditional respondeo chain: intended killing requires public authority for the common good and is illicit under private passion"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#private_passion_motive"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:cbf6473d53e2ff727fb25f9b99bee974ac6cf1eff6eeeecc810211c30807133b",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#occisio_intenta_illicita"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IntendedPrivateKillingChain/alt/3",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Conditional respondeo chain: intended killing requires public authority for the common good and is illicit under private passion"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "formula": {
+            "args": [
+              {
+                "kind": "var",
+                "var": "v0"
+              },
+              {
+                "kind": "var",
+                "var": "v1"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death_intended_as_means_of_self_preservation"
+          },
+          "kind": "status",
+          "status": "established"
+        },
+        "contentHash": "sha256:5967b4b5d4a10d79ab56fd3a27b2a988fb44ef4ac339eb38915b3588b28731b1",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            },
+            {
+              "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#MeansEntailsIntent",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Treat an expressly represented death-as-means intention as an intention to cause death"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:99acf3a1174625e877cd32c77043ebc62e69b795c57ddbaacce4d21dc7c25ce5",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#proportionate_defense_conditions"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#ModerateDefenseClassification",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "A moderate-defense intermediate requires an external proportionality judgment"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#killing_is_incidental"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:a8a43fc8e6500263c2feb9458eb94270478d10a16d8205fe6d35653517bcdd0a",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_licita"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#PermissibleDefenseChain",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Conditional respondeo chain: own-life preservation, incidental death, and external moderate-force judgment"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:caeafdf24d13d611cdc010bc08c37b50c399a18e56e9adbc4047da34420dae9d",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person",
+        "kind": "type_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "person in the represented act"
+          }
+        ],
+        "name": "Person",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "typeKind": "entity",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#common_good_orientation"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#private_passion_motive"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  },
+                  {
+                    "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+                    "kind": "entity_ref"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:27f3d8ee0746914f0044feead37a96b06ce4344502947dc61ee324863c974086",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority_common_good_route"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#PublicAuthorityCommonGoodClassification",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Keep public authority and common-good orientation distinct from private passion"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority_common_good_route"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:d998f6d408e18c91602f11a7508601d030641c2906c4d1da894a75b18a37b26e",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            },
+            {
+              "kind": "var",
+              "var": "v1"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_licita"
+        },
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#PublicAuthorityDefensiveKillingChain",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Conditional respondeo chain: intentional defensive killing routed to public authority and common good"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ]
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:514f157f5b06028bcdb2c2ca68d0c3ed52340d9b68ad790a5a017a21c9bce0ab",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_1",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section ad 1; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, ad 1",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:9efcdba78cae19e8c4091b55ac459e95d9d59ec1c50d310337d6ec5c53faf66f",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_2",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section ad 2; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, ad 2",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:a5f54d6ac5e0196063f3c20121ac123f4e7df25aa6750a3852c8b2d8dcdf1bad",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_3",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section ad 3; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, ad 3",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:2bc39d6243c1ab2a1517233d744bc3881284d5377d6a31d493f4f473e994908f",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_4",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section ad 4; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, ad 4",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:4c3a2d893a0d2adfcad12e711b06a9becdb7638cad4bec6f19e20cc6f37b08ad",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_5",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section ad 5; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, ad 5",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:6d839c622d9201dbeb55e4888f9c21b07808f64bb5768a052c05adfe55ee003b",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_1",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section arg. 1; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, arg. 1",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:23b7a8613c3c68810329b5c11175add80bfbb63336cef1abb8101b5742a92217",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_2",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section arg. 2; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, arg. 2",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:179cdf7c4d3f17f5e7f487ce27b28c8f3500642bcda4e8a63ea8fd2d4597f098",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_3",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section arg. 3; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, arg. 3",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:38fc2465e3ae8720e2e25591bbfa0d7f00a76edc96d5ea281a60621f4c3f7a21",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_4",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section arg. 4; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, arg. 4",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:9591a488914653863ede686012e3a93d63afa7844a12528ea4d4646c3e25675a",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_5",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section arg. 5; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, arg. 5",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:2a3d2de5748c1d1dc507fa2fce753d0b3ccc3a5f563ebfd9cc1609d89dd123f3",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section co.; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, co.",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "authority": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "Thomas Aquinas, Summa Theologiae"
+        },
+        "contentHash": "sha256:f473a8105d0142c78d28007419bec4436fda9efca7f1c318b460854133b765f6",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_SED_CONTRA",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "Pinned Latin source section s. c.; see immutable source.txt and source.json"
+          }
+        ],
+        "number": "II-II, q. 64, a. 7, s. c.",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "sourceKind": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#doctrine"
+      },
+      {
+        "contentHash": "sha256:404176ec099b27e361436c5f30ea8def59c659841b80f24c3f434be86dfb6c53",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_intended_killing_scope",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the Augustine objection's cited scope applies to this act because killing is intended to avoid the actor's own death"
+          }
+        ],
+        "name": "augustine_intended_killing_scope",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_intended_killing_scope/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_intended_killing_scope/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:1fc65ab17a55756f09fb7eca38df4d52dba7918882114b5a9ff58d4881fff7a8",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the arg. 1 objection's broad reading applies to this defensive act"
+          }
+        ],
+        "name": "augustine_objection_applies",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:4906bed53a312bbf5ae53024e9d86de1466045e8009e6d47d1d7278f1c6b62dc",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#clerical_status",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the actor is a cleric"
+          }
+        ],
+        "name": "clerical_status",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#clerical_status/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:a3690e0a5674c65305305434beeccb4288b6286fe2fcb07be5ad1d594aa12e5a",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#common_good_orientation",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the actor refers the intended killing to the common good"
+          }
+        ],
+        "name": "common_good_orientation",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#common_good_orientation/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#common_good_orientation/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:d64fa42d75735dda4631acae60c51b44c6a4d62dfbb8b8d65d14f61f55618586",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death_intended_as_means_of_self_preservation",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the actor intends the attacker's death as a means of freeing himself from his own death"
+          }
+        ],
+        "name": "death_intended_as_means_of_self_preservation",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death_intended_as_means_of_self_preservation/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death_intended_as_means_of_self_preservation/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:8563fd538112a94b30d69afb410f7ea034318530c1bf25e2e5ab1cdad81d8a8f",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_effect_can_follow_from_necessity",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the ad 4 comparison separately records that homicide can sometimes follow from a necessary defensive act"
+          }
+        ],
+        "name": "defense_effect_can_follow_from_necessity",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_effect_can_follow_from_necessity/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_effect_can_follow_from_necessity/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:7846ba7a297070b68b3b5caee89c9ba70ff2c372bf85e7c4c9dde000ccc0c056",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the represented act is classified by its intended end: preserving the actor's own life"
+          }
+        ],
+        "name": "defense_intentional_end",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:ebe9cd941045316b011c2c98f05db976ea3a74875d0a8773c8af92c074e015e7",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_with_vindictive_retaliation",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the represented defense falls within the reply's vindictive-retaliation scope"
+          }
+        ],
+        "name": "defense_with_vindictive_retaliation",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_with_vindictive_retaliation/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_with_vindictive_retaliation/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:4931ec2c9a3f661b7053aca6dea95179ada8d76d304d59b98ffbd9962b290e25",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_illicita",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "conditional conclusion: defensive act classified as excessive by the adjudicator"
+          }
+        ],
+        "name": "defensio_illicita",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_illicita/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_illicita/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:9505c3864f8bd82bf03a595c5b432bd1c3cbf8227c5ac00699267e832c235978",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_licita",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "conditional conclusion: proportionate defense with preservation intended and death not intended"
+          }
+        ],
+        "name": "defensio_licita",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_licita/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_licita/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:b754bda6564dce583f19a23b7e2f9940dfbefec282538a1615c800cacdc1a667",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensive_act_from_which_homicide_follows",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the represented defensive act is one from which homicide sometimes follows"
+          }
+        ],
+        "name": "defensive_act_from_which_homicide_follows",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensive_act_from_which_homicide_follows/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensive_act_from_which_homicide_follows/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:4c628b23f03dc966f43487b03e66461364269263e392b5f21a07ccb659a9e2d3",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "this effect occurs from the particular act"
+          }
+        ],
+        "name": "effect_occurs",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs/arg/e",
+            "name": "e",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Effect"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:11099f5b2ab8ebefb7c73fc3c33aac2924c085ce18cb98796e2c86a9e96e17d2",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#excessive_defense_conditions",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "external adjudication classifies the force as excessive for the stated end"
+          }
+        ],
+        "name": "excessive_defense_conditions",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#excessive_defense_conditions/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#excessive_defense_conditions/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:c85de175b99bcc0f4cc0f8de5d1a42bc04a70aa3a1d1503f914304e14b3e62e5",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#fornication_or_adultery_act",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the compared act is identified as fornication or adultery"
+          }
+        ],
+        "name": "fornication_or_adultery_act",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#fornication_or_adultery_act/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#fornication_or_adultery_act/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:89bb87fa84f93a84d3c34fbda82c28c9e5f7b002280dc06f9832b00824c0c110",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#fornication_or_adultery_not_necessary_for_life",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the ad 4 comparison treats fornication or adultery as not necessary to preserving bodily life"
+          }
+        ],
+        "name": "fornication_or_adultery_not_necessary_for_life",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#fornication_or_adultery_not_necessary_for_life/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#fornication_or_adultery_not_necessary_for_life/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:b667e2c7ad15f13273b4e3cdf41a73c5652269986aaed6220141a55ea3fe9231",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide_act_occurs",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the act results in a human death classified here as homicide for the source's irregularity discussion"
+          }
+        ],
+        "name": "homicide_act_occurs",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide_act_occurs/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#homicide_act_occurs/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:6f01355bc046ebe388a1fab124fc0f2cede159f82fd79215d664ffeed489f612",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the actor intends this effect of the particular act"
+          }
+        ],
+        "name": "intended_effect",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect/arg/e",
+            "name": "e",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Effect"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:670cb974ec06f8ba4c394e47e3596d92acb52163567cd47b8b0032994d3d5523",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#irregularity_attaches",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the source's clerical irregularity consequence attaches to the homicide act"
+          }
+        ],
+        "name": "irregularity_attaches",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#irregularity_attaches/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#irregularity_attaches/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:6b63745db9646a06426a9c65ac411c0c2cfda5da776e18e13c95c4c5f4ae2b10",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#killing_is_incidental",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the actor intends preservation of own life while the attacker's death occurs without being intended"
+          }
+        ],
+        "name": "killing_is_incidental",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#killing_is_incidental/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#killing_is_incidental/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:08d24a148ac7b4ceae1232b6d0d2a2f0b74a77147cd0d0dd7a3e13f2f2615922",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#moral_culpability",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "an external case finding establishes moral culpability"
+          }
+        ],
+        "name": "moral_culpability",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#moral_culpability/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#moral_culpability/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:a1be586de52640a940b207925466d8b67a9acdd33e066db7777eeb9a743a0c36",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#necessity_to_preserve_life",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the case fact or adjudication establishes that this act is necessary to preserving the actor's life"
+          }
+        ],
+        "name": "necessity_to_preserve_life",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#necessity_to_preserve_life/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#necessity_to_preserve_life/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:9cc2a56d5da9afb075c7e95cdcd1628e3436d09783207219da5a11fbdfaa2733",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#occisio_intenta_illicita",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "conditional conclusion: intended killing without the public-authority/common-good route, or with private passion"
+          }
+        ],
+        "name": "occisio_intenta_illicita",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#occisio_intenta_illicita/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#occisio_intenta_illicita/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:defea956402a081e12a9a76d9a78430b92787b088e340cfd9c659a2cf816f90f",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#private_passion_motive",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the actor is moved by private passion in the represented act"
+          }
+        ],
+        "name": "private_passion_motive",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#private_passion_motive/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#private_passion_motive/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:605b78fd45736592567f334825c22b958b3c191ce1cc83d7576445287949870c",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#proportionate_defense_conditions",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "preservation is intended and external proportionality judgment supports a moderate-defense classification"
+          }
+        ],
+        "name": "proportionate_defense_conditions",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#proportionate_defense_conditions/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#proportionate_defense_conditions/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:189bb787128e14bb303c7aed70aa713036b885ae56dd963f38820bfffc80d4ea",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the actor has public authority relevant to the represented act"
+          }
+        ],
+        "name": "public_authority",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:4b7279bb90b763fa84032c8a92b4ca924a4b57cb9e329a869ce3a24d4241e70b",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority_common_good_route",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "intended killing is accompanied by public authority and common-good orientation, without private passion"
+          }
+        ],
+        "name": "public_authority_common_good_route",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority_common_good_route/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#public_authority_common_good_route/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:e5513e9ae20155e989b1d688200f22d280089e29d59d29ae79d6ae393580f0dd",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the represented act is performed as self-defense"
+          }
+        ],
+        "name": "self_defense_act",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_1"
+        ],
+        "contentHash": "sha256:be5a802c08bd6d597698678f1c0c7b4ec3c7c2f58358e619b8d49a031335e1c5",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad1_augustine_scope",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source reply: Augustine's authority is to be understood in the case where one intends to kill in order to free oneself from death"
+          }
+        ],
+        "name": "source_ad1_augustine_scope",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad1_augustine_scope/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_2"
+        ],
+        "contentHash": "sha256:c0a9e494a6db3db616d958ac52f9c0543fac38b6be6e8f38cc41c5f5b43bf8ae",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad2_intention",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source reply: the phrase 'for these things' designates intention and carries the same scope as ad 1"
+          }
+        ],
+        "name": "source_ad2_intention",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad2_intention/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_3"
+        ],
+        "contentHash": "sha256:6a97cefa6562ee0c0b580a22279d4d2cc84cb5c9ae3cc837cef9f8bf6247b698",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad3_irregularity",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source reply: irregularity follows a homicide act even without sin or intended killing"
+          }
+        ],
+        "name": "source_ad3_irregularity",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad3_irregularity/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_4"
+        ],
+        "contentHash": "sha256:9bf1bdee5c752b1666bb4a91dc15886664dc9d4af416cd84ac08a4626739f0f2",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad4_necessity_comparison",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source reply: fornication or adultery is not ordered by necessity to preserving one's life, unlike an act from which homicide sometimes follows"
+          }
+        ],
+        "name": "source_ad4_necessity_comparison",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad4_necessity_comparison/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_AD_5"
+        ],
+        "contentHash": "sha256:0385501e25fac5e395b466b24b281a958205a6cf0cebf402015458091b1c3202",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad5_revenge_scope",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source reply: the prohibition concerns defense with vindictive resentment, namely returning harm to adversaries"
+          }
+        ],
+        "name": "source_ad5_revenge_scope",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_ad5_revenge_scope/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_1"
+        ],
+        "contentHash": "sha256:7da7017f82973ab0dd2d0e5b06cb8199808756732139c150b463d3e13a75712c",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg1_augustine_counsel",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: Augustine's cited counsel concerns killing a person lest the killer himself be killed, with the stated public-role qualification"
+          }
+        ],
+        "name": "source_arg1_augustine_counsel",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg1_augustine_counsel/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg1_augustine_counsel/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_2"
+        ],
+        "contentHash": "sha256:cbe6bb8597d3b836ccf5cbf3661e97364708959ebcf0257ef88a68c02b140907",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg2_contemptible_loss",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: the second objection treats bodily life as a loss that can be suffered unwillingly and therefore as contemptible for this argument"
+          }
+        ],
+        "name": "source_arg2_contemptible_loss",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg2_contemptible_loss/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg2_contemptible_loss/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_3"
+        ],
+        "contentHash": "sha256:78723d0c198d3c597053e798777565fc388d6998bf59cb4d539cf7c8af14c5f3",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg3_clerical_warning",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: the third objection cites the clerical irregularity warning as denying license to kill"
+          }
+        ],
+        "name": "source_arg3_clerical_warning",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg3_clerical_warning/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg3_clerical_warning/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_4"
+        ],
+        "contentHash": "sha256:86b2f1c87e099f4369b890dd47bdc685ba7f9944abd2bfda3ee0102a177a1216",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg4_spiritual_life_priority",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: the fourth objection ranks spiritual life above bodily life and compares homicide with mortal sin"
+          }
+        ],
+        "name": "source_arg4_spiritual_life_priority",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg4_spiritual_life_priority/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_ARG_5"
+        ],
+        "contentHash": "sha256:3db248525364d5e5a601f801a653345c45717adf3731e861b60c4a7dee370582",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg5_tree_and_fruit",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: the fifth objection infers an illicit effect from a supposedly illicit self-defense"
+          }
+        ],
+        "name": "source_arg5_tree_and_fruit",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_arg5_tree_and_fruit/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "contentHash": "sha256:dc44eaa2a820e346b0f9fd884734a4c0efbc0e16c1cdbda57d78249105bf483b",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_intention_species",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: the respondeo says moral acts receive their species from what is intended, not an incidental effect"
+          }
+        ],
+        "name": "source_co_intention_species",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_intention_species/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "contentHash": "sha256:75595395c6b337ce6348ce2d7eb22f865b58e51bf4245d421cd32f4f7cdcdcc4",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_proportion",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: a good intention can be vitiated when the act is not proportionate to its end"
+          }
+        ],
+        "name": "source_co_proportion",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_proportion/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "contentHash": "sha256:9f5d05cf331f3905ec62c40bc12a47542a070347f8d628a78fb901497d7fd5cd",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_public_authority",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: the respondeo reserves intended killing to public authority for the common good"
+          }
+        ],
+        "name": "source_co_public_authority",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_public_authority/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "contentHash": "sha256:85786eb0f786c69257414da0eaa9ed088b8a8d0dd27d13a4339422dc522d9bca",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_self_life_priority",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: the respondeo says moderate defense need not be omitted merely to avoid the assailant's death, because one is more bound to provide for one's own life"
+          }
+        ],
+        "name": "source_co_self_life_priority",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_self_life_priority/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_CO"
+        ],
+        "contentHash": "sha256:6bc3d6e79a03866ce62e454de32dbb0fb70703830afec16e56fa71b1c0f19fd1",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_two_effects",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: one act may have two effects, one intended and one beyond intention"
+          }
+        ],
+        "name": "source_co_two_effects",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_co_two_effects/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:reconstruction:ii-ii-q64-a7#SUMMA_Q64_A7_SED_CONTRA"
+        ],
+        "contentHash": "sha256:f6549918444e2f4c0b206abacdf3c566bf7a87cbc834d0ae9a98ce6d8b90dff7",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_sc_householder_comparison",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "source premise: the sed contra compares defense of life with defense of a house against a burglar"
+          }
+        ],
+        "name": "source_sc_householder_comparison",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#source_sc_householder_comparison/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "normative_fact",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:9283975994a0882b9021beeb3928967bc1e676a253a293098bdaa815f74bd87b",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vindictive_retaliation",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "the defense is motivated by vindictive retaliation against an adversary"
+          }
+        ],
+        "name": "vindictive_retaliation",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vindictive_retaliation/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Person"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vindictive_retaliation/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:7f67d6c04923889ebc750752875cc2121238655ebc9da17845d68bf8b5afbb75",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "an adjudicator determines that defensive force is moderate in relation to its end"
+          }
+        ],
+        "name": "vis_moderata",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#DefensiveAct"
+            }
+          }
+        ],
+        "relationKind": "judgment",
+        "symbolKind": "relation"
+      },
+      {
+        "authority": {
+          "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Court",
+          "kind": "const_ref"
+        },
+        "capability": "judgment:Court",
+        "contentHash": "sha256:84816693573b7303a9e8f6976e4a84afb0c0894a571ede187ffa857d508e198c",
+        "effect": "judgment",
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata/external",
+        "kind": "external_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "official",
+            "text": "an adjudicator determines that defensive force is moderate in relation to its end"
+          }
+        ],
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+        "symbol": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata"
+      }
+    ],
+    "package": {
+      "name": "la.aquinas.reconstruct.ii_ii_q64_a7",
+      "namespace": "urn:la:aquinas:reconstruction:ii-ii-q64-a7",
+      "semanticHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+      "version": "0.1.0"
+    },
+    "schemaVersion": "law.core.ir/0.7",
+    "semanticHash": "sha256:2fbf76a569ae3dcb12049f4c8c26c40b1a2ae4a198ba84d893a80a49da454861",
+    "semanticVersion": "0.2.11",
+    "strata": [],
+    "theoryHash": "sha256:b69ff4342e8669ebbc29b025555ffc920f5ddd1e069747c497e403b73ed46237"
+  },
+  "case": {
+    "assertions": [
+      {
+        "contentHash": "sha256:02f6e407d7c76931fce01bdafdee0ee92fe82e5013500db006e3557984e55846",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+      },
+      {
+        "contentHash": "sha256:f5b968ecbe235261a62014123198051f080c1926e5d10997a520d3d33ad39262",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-occurs",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#effect_occurs"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+      },
+      {
+        "contentHash": "sha256:627edd6582a9ad493cb08a077abf3414c8dd0b942d55b9e269e402b92a17f09c",
+        "evidence": [],
+        "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-intended-as-means",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death_intended_as_means_of_self_preservation"
+        },
+        "origin": "case_input",
+        "package": "urn:la:aquinas:reconstruction:ii-ii-q64-a7"
+      }
+    ],
+    "context": {
+      "decisionTime": "2026-10-13T12:00:00Z",
+      "knowledgeTime": "2026-10-13T12:00:00Z",
+      "legalTime": "2026-10-13",
+      "timezone": "UTC"
+    },
+    "options": {}
+  },
+  "query": {
+    "kind": "argumentation",
+    "literal": {
+      "args": [
+        {
+          "id": "urn:case:q64a7:p1",
+          "kind": "entity_ref"
+        },
+        {
+          "id": "urn:case:q64a7:act1",
+          "kind": "entity_ref"
+        }
+      ],
+      "kind": "literal",
+      "polarity": "positive",
+      "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+    },
+    "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/arg1%2Fad1%3A%20broad%20objection%20is%20supported%20when%20death%20is%20intended%20as%20a%20means/query/0"
+  }
+}

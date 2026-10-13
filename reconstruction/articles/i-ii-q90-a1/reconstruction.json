@@ -1,0 +1,458 @@
+{
+  "format": "arxo.summa-argument-reconstruction/0.1",
+  "articleId": "i-ii-q90-a1",
+  "modelSpec": "la.aquinas.reconstruct.i_ii_q90_a1@0.1.0",
+  "sourceSections": [
+    {
+      "section": "arg. 1",
+      "obligations": [
+        "arg1-members-objection"
+      ]
+    },
+    {
+      "section": "arg. 2",
+      "obligations": [
+        "arg2-power-habit-act"
+      ]
+    },
+    {
+      "section": "arg. 3",
+      "obligations": [
+        "arg3-will-moves"
+      ]
+    },
+    {
+      "section": "s. c.",
+      "obligations": [
+        "sedcontra-command"
+      ]
+    },
+    {
+      "section": "co.",
+      "obligations": [
+        "reason-as-measure",
+        "practical-proposition",
+        "law-reason-measure-bridge"
+      ]
+    },
+    {
+      "section": "ad 1",
+      "obligations": [
+        "essential-participative"
+      ]
+    },
+    {
+      "section": "ad 2",
+      "obligations": [
+        "habitual-persistence"
+      ]
+    },
+    {
+      "section": "ad 3",
+      "obligations": [
+        "will-reason-order"
+      ]
+    }
+  ],
+  "premises": [
+    {
+      "id": "p-source_co_rule_measure",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Law is a rule and measure of acts.",
+      "formalSymbols": [
+        "source_co_rule_measure"
+      ]
+    },
+    {
+      "id": "p-source_co_reason_orders_end",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Practical reason orders acts to an end, first among practical principles.",
+      "formalSymbols": [
+        "source_co_reason_orders_end"
+      ]
+    },
+    {
+      "id": "p-source_co_principle_measures_genus",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "A principle is a measure and rule within its genus.",
+      "formalSymbols": [
+        "source_co_principle_measures_genus"
+      ]
+    },
+    {
+      "id": "p-source_co_practical_universal_propositions",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "Universal practical propositions ordered to action have law character.",
+      "formalSymbols": [
+        "source_co_practical_universal_propositions"
+      ]
+    },
+    {
+      "id": "p-source_ad1_two_modes",
+      "kind": "source_principle",
+      "sections": [
+        "ad 1"
+      ],
+      "statement": "Law is in the regulator essentially and in regulated subjects participatively.",
+      "formalSymbols": [
+        "source_ad1_two_modes"
+      ]
+    },
+    {
+      "id": "p-source_ad2_operation_product",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "Rational operation is distinguished from its constituted product.",
+      "formalSymbols": [
+        "source_ad2_operation_product"
+      ]
+    },
+    {
+      "id": "p-source_ad2_habitual_retention",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "Practical universal propositions can be retained habitually.",
+      "formalSymbols": [
+        "source_ad2_habitual_retention"
+      ]
+    },
+    {
+      "id": "p-source_ad3_reason_moved_by_will",
+      "kind": "source_principle",
+      "sections": [
+        "ad 3"
+      ],
+      "statement": "Will directed to an end moves practical reason.",
+      "formalSymbols": [
+        "source_ad3_reason_moved_by_will"
+      ]
+    },
+    {
+      "id": "p-source_ad3_will_reason_regulated",
+      "kind": "source_principle",
+      "sections": [
+        "ad 3"
+      ],
+      "statement": "A ruler’s will has law character only insofar as reason regulates it.",
+      "formalSymbols": [
+        "source_ad3_will_reason_regulated"
+      ]
+    },
+    {
+      "id": "p-arg1-members-objection",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 1"
+      ],
+      "statement": "The objection infers that law is not reason because law is named as being in bodily members.",
+      "formalSymbols": [
+        "arg1_members_objection"
+      ]
+    },
+    {
+      "id": "p-arg2-power-habit-act",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 2"
+      ],
+      "statement": "The objection argues law is no power, habit, or act, and would cease during sleep.",
+      "formalSymbols": [
+        "arg2_power_habit_act"
+      ]
+    },
+    {
+      "id": "p-arg3-will-moves",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 3"
+      ],
+      "statement": "The objection locates motion in will and cites the ruler’s pleasure.",
+      "formalSymbols": [
+        "arg3_will_moves"
+      ]
+    },
+    {
+      "id": "p-sedcontra-command",
+      "kind": "source_principle",
+      "sections": [
+        "s. c."
+      ],
+      "statement": "The sed contra identifies commanding and forbidding with reason.",
+      "formalSymbols": [
+        "sedcontra_command"
+      ]
+    },
+    {
+      "id": "p-law-reason-measure-bridge",
+      "kind": "reconstructed_bridge",
+      "sections": [
+        "co."
+      ],
+      "statement": "The source says law is a rule and measure and reason orders acts as a first principle; the inference that this makes law pertain to reason uses an explicit constitutive bridge from reason’s measuring role to the law’s rule-measure role. This bridge is assumed, not independently established.",
+      "formalSymbols": [
+        "bridge_reason_as_principle_measures_human_acts"
+      ]
+    }
+  ],
+  "obligations": [
+    {
+      "id": "reason-as-measure",
+      "statement": "Chain from end-directed reason through first principle to reason as measure and law as measure.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_co_reason_orders_end",
+        "source_co_principle_measures_genus",
+        "source_co_rule_measure"
+      ],
+      "tests": [
+        "01-reason-measure.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "Finite source-principle chain is implemented and tested. Its transition from general end ordering to law-as-reason remains conditional on the separately declared constitutive bridge.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "practical-proposition",
+      "statement": "Universal practical proposition ordered to action receives law character as a product of practical reason.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_co_practical_universal_propositions",
+        "law_as_practical_reason_measure"
+      ],
+      "tests": [
+        "02-habit-and-participation.lawtest"
+      ],
+      "dependsOn": [
+        "reason-as-measure"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "Finite source-anchored chain is implemented; explicit philosophical premises and case inputs remain assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "habitual-persistence",
+      "statement": "Separate the rational operation from its proposition product; habitual retention explains persistence without occurrent thought.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_ad2_operation_product",
+        "source_ad2_habitual_retention"
+      ],
+      "tests": [
+        "02-habit-and-participation.lawtest"
+      ],
+      "dependsOn": [
+        "practical-proposition"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "Finite source-anchored chain is implemented; explicit philosophical premises and case inputs remain assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "essential-participative",
+      "statement": "Separate law in the regulator from derivative participation in a regulated subject.",
+      "sections": [
+        "ad 1"
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_ad1_two_modes"
+      ],
+      "tests": [
+        "02-habit-and-participation.lawtest"
+      ],
+      "dependsOn": [
+        "reason-as-measure"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "Finite source-anchored chain is implemented; explicit philosophical premises and case inputs remain assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "will-reason-order",
+      "statement": "Represent will as motivating reason while law-character requires reason-regulation.",
+      "sections": [
+        "ad 3"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "source_ad3_reason_moved_by_will",
+        "source_ad3_will_reason_regulated"
+      ],
+      "tests": [
+        "03-will-regulation.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "Finite source-anchored chain is implemented; explicit philosophical premises and case inputs remain assumptions. Runtime execution and source review are pending.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "arg1-members-objection",
+      "statement": "The objection infers that law is not reason because law is named as being in bodily members.",
+      "sections": [
+        "arg. 1"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg1_members_objection"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg2-power-habit-act",
+      "statement": "The objection argues law is no power, habit, or act, and would cease during sleep.",
+      "sections": [
+        "arg. 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg2_power_habit_act"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg3-will-moves",
+      "statement": "The objection locates motion in will and cites the ruler’s pleasure.",
+      "sections": [
+        "arg. 3"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "arg3_will_moves"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "sedcontra-command",
+      "statement": "The sed contra identifies commanding and forbidding with reason.",
+      "sections": [
+        "s. c."
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "The source-only objection or sed contra is accurately inventoried from immutable source.txt; no runtime rule is claimed to prove it.",
+      "formalSymbols": [
+        "sedcontra_command"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "law-reason-measure-bridge",
+      "statement": "Connect law as a rule and measure of acts to law pertaining to reason only through the explicit constitutive bridge premise.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "source_co_rule_measure",
+        "reason_as_rule_measure",
+        "bridge_reason_as_principle_measures_human_acts",
+        "law_as_practical_reason_measure"
+      ],
+      "tests": [
+        "01-reason-measure.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The bridge is an explicit reconstructed assumption. Positive and removal fixtures show the runtime’s dependence on it; neither fixture independently proves it.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    }
+  ],
+  "replyTargets": [
+    {
+      "reply": "ad 1",
+      "objection": "arg. 1",
+      "target": "members described as “law”",
+      "mechanism": "Distinguish law essentially in the rational regulator from an inclination in bodily members that participates in a regulating order.",
+      "obligations": [
+        "essential-participative"
+      ]
+    },
+    {
+      "reply": "ad 2",
+      "objection": "arg. 2",
+      "target": "absence of an occurrent act during sleep",
+      "mechanism": "Separate the rational act from the proposition constituted by it; habitual retention lets the proposition persist while no act is occurring.",
+      "obligations": [
+        "habitual-persistence"
+      ]
+    },
+    {
+      "reply": "ad 3",
+      "objection": "arg. 3",
+      "target": "the will’s motivating role and ruler’s pleasure",
+      "mechanism": "Will moves practical reason, but a ruler’s will has law character only when reason regulates it.",
+      "obligations": [
+        "will-reason-order"
+      ]
+    }
+  ],
+  "protectedConclusions": [
+    "reason_as_rule_measure",
+    "law_as_practical_reason_measure",
+    "universal_practical_proposition",
+    "law_retained_habitually",
+    "law_in_regulator_essentially",
+    "inclination_law_participatively",
+    "will_motivates_reason",
+    "will_command_reason_regulated",
+    "will_has_law_character"
+  ],
+  "limitations": [
+    "Source-attested philosophical principles are declared assumptions rather than independently established truths.",
+    "Case inputs and intermediate rules are local to this article and are not imported from earlier argument graphs.",
+    "Unknown inputs remain unknown; no absence of an assertion is treated as a negative fact.",
+    "Positive and premise-removal fixtures are present for each implemented branch.",
+    "Obligations remain NOT_VERIFIED or CONDITIONAL pending runtime execution and source review.",
+    "fullArticleVerified remains false; this finite reconstruction does not establish universal claims.",
+    "The inference from reason as a measure to law pertaining to reason is conditional on an explicit reconstructed constitutive bridge, tested by premise removal.",
+    "An article-local argumentation query is present without engineered priorities. The selected CLI test summary exposes the argumentation class but does not retain skippedRules; no skippedRules-zero claim is made until a canonical argumentation document is inspected.",
+    "The @source annotation names the source article, but these test summaries do not emit native proof source-anchor evidence; no such proof evidence is claimed."
+  ],
+  "fullArticleVerified": false,
+  "review": {
+    "sourceReview": "coordinator plus independent Luna read-only review",
+    "runtimeEvidence": "Article-local published CLI check/lower/test and native repeated evaluation documents; final aggregate report is generated outside Git.",
+    "engineCertificate": "not_run",
+    "nativeProofSourceAnchors": "No native source-anchor certificate is claimed; model annotations and pinned section mapping provide project-level provenance.",
+    "fullArticleVerified": false
+  }
+}

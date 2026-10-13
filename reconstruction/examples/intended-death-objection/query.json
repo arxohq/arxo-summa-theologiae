@@ -1,0 +1,19 @@
+{
+  "kind": "argumentation",
+  "literal": {
+    "args": [
+      {
+        "id": "urn:case:q64a7:p1",
+        "kind": "entity_ref"
+      },
+      {
+        "id": "urn:case:q64a7:act1",
+        "kind": "entity_ref"
+      }
+    ],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+  },
+  "queryId": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/arg1%2Fad1%3A%20broad%20objection%20is%20supported%20when%20death%20is%20intended%20as%20a%20means/query/0"
+}

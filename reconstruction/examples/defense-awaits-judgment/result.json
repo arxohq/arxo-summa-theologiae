@@ -1,0 +1,278 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:4eeeb6c66d5101686b9da60e943de372e2d90e5a01a6c34c6e0c5ab88af1b9cc",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:4186646a87be728ce9e075acdbd5b5a24b203fe4b1011da2ca636641f59a845f",
+    "decisionTime": "2026-10-13T12:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "2026-10-13T12:00:00Z",
+    "legalTime": "2026-10-13",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:b69ff4342e8669ebbc29b025555ffc920f5ddd1e069747c497e403b73ed46237",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:50ef0009f7e0e6829d1ba205523c386378e15e1618b8eab1aca99e2b074f0df7",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:b69ff4342e8669ebbc29b025555ffc920f5ddd1e069747c497e403b73ed46237",
+    "timezone": "UTC"
+  },
+  "positions": [],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-explicitly-unintended"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-of-attacker",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-explicitly-unintended",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-of-own-life",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#intended_effect"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defense_intentional_end"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:IntendedEndClassification:752c017eac95c5efc8bacc5a5521716fa7508010657b911acfd10530ebf0a313",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#IntendedEndClassification",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          "v1": {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "assertion": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#self_defense_act"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:case:q64a7:p1",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:case:q64a7:act1",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#augustine_objection_applies"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:AugustineReplyDefeatsBroadReading:e4bfc0fb3003d875d9c4419c52cf0a3cb4f4cf0e5b1ed2fa7152fd9c6186b69d",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#death-explicitly-unintended",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#preservation-intended",
+          "urn:proof:assert:urn:la:aquinas:reconstruction:ii-ii-q64-a7#self-defense"
+        ],
+        "rule": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#AugustineReplyDefeatsBroadReading",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:case:q64a7:p1",
+            "kind": "entity_ref"
+          },
+          "v1": {
+            "id": "urn:case:q64a7:act1",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "authority": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Court",
+          "literal": {
+            "args": [
+              {
+                "id": "urn:case:q64a7:act1",
+                "kind": "entity_ref"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata"
+          }
+        },
+        "evidence": [],
+        "id": "urn:proof:judgment:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1:60f44a647ff52c0d2aa634d27ee66733d0bfa818652a20c8d5ad55eb1e31d2b3",
+        "kind": "judgment",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "literal": {
+            "args": [
+              {
+                "id": "urn:case:q64a7:p1",
+                "kind": "entity_ref"
+              },
+              {
+                "id": "urn:case:q64a7:act1",
+                "kind": "entity_ref"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_licita"
+          },
+          "truthStatus": "NEITHER"
+        },
+        "evidence": [],
+        "id": "urn:proof:query:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1",
+        "kind": "query_evaluation",
+        "premises": [
+          "urn:proof:judgment:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1:60f44a647ff52c0d2aa634d27ee66733d0bfa818652a20c8d5ad55eb1e31d2b3"
+        ],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:b0b8c09a960eba7ca1ba2f98c1b6d6d7031424a14baf921357e67a3ff8e46363",
+    "roots": [
+      "urn:proof:query:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1"
+    ]
+  },
+  "resultHash": "sha256:6c06e145a17a90bfdfe6db6219d700f9dba43fc17f82890afd666b1f2e511d06",
+  "results": [
+    {
+      "conflicts": [],
+      "evaluationStatus": "REQUIRES_JUDGMENT",
+      "evidence": [],
+      "id": "urn:result:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1",
+      "judgmentRequests": [
+        {
+          "authority": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#Court",
+          "id": "urn:judgment:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1:0",
+          "predicate": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata",
+          "proof": "urn:proof:judgment:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1:60f44a647ff52c0d2aa634d27ee66733d0bfa818652a20c8d5ad55eb1e31d2b3",
+          "request": {
+            "args": [
+              {
+                "id": "urn:case:q64a7:act1",
+                "kind": "entity_ref"
+              }
+            ],
+            "polarity": "positive",
+            "relation": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#vis_moderata"
+          }
+        }
+      ],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatusSupports": [],
+      "proof": "urn:proof:query:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1",
+      "query": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#test/respondeo%3A%20removing%20external%20proportion%20judgment%20removes%20that%20intermediate/query/1",
+      "resultKind": "PROPOSITION",
+      "sourceAnchors": [],
+      "target": "urn:la:aquinas:reconstruction:ii-ii-q64-a7#defensio_licita",
+      "truthStatus": "NEITHER"
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

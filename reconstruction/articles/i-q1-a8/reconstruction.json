@@ -1,0 +1,457 @@
+{
+  "format": "arxo.summa-argument-reconstruction/0.1",
+  "articleId": "i-q1-a8",
+  "modelSpec": "la.aquinas.reconstruct.i_q1_a8@0.1.0",
+  "sourceSections": [
+    {
+      "section": "arg. 1",
+      "obligations": [
+        "arg1-faith-inquiry"
+      ]
+    },
+    {
+      "section": "arg. 2",
+      "obligations": [
+        "arg2-authority-strength",
+        "arg2-reason-and-merit"
+      ]
+    },
+    {
+      "section": "s. c.",
+      "obligations": [
+        "sedcontra-arguing"
+      ]
+    },
+    {
+      "section": "co.",
+      "obligations": [
+        "co-principles-not-proved",
+        "co-derive-other-conclusions",
+        "co-opponent-grants-revealed-principle",
+        "co-opponent-grants-none",
+        "co-infallibility-and-defeating-objections"
+      ]
+    },
+    {
+      "section": "ad 1",
+      "obligations": [
+        "ad1-human-reason-scope"
+      ]
+    },
+    {
+      "section": "ad 2",
+      "obligations": [
+        "ad2-revelation-authority",
+        "ad2-natural-reason-manifestation",
+        "ad2-philosopher-probability",
+        "ad2-canonical-vs-doctors"
+      ]
+    }
+  ],
+  "premises": [
+    {
+      "id": "p1",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "A discipline reasons from its principles to conclusions without proving those principles.",
+      "formalSymbols": [
+        "doctrine_principle",
+        "proves_principle"
+      ]
+    },
+    {
+      "id": "p2",
+      "kind": "source_principle",
+      "sections": [
+        "co.",
+        "ad 1"
+      ],
+      "statement": "Faith articles are principles of sacred doctrine.",
+      "formalSymbols": [
+        "faith_article",
+        "doctrine_principle"
+      ]
+    },
+    {
+      "id": "p3",
+      "kind": "source_principle",
+      "sections": [
+        "co."
+      ],
+      "statement": "An opponent may grant some revealed principles, or grant none.",
+      "formalSymbols": [
+        "opponent",
+        "grants_revealed_principle",
+        "grants_no_revealed_principle"
+      ]
+    },
+    {
+      "id": "p4",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "Canonical Scripture is grounded in apostolic and prophetic revelation; authority of other doctors is probabilistic.",
+      "formalSymbols": [
+        "canonical_authority",
+        "church_doctor_authority",
+        "revelation"
+      ]
+    },
+    {
+      "id": "p5",
+      "kind": "source_principle",
+      "sections": [
+        "ad 2"
+      ],
+      "statement": "Philosopher authorities are extraneous probable arguments where natural reason knows a truth.",
+      "formalSymbols": [
+        "philosopher_authority",
+        "natural_reason_truth",
+        "probable_support"
+      ]
+    },
+    {
+      "id": "p6",
+      "kind": "source_principle",
+      "sections": [
+        "arg. 1",
+        "arg. 2"
+      ],
+      "statement": "The objections cite claims about faith inquiry, human authority, and faith merit.",
+      "formalSymbols": [
+        "faith_sought",
+        "human_authority",
+        "faith_merit"
+      ]
+    }
+  ],
+  "obligations": [
+    {
+      "id": "arg1-faith-inquiry",
+      "statement": "The objection infers from faith being sought and an admonition to remove arguments that sacred doctrine is not argumentative.",
+      "sections": [
+        "arg. 1"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "This objection is inventoried as source text; the experimental model does not independently encode or validate the objection inference.",
+      "formalSymbols": [
+        "faith_sought",
+        "remove_arguments_where_faith_sought",
+        "doctrine_argumentative"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg2-authority-strength",
+      "statement": "The objection treats authority grounded in human reason as weak and questions arguing from authority in sacred doctrine.",
+      "sections": [
+        "arg. 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "This objection is inventoried as source text; the experimental model does not independently encode or validate the objection inference.",
+      "formalSymbols": [
+        "human_authority",
+        "authority_argument",
+        "weak_authority"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "arg2-reason-and-merit",
+      "statement": "The objection infers that reasoning to faith articles removes the merit of faith.",
+      "sections": [
+        "arg. 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "This objection is inventoried as source text; the experimental model does not independently encode or validate the objection inference.",
+      "formalSymbols": [
+        "human_reason",
+        "faith_merit",
+        "proves_faith_article"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "sedcontra-arguing",
+      "statement": "The sed contra cites an apostolic instruction to exhort in sound doctrine and argue against contradictors.",
+      "sections": [
+        "s. c."
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "Source citation and its argumentative force are recorded; the cited scriptural authority is not independently proven by this model.",
+      "formalSymbols": [
+        "apostolic_instruction",
+        "argue_against_contradictors"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "co-principles-not-proved",
+      "statement": "Sacred doctrine does not argue to prove its own principles, the articles of faith.",
+      "sections": [
+        "co."
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "Only the separation between argument availability and the protected faith-article proof relation is checked. The source principle that disciplines do not prove their own principles remains stipulated.",
+      "formalSymbols": [
+        "doctrine_principle",
+        "faith_article",
+        "proves_principle"
+      ],
+      "tests": [
+        "01-faith-context.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "Source reasoning is inventoried; its full stated transition is not established by the implemented finite scenarios."
+    },
+    {
+      "id": "co-derive-other-conclusions",
+      "statement": "Sacred doctrine proceeds from its principles to show other conclusions; the resurrection example is one such inference.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "faith_article",
+        "other_conclusion",
+        "supports_conclusion"
+      ],
+      "tests": [
+        "01-faith-context.lawtest"
+      ],
+      "dependsOn": [
+        "co-principles-not-proved"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "The raw source_derivation mapping is a case-mapped source premise. The rule derives only conditional argument availability for an opponent who grants it; it does not prove the mapped conclusion or the premise.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "co-opponent-grants-revealed-principle",
+      "statement": "Disputation against an opponent who grants some revealed principles may reason from those granted principles.",
+      "sections": [
+        "co."
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Availability is observed given an explicitly supplied source_derivation mapping and a granted principle. That mapping is not a checked substantive derivation, so this route inherits the open bridge.",
+      "formalSymbols": [
+        "opponent",
+        "grants_revealed_principle",
+        "argument_available"
+      ],
+      "tests": [
+        "01-faith-context.lawtest"
+      ],
+      "dependsOn": [
+        "co-derive-other-conclusions"
+      ],
+      "verificationScope": "Runtime availability under a supplied derivation mapping; no proof of its conclusion.",
+      "priorReason": "Agreement is scoped to an opponent and does not prove that revelation occurred or that the authority is infallible.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "co-opponent-grants-none",
+      "statement": "If an opponent grants none of the divinely revealed principles, the route to proving faith articles by reasons is unavailable, though objections may be answered.",
+      "sections": [
+        "co."
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "opponent",
+        "grants_no_revealed_principle",
+        "proves_faith_article",
+        "answer_objection"
+      ],
+      "tests": [
+        "01-faith-context.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "The explicit no-granted-principle case yields answerable_objection while argument availability and faith-article proof remain unknown.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "co-infallibility-and-defeating-objections",
+      "statement": "The source says faith rests on infallible truth and opposing arguments are solvable rather than demonstrations.",
+      "sections": [
+        "co."
+      ],
+      "status": "UNSUPPORTED",
+      "reason": "The metaphysical and epistemic claims about infallibility and demonstrative impossibility cannot be derived from the source inventory or this runtime without asserting them as conclusions.",
+      "formalSymbols": [
+        "infallible_truth",
+        "counterargument",
+        "demonstration"
+      ],
+      "tests": [],
+      "dependsOn": []
+    },
+    {
+      "id": "ad1-human-reason-scope",
+      "statement": "Human-reason arguments do not prove what belongs to faith, while doctrine can argue from articles of faith to other matters.",
+      "sections": [
+        "ad 1"
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "human_reason",
+        "faith_article",
+        "other_conclusion",
+        "proves_faith_article"
+      ],
+      "tests": [
+        "01-faith-context.lawtest"
+      ],
+      "dependsOn": [
+        "co-principles-not-proved"
+      ],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "Source principles are represented as premises and remain conditional.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "ad2-revelation-authority",
+      "statement": "The authority of those to whom revelation was made is foundational to sacred doctrine because its principles are received by revelation.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "CONDITIONAL",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "formalSymbols": [
+        "revelation",
+        "recipient",
+        "authority_of_recipient",
+        "doctrine_principle"
+      ],
+      "tests": [
+        "02-authority-context.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The runtime route is checked but the declared bridge, adjudication, authority acceptance, or broader reasoning remains an open assumption.",
+      "priorReason": "Conditional on source-declared revelation and authority facts; the model does not prove revelation or infallibility.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "ad2-natural-reason-manifestation",
+      "statement": "Natural reason serves faith by manifesting other matters but does not prove faith itself.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "RECONSTRUCTED",
+      "reason": "Role distinction is modeled with typed/scoped relations and explicit negative facts.",
+      "formalSymbols": [
+        "natural_reason",
+        "faith_article",
+        "manifest_other_matter",
+        "proves_faith_article"
+      ],
+      "tests": [
+        "02-authority-context.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "Source reasoning is inventoried; its full stated transition is not established by the implemented finite scenarios."
+    },
+    {
+      "id": "ad2-philosopher-probability",
+      "statement": "Philosophical authorities are extraneous and probable when they state truths knowable by natural reason.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "philosopher_authority",
+        "natural_reason_truth",
+        "probable_support"
+      ],
+      "tests": [
+        "02-authority-context.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "Represented as source-classified probable support, not a necessary inference.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    },
+    {
+      "id": "ad2-canonical-vs-doctors",
+      "statement": "Canonical authority with a revelation-recipient qualification yields necessary authority support, while Church doctor and philosopher classes yield only the source-specific probable-support fragments.",
+      "sections": [
+        "ad 2"
+      ],
+      "status": "VERIFIED_IN_PROFILE",
+      "reason": "Coordinator source review completed; final runtime gate uses the exact current model and fixture hashes. The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "formalSymbols": [
+        "canonical_authority",
+        "church_doctor_authority",
+        "necessary_support",
+        "probable_support"
+      ],
+      "tests": [
+        "02-authority-context.lawtest"
+      ],
+      "dependsOn": [],
+      "verificationScope": "The implemented finite fragment under the enumerated source principles and case inputs; no universal/metaphysical truth or full-engine certificate is claimed.",
+      "priorReason": "Tests exercise source-class distinctions and negative authority-type cases under stipulated classifications; they do not prove revelation or the truth of those authorities.",
+      "profile": "Finite baseline law.core/0.2.11; law.argumentation/0.2 v1 only for explicitly executed argumentation query steps."
+    }
+  ],
+  "replyTargets": [
+    {
+      "reply": "ad 1",
+      "objection": "arg. 1",
+      "target": "faith inquiry excludes reasoning to faith articles, while reasoning from faith articles to other conclusions remains possible",
+      "mechanism": "scope distinction between proving a faith article and deriving another conclusion",
+      "obligations": [
+        "arg1-faith-inquiry",
+        "ad1-human-reason-scope"
+      ]
+    },
+    {
+      "reply": "ad 2",
+      "objection": "arg. 2",
+      "target": "authority and reason have different roles by epistemic source and target",
+      "mechanism": "typed authority classes (canonical, Church doctor, philosopher) and scoped support status; natural reason manifests other matters but does not prove faith articles",
+      "obligations": [
+        "arg2-authority-strength",
+        "arg2-reason-and-merit",
+        "ad2-revelation-authority",
+        "ad2-natural-reason-manifestation",
+        "ad2-philosopher-probability",
+        "ad2-canonical-vs-doctors"
+      ]
+    }
+  ],
+  "protectedConclusions": [
+    "proves_faith_article",
+    "doctrine_argumentative",
+    "infallible_truth"
+  ],
+  "limitations": [
+    "The source principles about revelation, infallibility, and canonical authority are not independently proven.",
+    "Conditional opponent-context cases establish only what follows from the stipulated grants; they do not prove revelation or infallibility.",
+    "No resurrection conclusion is inferred from an authority qualification alone; the resurrection example is inventoried as a source illustration requiring its own premise.",
+    "Native argumentation acceptance, baseline truth, and checker-reported properties remain distinct.",
+    "Full article verification is not claimed.",
+    "The objections and sed contra are text-only reconstructions; their source transitions are not executable in this profile.",
+    "source_derivation is a direct source-mapped case premise, not an independently derived proof step. available_argument reports conditional argument availability only.",
+    "The no-common-principle case supports only an answerable-objection result; it does not establish any faith article."
+  ],
+  "fullArticleVerified": false,
+  "review": {
+    "sourceReview": "coordinator plus independent Luna read-only review",
+    "runtimeEvidence": "Article-local published CLI check/lower/test and native repeated evaluation documents; final aggregate report is generated outside Git.",
+    "engineCertificate": "not_run",
+    "nativeProofSourceAnchors": "No native source-anchor certificate is claimed; model annotations and pinned section mapping provide project-level provenance.",
+    "fullArticleVerified": false
+  }
+}

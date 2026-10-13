@@ -1,0 +1,51 @@
+language "law.core" version "0.2";
+package la.aquinas.reconstruct.i_ii_q90_a1 version "0.1.0";
+namespace "urn:la:aquinas:reconstruction:i-ii-q90-a1";
+
+test "habit: positive and removal" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "p1": source_co_reason_orders_end() { origin case_input; }
+  assert "p2": source_co_principle_measures_genus() { origin case_input; }
+  assert "p3": source_co_rule_measure() { origin case_input; }
+  assert "bridge": bridge_reason_as_principle_measures_human_acts() { origin case_input; }
+  assert "p4": source_co_practical_universal_propositions() { origin case_input; }
+  assert "p5": source_ad2_operation_product() { origin case_input; }
+  assert "p6": source_ad2_habitual_retention() { origin case_input; }
+  assert "p7": rational_proposition_product() { origin case_input; }
+  assert "p8": source_ad1_two_modes() { origin case_input; }
+  assert "p9": private_inclination_under_regulator() { origin case_input; }
+ }
+ evaluate truth(law_retained_habitually());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+ evaluate truth(law_in_regulator_essentially());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+ evaluate truth(inclination_law_participatively());
+ expect result_kind == PROPOSITION;
+ expect truth_status == TRUE_ONLY;
+ expect evaluation_status == COMPUTED;
+}
+
+test "habit: explicit removal blocks dependent conclusions" {
+ given {
+  context { legal_time @2026-10-13; decision_time @2026-10-13T12:00:00Z; knowledge_time @2026-10-13T12:00:00Z; timezone "UTC"; }
+  assert "r1": source_co_reason_orders_end() { origin case_input; }
+  assert "r1b": source_co_principle_measures_genus() { origin case_input; }
+  assert "r1c": source_co_rule_measure() { origin case_input; }
+  assert "r1d": source_co_practical_universal_propositions() { origin case_input; }
+  assert "r1e": source_ad2_operation_product() { origin case_input; }
+  assert "r2": source_ad2_habitual_retention() { origin case_input; }
+  assert "r3": source_ad1_two_modes() { origin case_input; }
+  assert "bridge": bridge_reason_as_principle_measures_human_acts() { origin case_input; }
+  assert "r5": private_inclination_under_regulator() { origin case_input; }
+  assert "removed": not rational_proposition_product() { origin case_input; }
+ }
+ evaluate truth(law_retained_habitually());
+ expect result_kind == PROPOSITION;
+ expect truth_status == NEITHER;
+ expect evaluation_status == COMPUTED;
+}

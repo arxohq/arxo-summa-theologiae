@@ -1,0 +1,75 @@
+{
+  "articleId": "i-ii-q90-a2",
+  "part": "I-II",
+  "question": 90,
+  "article": 2,
+  "sourceFile": "packages/law/sources/summa-theologiae-law/q90-92.la.txt",
+  "sourceFileSha256": "e43633295a90f83e0cae2c1cc40ed36b24e0346ad566967d42914e2ab50ccb13",
+  "sourceUrl": "https://www.corpusthomisticum.org/sth2090.html",
+  "sections": [
+    {
+      "id": "arg. 1",
+      "heading": "@@ I-II q. 90 a. 2 arg. 1",
+      "lineStart": 28,
+      "text": "@@ I-II q. 90 a. 2 arg. 1\nAd secundum sic proceditur. Videtur quod lex non ordinetur semper ad bonum commune sicut ad finem. Ad legem enim pertinet praecipere et prohibere. Sed praecepta ordinantur ad quaedam singularia bona. Non ergo semper finis legis est bonum commune.\n\n",
+      "lineEnd": 30,
+      "sha256": "f484513ca68e3257b81e4faf48c752245cf56f5b0b4f680e3d6d349355430ce2"
+    },
+    {
+      "id": "arg. 2",
+      "heading": "@@ I-II q. 90 a. 2 arg. 2",
+      "lineStart": 31,
+      "text": "@@ I-II q. 90 a. 2 arg. 2\nPraeterea, lex dirigit hominem ad agendum. Sed actus humani sunt in particularibus. Ergo et lex ad aliquod particulare bonum ordinatur.\n\n",
+      "lineEnd": 33,
+      "sha256": "53341ed1858d9fb734b63970296ce472ae4999af381059042ab520b3d19424fa"
+    },
+    {
+      "id": "arg. 3",
+      "heading": "@@ I-II q. 90 a. 2 arg. 3",
+      "lineStart": 34,
+      "text": "@@ I-II q. 90 a. 2 arg. 3\nPraeterea, Isidorus dicit, in libro Etymol., si ratione lex constat, lex erit omne quod ratione constiterit. Sed ratione consistit non solum quod ordinatur ad bonum commune, sed etiam quod ordinatur ad bonum privatum. Ergo lex non ordinatur solum ad bonum commune, sed etiam ad bonum privatum unius.\n\n",
+      "lineEnd": 36,
+      "sha256": "0380887e82615dc76818006d3d8f465ddd29b72b9046277aa04bc6065330656e"
+    },
+    {
+      "id": "s. c.",
+      "heading": "@@ I-II q. 90 a. 2 s. c.",
+      "lineStart": 37,
+      "text": "@@ I-II q. 90 a. 2 s. c.\nSed contra est quod Isidorus dicit, in V Etymol., quod lex est nullo privato commodo, sed pro communi utilitate civium conscripta.\n\n",
+      "lineEnd": 39,
+      "sha256": "378eff48da886a085aa61d20755ec3e892546c597b534910d7e2e4e45660aa9d"
+    },
+    {
+      "id": "co.",
+      "heading": "@@ I-II q. 90 a. 2 co.",
+      "lineStart": 40,
+      "text": "@@ I-II q. 90 a. 2 co.\nRespondeo dicendum quod, sicut dictum est, lex pertinet ad id quod est principium humanorum actuum, ex eo quod est regula et mensura. Sicut autem ratio est principium humanorum actuum, ita etiam in ipsa ratione est aliquid quod est principium respectu omnium aliorum. Unde ad hoc oportet quod principaliter et maxime pertineat lex. Primum autem principium in operativis, quorum est ratio practica, est finis ultimus. Est autem ultimus finis humanae vitae felicitas vel beatitudo, ut supra habitum est. Unde oportet quod lex maxime respiciat ordinem qui est in beatitudinem. Rursus, cum omnis pars ordinetur ad totum sicut imperfectum ad perfectum; unus autem homo est pars communitatis perfectae, necesse est quod lex proprie respiciat ordinem ad felicitatem communem. Unde et philosophus, in praemissa definitione legalium, mentionem facit et de felicitate et communione politica. Dicit enim, in V Ethic., quod legalia iusta dicimus factiva et conservativa felicitatis et particularum ipsius, politica communicatione, perfecta enim communitas civitas est, ut dicitur in I Polit. In quolibet autem genere id quod maxime dicitur, est principium aliorum, et alia dicuntur secundum ordinem ad ipsum, sicut ignis, qui est maxime calidus, est causa caliditatis in corporibus mixtis, quae intantum dicuntur calida, inquantum participant de igne. Unde oportet quod, cum lex maxime dicatur secundum ordinem ad bonum commune, quodcumque aliud praeceptum de particulari opere non habeat rationem legis nisi secundum ordinem ad bonum commune. Et ideo omnis lex ad bonum commune ordinatur.\n\n",
+      "lineEnd": 42,
+      "sha256": "ccf7adc3ced6d1ecc4688e2c9977e2b97f476344f850b1d366d07bbcbcbbfd08"
+    },
+    {
+      "id": "ad 1",
+      "heading": "@@ I-II q. 90 a. 2 ad 1",
+      "lineStart": 43,
+      "text": "@@ I-II q. 90 a. 2 ad 1\nAd primum ergo dicendum quod praeceptum importat applicationem legis ad ea quae ex lege regulantur. Ordo autem ad bonum commune, qui pertinet ad legem, est applicabilis ad singulares fines. Et secundum hoc, etiam de particularibus quibusdam praecepta dantur.\n\n",
+      "lineEnd": 45,
+      "sha256": "b1c5e29dcb02d305d41e964de2e97d1faee66edc6608c25876e7bc9a1c074398"
+    },
+    {
+      "id": "ad 2",
+      "heading": "@@ I-II q. 90 a. 2 ad 2",
+      "lineStart": 46,
+      "text": "@@ I-II q. 90 a. 2 ad 2\nAd secundum dicendum quod operationes quidem sunt in particularibus, sed illa particularia referri possunt ad bonum commune, non quidem communitate generis vel speciei, sed communitate causae finalis, secundum quod bonum commune dicitur finis communis.\n\n",
+      "lineEnd": 48,
+      "sha256": "ceb83334d7101ddd19d93c043870fb0d7642d3c35089e30c627e9988d9eb8e7e"
+    },
+    {
+      "id": "ad 3",
+      "heading": "@@ I-II q. 90 a. 2 ad 3",
+      "lineStart": 49,
+      "text": "@@ I-II q. 90 a. 2 ad 3\nAd tertium dicendum quod, sicut nihil constat firmiter secundum rationem speculativam nisi per resolutionem ad prima principia indemonstrabilia, ita firmiter nihil constat per rationem practicam nisi per ordinationem ad ultimum finem, qui est bonum commune. Quod autem hoc modo ratione constat, legis rationem habet.\n\n",
+      "lineEnd": 51,
+      "sha256": "a332f1990b15f70b8985cbf3ecc6e37c392169d26aee941046b271cf541e1fda"
+    }
+  ]
+}
