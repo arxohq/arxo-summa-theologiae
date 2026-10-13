@@ -1,0 +1,98 @@
+@@ II-II q. 99 pr.
+Deinde considerandum est de vitiis ad irreligiositatem pertinentibus quibus rebus sacris irreverentia exhibetur. Et primo, de sacrilegio; secundo, de simonia. Circa primum quaeruntur quatuor. Primo, quid sit sacrilegium. Secundo, utrum sit speciale peccatum. Tertio, de speciebus sacrilegii. Quarto, de poena sacrilegii.
+
+@@ II-II q. 99 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod sacrilegium non sit sacrae rei violatio. Dicitur enim XVII, qu. IV, committunt sacrilegium qui de principis iudicio disputant, dubitantes an is dignus sit honore quem princeps elegerit. Sed hoc ad nullam rem sacram pertinere videtur. Ergo sacrilegium non importat sacrae rei violationem.
+
+@@ II-II q. 99 a. 1 arg. 2
+Praeterea, ibidem subditur quod si quis permiserit Iudaeos officia publica exercere, velut in sacrilegum excommunicatio proferatur. Sed officia publica non videntur ad aliquod sacrum pertinere. Ergo videtur quod sacrilegium non importet violationem alicuius sacri.
+
+@@ II-II q. 99 a. 1 arg. 3
+Praeterea, maior est virtus Dei quam virtus hominis. Sed res sacrae a Deo sanctitatem obtinent. Non ergo possunt per hominem violari. Et ita sacrilegium non videtur esse sacrae rei violatio.
+
+@@ II-II q. 99 a. 1 s. c.
+Sed contra est quod Isidorus dicit, in libro Etymol., quod sacrilegus dicitur ab eo quod sacra legit, idest furatur.
+
+@@ II-II q. 99 a. 1 co.
+Respondeo dicendum quod, sicut ex praedictis patet, sacrum dicitur aliquid ex eo quod ad divinum cultum ordinatur. Sicut autem ex eo quod aliquid ordinatur in finem bonum, sortitur rationem boni; ita etiam ex hoc quod aliquid deputatur ad cultum Dei, efficitur quoddam divinum, et sic ei quaedam reverentia debetur quae refertur in Deum. Et ideo omne illud quod ad irreverentiam rerum sacrarum pertinet, ad iniuriam Dei pertinet, et habet sacrilegii rationem.
+
+@@ II-II q. 99 a. 1 ad 1
+Ad primum ergo dicendum quod, secundum philosophum, in I Ethic., bonum commune gentis est quoddam divinum. Et ideo antiquitus rectores reipublicae divini vocabantur, quasi divinae providentiae ministri, secundum illud Sap. VI, cum essetis ministri regni illius, non recte iudicastis. Et sic, per quandam nominis extensionem, illud quod pertinet ad reverentiam principis, scilicet disputare de eius iudicio, an oporteat ipsum sequi, secundum quandam similitudinem sacrilegium dicitur.
+
+@@ II-II q. 99 a. 1 ad 2
+Ad secundum dicendum quod populus Christianus per fidem et sacramenta Christi sanctificatus est, secundum illud I ad Cor. VI, sed abluti estis, sed sanctificati estis. Et ideo I Pet. II dicitur, vos estis genus electum, regale sacerdotium, gens sancta, populus acquisitionis. Et ita id quod fit in iniuriam populi Christiani, scilicet quod infideles ei praeficiantur, pertinet ad irreverentiam sacrae rei. Unde rationabiliter sacrilegium dicitur.
+
+@@ II-II q. 99 a. 1 ad 3
+Ad tertium dicendum quod violatio hic large dicitur quaecumque irreverentia vel exhonoratio. Sicut autem honor est in honorante, non autem in eo qui honoratur, ut dicitur in I Ethic.; ita etiam irreverentia est in eo qui irreverenter se habet, quamvis etiam nihil noceat ei cui irreverentiam exhibet. Quantum ergo est in ipso, rem sacram violat, licet illa non violetur.
+
+@@ II-II q. 99 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod sacrilegium non sit speciale peccatum. Dicitur enim XVII, qu. IV, committunt sacrilegium qui in divinae legis sanctitatem aut nesciendo committunt, aut negligendo violant et offendunt. Sed hoc fit per omne peccatum, nam peccatum est dictum vel factum vel concupitum contra legem Dei, ut Augustinus dicit, XXII contra Faustum. Ergo sacrilegium est generale peccatum.
+
+@@ II-II q. 99 a. 2 arg. 2
+Praeterea, nullum speciale peccatum continetur sub diversis generibus peccatorum. Sed sacrilegium sub diversis generibus peccatorum continetur, puta sub homicidio, si quis sacerdotem occidat; sub luxuria, si quis virginem sacratam violet, vel quamcumque mulierem in loco sacro; sub furto, si quis rem sacram furatus fuerit. Ergo sacrilegium non est speciale peccatum.
+
+@@ II-II q. 99 a. 2 arg. 3
+Praeterea, omne speciale peccatum invenitur distinctum ab aliis peccatis, ut de iniustitia speciali philosophus dicit, in V Ethic. Sed sacrilegium non videtur inveniri absque aliis peccatis, sed quandoque coniungitur furto, quandoque homicidio, ut dictum est. Non ergo est speciale peccatum.
+
+@@ II-II q. 99 a. 2 s. c.
+Sed contra est quod opponitur speciali virtuti, scilicet religioni, ad quam pertinet revereri Deum et divina. Ergo sacrilegium est speciale peccatum.
+
+@@ II-II q. 99 a. 2 co.
+Respondeo dicendum quod ubicumque invenitur specialis ratio deformitatis, ibi necesse est quod sit speciale peccatum, quia species cuiuslibet rei praecipue attenditur secundum formalem rationem ipsius, non autem secundum materiam vel subiectum. In sacrilegio autem invenitur specialis ratio deformitatis, quia scilicet violatur res sacra per aliquam irreverentiam. Et ideo est speciale peccatum. Et opponitur religioni. Sicut enim Damascenus dicit, in IV Lib., purpura, regale indumentum facta, honoratur et glorificatur, et si quis hanc perforaverit, morte damnatur, quasi contra regem agens. Ita etiam si quis rem sacram violat, ex hoc ipso contra Dei reverentiam agit, et sic per irreligiositatem peccat.
+
+@@ II-II q. 99 a. 2 ad 1
+Ad primum ergo dicendum quod illi dicuntur in divinae legis sanctitatem committere qui legem Dei impugnant, sicut haeretici et blasphemi. Qui ex hoc quod Deo non credunt, incurrunt infidelitatis peccatum, ex hoc vero quod divinae legis verba pervertunt, sacrilegium incurrunt.
+
+@@ II-II q. 99 a. 2 ad 2
+Ad secundum dicendum quod nihil prohibet unam specialem rationem peccati in pluribus peccatorum generibus inveniri, secundum quod diversa peccata ad finem unius peccati ordinantur, prout etiam in virtutibus apparet quibus imperatur ab una virtute. Et hoc modo quocumque genere peccati aliquis faciat contra reverentiam debitam sacris rebus, sacrilegium formaliter committit, licet materialiter sint ibi diversa genera peccatorum.
+
+@@ II-II q. 99 a. 2 ad 3
+Ad tertium dicendum quod sacrilegium interdum invenitur separatum ab aliis peccatis, eo quod actus non habet aliam deformitatem nisi quia res sacra violatur, puta si aliquis iudex rapiat aliquem de loco sacro, quem in aliis locis licite capere posset.
+
+@@ II-II q. 99 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod species sacrilegii non distinguantur secundum res sacras. Materialis enim diversitas non diversificat speciem, si sit eadem ratio formalis. Sed in violatione quarumcumque rerum sacrarum videtur esse eadem ratio formalis peccati, et quod non sit diversitas nisi materialis. Ergo per hoc non diversificantur sacrilegii species.
+
+@@ II-II q. 99 a. 3 arg. 2
+Praeterea, non videtur esse possibile quod aliqua sint eiusdem speciei, et tamen specie differant. Sed homicidium et furtum et illicitus concubitus sunt diversae species peccatorum. Ergo non possunt convenire in una specie sacrilegii. Et ita videtur quod sacrilegii species distinguantur secundum diversas species aliorum peccatorum, et non secundum diversitatem rerum sacrarum.
+
+@@ II-II q. 99 a. 3 arg. 3
+Praeterea, inter res sacras connumerantur etiam personae sacrae. Si ergo una species sacrilegii esset qua violatur persona sacra, sequeretur quod omne peccatum quod persona sacra committit esset sacrilegium, quia per quodlibet peccatum violatur persona peccantis. Non ergo species sacrilegii accipiuntur secundum res sacras.
+
+@@ II-II q. 99 a. 3 s. c.
+Sed contra est quod actus et habitus distinguuntur secundum obiecta. Sed res sacra est obiectum sacrilegii. Ut dictum est. Ergo species sacrilegii distinguuntur secundum differentiam rerum sacrarum.
+
+@@ II-II q. 99 a. 3 co.
+Respondeo dicendum quod, sicut dictum est, peccatum sacrilegii in hoc consistit quod aliquis irreverenter se habet ad rem sacram. Debetur autem reverentia rei sacrae ratione sanctitatis. Et ideo secundum diversam rationem sanctitatis rerum sacrarum quibus irreverentia exhibetur, necesse est quod sacrilegii species distinguantur, et tanto sacrilegium est gravius quanto res sacra in quam peccatur maiorem obtinet sanctitatem. Attribuitur autem sanctitas et personis sacris, idest divino cultui dedicatis, et locis sacris, et rebus quibusdam aliis sacris. Sanctitas autem loci ordinatur ad sanctitatem hominis, qui in loco sacro cultum exhibet Deo, dicitur enim II Machab. V, non propter locum gentem, sed propter gentem dominus locum elegit. Et ideo gravius peccatum est sacrilegium quo peccatur contra personam sacram quam quo peccatur contra locum sacrum. Sunt tamen in utraque sacrilegii specie diversi gradus, secundum differentiam personarum et locorum sacrorum. Similiter etiam et tertia species sacrilegii, quae circa alias res sacras committitur, diversos habet gradus, secundum differentiam sacrarum rerum. Inter quas summum locum obtinent ipsa sacramenta, quibus homo sanctificatur, quorum praecipuum est Eucharistiae sacramentum, quod continet ipsum Christum. Et ideo sacrilegium quod contra hoc sacramentum committitur gravissimum est inter omnia. Post sacramenta autem, secundum locum tenent vasa consecrata ad sacramentorum susceptionem; et ipsae imagines sacrae, et sanctorum reliquiae, in quibus quodammodo ipsae personae sanctorum venerantur vel dehonorantur. Deinde ea quae pertinent ad ornatum Ecclesiae et ministrorum. Deinde ea quae sunt deputata ad sustentationem ministrorum, sive sint mobilia sive immobilia. Quicumque autem contra quodcumque praedictorum peccat, crimen sacrilegii incurrit.
+
+@@ II-II q. 99 a. 3 ad 1
+Ad primum ergo dicendum quod non est in omnibus praedictis eadem ratio sanctitatis. Et ideo differentia sacrarum rerum non solum est differentia materialis, sed formalis.
+
+@@ II-II q. 99 a. 3 ad 2
+Ad secundum dicendum quod nihil prohibet aliqua duo secundum aliquid esse unius speciei, et secundum aliud diversarum, sicut Socrates et Plato conveniunt in specie animalis, differunt autem in specie colorati, si unus sit albus et alius niger. Et similiter etiam possibile est aliqua duo peccata differre specie secundum materiales actus, convenire autem in specie secundum unam rationem formalem sacrilegii, puta si quis sanctimonialem violaverit verberando, vel concumbendo.
+
+@@ II-II q. 99 a. 3 ad 3
+Ad tertium dicendum quod omne peccatum quod sacra persona committit, materialiter quidem et quasi per accidens est sacrilegium, unde Hieronymus dicit quod nugae in ore sacerdotis sacrilegium sunt vel blasphemia. Formaliter autem et proprie illud solum peccatum sacrae personae sacrilegium est quod agitur directe contra eius sanctitatem, puta si virgo Deo dicata fornicetur; et eadem ratio est in aliis.
+
+@@ II-II q. 99 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod poena sacrilegii non debeat esse pecuniaria. Poena enim pecuniaria non solet imponi pro culpa criminali. Sed sacrilegium est culpa criminalis, unde capitali sententia punitur secundum leges civiles. Ergo sacrilegium non debet puniri poena pecuniaria.
+
+@@ II-II q. 99 a. 4 arg. 2
+Praeterea, idem peccatum non debet duplici poena puniri, secundum illud Nahum I, non consurget duplex tribulatio. Sed poena sacrilegii est excommunicatio, maior quidem si violentia inferatur in personam sacram, vel si aliquis incendat vel frangat Ecclesiam; minor autem in aliis sacrilegiis. Ergo non debet sacrilegium puniri poena pecuniaria.
+
+@@ II-II q. 99 a. 4 arg. 3
+Praeterea, apostolus dicit, I ad Thess. II, non fuimus aliquando in occasione avaritiae. Sed hoc videtur ad occasionem avaritiae pertinere quod poena pecuniaria exigatur pro violatione rei sacrae. Ergo non videtur talis poena esse conveniens sacrilegii.
+
+@@ II-II q. 99 a. 4 s. c.
+Sed contra est quod dicitur XVII, qu. IV, si quis contumax vel superbus fugitivum servum de atrio Ecclesiae per vim abstraxerit, nongentos solidos componat. Et ibidem postea dicitur, quisquis inventus fuerit reus sacrilegii, triginta libras argenti examinati purissimi componat.
+
+@@ II-II q. 99 a. 4 co.
+Respondeo dicendum quod in poenis infligendis duo sunt consideranda. Primo quidem, aequalitas, ad hoc quod poena sit iusta, ut scilicet in quo quis peccat, per hoc torqueatur, ut dicitur Sap. XI. Et hoc modo conveniens poena sacrilegi, qui sacris iniuriam infert est excommunicatio, per quam a sacris arcetur. Secundo autem consideratur utilitas, nam poenae quasi medicinae quaedam infliguntur, ut his territi homines a peccando desistant. Sacrilegus autem, qui sacra non reveretur, non sufficienter videtur a peccando arceri per hoc quod ei sacra interdicuntur, de quibus non curat. Et ideo secundum leges humanas adhibetur capitis poena; secundum vero Ecclesiae sententiam, quae mortem corporalem non infligit, adhibetur pecuniaria poena, ut saltem poenis temporalibus homines a sacrilegiis revocentur.
+
+@@ II-II q. 99 a. 4 ad 1
+Ad primum ergo dicendum quod Ecclesia corporalem mortem non infligit, sed loco eius infligit excommunicationem.
+
+@@ II-II q. 99 a. 4 ad 2
+Ad secundum dicendum quod necesse est duas poenas adhiberi quando per unam non sufficienter revocatur aliquis a peccando. Et ideo oportuit, supra poenam excommunicationis, adhibere aliquam temporalem poenam, ad coercendum homines qui spiritualia contemnunt.
+
+@@ II-II q. 99 a. 4 ad 3
+Ad tertium dicendum quod si pecunia exigeretur sine rationabili causa, hoc videretur ad occasionem avaritiae pertinere. Sed quando exigitur ad hominum correctionem, habet manifestam utilitatem. Et ideo non pertinet ad occasionem avaritiae.

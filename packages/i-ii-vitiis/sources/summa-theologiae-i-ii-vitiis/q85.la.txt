@@ -1,0 +1,161 @@
+@@ I-II q. 85 pr.
+Deinde considerandum est de effectibus peccati. Et primo quidem, de corruptione boni naturae; secundo, de macula animae; tertio, de reatu poenae. Circa primum quaeruntur sex. Primo, utrum bonum naturae diminuatur per peccatum. Secundo, utrum totaliter tolli possit. Tertio, de quatuor vulneribus quae Beda ponit, quibus natura humana vulnerata est propter peccatum. Quarto, utrum privatio modi, speciei et ordinis, sit effectus peccati. Quinto, utrum mors et alii defectus corporales sint effectus peccati. Sexto, utrum sint aliquo modo homini naturales.
+
+@@ I-II q. 85 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod peccatum non diminuat bonum naturae. Peccatum enim hominis non est gravius quam peccatum Daemonis. Sed bona naturalia in Daemonibus manent integra post peccatum, ut Dionysius dicit, IV cap. de Div. Nom. Ergo peccatum etiam bonum naturae humanae non diminuit.
+
+@@ I-II q. 85 a. 1 arg. 2
+Praeterea, transmutato posteriori, non transmutatur prius, manet enim substantia eadem, transmutatis accidentibus. Sed natura praeexistit actioni voluntariae. Ergo, facta deordinatione circa actionem voluntariam per peccatum, non transmutatur propter hoc natura, ita quod bonum naturae diminuatur.
+
+@@ I-II q. 85 a. 1 arg. 3
+Praeterea, peccatum est actus quidam, diminutio autem passio. Nullum autem agens, ex hoc ipso quod agit, patitur, potest autem contingere quod in unum agat, et ab alio patiatur. Ergo ille qui peccat, per peccatum non diminuit bonum suae naturae.
+
+@@ I-II q. 85 a. 1 arg. 4
+Praeterea, nullum accidens agit in suum subiectum, quia quod patitur, est potentia ens; quod autem subiicitur accidenti, iam est actu ens secundum accidens illud. Sed peccatum est in bono naturae sicut accidens in subiecto. Ergo peccatum non diminuit bonum naturae, diminuere enim quoddam agere est.
+
+@@ I-II q. 85 a. 1 s. c.
+Sed contra est quod, sicut dicitur Luc. X, homo descendens a Ierusalem in Iericho, idest in defectum peccati, expoliatur gratuitis et vulneratur in naturalibus, ut Beda exponit. Ergo peccatum diminuit bonum naturae.
+
+@@ I-II q. 85 a. 1 co.
+Respondeo dicendum quod bonum naturae humanae potest tripliciter dici. Primo, ipsa principia naturae, ex quibus natura constituitur, et proprietates ex his causatae, sicut potentiae animae et alia huiusmodi. Secundo, quia homo a natura habet inclinationem ad virtutem, ut supra habitum est, ipsa inclinatio ad virtutem est quoddam bonum naturae. Tertio modo potest dici bonum naturae donum originalis iustitiae, quod fuit in primo homine collatum toti humanae naturae. Primum igitur bonum naturae nec tollitur nec diminuitur per peccatum. Tertium vero bonum naturae totaliter est ablatum per peccatum primi parentis. Sed medium bonum naturae, scilicet ipsa naturalis inclinatio ad virtutem, diminuitur per peccatum. Per actus enim humanos fit quaedam inclinatio ad similes actus, ut supra habitum est. Oportet autem quod ex hoc quod aliquid inclinatur ad unum contrariorum, diminuatur inclinatio eius ad aliud. Unde cum peccatum sit contrarium virtuti, ex hoc ipso quod homo peccat, diminuitur bonum naturae quod est inclinatio ad virtutem.
+
+@@ I-II q. 85 a. 1 ad 1
+Ad primum ergo dicendum quod Dionysius loquitur de bono primo naturae, quod est esse, vivere et intelligere; ut patet eius verba intuenti.
+
+@@ I-II q. 85 a. 1 ad 2
+Ad secundum dicendum quod natura, etsi sit prior quam voluntaria actio, tamen habet inclinationem ad quandam voluntariam actionem. Unde ipsa natura secundum se non variatur propter variationem voluntariae actionis, sed ipsa inclinatio variatur ex illa parte qua ordinatur ad terminum.
+
+@@ I-II q. 85 a. 1 ad 3
+Ad tertium dicendum quod actio voluntaria procedit ex diversis potentiis, quarum una est activa et alia passiva. Et ex hoc contingit quod per actiones voluntarias causatur aliquid, vel aufertur ab homine sic agente, ut supra dictum est, cum de generatione habituum ageretur.
+
+@@ I-II q. 85 a. 1 ad 4
+Ad quartum dicendum quod accidens non agit effective in subiectum; agit tamen formaliter in ipsum, eo modo loquendi quo dicitur quod albedo facit album. Et sic nihil prohibet quod peccatum diminuat bonum naturae, eo tamen modo quo est ipsa diminutio boni naturae, inquantum pertinet ad inordinationem actus. Sed quantum ad inordinationem agentis, oportet dicere quod talis inordinatio causatur per hoc quod in actibus animae aliquid est activum et aliquid passivum, sicut sensibile movet appetitum sensitivum, et appetitus sensitivus inclinat rationem et voluntatem, ut supra dictum est. Et ex hoc causatur inordinatio, non quidem ita quod accidens agat in proprium subiectum; sed secundum quod obiectum agit in potentiam, et una potentia agit in aliam, et deordinat ipsam.
+
+@@ I-II q. 85 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod totum bonum humanae naturae possit per peccatum auferri. Bonum enim naturae humanae finitum est, cum et ipsa natura humana sit finita. Sed quodlibet finitum totaliter consumitur, facta continua ablatione. Cum ergo bonum naturae continue per peccatum diminui possit, videtur quod possit quandoque totaliter consumi.
+
+@@ I-II q. 85 a. 2 arg. 2
+Praeterea, eorum quae sunt unius naturae, similis est ratio de toto et de partibus, sicut patet in aere et in aqua et carne, et omnibus corporibus similium partium. Sed bonum naturae est totaliter uniforme. Cum igitur pars eius possit auferri per peccatum, totum etiam per peccatum auferri posse videtur.
+
+@@ I-II q. 85 a. 2 arg. 3
+Praeterea, bonum naturae quod per peccatum minuitur, est habilitas ad virtutem. Sed in quibusdam propter peccatum habilitas praedicta totaliter tollitur, ut patet in damnatis, qui reparari ad virtutem non possunt, sicut nec caecus ad visum. Ergo peccatum potest totaliter tollere bonum naturae.
+
+@@ I-II q. 85 a. 2 s. c.
+Sed contra est quod Augustinus dicit, in Enchirid., quod malum non est nisi in bono. Sed malum culpae non potest esse in bono virtutis vel gratiae, quia est ei contrarium. Ergo oportet quod sit in bono naturae. Non ergo totaliter tollit ipsum.
+
+@@ I-II q. 85 a. 2 co.
+Respondeo dicendum quod, sicut dictum est, bonum naturae quod per peccatum diminuitur, est naturalis inclinatio ad virtutem. Quae quidem convenit homini ex hoc ipso quod rationalis est, ex hoc enim habet quod secundum rationem operetur, quod est agere secundum virtutem. Per peccatum autem non potest totaliter ab homine tolli quod sit rationalis, quia iam non esset capax peccati. Unde non est possibile quod praedictum naturae bonum totaliter tollatur. Cum autem inveniatur huiusmodi bonum continue diminui per peccatum, quidam ad huius manifestationem usi sunt quodam exemplo, in quo invenitur aliquod finitum in infinitum diminui, nunquam tamen totaliter consumi. Dicit enim philosophus, in III Physic., quod si ab aliqua magnitudine finita continue auferatur aliquid secundum eandem quantitatem, totaliter tandem consumetur, puta si a quacumque quantitate finita semper subtraxero mensuram palmi. Si vero fiat subtractio semper secundum eandem proportionem, et non secundum eandem quantitatem, poterit in infinitum subtrahi, puta, si quantitas dividatur in duas partes, et a dimidio subtrahatur dimidium, ita in infinitum poterit procedi; ita tamen quod semper quod posterius subtrahitur, erit minus eo quod prius subtrahebatur. Sed hoc in proposito non habet locum, non enim sequens peccatum minus diminuit bonum naturae quam praecedens, sed forte magis, si sit gravius. Et ideo aliter est dicendum quod praedicta inclinatio intelligitur ut media inter duo, fundatur enim sicut in radice in natura rationali, et tendit in bonum virtutis sicut in terminum et finem. Dupliciter igitur potest intelligi eius diminutio, uno modo, ex parte radicis; alio modo, ex parte termini. Primo quidem modo non diminuitur per peccatum, eo quod peccatum non diminuit ipsam naturam, ut supra dictum est. Sed diminuitur secundo modo, inquantum scilicet ponitur impedimentum pertingendi ad terminum. Si autem primo modo diminueretur, oporteret quod quandoque totaliter consumeretur, natura rationali totaliter consumpta. Sed quia diminuitur ex parte impedimenti quod apponitur ne pertingat ad terminum, manifestum est quod diminui quidem potest in infinitum, quia in infinitum possunt impedimenta apponi, secundum quod homo potest in infinitum addere peccatum peccato, non tamen potest totaliter consumi, quia semper manet radix talis inclinationis. Sicut patet in diaphano corpore, quod quidem habet inclinationem ad susceptionem lucis ex hoc ipso quod est diaphanum, diminuitur autem haec inclinatio vel habilitas ex parte nebularum supervenientium, cum tamen semper maneat in radice naturae.
+
+@@ I-II q. 85 a. 2 ad 1
+Ad primum ergo dicendum quod obiectio illa procedit quando fit diminutio per subtractionem. Hic autem fit diminutio per appositionem impedimenti, quod neque tollit neque diminuit radicem inclinationis, ut dictum est.
+
+@@ I-II q. 85 a. 2 ad 2
+Ad secundum dicendum quod inclinatio naturalis est quidem tota uniformis, sed tamen habet respectum et ad principium et ad terminum, secundum quam diversitatem quodammodo diminuitur et quodammodo non diminuitur.
+
+@@ I-II q. 85 a. 2 ad 3
+Ad tertium dicendum quod etiam in damnatis manet naturalis inclinatio ad virtutem, alioquin non esset in eis remorsus conscientiae. Sed quod non reducatur in actum, contingit quia deest gratia, secundum divinam iustitiam. Sicut etiam in caeco remanet aptitudo ad videndum in ipsa radice naturae, inquantum est animal naturaliter habens visum, sed non reducitur in actum, quia deest causa quae reducere possit formando organum quod requiritur ad videndum.
+
+@@ I-II q. 85 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod inconvenienter ponantur vulnera naturae esse, ex peccato consequentia, infirmitas, ignorantia, malitia et concupiscentia. Non enim idem est effectus et causa eiusdem. Sed ista ponuntur causae peccatorum, ut ex supradictis patet. Ergo non debent poni effectus peccati.
+
+@@ I-II q. 85 a. 3 arg. 2
+Praeterea, malitia nominat quoddam peccatum. Non ergo debet poni inter effectus peccati.
+
+@@ I-II q. 85 a. 3 arg. 3
+Praeterea, concupiscentia est quiddam naturale, cum sit actus virtutis concupiscibilis. Sed illud quod est naturale, non debet poni vulnus naturae. Ergo concupiscentia non debet poni vulnus naturae.
+
+@@ I-II q. 85 a. 3 arg. 4
+Praeterea, dictum est quod idem est peccare ex infirmitate, et ex passione. Sed concupiscentia passio quaedam est. Ergo non debet contra infirmitatem dividi.
+
+@@ I-II q. 85 a. 3 arg. 5
+Praeterea, Augustinus, in libro de natura et gratia, ponit duo poenalia animae peccanti, scilicet ignorantiam et difficultatem, ex quibus oritur error et cruciatus, quae quidem quatuor non concordant istis quatuor. Ergo videtur quod alterum eorum insufficienter ponatur.
+
+@@ I-II q. 85 a. 3 s. c.
+In contrarium est auctoritas Bedae.
+
+@@ I-II q. 85 a. 3 co.
+Respondeo dicendum quod per iustitiam originalem perfecte ratio continebat inferiores animae vires, et ipsa ratio a Deo perficiebatur ei subiecta. Haec autem originalis iustitia subtracta est per peccatum primi parentis, sicut iam dictum est. Et ideo omnes vires animae remanent quodammodo destitutae proprio ordine, quo naturaliter ordinantur ad virtutem, et ipsa destitutio vulneratio naturae dicitur. Sunt autem quatuor potentiae animae quae possunt esse subiecta virtutum, ut supra dictum est, scilicet ratio, in qua est prudentia; voluntas, in qua est iustitia; irascibilis, in qua est fortitudo; concupiscibilis, in qua est temperantia. Inquantum ergo ratio destituitur suo ordine ad verum, est vulnus ignorantiae; inquantum vero voluntas destituitur ordine ad bonum, est vulnus malitiae; inquantum vero irascibilis destituitur suo ordine ad arduum, est vulnus infirmitatis; inquantum vero concupiscentia destituitur ordine ad delectabile moderatum ratione, est vulnus concupiscentiae. Sic igitur ita quatuor sunt vulnera inflicta toti humanae naturae ex peccato primi parentis. Sed quia inclinatio ad bonum virtutis in unoquoque diminuitur per peccatum actuale, ut ex dictis patet, et ista sunt quatuor vulnera ex aliis peccatis consequentia, inquantum scilicet per peccatum et ratio hebetatur, praecipue in agendis; et voluntas induratur ad bonum; et maior difficultas bene agendi accrescit; et concupiscentia magis exardescit.
+
+@@ I-II q. 85 a. 3 ad 1
+Ad primum ergo dicendum quod nihil prohibet id quod est effectus unius peccati, esse causam peccati alterius. Ex hoc enim quod anima deordinatur per peccatum praecedens, facilius inclinatur ad peccandum.
+
+@@ I-II q. 85 a. 3 ad 2
+Ad secundum dicendum quod malitia non sumitur hic pro peccato, sed pro quadam pronitate voluntatis ad malum; secundum quod dicitur Gen. VIII, proni sunt sensus hominis ad malum ab adolescentia sua.
+
+@@ I-II q. 85 a. 3 ad 3
+Ad tertium dicendum quod, sicut supra dictum est, concupiscentia intantum est naturalis homini, inquantum subditur rationi. Quod autem excedat limites rationis, hoc est homini contra naturam.
+
+@@ I-II q. 85 a. 3 ad 4
+Ad quartum dicendum quod infirmitas communiter potest dici omnis passio, inquantum debilitat robur animae et impedit rationem. Sed Beda accepit infirmitatem stricte, secundum quod opponitur fortitudini, quae pertinet ad irascibilem.
+
+@@ I-II q. 85 a. 3 ad 5
+Ad quintum dicendum quod difficultas quae ponitur in libro Augustini, includit ista tria quae pertinent ad appetitivas potentias, scilicet malitiam, infirmitatem et concupiscentiam, ex his enim tribus contingit quod aliquis non facile tendit in bonum. Error autem et dolor sunt vulnera consequentia, ex hoc enim aliquis dolet, quod infirmatur circa ea quae concupiscit.
+
+@@ I-II q. 85 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod privatio modi, speciei et ordinis, non sit effectus peccati. Dicit enim Augustinus, in libro de natura boni, quod ubi haec tria magna sunt, magnum bonum est; ubi parva, parvum; ubi nulla, nullum. Sed peccatum non annullat bonum naturae. Ergo non privat modum, speciem et ordinem.
+
+@@ I-II q. 85 a. 4 arg. 2
+Praeterea, nihil est causa sui ipsius. Sed ipsum peccatum est privatio modi, speciei et ordinis, ut Augustinus dicit, in libro de natura boni. Ergo privatio modi, speciei et ordinis, non est effectus peccati.
+
+@@ I-II q. 85 a. 4 arg. 3
+Praeterea, diversa peccata diversos habent effectus. Sed modus, species et ordo, cum sint quaedam diversa, diversas privationes habere videntur. Ergo per diversa peccata privantur. Non ergo est effectus cuiuslibet peccati privatio modi, speciei et ordinis.
+
+@@ I-II q. 85 a. 4 s. c.
+Sed contra est quod peccatum est in anima sicut infirmitas in corpore; secundum illud Psalmi VI, miserere mei, domine, quoniam infirmus sum. Sed infirmitas privat modum, speciem et ordinem ipsius corporis. Ergo peccatum privat modum, speciem et ordinem animae.
+
+@@ I-II q. 85 a. 4 co.
+Respondeo dicendum quod, sicut in primo dictum est, modus, species et ordo consequuntur unumquodque bonum creatum inquantum huiusmodi, et etiam unumquodque ens. Omne enim esse et bonum consideratur per aliquam formam, secundum quam sumitur species. Forma autem uniuscuiusque rei, qualiscumque sit, sive substantialis sive accidentalis, est secundum aliquam mensuram, unde et in VIII Metaphys. dicitur quod formae rerum sunt sicut numeri. Et ex hoc habet modum quendam, qui mensuram respicit. Ex forma vero sua unumquodque ordinatur ad aliud. Sic igitur secundum diversos gradus bonorum, sunt diversi gradus modi, speciei et ordinis. Est ergo quoddam bonum pertinens ad ipsam substantiam naturae, quod habet suum modum, speciem et ordinem, et illud nec privatur nec diminuitur per peccatum. Est etiam quoddam bonum naturalis inclinationis, et hoc etiam habet suum modum, speciem et ordinem, et hoc diminuitur per peccatum, ut dictum est, sed non totaliter tollitur. Est etiam quoddam bonum virtutis et gratiae, quod etiam habet suum modum, speciem et ordinem, et hoc totaliter tollitur per peccatum mortale. Est etiam quoddam bonum quod est ipse actus ordinatus, quod etiam habet suum modum, speciem et ordinem, et huius privatio est essentialiter ipsum peccatum. Et sic patet qualiter peccatum et est privatio modi, speciei et ordinis; et privat vel diminuit modum, speciem et ordinem.
+
+@@ I-II q. 85 a. 4 ad 1
+Unde patet responsio ad duo prima.
+
+@@ I-II q. 85 a. 4 ad 3
+Ad tertium dicendum quod modus, species et ordo se consequuntur, sicut ex dictis patet. Unde simul privantur et diminuuntur.
+
+@@ I-II q. 85 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod mors et alii corporales defectus non sint effectus peccati. Si enim causa fuerit aequalis, et effectus erit aequalis. Sed huiusmodi defectus non sunt aequales in omnibus, sed in quibusdam huiusmodi defectus magis abundant, cum tamen peccatum originale sit in omnibus aequale, sicut dictum est, cuius videntur huiusmodi defectus maxime esse effectus. Ergo mors et huiusmodi defectus non sunt effectus peccati.
+
+@@ I-II q. 85 a. 5 arg. 2
+Praeterea, remota causa, removetur effectus. Sed remoto omni peccato per Baptismum vel poenitentiam, non removentur huiusmodi defectus. Ergo non sunt effectus peccati.
+
+@@ I-II q. 85 a. 5 arg. 3
+Praeterea, peccatum actuale habet plus de ratione culpae quam originale. Sed peccatum actuale non transmutat naturam corporis ad aliquem defectum. Ergo multo minus peccatum originale. Non ergo mors et alii defectus corporales sunt effectus peccati.
+
+@@ I-II q. 85 a. 5 s. c.
+Sed contra est quod apostolus dicit, Rom. V, per unum hominem peccatum in hunc mundum intravit, et per peccatum mors.
+
+@@ I-II q. 85 a. 5 co.
+Respondeo dicendum quod aliquid est causa alterius dupliciter, uno quidem modo, per se; alio modo, per accidens. Per se quidem est causa alterius quod secundum virtutem suae naturae vel formae producit effectum, unde sequitur quod effectus sit per se intentus a causa. Unde cum mors et huiusmodi defectus sint praeter intentionem peccantis, manifestum est quod peccatum non est per se causa istorum defectuum. Per accidens autem aliquid est causa alterius, si sit causa removendo prohibens, sicut dicitur in VIII Physic. quod divellens columnam, per accidens movet lapidem columnae superpositum. Et hoc modo peccatum primi parentis est causa mortis et omnium huiusmodi defectuum in natura humana, inquantum per peccatum primi parentis sublata est originalis iustitia, per quam non solum inferiores animae vires continebantur sub ratione absque omni deordinatione, sed totum corpus continebatur sub anima absque omni defectu, ut in primo habitum est. Et ideo, subtracta hac originali iustitia per peccatum primi parentis, sicut vulnerata est humana natura quantum ad animam per deordinationem potentiarum, ut supra dictum est; ita etiam est corruptibilis effecta per deordinationem ipsius corporis. Subtractio autem originalis iustitiae habet rationem poenae, sicut etiam subtractio gratiae. Unde etiam mors, et omnes defectus corporales consequentes, sunt quaedam poenae originalis peccati. Et quamvis huiusmodi defectus non sint intenti a peccante, sunt tamen ordinati secundum iustitiam Dei punientis.
+
+@@ I-II q. 85 a. 5 ad 1
+Ad primum ergo dicendum quod aequalitas causae per se, causat aequalem effectum, augmentata enim vel diminuta causa per se, augetur vel diminuitur effectus. Sed aequalitas causae removentis prohibens, non ostendit aequalitatem effectuum. Si quis enim aequali impulsu divellat duas columnas, non sequitur quod lapides superpositi aequaliter moveantur, sed ille velocius movebitur qui gravior erit secundum proprietatem suae naturae, cui relinquitur remoto prohibente. Sic igitur, remota originali iustitia, natura corporis humani relicta est sibi, et secundum hoc, secundum diversitatem naturalis complexionis, quorundam corpora pluribus defectibus subiacent, quorundam vero paucioribus, quamvis existente originali peccato aequali.
+
+@@ I-II q. 85 a. 5 ad 2
+Ad secundum dicendum quod culpa originalis et actualis removetur ab eodem a quo etiam removentur et huiusmodi defectus, secundum illud apostoli, Rom. VIII, vivificabit mortalia corpora vestra per inhabitantem spiritum eius in vobis, sed utrumque fit secundum ordinem divinae sapientiae, congruo tempore. Oportet enim quod ad immortalitatem et impassibilitatem gloriae, quae in Christo inchoata est, et per Christum nobis acquisita, perveniamus conformati prius passionibus eius. Unde oportet quod ad tempus passibilitas in nostris corporibus remaneat, ad impassibilitatem gloriae promerendam conformiter Christo.
+
+@@ I-II q. 85 a. 5 ad 3
+Ad tertium dicendum quod in peccato actuali duo possumus considerare, scilicet ipsam substantiam actus, et rationem culpae. Ex parte quidem substantiae actus, potest peccatum actuale aliquem defectum corporalem causare, sicut ex superfluo cibo aliqui infirmantur et moriuntur. Sed ex parte culpae, privat gratiam quae datur homini ad rectificandum animae actus, non autem ad cohibendum defectus corporales, sicut originalis iustitia cohibebat. Et ideo peccatum actuale non causat huiusmodi defectus, sicut originale.
+
+@@ I-II q. 85 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod mors et huiusmodi defectus sint homini naturales. Corruptibile enim et incorruptibile differunt genere, ut dicitur in X Metaphys. Sed homo est eiusdem generis cum aliis animalibus, quae sunt naturaliter corruptibilia. Ergo homo est naturaliter corruptibilis.
+
+@@ I-II q. 85 a. 6 arg. 2
+Praeterea, omne quod est compositum ex contrariis, est naturaliter corruptibile, quasi habens in se causam corruptionis suae. Sed corpus humanum est huiusmodi. Ergo est naturaliter corruptibile.
+
+@@ I-II q. 85 a. 6 arg. 3
+Praeterea, calidum naturaliter consumit humidum. Vita autem hominis conservatur per calidum et humidum. Cum igitur operationes vitae expleantur per actum caloris naturalis, ut dicitur in II de anima, videtur quod mors et huiusmodi defectus sint homini naturales.
+
+@@ I-II q. 85 a. 6 s. c. 1
+Sed contra, quidquid est homini naturale, Deus in homine fecit. Sed Deus mortem non fecit, ut dicitur Sap. I. Ergo mors non est homini naturalis.
+
+@@ I-II q. 85 a. 6 s. c. 2
+Praeterea, id quod est secundum naturam, non potest dici poena nec malum, quia unicuique rei est conveniens id quod est ei naturale. Sed mors et huiusmodi defectus sunt poena peccati originalis, ut supra dictum est. Ergo non sunt homini naturales.
+
+@@ I-II q. 85 a. 6 s. c. 3
+Praeterea, materia proportionatur formae, et quaelibet res suo fini. Finis autem hominis est beatitudo perpetua, ut supra dictum est. Forma etiam humani corporis est anima rationalis, quae est incorruptibilis, ut in primo habitum est. Ergo corpus humanum est naturaliter incorruptibile.
+
+@@ I-II q. 85 a. 6 co.
+Respondeo dicendum quod de unaquaque re corruptibili dupliciter loqui possumus, uno modo, secundum naturam universalem; alio modo, secundum naturam particularem. Natura quidem particularis est propria virtus activa et conservativa uniuscuiusque rei. Et secundum hanc, omnis corruptio et defectus est contra naturam, ut dicitur in II de caelo, quia huiusmodi virtus intendit esse et conservationem eius cuius est. Natura vero universalis est virtus activa in aliquo universali principio naturae, puta in aliquo caelestium corporum; vel alicuius superioris substantiae, secundum quod etiam Deus a quibusdam dicitur natura naturans. Quae quidem virtus intendit bonum et conservationem universi, ad quod exigitur alternatio generationis et corruptionis in rebus. Et secundum hoc, corruptiones et defectus rerum sunt naturales, non quidem secundum inclinationem formae, quae est principium essendi et perfectionis; sed secundum inclinationem materiae, quae proportionaliter attribuitur tali formae secundum distributionem universalis agentis. Et quamvis omnis forma intendat perpetuum esse quantum potest, nulla tamen forma rei corruptibilis potest assequi perpetuitatem sui, praeter animam rationalem, eo quod ipsa non est subiecta omnino materiae corporali, sicut aliae formae; quinimmo habet propriam operationem immaterialem, ut in primo habitum est. Unde ex parte suae formae, naturalior est homini incorruptio quam aliis rebus corruptibilibus. Sed quia et ipsa habet materiam ex contrariis compositam, ex inclinatione materiae sequitur corruptibilitas in toto. Et secundum hoc, homo est naturaliter corruptibilis secundum naturam materiae sibi relictae, sed non secundum naturam formae. Primae autem tres rationes procedunt ex parte materiae, aliae vero tres procedunt ex parte formae. Unde ad earum solutionem, considerandum est quod forma hominis, quae est anima rationalis, secundum suam incorruptibilitatem proportionata est suo fini, qui est beatitudo perpetua. Sed corpus humanum, quod est corruptibile secundum suam naturam consideratum, quodammodo proportionatum est suae formae, et quodammodo non. Duplex enim conditio potest attendi in aliqua materia, una scilicet quam agens eligit; alia quae non est ab agente electa, sed est secundum conditionem naturalem materiae. Sicut faber ad faciendum cultellum eligit materiam duram et ductilem, quae subtiliari possit ut sit apta incisioni, et secundum hanc conditionem ferrum est materia proportionata cultello, sed hoc quod ferrum sit frangibile et rubiginem contrahens, consequitur ex naturali dispositione ferri, nec hoc eligit artifex in ferro, sed magis repudiaret si posset. Unde haec dispositio materiae non est proportionata intentioni artificis, nec intentioni artis. Similiter corpus humanum est materia electa a natura quantum ad hoc, quod est temperatae complexionis, ut possit esse convenientissimum organum tactus et aliarum virtutum sensitivarum et motivarum. Sed quod sit corruptibile, hoc est ex conditione materiae, nec est electum a natura, quin potius natura eligeret materiam incorruptibilem, si posset. Sed Deus, cui subiacet omnis natura, in ipsa institutione hominis supplevit defectum naturae, et dono iustitiae originalis dedit corpori incorruptibilitatem quandam, ut in primo dictum est. Et secundum hoc dicitur quod Deus mortem non fecit, et quod mors est poena peccati.
+
+@@ I-II q. 85 a. 6 ad arg.
+Unde patet responsio ad obiecta.

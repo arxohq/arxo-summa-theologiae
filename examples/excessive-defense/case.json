@@ -1,0 +1,148 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:bd40e43bc173c9482701999e8143c6476fb0c1cee97a6f3ce9f199b8ddaf8e8c",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#presented",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:familia",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:0524664b0d29c4acaaf9368839534f348c4c4181c919af26a0459af2e9448082",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#defensor",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:familia",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:example:duplex:persona:pater",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:5725442e6d81065c6bab2b6373ac9d0f71b9b1669498d98911c8816a0b0cb305",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#vis",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:familia",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:b26c9a56a700e4bf35c1cd6b41adbe39613f6a90ff9a92fec3599eaeaf4277d6",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#finis",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:familia",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_conservationis_vitae"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:b36f22fc1ccfff3d054915e0adc8ae32726fc2a5015b77910defdc7e21e7d1b4",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#immoderata",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:familia",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_moderata"
+      },
+      "origin": "adjudicated",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:f5ba044847834fb90f53b33d4d4b90464025cdb3e47e6c303f2f6b69f4a2fa0e",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#non-occisio",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:familia",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_occisionis"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:94b3f11cc3443a135c9a9a2961f9b6c061f84dc2b5e8a4c79202804797862fc0",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#privatus",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:persona:pater",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    }
+  ],
+  "context": {
+    "decisionTime": "1270-06-01T12:00:00Z",
+    "knowledgeTime": "1270-06-01T12:00:00Z",
+    "legalTime": "1270-06-01",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

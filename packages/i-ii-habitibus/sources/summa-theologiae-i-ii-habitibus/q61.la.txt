@@ -1,0 +1,122 @@
+@@ I-II q. 61 pr.
+Deinde considerandum est de virtutibus cardinalibus. Et circa hoc quaeruntur quinque. Primo, utrum virtutes morales debeant dici cardinales, vel principales. Secundo, de numero earum. Tertio, quae sint. Quarto, utrum differant ab invicem. Quinto, utrum dividantur convenienter in virtutes politicas, et purgatorias, et purgati animi, et exemplares.
+
+@@ I-II q. 61 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod virtutes morales non debeant dici cardinales, seu principales. Quae enim ex opposito dividuntur, sunt simul natura, ut dicitur in praedicamentis, et sic unum non est altero principalius. Sed omnes virtutes ex opposito dividunt genus virtutis. Ergo nullae earum debent dici principales.
+
+@@ I-II q. 61 a. 1 arg. 2
+Praeterea, finis principalior est his quae sunt ad finem. Sed virtutes theologicae sunt circa finem, virtutes autem morales circa ea quae sunt ad finem. Ergo virtutes morales non debent dici principales, seu cardinales; sed magis theologicae.
+
+@@ I-II q. 61 a. 1 arg. 3
+Praeterea, principalius est quod est per essentiam, quam quod est per participationem. Sed virtutes intellectuales pertinent ad rationale per essentiam, virtutes autem morales ad rationale per participationem, ut supra dictum est. Ergo virtutes morales non sunt principales, sed magis virtutes intellectuales.
+
+@@ I-II q. 61 a. 1 s. c.
+Sed contra est quod Ambrosius dicit, super Lucam, exponens illud, beati pauperes spiritu, scimus virtutes esse quatuor cardinales, scilicet temperantiam, iustitiam, prudentiam, fortitudinem. Hae autem sunt virtutes morales. Ergo virtutes morales sunt cardinales.
+
+@@ I-II q. 61 a. 1 co.
+Respondeo dicendum quod, cum simpliciter de virtute loquimur, intelligimur loqui de virtute humana. Virtus autem humana, ut supra dictum est, secundum perfectam rationem virtutis dicitur, quae requirit rectitudinem appetitus, huiusmodi enim virtus non solum facit facultatem bene agendi, sed ipsum etiam usum boni operis causat. Sed secundum imperfectam rationem virtutis dicitur virtus quae non requirit rectitudinem appetitus, quia solum facit facultatem bene agendi, non autem causat boni operis usum. Constat autem quod perfectum est principalius imperfecto. Et ideo virtutes quae continent rectitudinem appetitus, dicuntur principales. Huiusmodi autem sunt virtutes morales; et inter intellectuales, sola prudentia, quae etiam quodammodo moralis est, secundum materiam, ut ex supradictis patet, unde convenienter inter virtutes morales ponuntur illae quae dicuntur principales, seu cardinales.
+
+@@ I-II q. 61 a. 1 ad 1
+Ad primum ergo dicendum quod, quando genus univocum dividitur in suas species, tunc partes divisionis ex aequo se habent secundum rationem generis; licet secundum naturam rei, una species sit principalior et perfectior alia, sicut homo aliis animalibus. Sed quando est divisio alicuius analogi, quod dicitur de pluribus secundum prius et posterius; tunc nihil prohibet unum esse principalius altero, etiam secundum communem rationem; sicut substantia principalius dicitur ens quam accidens. Et talis est divisio virtutum in diversa genera virtutum, eo quod bonum rationis non secundum eundem ordinem invenitur in omnibus.
+
+@@ I-II q. 61 a. 1 ad 2
+Ad secundum dicendum quod virtutes theologicae sunt supra hominem, ut supra dictum est. Unde non proprie dicuntur virtutes humanae, sed superhumanae, vel divinae.
+
+@@ I-II q. 61 a. 1 ad 3
+Ad tertium dicendum, quod aliae virtutes intellectuales a prudentia, etsi sint principaliores quam morales quantum ad subiectum; non tamen sunt principaliores quantum ad rationem virtutis, quae respicit bonum, quod est obiectum appetitus.
+
+@@ I-II q. 61 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod non sint quatuor virtutes cardinales. Prudentia enim est directiva aliarum virtutum moralium, ut ex supradictis patet. Sed id quod est directivum aliorum, principalius est. Ergo prudentia sola est virtus principalis.
+
+@@ I-II q. 61 a. 2 arg. 2
+Praeterea, virtutes principales sunt aliquo modo morales. Sed ad operationes morales ordinamur per rationem practicam, et appetitum rectum, ut dicitur in VI Ethic. Ergo solae duae virtutes cardinales sunt.
+
+@@ I-II q. 61 a. 2 arg. 3
+Praeterea, inter alias etiam virtutes una est principalior altera. Sed ad hoc quod virtus dicatur principalis, non requiritur quod sit principalis respectu omnium, sed respectu quarundam. Ergo videtur quod sint multo plures principales virtutes.
+
+@@ I-II q. 61 a. 2 s. c.
+Sed contra est quod Gregorius dicit, in II Moral., in quatuor virtutibus tota boni operis structura consurgit.
+
+@@ I-II q. 61 a. 2 co.
+Respondeo dicendum quod numerus aliquorum accipi potest aut secundum principia formalia aut secundum subiecta, et utroque modo inveniuntur quatuor cardinales virtutes. Principium enim formale virtutis de qua nunc loquimur, est rationis bonum. Quod quidem dupliciter potest considerari. Uno modo, secundum quod in ipsa consideratione rationis consistit. Et sic erit una virtus principalis, quae dicitur prudentia. Alio modo, secundum quod circa aliquid ponitur rationis ordo. Et hoc vel circa operationes, et sic est iustitia, vel circa passiones, et sic necesse est esse duas virtutes. Ordinem enim rationis necesse est ponere circa passiones, considerata repugnantia ipsarum ad rationem. Quae quidem potest esse dupliciter. Uno modo secundum quod passio impellit ad aliquid contrarium rationi, et sic necesse est quod passio reprimatur, et ab hoc denominatur temperantia. Alio modo, secundum quod passio retrahit ab eo quod ratio dictat, sicut timor periculorum vel laborum, et sic necesse est quod homo firmetur in eo quod est rationis, ne recedat; et ab hoc denominatur fortitudo. Similiter secundum subiecta, idem numerus invenitur. Quadruplex enim invenitur subiectum huius virtutis de qua nunc loquimur, scilicet rationale per essentiam, quod prudentia perficit; et rationale per participationem, quod dividitur in tria; idest in voluntatem, quae est subiectum iustitiae; et in concupiscibilem, quae est subiectum temperantiae; et in irascibilem, quae est subiectum fortitudinis.
+
+@@ I-II q. 61 a. 2 ad 1
+Ad primum ergo dicendum quod prudentia est simpliciter principalior omnibus. Sed aliae ponuntur principales unaquaeque in suo genere.
+
+@@ I-II q. 61 a. 2 ad 2
+Ad secundum dicendum quod rationale per participationem dividitur in tria, ut dictum est.
+
+@@ I-II q. 61 a. 2 ad 3
+Ad tertium dicendum quod omnes aliae virtutes, quarum una est principalior alia, reducuntur ad praedictas quatuor, et quantum ad subiectum, et quantum ad rationes formales.
+
+@@ I-II q. 61 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod aliae virtutes debeant dici magis principales quam istae. Id enim quod est maximum in unoquoque genere, videtur esse principalius. Sed magnanimitas operatur magnum in omnibus virtutibus, ut dicitur in IV Ethic. Ergo magnanimitas maxime debet dici principalis virtus.
+
+@@ I-II q. 61 a. 3 arg. 2
+Praeterea, illud per quod aliae virtutes firmantur, videtur esse maxime principalis virtus. Sed humilitas est huiusmodi, dicit enim Gregorius quod qui ceteras virtutes sine humilitate congregat, quasi paleas in ventum portat. Ergo humilitas videtur esse maxime principalis.
+
+@@ I-II q. 61 a. 3 arg. 3
+Praeterea, illud videtur esse principale, quod est perfectissimum. Sed hoc pertinet ad patientiam; secundum illud Iacobi I, patientia opus perfectum habet. Ergo patientia debet poni principalis.
+
+@@ I-II q. 61 a. 3 s. c.
+Sed contra est quod Tullius, in sua rhetorica, ad has quatuor omnes alias reducit.
+
+@@ I-II q. 61 a. 3 co.
+Respondeo dicendum quod sicut supra dictum est, huiusmodi quatuor virtutes cardinales accipiuntur secundum quatuor formales rationes virtutis de qua loquimur. Quae quidem in aliquibus actibus vel passionibus principaliter inveniuntur. Sicut bonum consistens in consideratione rationis, principaliter invenitur in ipso rationis imperio; non autem in consilio, neque in iudicio, ut supra dictum est. Similiter autem bonum rationis prout ponitur in operationibus secundum rationem recti et debiti, principaliter invenitur in commutationibus vel distributionibus quae sunt ad alterum cum aequalitate. Bonum autem refraenandi passiones principaliter invenitur in passionibus quas maxime difficile est reprimere, scilicet in delectationibus tactus. Bonum autem firmitatis ad standum in bono rationis contra impetum passionum, praecipue invenitur in periculis mortis, contra quae difficillimum est stare. Sic igitur praedictas quatuor virtutes dupliciter considerare possumus. Uno modo, secundum communes rationes formales. Et secundum hoc, dicuntur principales, quasi generales ad omnes virtutes, utputa quod omnis virtus quae facit bonum in consideratione rationis, dicatur prudentia; et quod omnis virtus quae facit bonum debiti et recti in operationibus, dicatur iustitia; et omnis virtus quae cohibet passiones et deprimit, dicatur temperantia; et omnis virtus quae facit firmitatem animi contra quascumque passiones, dicatur fortitudo. Et sic multi loquuntur de istis virtutibus, tam sacri doctores quam etiam philosophi. Et sic aliae virtutes sub ipsis continentur unde cessant omnes obiectiones. Alio vero modo possunt accipi, secundum quod istae virtutes denominantur ab eo quod est praecipuum in unaquaque materia. Et sic sunt speciales virtutes, contra alias divisae. Dicuntur tamen principales respectu aliarum, propter principalitatem materiae, puta quod prudentia dicatur quae praeceptiva est; iustitia, quae est circa actiones debitas inter aequales; temperantia, quae reprimit concupiscentias delectationum tactus; fortitudo, quae firmat contra pericula mortis.
+
+@@ I-II q. 61 a. 3 ad 1
+Et sic etiam cessant obiectiones, quia aliae virtutes possunt habere aliquas alias principalitates, sed istae dicuntur principales ratione materiae, ut supra dictum est.
+
+@@ I-II q. 61 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod quatuor praedictae virtutes non sint diversae virtutes, et ab invicem distinctae. Dicit enim Gregorius, in XXII Moral., prudentia vera non est, quae iusta, temperans et fortis non est; nec perfecta temperantia, quae fortis, iusta et prudens non est; nec fortitudo integra, quae prudens, temperans et iusta non est; nec vera iustitia, quae prudens, fortis et temperans non est. Hoc autem non contingeret, si praedictae quatuor virtutes essent ab invicem distinctae, diversae enim species eiusdem generis non denominant se invicem. Ergo praedictae virtutes non sunt ab invicem distinctae.
+
+@@ I-II q. 61 a. 4 arg. 2
+Praeterea, eorum quae ab invicem sunt distincta, quod est unius, non attribuitur alteri. Sed illud quod est temperantiae, attribuitur fortitudini, dicit enim Ambrosius, in I libro de Offic., iure ea fortitudo vocatur, quando unusquisque seipsum vincit, nullis illecebris emollitur atque inflectitur. De temperantia etiam dicit quod modum vel ordinem servat omnium quae vel agenda vel dicenda arbitramur. Ergo videtur quod huiusmodi virtutes non sunt ab invicem distinctae.
+
+@@ I-II q. 61 a. 4 arg. 3
+Praeterea, philosophus dicit, in II Ethic., quod ad virtutem haec requiruntur, primum quidem, si sciens; deinde, si eligens, et eligens propter hoc; tertium autem, si firme et immobiliter habeat et operetur. Sed horum primum videtur ad prudentiam pertinere, quae est recta ratio agibilium; secundum, scilicet eligere, ad temperantiam, ut aliquis non ex passione, sed ex electione agat, passionibus refraenatis; tertium, ut aliquis propter debitum finem operetur, rectitudinem quandam continet, quae videtur ad iustitiam pertinere aliud, scilicet firmitas et immobilitas, pertinet ad fortitudinem. Ergo quaelibet harum virtutum est generalis ad omnes virtutes. Ergo non distinguuntur ad invicem.
+
+@@ I-II q. 61 a. 4 s. c.
+Sed contra est quod Augustinus dicit, in libro de moribus Eccles., quod quadripartita dicitur virtus, ex ipsius amoris vario affectu, et subiungit de praedictis quatuor virtutibus. Praedictae ergo quatuor virtutes sunt ab invicem distinctae.
+
+@@ I-II q. 61 a. 4 co.
+Respondeo dicendum quod, sicut supra dictum est, praedictae quatuor virtutes dupliciter a diversis accipiuntur. Quidam enim accipiunt eas, prout significant quasdam generales conditiones humani animi, quae inveniuntur in omnibus virtutibus, ita scilicet quod prudentia nihil sit aliud quam quaedam rectitudo discretionis in quibuscumque actibus vel materiis; iustitia vero sit quaedam rectitudo animi, per quam homo operatur quod debet in quacumque materia; temperantia vero sit quaedam dispositio animi quae modum quibuscumque passionibus vel operationibus imponit, ne ultra debitum efferantur; fortitudo vero sit quaedam dispositio animae per quam firmetur in eo quod est secundum rationem, contra quoscumque impetus passionum vel operationum labores. Haec autem quatuor sic distincta, non important diversitatem habituum virtuosorum quantum ad iustitiam, temperantiam et fortitudinem. Cuilibet enim virtuti morali, ex hoc quod est habitus, convenit quaedam firmitas, ut a contrario non moveatur, quod dictum est ad fortitudinem pertinere. Ex hoc vero quod est virtus, habet quod ordinetur ad bonum, in quo importatur ratio recti vel debiti, quod dicebatur ad iustitiam pertinere. In hoc vero quod est virtus moralis rationem participans, habet quod modum rationis in omnibus servet, et ultra se non extendat, quod dicebatur pertinere ad temperantiam. Solum autem hoc quod est discretionem habere, quod attribuebatur prudentiae, videtur distingui ab aliis tribus, inquantum hoc est ipsius rationis per essentiam; alia vero tria important quandam participationem rationis, per modum applicationis cuiusdam ad passiones vel operationes. Sic igitur, secundum praedicta, prudentia quidem esset virtus distincta ab aliis tribus, sed aliae tres non essent virtutes distinctae ab invicem; manifestum est enim quod una et eadem virtus et est habitus, et est virtus, et est moralis. Alii vero, et melius, accipiunt has quatuor virtutes secundum quod determinantur ad materias speciales; unaquaeque quidem illarum ad unam materiam, in qua principaliter laudatur illa generalis conditio a qua nomen virtutis accipitur, ut supra dictum est. Et secundum hoc, manifestum est quod praedictae virtutes sunt diversi habitus, secundum diversitatem obiectorum distincti.
+
+@@ I-II q. 61 a. 4 ad 1
+Ad primum ergo dicendum quod Gregorius loquitur de praedictis quatuor virtutibus secundum primam acceptionem. Vel potest dici quod istae quatuor virtutes denominantur ab invicem per redundantiam quandam. Id enim quod est prudentiae, redundat in alias virtutes, inquantum a prudentia diriguntur. Unaquaeque vero aliarum redundat in alias ea ratione, quod qui potest quod est difficilius, potest et id quod minus est difficile. Unde qui potest refraenare concupiscentias delectabilium secundum tactum, ne modum excedant, quod est difficillimum; ex hoc ipso redditur habilior ut refraenet audaciam in periculis mortis, ne ultra modum procedat, quod est longe facilius; et secundum hoc, fortitudo dicitur temperata. Temperantia etiam dicitur fortis, ex redundantia fortitudinis in temperantiam, inquantum scilicet ille qui per fortitudinem habet animum firmum contra pericula mortis, quod est difficillimum, est habilior ut retineat animi firmitatem contra impetus delectationum; quia, ut dicit Tullius in I de Offic., non est consentaneum ut qui metu non frangitur, cupiditate frangatur; nec qui invictum se a labore praestiterit, vinci a voluptate.
+
+@@ I-II q. 61 a. 4 ad 2
+Et per hoc etiam patet responsio ad secundum. Sic enim temperantia in omnibus modum servat, et fortitudo contra illecebras voluptatum animum servat inflexum, vel inquantum istae virtutes denominant quasdam generales conditiones virtutum; vel per redundantiam praedictam.
+
+@@ I-II q. 61 a. 4 ad 3
+Ad tertium dicendum quod illae quatuor generales virtutum conditiones quas ponit philosophus, non sunt propriae praedictis virtutibus. Sed possunt eis appropriari, secundum modum iam dictum.
+
+@@ I-II q. 61 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod inconvenienter huiusmodi quatuor virtutes dividantur in virtutes exemplares, purgati animi, purgatorias, et politicas. Ut enim Macrobius dicit, in I super somnium Scipionis, virtutes exemplares sunt quae in ipsa divina mente consistunt. Sed philosophus, in X Ethic., dicit quod ridiculum est Deo iustitiam, fortitudinem, temperantiam et prudentiam attribuere. Ergo virtutes huiusmodi non possunt esse exemplares.
+
+@@ I-II q. 61 a. 5 arg. 2
+Praeterea, virtutes purgati animi dicuntur quae sunt absque passionibus, dicit enim ibidem Macrobius quod temperantiae purgati animi est terrenas cupiditates non reprimere, sed penitus oblivisci; fortitudinis autem passiones ignorare, non vincere. Dictum est autem supra quod huiusmodi virtutes sine passionibus esse non possunt. Ergo huiusmodi virtutes purgati animi esse non possunt.
+
+@@ I-II q. 61 a. 5 arg. 3
+Praeterea, virtutes purgatorias dicit esse eorum qui quadam humanorum fuga solis se inserunt divinis. Sed hoc videtur esse vitiosum, dicit enim Tullius, in I de Offic., quod qui despicere se dicunt ea quae plerique mirantur imperia et magistratus, his non modo non laudi, verum etiam vitio dandum puto. Ergo non sunt aliquae virtutes purgatoriae.
+
+@@ I-II q. 61 a. 5 arg. 4
+Praeterea, virtutes politicas esse dicit quibus boni viri reipublicae consulunt, urbesque tuentur. Sed ad bonum commune sola iustitia legalis ordinatur; ut philosophus dicit, in V Ethic. Ergo aliae virtutes non debent dici politicae.
+
+@@ I-II q. 61 a. 5 s. c.
+Sed contra est quod Macrobius ibidem dicit, Plotinus, inter philosophiae professores cum Platone princeps, quatuor sunt, inquit, quaternarum genera virtutum. Ex his primae politicae vocantur; secundae, purgatoriae; tertiae autem, iam purgati animi; quartae, exemplares.
+
+@@ I-II q. 61 a. 5 co.
+Respondeo dicendum quod, sicut Augustinus dicit in libro de moribus Eccles., oportet quod anima aliquid sequatur, ad hoc quod ei possit virtus innasci, et hoc Deus est, quem si sequimur, bene vivimus. Oportet igitur quod exemplar humanae virtutis in Deo praeexistat, sicut et in eo praeexistunt omnium rerum rationes. Sic igitur virtus potest considerari vel prout est exemplariter in Deo, et sic dicuntur virtutes exemplares. Ita scilicet quod ipsa divina mens in Deo dicatur prudentia; temperantia vero, conversio divinae intentionis ad seipsum, sicut in nobis temperantia dicitur per hoc quod concupiscibilis conformatur rationi; fortitudo autem Dei est eius immutabilitas; iustitia vero Dei est observatio legis aeternae in suis operibus, sicut Plotinus dixit. Et quia homo secundum suam naturam est animal politicum, virtutes huiusmodi, prout in homine existunt secundum conditionem suae naturae, politicae vocantur, prout scilicet homo secundum has virtutes recte se habet in rebus humanis gerendis. Secundum quem modum hactenus de his virtutibus locuti sumus. Sed quia ad hominem pertinet ut etiam ad divina se trahat quantum potest, ut etiam philosophus dicit, in X Ethic.; et hoc nobis in sacra Scriptura multipliciter commendatur, ut est illud Matth. V, estote perfecti, sicut et pater vester caelestis perfectus est, necesse est ponere quasdam virtutes medias inter politicas, quae sunt virtutes humanae, et exemplares, quae sunt virtutes divinae. Quae quidem virtutes distinguuntur secundum diversitatem motus et termini. Ita scilicet quod quaedam sunt virtutes transeuntium et in divinam similitudinem tendentium, et hae vocantur virtutes purgatoriae. Ita scilicet quod prudentia omnia mundana divinorum contemplatione despiciat, omnemque animae cogitationem in divina sola dirigat; temperantia vero relinquat, inquantum natura patitur, quae corporis usus requirit; fortitudinis autem est ut anima non terreatur propter excessum a corpore, et accessum ad superna; iustitia vero est ut tota anima consentiat ad huius propositi viam. Quaedam vero sunt virtutes iam assequentium divinam similitudinem, quae vocantur virtutes iam purgati animi. Ita scilicet quod prudentia sola divina intueatur; temperantia terrenas cupiditates nesciat; fortitudo passiones ignoret; iustitia cum divina mente perpetuo foedere societur, eam scilicet imitando. Quas quidem virtutes dicimus esse beatorum, vel aliquorum in hac vita perfectissimorum.
+
+@@ I-II q. 61 a. 5 ad 1
+Ad primum ergo dicendum quod philosophus loquitur de his virtutibus secundum quod sunt circa res humanas, puta iustitia circa emptiones et venditiones, fortitudo circa timores, temperantia circa concupiscentias. Sic enim ridiculum est eas Deo attribuere.
+
+@@ I-II q. 61 a. 5 ad 2
+Ad secundum dicendum quod virtutes humanae sunt circa passiones, scilicet virtutes hominum in hoc mundo conversantium. Sed virtutes eorum qui plenam beatitudinem assequuntur, sunt absque passionibus. Unde Plotinus dicit quod passiones politicae virtutes molliunt, idest ad medium reducunt; secundae, scilicet purgatoriae, auferunt; tertiae, quae sunt purgati animi, obliviscuntur; in quartis, scilicet exemplaribus, nefas est nominari. Quamvis dici possit quod loquitur hic de passionibus secundum quod significant aliquos inordinatos motus.
+
+@@ I-II q. 61 a. 5 ad 3
+Ad tertium dicendum quod deserere res humanas ubi necessitas imponitur, vitiosum est, alias est virtuosum. Unde parum supra Tullius praemittit, his forsitan concedendum est rempublicam non capessentibus, qui excellenti ingenio doctrinae se dederunt; et his qui aut valetudinis imbecillitate, aut aliqua graviori causa impediti, a republica recesserunt; cum eius administrandae potestatem aliis laudemque concederent. Quod consonat ei quod Augustinus dicit, XIX de Civ. Dei, otium sanctum quaerit caritas veritatis; negotium iustum suscipit necessitas caritatis. Quam sarcinam si nullus imponit, percipiendae atque intuendae vacandum est veritati, si autem imponitur, suscipienda est, propter caritatis necessitatem.
+
+@@ I-II q. 61 a. 5 ad 4
+Ad quartum dicendum quod sola iustitia legalis directe respicit bonum commune, sed per imperium omnes alias virtutes ad bonum commune trahit, ut in V Ethic. dicit philosophus. Est enim considerandum quod ad politicas virtutes, secundum quod hic dicuntur, pertinet non solum bene operari ad commune, sed etiam bene operari ad partes communis, scilicet ad domum, vel aliquam singularem personam.

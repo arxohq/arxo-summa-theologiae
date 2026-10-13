@@ -1,0 +1,32 @@
+[package]
+name = "la.aquinas.summa.i_de_creatione"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-de-creatione"
+
+[metadata]
+act = "la-summa-i-de-creatione"
+title = "Фома Аквинский, Summa theologiae I, вопросы 44–49: творение"
+primarySource = "SUMMA_THEOLOGIAE_I_44_49"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_de_creatione#authored"
+regression = false
+suites = [
+    "tests/01-godcauseofbeings-affirmat.lawtest",
+    "tests/01b-godcauseofbeings-negata.lawtest",
+    "tests/02-creationismakingfromnothing-affirmat.lawtest",
+    "tests/02b-creationismakingfromnothing-negata.lawtest",
+    "tests/03-multitudefromgod-affirmat.lawtest",
+    "tests/03b-multitudefromgod-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_de_creatione"]
+
+[authoring]
+local_imports = "explicit"

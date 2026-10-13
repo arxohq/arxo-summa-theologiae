@@ -1,0 +1,32 @@
+[package]
+name = "la.aquinas.summa.iii_incarnatione"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-iii-incarnatione"
+
+[metadata]
+act = "la-summa-iii-incarnatione"
+title = "Фома Аквинский, Summa theologiae III, вопросы 1–26: воплощение"
+primarySource = "SUMMA_THEOLOGIAE_III_1_26"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.iii_incarnatione#authored"
+regression = false
+suites = [
+    "tests/01-incarnationfitting-affirmat.lawtest",
+    "tests/01b-incarnationfitting-negata.lawtest",
+    "tests/02-unioninperson-affirmat.lawtest",
+    "tests/02b-unioninperson-negata.lawtest",
+    "tests/03-godisman-affirmat.lawtest",
+    "tests/03b-godisman-negata.lawtest"
+]
+world = ["la.aquinas.summa.iii_incarnatione"]
+
+[authoring]
+local_imports = "explicit"

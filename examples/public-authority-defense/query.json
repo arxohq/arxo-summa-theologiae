@@ -1,0 +1,15 @@
+{
+  "queryId": "miles-defensio-licita",
+  "kind": "truth",
+  "literal": {
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_licita",
+    "args": [
+      {
+        "kind": "entity_ref",
+        "id": "urn:example:duplex:actus:miles"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+// Прикладной канон respondeo I qq. 27-43.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_trinitate version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-trinitate";
+
+use self::{
+    ST_I_Q27_A1_RESP,
+    ST_I_Q32_A1_RESP,
+    ST_I_Q39_A1_RESP,
+    Subject,
+    god_considered,
+    presented,
+    trinity_considered,
+};
+
+pub relation procession_in_god(s: Subject) kind institutional {
+    label la official "in Deo est processio";
+    label ru unofficial "в Боге есть исхождение";
+}
+
+@source(ST_I_Q27_A1_RESP)
+rule ProcessionInGod(s: Subject) strict {
+    label la official "in Deo est processio";
+    label ru unofficial "в Боге есть исхождение";
+    when presented(s) and god_considered(s);
+    then procession_in_god(s);
+}
+
+pub relation trinity_by_faith(s: Subject) kind institutional {
+    label la official "trinitas personarum non potest per rationem naturalem cognosci";
+    label ru unofficial "Троица лиц не познаётся естественным разумом";
+}
+
+@source(ST_I_Q32_A1_RESP)
+rule TrinityKnowableByFaith(s: Subject) strict {
+    label la official "trinitas personarum non potest per rationem naturalem cognosci";
+    label ru unofficial "Троица лиц не познаётся естественным разумом";
+    when presented(s) and trinity_considered(s);
+    then trinity_by_faith(s);
+}
+
+pub relation persons_are_essence(s: Subject) kind institutional {
+    label la official "personae sunt ipsa essentia divina";
+    label ru unofficial "лица суть сама божественная сущность";
+}
+
+@source(ST_I_Q39_A1_RESP)
+rule PersonsAndEssence(s: Subject) strict {
+    label la official "personae sunt ipsa essentia divina";
+    label ru unofficial "лица суть сама божественная сущность";
+    when presented(s) and trinity_considered(s);
+    then persons_are_essence(s);
+}
+

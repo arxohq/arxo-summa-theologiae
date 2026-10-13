@@ -1,0 +1,23 @@
+name: Addressed Summa verification
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  summa:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install the published CLI
+        run: npm install -g @arxo/cli@0.2.4
+      - name: Verify selected models, reader examples and native ask
+        run: python3 tools/check.py

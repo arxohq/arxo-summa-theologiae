@@ -1,0 +1,66 @@
+// q.91 a.1-4: четыре основных вида закона выражены четырьмя отдельными
+// классификациями §148. q.91 a.5-6 (lex vetus/nova и lex fomitis) остаются
+// в полном графе quaestio, но не расширяют этот четырёхчленный основной срез.
+
+language "law.core" version "0.2";
+package la.aquinas.summa_theologiae_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-theologiae-law";
+
+use self::{
+    Law,
+    ST_Q91_A1_RESP,
+    ST_Q91_A2_RESP,
+    ST_Q91_A3_RESP,
+    ST_Q91_A4_RESP,
+    issued_by_caretaker_of_community,
+    ordered_to_common_good,
+    ordinance_of_reason,
+    promulgated,
+};
+
+relation divine_governance_reason(l: Law) kind empirical {
+    label la official "ratio gubernationis rerum in Deo existit";
+    label ru unofficial "установление есть разум божественного управления всем миром";
+}
+relation participation_of_eternal_reason(l: Law) kind empirical {
+    label la official "participatio legis aeternae in rationali creatura est";
+    label ru unofficial "установление есть участие разумного творения в вечном законе";
+}
+relation human_particular_determination(l: Law) kind empirical {
+    label la official "particularis dispositio ratione humana inventa est";
+    label ru unofficial "установление есть частное определение, выведенное человеческим разумом";
+}
+relation divinely_revealed_direction(l: Law) kind empirical {
+    label la official "directio divinitus tradita est";
+    label ru unofficial "установление дано через божественное откровение";
+}
+
+@source(ST_Q91_A1_RESP)
+classification eternal_law(l: Law) strict {
+    when divine_governance_reason(l);
+    label la official "ratio divinae gubernationis est lex aeterna";
+    label ru unofficial "вечный закон";
+}
+@source(ST_Q91_A2_RESP)
+classification natural_law(l: Law) strict {
+    when participation_of_eternal_reason(l);
+    label la official "participatio legis aeternae in rationali creatura lex naturalis dicitur";
+    label ru unofficial "естественный закон";
+}
+@source(ST_Q91_A3_RESP)
+classification human_law(l: Law) strict {
+    when human_particular_determination(l)
+        and ordinance_of_reason(l)
+        and ordered_to_common_good(l)
+        and issued_by_caretaker_of_community(l)
+        and promulgated(l);
+    label la official "particulares dispositiones ratione humana inventae leges humanae dicuntur";
+    label ru unofficial "человеческий закон";
+}
+@source(ST_Q91_A4_RESP)
+classification divine_law(l: Law) strict {
+    when divinely_revealed_direction(l);
+    label la official "praeter naturalem et humanam necessaria est lex divinitus data";
+    label ru unofficial "божественный закон";
+}
+

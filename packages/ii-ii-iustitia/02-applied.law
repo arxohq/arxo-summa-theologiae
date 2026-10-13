@@ -1,0 +1,84 @@
+// Прикладной канон respondeo II-II qq. 57-122.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_iustitia version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-iustitia";
+
+use self::{
+    ST_II_II_Q57_A1_RESP,
+    ST_II_II_Q58_A1_RESP,
+    ST_II_II_Q61_A1_RESP,
+    ST_II_II_Q64_A1_RESP,
+    ST_II_II_Q66_A1_RESP,
+    Subject,
+    homicide_presented,
+    justice_presented,
+    presented,
+    theft_presented,
+};
+
+pub relation right_is_object(s: Subject) kind institutional {
+    label la official "ius est obiectum iustitiae";
+    label ru unofficial "право — объект справедливости";
+}
+
+@source(ST_II_II_Q57_A1_RESP)
+rule RightIsObjectOfJustice(s: Subject) strict {
+    label la official "ius est obiectum iustitiae";
+    label ru unofficial "право — объект справедливости";
+    when presented(s) and justice_presented(s);
+    then right_is_object(s);
+}
+
+pub relation justice_is_virtue(s: Subject) kind institutional {
+    label la official "iustitia est virtus";
+    label ru unofficial "справедливость есть добродетель";
+}
+
+@source(ST_II_II_Q58_A1_RESP)
+rule JusticeIsVirtue(s: Subject) strict {
+    label la official "iustitia est virtus";
+    label ru unofficial "справедливость есть добродетель";
+    when presented(s) and justice_presented(s);
+    then justice_is_virtue(s);
+}
+
+pub relation justice_has_species(s: Subject) kind institutional {
+    label la official "iustitia commutativa et distributiva";
+    label ru unofficial "справедливость меновая и распределительная";
+}
+
+@source(ST_II_II_Q61_A1_RESP)
+rule CommutativeAndDistributive(s: Subject) strict {
+    label la official "iustitia commutativa et distributiva";
+    label ru unofficial "справедливость меновая и распределительная";
+    when presented(s) and justice_presented(s);
+    then justice_has_species(s);
+}
+
+pub relation killing_can_be_sin(s: Subject) kind institutional {
+    label la official "homicidium potest esse peccatum";
+    label ru unofficial "убийство может быть грехом";
+}
+
+@source(ST_II_II_Q64_A1_RESP)
+rule KillingCanBeSin(s: Subject) strict {
+    label la official "homicidium potest esse peccatum";
+    label ru unofficial "убийство может быть грехом";
+    when presented(s) and homicide_presented(s);
+    then killing_can_be_sin(s);
+}
+
+pub relation theft_is_sin(s: Subject) kind institutional {
+    label la official "furtum est peccatum";
+    label ru unofficial "кража есть грех";
+}
+
+@source(ST_II_II_Q66_A1_RESP)
+rule TheftIsSin(s: Subject) strict {
+    label la official "furtum est peccatum";
+    label ru unofficial "кража есть грех";
+    when presented(s) and theft_presented(s);
+    then theft_is_sin(s);
+}
+

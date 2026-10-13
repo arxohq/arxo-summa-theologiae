@@ -1,0 +1,38 @@
+[package]
+name = "la.aquinas.summa.iii_sacramentis"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-iii-sacramentis"
+
+[metadata]
+act = "la-summa-iii-sacramentis"
+title = "Фома Аквинский, Summa theologiae III, вопросы 60–90: таинства"
+primarySource = "SUMMA_THEOLOGIAE_III_60_90"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.iii_sacramentis#authored"
+regression = false
+suites = [
+    "tests/01-sacramentissign-affirmat.lawtest",
+    "tests/01b-sacramentissign-negata.lawtest",
+    "tests/02-sacramentscausegrace-affirmat.lawtest",
+    "tests/02b-sacramentscausegrace-negata.lawtest",
+    "tests/03-baptismsacrament-affirmat.lawtest",
+    "tests/03b-baptismsacrament-negata.lawtest",
+    "tests/04-eucharistsacrament-affirmat.lawtest",
+    "tests/04b-eucharistsacrament-negata.lawtest",
+    "tests/05-realpresence-affirmat.lawtest",
+    "tests/05b-realpresence-negata.lawtest",
+    "tests/06-penancesacrament-affirmat.lawtest",
+    "tests/06b-penancesacrament-negata.lawtest"
+]
+world = ["la.aquinas.summa.iii_sacramentis"]
+
+[authoring]
+local_imports = "explicit"

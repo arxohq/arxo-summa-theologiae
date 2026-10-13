@@ -1,0 +1,295 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:b3723e483fa3a3a67d758539236b2a402b8b736108246da3a0bc015a13fe4e00",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:10907702759dcbb088835e059f72fcecac3d98b2f7be31610113be6fea1ca89c",
+    "decisionTime": "1270-06-01T12:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "1270-06-01T12:00:00Z",
+    "legalTime": "1270-06-01",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:b3622e8cde65392e0c5914b5d28ff581a8db06732a1657ad7befb2105d0f9efc",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:56c9774753a90c1a5d8a7f3c2ba52be6e638ec8e3b9083420cff8fe238cf2583",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:b3622e8cde65392e0c5914b5d28ff581a8db06732a1657ad7befb2105d0f9efc",
+    "timezone": "UTC"
+  },
+  "positions": [
+    {
+      "createdBy": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:b2b253cae2c261807299d7218d867bd595e33a84de8598f035caaea9d780b77c",
+      "holder": "urn:example:duplex:persona:viator",
+      "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:ebde4e9412d5633dd8656fc0bd6065694bc8361780874a4f3c41d889b2c28c87",
+      "manifest": "urn:manifest:oracle-1",
+      "modality": "duty",
+      "payload": {
+        "bearer": {
+          "id": "urn:example:duplex:persona:viator",
+          "kind": "entity_ref"
+        },
+        "goal": {
+          "action": {
+            "args": [
+              {
+                "id": "urn:example:duplex:persona:viator",
+                "kind": "entity_ref"
+              },
+              {
+                "id": "urn:example:duplex:actus:viator",
+                "kind": "entity_ref"
+              }
+            ],
+            "function": "urn:la:aquinas:clir:duplex-effectus#intendit_occisionem",
+            "kind": "call"
+          },
+          "kind": "forbearance",
+          "window": {
+            "end": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "infinity"
+            },
+            "endInclusive": false,
+            "kind": "interval",
+            "start": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Date"
+              },
+              "value": "1270-01-01"
+            },
+            "startInclusive": true
+          }
+        },
+        "kind": "duty"
+      },
+      "proof": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:b2b253cae2c261807299d7218d867bd595e33a84de8598f035caaea9d780b77c",
+      "status": "ACTIVE",
+      "statusHistory": [],
+      "template": "urn:la:aquinas:clir:duplex-effectus#OccisioIntentaInDefensione"
+    }
+  ],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#defensor"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:viator",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:example:duplex:persona:viator",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#defensor",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#presented"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:viator",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#privatus"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:persona:viator",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#privatus",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#vis"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:viator",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#vis",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "rule": "urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita",
+          "substitution": {
+            "v0": {
+              "id": "urn:example:duplex:actus:viator",
+              "kind": "entity_ref"
+            },
+            "v1": {
+              "id": "urn:example:duplex:persona:viator",
+              "kind": "entity_ref"
+            }
+          }
+        },
+        "conclusion": {
+          "position": "urn:position:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:ebde4e9412d5633dd8656fc0bd6065694bc8361780874a4f3c41d889b2c28c87",
+          "template": "urn:la:aquinas:clir:duplex-effectus#OccisioIntentaInDefensione"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:b2b253cae2c261807299d7218d867bd595e33a84de8598f035caaea9d780b77c",
+        "kind": "norm_creation",
+        "premises": [
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#defensor",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#privatus",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#vis"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "owner": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:b2b253cae2c261807299d7218d867bd595e33a84de8598f035caaea9d780b77c",
+          "status": "ACTIVE"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:ebde4e9412d5633dd8656fc0bd6065694bc8361780874a4f3c41d889b2c28c87",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:law:std#active"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm-status:cd52c22a298040075ebc5a0e7a0e5a33d9bbe7d33d033c453984e8ac5ab644b0",
+        "kind": "norm_status_transition",
+        "premises": [
+          "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:b2b253cae2c261807299d7218d867bd595e33a84de8598f035caaea9d780b77c"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "positions": [
+            {
+              "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:ebde4e9412d5633dd8656fc0bd6065694bc8361780874a4f3c41d889b2c28c87",
+              "status": "ACTIVE"
+            }
+          ]
+        },
+        "evidence": [],
+        "id": "urn:proof:query:viator-positions",
+        "kind": "query_evaluation",
+        "premises": [
+          "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:b2b253cae2c261807299d7218d867bd595e33a84de8598f035caaea9d780b77c"
+        ],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:911a405a501b456b078a0c95b3a1aef1e8f97f949fd2e903dda61aebf7045507",
+    "roots": [
+      "urn:proof:query:viator-positions"
+    ]
+  },
+  "resultHash": "sha256:8e57bf49c12b2544986c9491ff64b370bc05edf2a3b3ac5da2577d5adf643d7b",
+  "results": [
+    {
+      "applicabilityStatus": "APPLICABLE",
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:viator-positions",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatus": "ACTIVE",
+      "normativeStatusSupports": [
+        {
+          "proof": [
+            "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:b2b253cae2c261807299d7218d867bd595e33a84de8598f035caaea9d780b77c"
+          ],
+          "status": "CREATED",
+          "truthStatus": "TRUE_ONLY",
+          "valid": {
+            "end": "1270-06-01",
+            "endInclusive": true,
+            "start": "1270-06-01",
+            "startInclusive": true
+          }
+        },
+        {
+          "proof": [
+            "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:b2b253cae2c261807299d7218d867bd595e33a84de8598f035caaea9d780b77c"
+          ],
+          "status": "ACTIVE",
+          "truthStatus": "TRUE_ONLY",
+          "valid": {
+            "end": "1270-06-01",
+            "endInclusive": true,
+            "start": "1270-06-01",
+            "startInclusive": true
+          }
+        }
+      ],
+      "proof": "urn:proof:query:viator-positions",
+      "query": "viator-positions",
+      "resultKind": "NORM_POSITION",
+      "sourceAnchors": []
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

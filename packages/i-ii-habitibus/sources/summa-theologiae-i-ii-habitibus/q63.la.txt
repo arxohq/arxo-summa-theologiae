@@ -1,0 +1,92 @@
+@@ I-II q. 63 pr.
+Deinde considerandum est de causa virtutum. Et circa hoc quaeruntur quatuor. Primo, utrum virtus sit in nobis a natura. Secundo, utrum aliqua virtus causetur in nobis ex assuetudine operum. Tertio, utrum aliquae virtutes morales sint in nobis per infusionem. Quarto, utrum virtus quam acquirimus ex assuetudine operum, sit eiusdem speciei cum virtute infusa.
+
+@@ I-II q. 63 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod virtus sit in nobis a natura. Dicit enim Damascenus, in III libro, naturales sunt virtutes, et aequaliter insunt omnibus. Et Antonius dicit, in sermone ad monachos, si naturam voluntas mutaverit, perversitas est; conditio servetur, et virtus est. Et Matth. IV, super illud, circuibat Iesus etc., dicit Glossa, docet naturales iustitias, scilicet castitatem, iustitiam, humilitatem, quas naturaliter habet homo.
+
+@@ I-II q. 63 a. 1 arg. 2
+Praeterea, bonum virtutis est secundum rationem esse, ut ex dictis patet. Sed id quod est secundum rationem, est homini naturale, cum ratio sit hominis natura. Ergo virtus inest homini a natura.
+
+@@ I-II q. 63 a. 1 arg. 3
+Praeterea, illud dicitur esse nobis naturale, quod nobis a nativitate inest. Sed virtutes quibusdam a nativitate insunt, dicitur enim Iob XXXI, ab infantia crevit mecum miseratio, et de utero egressa est mecum. Ergo virtus inest homini a natura.
+
+@@ I-II q. 63 a. 1 s. c.
+Sed contra, id quod inest homini a natura, est omnibus hominibus commune, et non tollitur per peccatum, quia etiam in Daemonibus bona naturalia manent, ut Dionysius dicit, in IV cap. de Div. Nom. Sed virtus non inest omnibus hominibus; et abiicitur per peccatum. Ergo non inest homini a natura.
+
+@@ I-II q. 63 a. 1 co.
+Respondeo dicendum quod circa formas corporales, aliqui dixerunt quod sunt totaliter ab intrinseco, sicut ponentes latitationem formarum. Aliqui vero, quod totaliter sint ab extrinseco, sicut ponentes formas corporales esse ab aliqua causa separata. Aliqui vero, quod partim sint ab intrinseco, inquantum scilicet praeexistunt in materia in potentia; et partim ab extrinseco, inquantum scilicet reducuntur ad actum per agens. Ita etiam circa scientias et virtutes, aliqui quidem posuerunt eas totaliter esse ab intrinseco, ita scilicet quod omnes virtutes et scientiae naturaliter praeexistunt in anima; sed per disciplinam et exercitium impedimenta scientiae et virtutis tolluntur, quae adveniunt animae ex corporis gravitate; sicut cum ferrum clarificatur per limationem. Et haec fuit opinio Platonicorum. Alii vero dixerunt quod sunt totaliter ab extrinseco, idest ex influentia intelligentiae agentis, ut ponit Avicenna. Alii vero dixerunt quod secundum aptitudinem scientiae et virtutes sunt in nobis a natura, non autem secundum perfectionem, ut philosophus dicit, in II Ethic. Et hoc verius est. Ad cuius manifestationem, oportet considerare quod aliquid dicitur alicui homini naturale dupliciter, uno modo, ex natura speciei; alio modo, ex natura individui. Et quia unumquodque habet speciem secundum suam formam, individuatur vero secundum materiam; forma vero hominis est anima rationalis, materia vero corpus, id quod convenit homini secundum animam rationalem, est ei naturale secundum rationem speciei; id vero quod est ei naturale secundum determinatam corporis complexionem, est ei naturale secundum naturam individui. Quod enim est naturale homini ex parte corporis secundum speciem, quodammodo refertur ad animam, inquantum scilicet tale corpus est tali animae proportionatum. Utroque autem modo virtus est homini naturalis secundum quandam inchoationem. Secundum quidem naturam speciei, inquantum in ratione homini insunt naturaliter quaedam principia naturaliter cognita tam scibilium quam agendorum, quae sunt quaedam seminalia intellectualium virtutum et moralium; et inquantum in voluntate inest quidam naturalis appetitus boni quod est secundum rationem. Secundum vero naturam individui, inquantum ex corporis dispositione aliqui sunt dispositi vel melius vel peius ad quasdam virtutes, prout scilicet vires quaedam sensitivae actus sunt quarundam partium corporis, ex quarum dispositione adiuvantur vel impediuntur huiusmodi vires in suis actibus, et per consequens vires rationales, quibus huiusmodi sensitivae vires deserviunt. Et secundum hoc, unus homo habet naturalem aptitudinem ad scientiam, alius ad fortitudinem, alius ad temperantiam. Et his modis tam virtutes intellectuales quam morales, secundum quandam aptitudinis inchoationem, sunt in nobis a natura. Non autem consummatio earum. Quia natura determinatur ad unum, consummatio autem huiusmodi virtutum non est secundum unum modum actionis, sed diversimode, secundum diversas materias in quibus virtutes operantur, et secundum diversas circumstantias. Sic ergo patet quod virtutes in nobis sunt a natura secundum aptitudinem et inchoationem, non autem secundum perfectionem, praeter virtutes theologicas, quae sunt totaliter ab extrinseco.
+
+@@ I-II q. 63 a. 1 ad 1
+Et per hoc patet responsio ad obiecta. Nam primae duae rationes procedunt secundum quod seminalia virtutum insunt nobis a natura, inquantum rationales sumus. Tertia vero ratio procedit secundum quod ex naturali dispositione corporis, quam habet ex nativitate, unus habet aptitudinem ad miserendum, alius ad temperate vivendum, alius ad aliam virtutem.
+
+@@ I-II q. 63 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod virtutes in nobis causari non possint ex assuetudine operum. Quia super illud Rom. XIV, omne quod non est ex fide, peccatum est, dicit Glossa Augustini, omnis infidelium vita peccatum est; et nihil est bonum sine summo bono. Ubi deest cognitio veritatis, falsa est virtus etiam in optimis moribus. Sed fides non potest acquiri ex operibus, sed causatur in nobis a Deo; secundum illud Ephes. II, gratia estis salvati per fidem. Ergo nulla virtus potest in nobis acquiri ex assuetudine operum.
+
+@@ I-II q. 63 a. 2 arg. 2
+Praeterea, peccatum, cum contrarietur virtuti, non compatitur secum virtutem. Sed homo non potest vitare peccatum nisi per gratiam Dei; secundum illud Sap. VIII, didici quod non possum esse aliter continens, nisi Deus det. Ergo nec virtutes aliquae possunt in nobis causari ex assuetudine operum; sed solum dono Dei.
+
+@@ I-II q. 63 a. 2 arg. 3
+Praeterea, actus qui sunt in virtutem, deficiunt a perfectione virtutis. Sed effectus non potest esse perfectior causa. Ergo virtus non potest causari ex actibus praecedentibus virtutem.
+
+@@ I-II q. 63 a. 2 s. c.
+Sed contra est quod Dionysius dicit, IV cap. de Div. Nom., quod bonum est virtuosius quam malum. Sed ex malis actibus causantur habitus vitiorum. Ergo multo magis ex bonis actibus possunt causari habitus virtutum.
+
+@@ I-II q. 63 a. 2 co.
+Respondeo dicendum quod de generatione habituum ex actibus, supra in generali dictum est. Nunc autem specialiter quantum ad virtutem, considerandum est quod sicut supra dictum est, virtus hominis perficit ipsum ad bonum. Cum autem ratio boni consistat in modo, specie et ordine, ut Augustinus dicit in libro de natura boni; sive in numero, pondere et mensura, ut dicitur Sap. XI, oportet quod bonum hominis secundum aliquam regulam consideretur. Quae quidem est duplex, ut supra dictum est, scilicet ratio humana, et lex divina. Et quia lex divina est superior regula, ideo ad plura se extendit, ita quod quidquid regulatur ratione humana, regulatur etiam lege divina, sed non convertitur. Virtus igitur hominis ordinata ad bonum quod modificatur secundum regulam rationis humanae, potest ex actibus humanis causari, inquantum huiusmodi actus procedunt a ratione, sub cuius potestate et regula tale bonum consistit. Virtus vero ordinans hominem ad bonum secundum quod modificatur per legem divinam, et non per rationem humanam, non potest causari per actus humanos, quorum principium est ratio, sed causatur solum in nobis per operationem divinam. Et ideo, huiusmodi virtutem definiens, Augustinus posuit in definitione virtutis, quam Deus in nobis sine nobis operatur.
+
+@@ I-II q. 63 a. 2 ad 1
+Et de huiusmodi etiam virtutibus prima ratio procedit.
+
+@@ I-II q. 63 a. 2 ad 2
+Ad secundum dicendum quod virtus divinitus infusa, maxime si in sua perfectione consideretur, non compatitur secum aliquod peccatum mortale. Sed virtus humanitus acquisita potest secum compati aliquem actum peccati, etiam mortalis, quia usus habitus in nobis est nostrae voluntati subiectus, ut supra dictum est; non autem per unum actum peccati corrumpitur habitus virtutis acquisitae; habitui enim non contrariatur directe actus, sed habitus. Et ideo, licet sine gratia homo non possit peccatum mortale vitare, ita quod nunquam peccet mortaliter; non tamen impeditur quin possit habitum virtutis acquirere, per quam a malis operibus abstineat ut in pluribus, et praecipue ab his quae sunt valde rationi contraria. Sunt etiam quaedam peccata mortalia quae homo sine gratia nullo modo potest vitare, quae scilicet directe opponuntur virtutibus theologicis, quae ex dono gratiae sunt in nobis. Hoc tamen infra manifestius fiet.
+
+@@ I-II q. 63 a. 2 ad 3
+Ad tertium dicendum quod, sicut dictum est, virtutum acquisitarum praeexistunt in nobis quaedam semina sive principia, secundum naturam. Quae quidem principia sunt nobiliora virtutibus eorum virtute acquisitis, sicut intellectus principiorum speculabilium est nobilior scientia conclusionum; et naturalis rectitudo rationis est nobilior rectificatione appetitus quae fit per participationem rationis, quae quidem rectificatio pertinet ad virtutem moralem. Sic igitur actus humani, inquantum procedunt ex altioribus principiis, possunt causare virtutes acquisitas humanas.
+
+@@ I-II q. 63 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod praeter virtutes theologicas, non sint aliae virtutes nobis infusae a Deo. Ea enim quae possunt fieri a causis secundis, non fiunt immediate a Deo, nisi forte aliquando miraculose, quia, ut Dionysius dicit, lex divinitatis est ultima per media adducere. Sed virtutes intellectuales et morales possunt in nobis causari per nostros actus, ut dictum est. Non ergo convenienter causantur in nobis per infusionem.
+
+@@ I-II q. 63 a. 3 arg. 2
+Praeterea, in operibus Dei multo minus est aliquid superfluum quam in operibus naturae. Sed ad ordinandum nos in bonum supernaturale, sufficiunt virtutes theologicae. Ergo non sunt aliae virtutes supernaturales, quas oporteat in nobis causari a Deo.
+
+@@ I-II q. 63 a. 3 arg. 3
+Praeterea, natura non facit per duo, quod potest facere per unum, et multo minus Deus. Sed Deus inseruit animae nostrae semina virtutum, ut dicit Glossa Heb. I. Ergo non oportet quod alias virtutes in nobis per infusionem causet.
+
+@@ I-II q. 63 a. 3 s. c.
+Sed contra est quod dicitur Sap. VIII, sobrietatem et iustitiam docet, prudentiam et virtutem.
+
+@@ I-II q. 63 a. 3 co.
+Respondeo dicendum quod oportet effectus esse suis causis et principiis proportionatos. Omnes autem virtutes tam intellectuales quam morales, quae ex nostris actibus acquiruntur, procedunt ex quibusdam naturalibus principiis in nobis praeexistentibus, ut supra dictum est. Loco quorum naturalium principiorum, conferuntur nobis a Deo virtutes theologicae, quibus ordinamur ad finem supernaturalem, sicut supra dictum est. Unde oportet quod his etiam virtutibus theologicis proportionaliter respondeant alii habitus divinitus causati in nobis, qui sic se habeant ad virtutes theologicas sicut se habent virtutes morales et intellectuales ad principia naturalia virtutum.
+
+@@ I-II q. 63 a. 3 ad 1
+Ad primum ergo dicendum quod aliquae quidem virtutes morales et intellectuales possunt causari in nobis ex nostris actibus, tamen illae non sunt proportionatae virtutibus theologicis. Et ideo oportet alias, eis proportionatas, immediate a Deo causari.
+
+@@ I-II q. 63 a. 3 ad 2
+Ad secundum dicendum quod virtutes theologicae sufficienter nos ordinant in finem supernaturalem, secundum quandam inchoationem, quantum scilicet ad ipsum Deum immediate. Sed oportet quod per alias virtutes infusas perficiatur anima circa alias res, in ordine tamen ad Deum.
+
+@@ I-II q. 63 a. 3 ad 3
+Ad tertium dicendum quod virtus illorum principiorum naturaliter inditorum, non se extendit ultra proportionem naturae. Et ideo in ordine ad finem supernaturalem, indiget homo perfici per alia principia superaddita.
+
+@@ I-II q. 63 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod virtutes infusae non sint alterius speciei a virtutibus acquisitis. Virtus enim acquisita et virtus infusa, secundum praedicta, non videntur differre nisi secundum ordinem ad ultimum finem. Sed habitus et actus humani non recipiunt speciem ab ultimo fine, sed a proximo. Non ergo virtutes morales vel intellectuales infusae differunt specie ab acquisitis.
+
+@@ I-II q. 63 a. 4 arg. 2
+Praeterea, habitus per actus cognoscuntur. Sed idem est actus temperantiae infusae, et acquisitae, scilicet moderari concupiscentias tactus. Ergo non differunt specie.
+
+@@ I-II q. 63 a. 4 arg. 3
+Praeterea, virtus acquisita et infusa differunt secundum illud quod est immediate a Deo factum, et a creatura. Sed idem est specie homo quem Deus formavit, et quem generat natura; et oculus quem caeco nato dedit, et quem virtus formativa causat. Ergo videtur quod est eadem specie virtus acquisita, et infusa.
+
+@@ I-II q. 63 a. 4 s. c.
+Sed contra, quaelibet differentia in definitione posita, mutata diversificat speciem. Sed in definitione virtutis infusae ponitur, quam Deus in nobis sine nobis operatur, ut supra dictum est. Ergo virtus acquisita, cui hoc non convenit, non est eiusdem speciei cum infusa.
+
+@@ I-II q. 63 a. 4 co.
+Respondeo dicendum quod dupliciter habitus distinguuntur specie. Uno modo, sicut praedictum est, secundum speciales et formales rationes obiectorum. Obiectum autem virtutis cuiuslibet est bonum consideratum in materia propria, sicut temperantiae obiectum est bonum delectabilium in concupiscentiis tactus. Cuius quidem obiecti formalis ratio est a ratione, quae instituit modum in his concupiscentiis, materiale autem est id quod est ex parte concupiscentiarum. Manifestum est autem quod alterius rationis est modus qui imponitur in huiusmodi concupiscentiis secundum regulam rationis humanae, et secundum regulam divinam. Puta in sumptione ciborum, ratione humana modus statuitur ut non noceat valetudini corporis, nec impediat rationis actum, secundum autem regulam legis divinae, requiritur quod homo castiget corpus suum, et in servitutem redigat, per abstinentiam cibi et potus, et aliorum huiusmodi. Unde manifestum est quod temperantia infusa et acquisita differunt specie, et eadem ratio est de aliis virtutibus. Alio modo habitus distinguuntur specie secundum ea ad quae ordinantur, non enim est eadem specie sanitas hominis et equi, propter diversas naturas ad quas ordinantur. Et eodem modo dicit philosophus, in III Polit., quod diversae sunt virtutes civium, secundum quod bene se habent ad diversas politias. Et per hunc etiam modum differunt specie virtutes morales infusae, per quas homines bene se habent in ordine ad hoc quod sint cives sanctorum et domestici Dei; et aliae virtutes acquisitae, secundum quas homo se bene habet in ordine ad res humanas.
+
+@@ I-II q. 63 a. 4 ad 1
+Ad primum ergo dicendum quod virtus infusa et acquisita non solum differunt secundum ordinem ad ultimum finem; sed etiam secundum ordinem ad propria obiecta, ut dictum est.
+
+@@ I-II q. 63 a. 4 ad 2
+Ad secundum dicendum quod alia ratione modificat concupiscentias delectabilium tactus temperantia acquisita, et temperantia infusa, ut dictum est. Unde non habent eundem actum.
+
+@@ I-II q. 63 a. 4 ad 3
+Ad tertium dicendum quod oculum caeci nati Deus fecit ad eundem actum ad quem formantur alii oculi secundum naturam, et ideo fuit eiusdem speciei. Et eadem ratio esset, si Deus vellet miraculose causare in homine virtutes quales acquiruntur ex actibus. Sed ita non est in proposito, ut dictum est.

@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:4c2337749282470fd4bd15a79fc438688b089decdd7d168179eb4a938d3983c7",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:67927abbedbfe2a8c8efe10067899e66aec60d7724793dd413e37c7ecbfb12c5",
+    "name": "la.aquinas.summa.iii_incarnatione",
+    "namespace": "urn:la:aquinas:clir:summa-iii-incarnatione",
+    "sourceHash": "sha256:ad3b4ea1d45a1a5072d5c793306b427f777a802dcc8f904757270595abeda620",
+    "version": "0.1.0"
+  }
+}

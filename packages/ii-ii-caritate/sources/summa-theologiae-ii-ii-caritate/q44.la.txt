@@ -1,0 +1,188 @@
+@@ II-II q. 44 pr.
+Deinde considerandum est de praeceptis caritatis. Et circa hoc quaeruntur octo. Primo, utrum de caritate sint danda praecepta. Secundo, utrum unum tantum, vel duo. Tertio, utrum duo sufficiant. Quarto, utrum convenienter praecipiatur ut Deus ex toto corde diligatur. Quinto, utrum convenienter addatur, ex tota mente et cetera. Sexto, utrum praeceptum hoc possit in vita ista impleri. Septimo, de hoc praecepto, diliges proximum tuum sicut teipsum. Octavo, utrum ordo caritatis cadat sub praecepto.
+
+@@ II-II q. 44 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod de caritate non debeat dari aliquod praeceptum. Caritas enim imponit modum actibus omnium virtutum, de quibus dantur praecepta, cum sit forma virtutum, ut supra dictum est. Sed modus non est in praecepto, ut communiter dicitur. Ergo de caritate non sunt danda praecepta.
+
+@@ II-II q. 44 a. 1 arg. 2
+Praeterea, caritas, quae in cordibus nostris per spiritum sanctum diffunditur, facit nos liberos, quia ubi spiritus domini, ibi libertas, ut dicitur II ad Cor. III. Sed obligatio, quae ex praeceptis nascitur, libertati opponitur, quia necessitatem imponit. Ergo de caritate non sunt danda praecepta.
+
+@@ II-II q. 44 a. 1 arg. 3
+Praeterea, caritas est praecipua inter omnes virtutes, ad quas ordinantur praecepta, ut ex supradictis patet. Si igitur de caritate dantur aliqua praecepta, deberent poni inter praecipua praecepta, quae sunt praecepta Decalogi. Non autem ponuntur. Ergo nulla praecepta sunt de caritate danda.
+
+@@ II-II q. 44 a. 1 s. c.
+Sed contra, illud quod Deus requirit a nobis cadit sub praecepto. Requirit autem Deus ab homine ut diligat eum, ut dicitur Deut. X. Ergo de dilectione caritatis, quae est dilectio Dei, sunt danda praecepta.
+
+@@ II-II q. 44 a. 1 co.
+Respondeo dicendum quod, sicut supra dictum est, praeceptum importat rationem debiti. Intantum ergo aliquid cadit sub praecepto inquantum habet rationem debiti. Est autem aliquid debitum dupliciter, uno modo, per se; alio modo, propter aliud. Per se quidem debitum est in unoquoque negotio id quod est finis, quia habet rationem per se boni; propter aliud autem est debitum id quod ordinatur ad finem, sicut medico per se debitum est ut sanet; propter aliud autem, ut det medicinam ad sanandum. Finis autem spiritualis vitae est ut homo uniatur Deo, quod fit per caritatem, et ad hoc ordinantur, sicut ad finem, omnia quae pertinent ad spiritualem vitam. Unde et apostolus dicit, I ad Tim. I, finis praecepti est caritas de corde puro et conscientia bona et fide non ficta. Omnes enim virtutes, de quarum actibus dantur praecepta, ordinantur vel ad purificandum cor a turbinibus passionum, sicut virtutes quae sunt circa passiones; vel saltem ad habendam bonam conscientiam, sicut virtutes quae sunt circa operationes; vel ad habendam rectam fidem, sicut illa quae pertinent ad divinum cultum. Et haec tria requiruntur ad diligendum Deum, nam cor impurum a Dei dilectione abstrahitur propter passionem inclinantem ad terrena; conscientia vero mala facit horrere divinam iustitiam propter timorem poenae; fides autem ficta trahit affectum in id quod de Deo fingitur, separans a Dei veritate. In quolibet autem genere id quod est per se potius est eo quod est propter aliud. Et ideo maximum praeceptum est de caritate, ut dicitur Matth. XXII.
+
+@@ II-II q. 44 a. 1 ad 1
+Ad primum ergo dicendum quod, sicut supra dictum est cum de praeceptis ageretur, modus dilectionis non cadit sub illis praeceptis quae dantur de aliis actibus virtutum, puta sub hoc praecepto, honora patrem tuum et matrem tuam, non cadit quod hoc ex caritate fiat. Cadit tamen actus dilectionis sub praeceptis specialibus.
+
+@@ II-II q. 44 a. 1 ad 2
+Ad secundum dicendum quod obligatio praecepti non opponitur libertati nisi in eo cuius mens aversa est ab eo quod praecipitur sicut patet in his qui ex solo timore praecepta custodiunt. Sed praeceptum dilectionis non potest impleri nisi ex propria voluntate. Et ideo libertati non repugnat.
+
+@@ II-II q. 44 a. 1 ad 3
+Ad tertium dicendum quod omnia praecepta Decalogi ordinantur ad dilectionem Dei et proximi. Et ideo praecepta caritatis non fuerunt connumeranda inter praecepta Decalogi, sed in omnibus includuntur.
+
+@@ II-II q. 44 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod de caritate non fuerint danda duo praecepta. Praecepta enim legis ordinantur ad virtutem, ut supra dictum est. Sed caritas est una virtus, ut ex supradictis patet. Ergo de caritate non fuit dandum nisi unum praeceptum.
+
+@@ II-II q. 44 a. 2 arg. 2
+Praeterea, sicut Augustinus dicit, in I de Doct. Christ., caritas in proximo non diligit nisi Deum. Sed ad diligendum Deum sufficienter ordinamur per hoc praeceptum, diliges dominum Deum tuum. Ergo non oportuit addere aliud praeceptum de dilectione proximi.
+
+@@ II-II q. 44 a. 2 arg. 3
+Praeterea, diversa peccata diversis praeceptis opponuntur. Sed non peccat aliquis praetermittens dilectionem proximi, si non praetermittat dilectionem Dei, quinimmo dicitur Luc. XIV, si quis venit ad me et non odit patrem suum et matrem suam, non potest meus esse discipulus. Ergo non est aliud praeceptum de dilectione Dei et de dilectione proximi.
+
+@@ II-II q. 44 a. 2 arg. 4
+Praeterea, apostolus dicit, ad Rom. XIII, qui diligit proximum legem implevit. Sed non impletur lex nisi per observantiam omnium praeceptorum. Ergo omnia praecepta includuntur in dilectione proximi. Sufficit ergo hoc unum praeceptum de dilectione proximi. Non ergo debent esse duo praecepta caritatis.
+
+@@ II-II q. 44 a. 2 s. c.
+Sed contra est quod dicitur I Ioan. IV, hoc mandatum habemus a Deo, ut qui diligit Deum diligat et fratrem suum.
+
+@@ II-II q. 44 a. 2 co.
+Respondeo dicendum quod, sicut supra dictum est cum de praeceptis ageretur, hoc modo se habent praecepta in lege sicut propositiones in scientiis speculativis. In quibus conclusiones virtute continentur in primis principiis, unde qui perfecte cognosceret principia secundum totam suam virtutem, non opus haberet ut ei conclusiones seorsum proponerentur. Sed quia non omnes qui cognoscunt principia sufficiunt considerare quidquid in principiis virtute continetur, necesse est propter eos ut in scientiis ex principiis conclusiones deducantur. In operabilibus autem, in quibus praecepta legis nos dirigunt, finis habet rationem principii, ut supra dictum est. Dilectio autem Dei finis est, ad quem dilectio proximi ordinatur. Et ideo non solum oportet dari praeceptum de dilectione Dei, sed etiam de dilectione proximi, propter minus capaces, qui non de facili considerarent unum horum praeceptorum sub alio contineri.
+
+@@ II-II q. 44 a. 2 ad 1
+Ad primum ergo dicendum quod, si caritas sit una virtus, habet tamen duos actus, quorum unus ordinatur ad alium sicut ad finem. Praecepta autem dantur de actibus virtutum. Et ideo oportuit esse plura praecepta caritatis.
+
+@@ II-II q. 44 a. 2 ad 2
+Ad secundum dicendum quod Deus diligitur in proximo sicut finis in eo quod est ad finem. Et tamen oportuit de utroque explicite dari praecepta, ratione iam dicta.
+
+@@ II-II q. 44 a. 2 ad 3
+Ad tertium dicendum quod id quod est ad finem habet rationem boni ex ordine ad finem. Et secundum hoc etiam recedere ab eo habet rationem mali, et non aliter.
+
+@@ II-II q. 44 a. 2 ad 4
+Ad quartum dicendum quod in dilectione proximi includitur dilectio Dei sicut finis in eo quod est ad finem, et e converso. Et tamen oportuit utrumque praeceptum explicite dari, ratione iam dicta.
+
+@@ II-II q. 44 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod non sufficiant duo praecepta caritatis. Praecepta enim dantur de actibus virtutum. Actus autem secundum obiecta distinguuntur. Cum igitur quatuor homo debeat ex caritate diligere, scilicet Deum, seipsum, proximum et corpus proprium, ut ex supradictis patet; videtur quod quatuor debeant esse caritatis praecepta. Et sic duo non sufficiunt.
+
+@@ II-II q. 44 a. 3 arg. 2
+Praeterea, caritatis actus non solum est dilectio, sed gaudium, pax, beneficentia. Sed de actibus virtutum sunt danda praecepta. Ergo duo praecepta caritatis non sufficiunt.
+
+@@ II-II q. 44 a. 3 arg. 3
+Praeterea, sicut ad virtutem pertinet facere bonum, ita et declinare a malo. Sed ad faciendum bonum inducimur per praecepta affirmativa, ad declinandum a malo per praecepta negativa. Ergo de caritate fuerunt danda praecepta non solum affirmativa, sed etiam negativa. Et sic praedicta duo praecepta caritatis non sufficiunt.
+
+@@ II-II q. 44 a. 3 s. c.
+Sed contra est quod dominus dicit, Matth. XXII, in his duobus mandatis tota lex pendet et prophetae.
+
+@@ II-II q. 44 a. 3 co.
+Respondeo dicendum quod caritas, sicut supra dictum est, est amicitia quaedam. Amicitia autem ad alterum est. Unde Gregorius dicit, in quadam homilia, caritas minus quam inter duos haberi non potest. Quomodo autem ex caritate aliquis seipsum diligat, supra dictum est. Cum autem dilectio et amor sit boni, bonum autem sit vel finis vel id quod est ad finem, convenienter de caritate duo praecepta sufficiunt, unum quidem quo inducimur ad Deum diligendum sicut finem; aliud autem quo inducimur ad diligendum proximum propter Deum sicut propter finem.
+
+@@ II-II q. 44 a. 3 ad 1
+Ad primum ergo dicendum quod, sicut Augustinus dicit, in I de Doct. Christ., cum quatuor sint ex caritate diligenda, de secundo et quarto, idest de dilectione sui et corporis proprii, nulla praecepta danda erant, quantumlibet enim homo excidat a veritate, remanet illi dilectio sui et dilectio corporis sui. Modus autem diligendi praecipiendus est homini, ut scilicet se ordinate diligat et corpus proprium. Quod quidem fit per hoc quod homo diligit Deum et proximum.
+
+@@ II-II q. 44 a. 3 ad 2
+Ad secundum dicendum quod alii actus caritatis consequuntur ex actu dilectionis sicut effectus ex causa, ut ex supradictis patet. Unde in praeceptis dilectionis virtute includuntur praecepta de aliis actibus. Et tamen propter tardiores inveniuntur de singulis explicite praecepta tradita, de gaudio quidem, Philipp. IV, gaudete in domino semper; de pace autem, ad Heb. ult., pacem sequimini cum omnibus; de beneficentia autem, ad Gal. ult., dum tempus habemus, operemur bonum ad omnes. De singulis beneficentiae partibus inveniuntur praecepta tradita in sacra Scriptura, ut patet diligenter consideranti.
+
+@@ II-II q. 44 a. 3 ad 3
+Ad tertium dicendum quod plus est operari bonum quam vitare malum. Et ideo in praeceptis affirmativis virtute includuntur praecepta negativa. Et tamen explicite inveniuntur praecepta data contra vitia caritati opposita. Nam contra odium dicitur Lev. XIX, ne oderis fratrem tuum in corde tuo contra acediam dicitur Eccli. VI, ne acedieris in vinculis eius; contra invidiam, Gal. V, non efficiamur inanis gloriae cupidi, invicem provocantes, invicem invidentes; contra discordiam vero, I ad Cor. I, idipsum dicatis omnes, et non sint in vobis schismata; contra scandalum autem, ad Rom. XIV, ne ponatis offendiculum fratri vel scandalum.
+
+@@ II-II q. 44 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod inconvenienter mandetur quod Deus diligatur ex toto corde. Modus enim virtuosi actus non est in praecepto, ut ex supradictis patet. Sed hoc quod dicitur ex toto corde, importat modum divinae dilectionis. Ergo inconvenienter praecipitur quod Deus ex toto corde diligatur.
+
+@@ II-II q. 44 a. 4 arg. 2
+Praeterea, totum et perfectum est cui nihil deest; ut dicitur in III Physic. Si igitur in praecepto cadit quod Deus ex toto corde diligatur, quicumque facit aliquid quod non pertinet ad Dei dilectionem agit contra praeceptum, et per consequens peccat mortaliter. Sed peccatum veniale non pertinet ad Dei dilectionem. Ergo peccatum veniale erit mortale. Quod est inconveniens.
+
+@@ II-II q. 44 a. 4 arg. 3
+Praeterea, diligere Deum ex toto corde est perfectionis, quia secundum philosophum, totum et perfectum idem sunt. Sed ea quae sunt perfectionis non cadunt sub praecepto, sed sub consilio. Ergo non debet praecipi quod Deus ex toto corde diligatur.
+
+@@ II-II q. 44 a. 4 s. c.
+Sed contra est quod dicitur Deut. VI, diliges dominum Deum tuum ex toto corde tuo.
+
+@@ II-II q. 44 a. 4 co.
+Respondeo dicendum quod, cum praecepta dentur de actibus virtutum, hoc ergo modo aliquis actus cadit sub praecepto, secundum quod est actus virtutis. Requiritur autem ad actum virtutis non solum quod cadat super debitam materiam, sed etiam quod vestiatur debitis circumstantiis, quibus sit proportionatus tali materiae. Deus autem est diligendus sicut finis ultimus, ad quem omnia sunt referenda. Et ideo totalitas quaedam fuit designanda circa praeceptum de dilectione Dei.
+
+@@ II-II q. 44 a. 4 ad 1
+Ad primum ergo dicendum quod sub praecepto quod datur de actu alicuius virtutis non cadit modus quem habet ille actus ex alia superiori virtute. Cadit tamen sub praecepto modus ille qui pertinet ad rationem propriae virtutis. Et talis modus significatur cum dicitur, ex toto corde.
+
+@@ II-II q. 44 a. 4 ad 2
+Ad secundum dicendum quod dupliciter contingit ex toto corde Deum diligere. Uno quidem modo, in actu, idest ut totum cor hominis semper actualiter in Deum feratur. Et ista est perfectio patriae. Alio modo, ut habitualiter totum cor hominis in Deum feratur, ita scilicet quod nihil contra Dei dilectionem cor hominis recipiat. Et haec est perfectio viae. Cui non contrariatur peccatum veniale, quia non tollit habitum caritatis, cum non tendat in oppositum obiectum; sed solum impedit caritatis usum.
+
+@@ II-II q. 44 a. 4 ad 3
+Ad tertium dicendum quod perfectio caritatis ad quam ordinantur consilia est media inter duas perfectiones praedictas, ut scilicet homo, quantum possibile est, se abstrahat a rebus temporalibus etiam licitis, quae, occupando animum, impediunt actualem motum cordis in Deum.
+
+@@ II-II q. 44 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod inconvenienter, Deut. VI, super hoc quod dicitur, diliges dominum Deum tuum ex toto corde tuo, addatur, et ex tota anima tua et ex tota fortitudine tua. Non enim accipitur hic cor pro membro corporali, quia diligere Deum non est corporis actus. Oportet igitur quod cor accipiatur spiritualiter. Cor autem spiritualiter acceptum vel est ipsa anima vel aliquid animae. Superfluum igitur fuit utrumque ponere.
+
+@@ II-II q. 44 a. 5 arg. 2
+Praeterea, fortitudo hominis praecipue dependet ex corde, sive spiritualiter hoc accipiatur, sive corporaliter. Ergo postquam dixerat, diliges dominum Deum tuum ex toto corde tuo, superfluum fuit addere, ex tota fortitudine tua.
+
+@@ II-II q. 44 a. 5 arg. 3
+Praeterea, Matth. XXII dicitur, in tota mente tua, quod hic non ponitur. Ergo videtur quod inconvenienter hoc praeceptum detur Deut. VI.
+
+@@ II-II q. 44 a. 5 s. c.
+Sed contra est auctoritas Scripturae.
+
+@@ II-II q. 44 a. 5 co.
+Respondeo dicendum quod hoc praeceptum diversimode invenitur traditum in diversis locis. Nam sicut dictum est, Deut. VI ponuntur tria, scilicet ex toto corde, et ex tota anima, et ex tota fortitudine. Matth. XXII ponuntur duo horum, scilicet ex toto corde et in tota anima, et omittitur ex tota fortitudine, sed additur in tota mente. Sed Marc. XII ponuntur quatuor, scilicet ex toto corde, et ex tota anima, et ex tota mente, et ex tota virtute, quae est idem fortitudini. Et haec etiam quatuor tanguntur Luc. X, nam loco fortitudinis seu virtutis ponitur ex omnibus viribus tuis. Et ideo horum quatuor est ratio assignanda, nam quod alicubi unum horum omittitur, hoc est quia unum intelligitur ex aliis. Est igitur considerandum quod dilectio est actus voluntatis, quae hic significatur per cor, nam sicut cor corporale est principium omnium corporalium motuum, ita etiam voluntas, et maxime quantum ad intentionem finis ultimi, quod est obiectum caritatis, est principium omnium spiritualium motuum. Tria autem sunt principia factuum quae moventur a voluntate, scilicet intellectus, qui significatur per mentem; vis appetitiva inferior, quae significatur per animam; et vis executiva exterior, quae significatur per fortitudinem seu virtutem sive vires. Praecipitur ergo nobis ut tota nostra intentio feratur in Deum, quod est ex toto corde; et quod intellectus noster subdatur Deo, quod est ex tota mente; et quod appetitus noster reguletur secundum Deum, quod est ex tota anima; et quod exterior actus noster obediat Deo, quod est ex tota fortitudine vel virtute vel viribus Deum diligere. Chrysostomus tamen, super Matth., accipit e contrario cor et animam quam dictum sit. Augustinus vero, in I de Doct. Christ., refert cor ad cogitationes, et animam ad vitam, mentem ad intellectum. Quidam autem dicunt, ex toto corde, idest intellectu; anima, idest voluntate; mente, idest memoria. Vel, secundum Gregorium Nyssenum, per cor significat animam vegetabilem, per animam sensitivam, per mentem intellectivam, quia hoc quod nutrimur, sentimus et intelligimus, debemus ad Deum referre.
+
+@@ II-II q. 44 a. 5 ad arg.
+Et per hoc patet responsio ad obiecta.
+
+@@ II-II q. 44 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod hoc praeceptum de dilectione Dei possit servari in via. Quia secundum Hieronymum, in Expos. Cathol. Fid., maledictus qui dicit Deum aliquid impossibile praecepisse. Sed Deus hoc praeceptum dedit, ut patet Deut. VI. Ergo hoc praeceptum potest in via impleri.
+
+@@ II-II q. 44 a. 6 arg. 2
+Praeterea, quicumque non implet praeceptum peccat mortaliter, quia secundum Ambrosium, peccatum nihil est aliud quam transgressio legis divinae et caelestium inobedientia mandatorum. Si ergo hoc praeceptum non potest in via servari, sequitur quod nullus possit esse in vita ista sine peccato mortali. Quod est contra id quod apostolus dicit, I ad Cor. I, confirmabit vos usque in finem sine crimine; et I ad Tim. III, ministrent nullum crimen habentes.
+
+@@ II-II q. 44 a. 6 arg. 3
+Praeterea, praecepta dantur ad dirigendos homines in viam salutis, secundum illud Psalm., praeceptum domini lucidum, illuminans oculos. Sed frustra dirigitur aliquis ad impossibile. Non ergo impossibile est hoc praeceptum in vita ista servari.
+
+@@ II-II q. 44 a. 6 s. c.
+Sed contra est quod Augustinus dicit, in libro de Perfect. Iustit. quod in plenitudine caritatis patriae praeceptum illud implebitur diliges dominum Deum tuum, et cetera. Nam cum adhuc est aliquid carnalis concupiscentiae quod continendo frenetur, non omnino ex tota anima diligitur Deus.
+
+@@ II-II q. 44 a. 6 co.
+Respondeo dicendum quod praeceptum aliquod dupliciter impleri potest, uno modo, perfecte; alio modo, imperfecte. Perfecte quidem impletur praeceptum quando pervenitur ad finem quem intendit praecipiens, impletur autem, sed imperfecte, quando, etsi non pertingat ad finem praecipientis, non tamen receditur ab ordine ad finem. Sicut si dux exercitus praecipiat militibus ut pugnent, ille perfecte implet praeceptum qui pugnando hostem vincit, quod dux intendit, ille autem implet, sed imperfecte, cuius pugna ad victoriam non pertingit, non tamen contra disciplinam militarem agit. Intendit autem Deus per hoc praeceptum ut homo Deo totaliter uniatur, quod fiet in patria, quando Deus erit omnia in omnibus, ut dicitur I ad Cor. XV. Et ideo plene et perfecte in patria implebitur hoc praeceptum. In via vero impletur, sed imperfecte. Et tamen in via tanto unus alio perfectius implet, quanto magis accedit per quandam similitudinem ad patriae perfectionem.
+
+@@ II-II q. 44 a. 6 ad 1
+Ad primum ergo dicendum quod ratio illa probat quod aliquo modo potest impleri in via, licet non perfecte.
+
+@@ II-II q. 44 a. 6 ad 2
+Ad secundum dicendum quod sicut miles qui legitime pugnat, licet non vincat, non inculpatur nec poenam meretur; ita etiam qui in via hoc praeceptum implet nihil contra divinam dilectionem agens, non peccat mortaliter.
+
+@@ II-II q. 44 a. 6 ad 3
+Ad tertium dicendum quod, sicut Augustinus dicit, in libro de Perfect. Iustit., cur non praeciperetur homini ista perfectio, quamvis eam in hac vita nemo habeat? Non enim recte curritur, si quo currendum est nesciatur. Quomodo autem sciretur, si nullis praeceptis ostenderetur?
+
+@@ II-II q. 44 a. 7 arg. 1
+Ad septimum sic proceditur. Videtur quod inconvenienter detur praeceptum de dilectione proximi. Dilectio enim caritatis ad omnes homines extenditur, etiam ad inimicos; ut patet Matth. V. Sed nomen proximi importat quandam propinquitatem, quae non videtur haberi ad omnes homines. Ergo videtur quod inconvenienter detur hoc praeceptum.
+
+@@ II-II q. 44 a. 7 arg. 2
+Praeterea, secundum philosophum, in IX Ethic., amicabilia quae sunt ad alterum venerunt ex amicabilibus quae sunt ad seipsum, ex quo videtur quod dilectio sui ipsius sit principium dilectionis proximi. Sed principium potius est eo quod est ex principio. Ergo non debet homo diligere proximum sicut seipsum.
+
+@@ II-II q. 44 a. 7 arg. 3
+Praeterea, homo seipsum diligit naturaliter, non autem proximum. Inconvenienter igitur mandatur quod homo diligat proximum sicut seipsum.
+
+@@ II-II q. 44 a. 7 s. c.
+Sed contra est quod dicitur Matth. XXII, secundum praeceptum est simile huic, diliges proximum tuum sicut teipsum.
+
+@@ II-II q. 44 a. 7 co.
+Respondeo dicendum quod hoc praeceptum convenienter traditur, tangitur enim in eo et diligendi ratio et dilectionis modus. Ratio quidem diligendi tangitur ex eo quod proximus nominatur, propter hoc enim ex caritate debemus alios diligere, quia sunt nobis proximi et secundum naturalem Dei imaginem et secundum capacitatem gloriae. Nec refert utrum dicatur proximus vel frater, ut habetur I Ioan. IV; vel amicus, ut habetur Lev. XIX, quia per omnia haec eadem affinitas designatur. Modus autem dilectionis tangitur cum dicitur, sicut teipsum. Quod non est intelligendum quantum ad hoc quod aliquis proximum aequaliter sibi diligat; sed similiter sibi. Et hoc tripliciter. Primo quidem, ex parte finis, ut scilicet aliquis diligat proximum propter Deum, sicut et seipsum propter Deum debet diligere; ut sic sit dilectio proximi sancta. Secundo, ex parte regulae dilectionis, ut scilicet aliquis non condescendat proximo in aliquo malo, sed solum in bonis, sicut et suae voluntati satisfacere debet homo solum in bonis; ut sic sit dilectio proximi iusta. Tertio, ex parte rationis dilectionis, ut scilicet non diligat aliquis proximum propter propriam utilitatem vel delectationem, sed ea ratione quod velit proximo bonum, sicut vult bonum sibi ipsi; ut sic dilectio proximi sit vera. Nam cum quis diligit proximum propter suam utilitatem vel delectationem, non vere diligit proximum, sed seipsum.
+
+@@ II-II q. 44 a. 7 ad arg.
+Et per hoc patet responsio ad obiecta.
+
+@@ II-II q. 44 a. 8 arg. 1
+Ad octavum sic proceditur. Videtur quod ordo caritatis non cadat sub praecepto. Quicumque enim transgreditur praeceptum iniuriam facit. Sed si aliquis diligat aliquem quantum debet, et alterum quemcumque plus diligat, nulli facit iniuriam. Ergo non transgreditur praeceptum. Ordo ergo caritatis non cadit sub praecepto.
+
+@@ II-II q. 44 a. 8 arg. 2
+Praeterea, ea quae cadunt sub praecepto sufficienter nobis traduntur in sacra Scriptura. Sed ordo caritatis qui supra positus est nusquam traditur nobis in sacra Scriptura. Ergo non cadit sub praecepto.
+
+@@ II-II q. 44 a. 8 arg. 3
+Praeterea, ordo distinctionem quandam importat. Sed indistincte praecipitur dilectio proximi, cum dicitur, diliges proximum tuum sicut teipsum. Ergo ordo caritatis non cadit sub praecepto.
+
+@@ II-II q. 44 a. 8 s. c.
+Sed contra est quod illud quod Deus in nobis facit per gratiam, instruit per legis praecepta, secundum illud Ierem. XXXI, dabo legem meam in cordibus eorum. Sed Deus causat in nobis ordinem caritatis, secundum illud Cant. II, ordinavit in me caritatem. Ergo ordo caritatis sub praecepto legis cadit.
+
+@@ II-II q. 44 a. 8 co.
+Respondeo dicendum quod, sicut dictum est, modus qui pertinet ad rationem virtuosi actus cadit sub praecepto quod datur de actu virtutis. Ordo autem caritatis pertinet ad ipsam rationem virtutis, cum accipiatur secundum proportionem dilectionis ad diligibile, ut ex supradictis patet. Unde manifestum est quod ordo caritatis debet cadere sub praecepto.
+
+@@ II-II q. 44 a. 8 ad 1
+Ad primum ergo dicendum quod homo plus satisfacit ei quem plus diligit. Et ita, si minus diligeret aliquis eum quem plus debet diligere, plus vellet satisfacere illi cui minus satisfacere debet. Et sic fieret iniuria illi quem plus debet diligere.
+
+@@ II-II q. 44 a. 8 ad 2
+Ad secundum dicendum quod ordo quatuor diligendorum ex caritate in sacra Scriptura exprimitur. Nam cum mandatur quod Deum ex toto corde diligamus, datur intelligi quod Deum super omnia debemus diligere. Cum autem mandatur quod aliquis diligat proximum sicut seipsum, praefertur dilectio sui ipsius dilectioni proximi. Similiter etiam cum mandatur, I Ioan. III, quod debemus pro fratribus animam ponere, idest vitam corporalem, datur intelligi quod proximum plus debemus diligere quam corpus proprium. Similiter etiam cum mandatur, ad Gal. ult., quod maxime operemur bonum ad domesticos fidei; et I ad Tim. V vituperatur qui non habet curam suorum, et maxime domesticorum; datur intelligi quod inter proximos, meliores et magis propinquos magis debemus diligere.
+
+@@ II-II q. 44 a. 8 ad 3
+Ad tertium dicendum quod ex ipso quod dicitur, diliges proximum tuum, datur consequenter intelligi quod illi qui sunt magis proximi sunt magis diligendi.

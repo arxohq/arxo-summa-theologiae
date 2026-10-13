@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:8975d82469d7cd45d2ca1d95b2046252ca6eb35df9edcbffeefee9c157ca31ed",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:e06fa596030de4aaba6428c7f6fd1617cdd8c3039f95169d6f2b8e0147aa714b",
+    "name": "la.aquinas.summa.ii_ii_fortitudine",
+    "namespace": "urn:la:aquinas:clir:summa-ii-ii-fortitudine",
+    "sourceHash": "sha256:ed3bf83d6c645f858b07fe70e29e323fe2c9ca4744465466e2c3757b4675ec03",
+    "version": "0.1.0"
+  }
+}

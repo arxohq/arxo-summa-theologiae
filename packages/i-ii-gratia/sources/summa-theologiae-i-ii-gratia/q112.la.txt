@@ -1,0 +1,134 @@
+@@ I-II q. 112 pr.
+Deinde considerandum est de causa gratiae. Et circa hoc quaeruntur quinque. Primo, utrum solus Deus sit causa efficiens gratiae. Secundo, utrum requiratur aliqua dispositio ad gratiam ex parte recipientis ipsam, per actum liberi arbitrii. Tertio, utrum talis dispositio possit esse necessitas ad gratiam. Quarto, utrum gratia sit aequalis in omnibus. Quinto, utrum aliquis possit scire se habere gratiam.
+
+@@ I-II q. 112 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod non solus Deus sit causa gratiae. Dicitur enim Ioan. I, gratia et veritas per Iesum Christum facta est. Sed in nomine Iesu Christi intelligitur non solum natura divina assumens, sed etiam natura creata assumpta. Ergo aliqua creatura potest esse causa gratiae.
+
+@@ I-II q. 112 a. 1 arg. 2
+Praeterea, ista differentia ponitur inter sacramenta novae legis et veteris, quod sacramenta novae legis causant gratiam, quam sacramenta veteris legis solum significant. Sed sacramenta novae legis sunt quaedam visibilia elementa. Ergo non solus Deus est causa gratiae.
+
+@@ I-II q. 112 a. 1 arg. 3
+Praeterea, secundum Dionysium, in libro Cael. Hier., Angeli purgant et illuminant et perficiunt et Angelos inferiores et etiam homines. Sed rationalis creatura purgatur, illuminatur et perficitur per gratiam. Ergo non solus Deus est causa gratiae.
+
+@@ I-II q. 112 a. 1 s. c.
+Sed contra est quod in Psalmo LXXXIII dicitur, gratiam et gloriam dabit dominus.
+
+@@ I-II q. 112 a. 1 co.
+Respondeo dicendum quod nulla res agere potest ultra suam speciem, quia semper oportet quod causa potior sit effectu. Donum autem gratiae excedit omnem facultatem naturae creatae, cum nihil aliud sit quam quaedam participatio divinae naturae, quae excedit omnem aliam naturam. Et ideo impossibile est quod aliqua creatura gratiam causet. Sic enim necesse est quod solus Deus deificet, communicando consortium divinae naturae per quandam similitudinis participationem, sicut impossibile est quod aliquid igniat nisi solus ignis.
+
+@@ I-II q. 112 a. 1 ad 1
+Ad primum ergo dicendum quod humanitas Christi est sicut quoddam organum divinitatis eius; ut Damascenus dicit, in III libro. Instrumentum autem non agit actionem agentis principalis propria virtute, sed virtute principalis agentis. Et ideo humanitas Christi non causat gratiam propria virtute, sed virtute divinitatis adiunctae, ex qua actiones humanitatis Christi sunt salutares.
+
+@@ I-II q. 112 a. 1 ad 2
+Ad secundum dicendum quod, sicut in ipsa persona Christi humanitas causat salutem nostram per gratiam, virtute divina principaliter operante; ita etiam in sacramentis novae legis, quae derivantur a Christo, causatur gratia instrumentaliter quidem per ipsa sacramenta, sed principaliter per virtutem spiritus sancti in sacramentis operantis; secundum illud Ioan. III, nisi quis renatus fuerit ex aqua et spiritu sancto, et cetera.
+
+@@ I-II q. 112 a. 1 ad 3
+Ad tertium dicendum quod Angelus purgat, illuminat et perficit Angelum vel hominem, per modum instructionis cuiusdam, non autem iustificando per gratiam. Unde Dionysius dicit, VII cap. de Div. Nom., quod huiusmodi purgatio, illuminatio et perfectio nihil est aliud quam divinae scientiae assumptio.
+
+@@ I-II q. 112 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod non requiratur aliqua praeparatio sive dispositio ad gratiam ex parte hominis. Quia ut apostolus dicit, Rom. IV, ei qui operatur, merces non imputatur secundum gratiam, sed secundum debitum. Sed praeparatio hominis per liberum arbitrium non est nisi per aliquam operationem. Ergo tolleretur ratio gratiae.
+
+@@ I-II q. 112 a. 2 arg. 2
+Praeterea, ille qui in peccato progreditur, non se praeparat ad gratiam habendam. Sed aliquibus in peccato progredientibus data est gratia, sicut patet de Paulo, qui gratiam consecutus est dum esset spirans minarum et caedis in discipulos domini, ut dicitur Act. IX. Ergo nulla praeparatio ad gratiam requiritur ex parte hominis.
+
+@@ I-II q. 112 a. 2 arg. 3
+Praeterea, agens infinitae virtutis non requirit dispositionem in materia, cum nec ipsam materiam requirat, sicut in creatione apparet; cui collatio gratiae comparatur, quae dicitur nova creatura, ad Gal. ult. Sed solus Deus, qui est infinitae virtutis, gratiam causat, ut dictum est. Ergo nulla praeparatio requiritur ex parte hominis ad gratiam consequendam.
+
+@@ I-II q. 112 a. 2 s. c.
+Sed contra est quod dicitur Amos IV, praeparare in occursum Dei tui, Israel. Et I Reg. VII dicitur, praeparate corda vestra domino.
+
+@@ I-II q. 112 a. 2 co.
+Respondeo dicendum quod, sicut supra dictum est, gratia dupliciter dicitur, quandoque quidem ipsum habituale donum Dei; quandoque autem ipsum auxilium Dei moventis animam ad bonum. Primo igitur modo accipiendo gratiam, praeexigitur ad gratiam aliqua gratiae praeparatio, quia nulla forma potest esse nisi in materia disposita. Sed si loquamur de gratia secundum quod significat auxilium Dei moventis ad bonum, sic nulla praeparatio requiritur ex parte hominis quasi praeveniens divinum auxilium, sed potius quaecumque praeparatio in homine esse potest, est ex auxilio Dei moventis animam ad bonum. Et secundum hoc, ipse bonus motus liberi arbitrii quo quis praeparatur ad donum gratiae suscipiendum, est actus liberi arbitrii moti a Deo, et quantum ad hoc, dicitur homo se praeparare, secundum illud Prov. XVI, hominis est praeparare animum. Et est principaliter a Deo movente liberum arbitrium, et secundum hoc, dicitur a Deo voluntas hominis praeparari, et a domino gressus hominis dirigi.
+
+@@ I-II q. 112 a. 2 ad 1
+Ad primum ergo dicendum quod praeparatio hominis ad gratiam habendam, quaedam est simul cum ipsa infusione gratiae. Et talis operatio est quidem meritoria; sed non gratiae, quae iam habetur, sed gloriae, quae nondum habetur. Est autem alia praeparatio gratiae imperfecta, quae aliquando praecedit donum gratiae gratum facientis, quae tamen est a Deo movente. Sed ista non sufficit ad meritum, nondum homine per gratiam iustificato, quia nullum meritum potest esse nisi ex gratia, ut infra dicetur.
+
+@@ I-II q. 112 a. 2 ad 2
+Ad secundum dicendum quod, cum homo ad gratiam se praeparare non possit nisi Deo eum praeveniente et movente ad bonum, non refert utrum subito vel paulatim aliquis ad perfectam praeparationem perveniat, dicitur enim Eccli. XI, quod facile est in oculis Dei subito honestare pauperem. Contingit autem quandoque quod Deus movet hominem ad aliquod bonum, non tamen perfectum, et talis praeparatio praecedit gratiam. Sed quandoque statim perfecte movet ipsum ad bonum, et subito homo gratiam accipit; secundum illud Ioan. VI, omnis qui audivit a patre et didicit, venit ad me. Et ita contigit Paulo, quia subito, cum esset in progressu peccati, perfecte motum est cor eius a Deo, audiendo et addiscendo et veniendo; et ideo subito est gratiam consecutus.
+
+@@ I-II q. 112 a. 2 ad 3
+Ad tertium dicendum quod agens infinitae virtutis non exigit materiam, vel dispositionem materiae, quasi praesuppositam ex alterius causae actione. Sed tamen oportet quod, secundum conditionem rei causandae, in ipsa re causet et materiam et dispositionem debitam ad formam. Et similiter ad hoc quod Deus gratiam infundat animae, nulla praeparatio exigitur quam ipse non faciat.
+
+@@ I-II q. 112 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod ex necessitate detur gratia se praeparanti ad gratiam, vel facienti quod in se est. Quia super illud Rom. V, iustificati ex fide pacem habeamus etc., dicit Glossa, Deus recipit eum qui ad se confugit, aliter esset in eo iniquitas. Sed impossibile est in Deo iniquitatem esse. Ergo impossibile est quod Deus non recipiat eum qui ad se confugit. Ex necessitate igitur gratiam assequitur.
+
+@@ I-II q. 112 a. 3 arg. 2
+Praeterea, Anselmus dicit, in libro de casu Diaboli, quod ista est causa quare Deus non concedit Diabolo gratiam, quia ipse non voluit accipere, nec paratus fuit. Sed remota causa, necesse est removeri effectum. Ergo si aliquis velit accipere gratiam, necesse est quod ei detur.
+
+@@ I-II q. 112 a. 3 arg. 3
+Praeterea, bonum est communicativum sui; ut patet per Dionysium, in IV cap. de Div. Nom. Sed bonum gratiae est melius quam bonum naturae. Cum igitur forma naturalis ex necessitate adveniat materiae dispositae, videtur quod multo magis gratia ex necessitate detur praeparanti se ad gratiam.
+
+@@ I-II q. 112 a. 3 s. c.
+Sed contra est quod homo comparatur ad Deum sicut lutum ad figulum; secundum illud Ierem. XVIII, sicut lutum in manu figuli, sic vos in manu mea. Sed lutum non ex necessitate accipit formam a figulo, quantumcumque sit praeparatum. Ergo neque homo recipit ex necessitate gratiam a Deo, quantumcumque se praeparet.
+
+@@ I-II q. 112 a. 3 co.
+Respondeo dicendum quod, sicut supra dictum est, praeparatio ad hominis gratiam est a Deo sicut a movente, a libero autem arbitrio sicut a moto. Potest igitur praeparatio dupliciter considerari. Uno quidem modo, secundum quod est a libero arbitrio. Et secundum hoc, nullam necessitatem habet ad gratiae consecutionem, quia donum gratiae excedit omnem praeparationem virtutis humanae. Alio modo potest considerari secundum quod est a Deo movente. Et tunc habet necessitatem ad id ad quod ordinatur a Deo, non quidem coactionis, sed infallibilitatis, quia intentio Dei deficere non potest; secundum quod et Augustinus dicit, in libro de Praedest. Sanct., quod per beneficia Dei certissime liberantur quicumque liberantur. Unde si ex intentione Dei moventis est quod homo cuius cor movet, gratiam consequatur, infallibiliter ipsam consequitur; secundum illud Ioan. VI, omnis qui audivit a patre et didicit, venit ad me.
+
+@@ I-II q. 112 a. 3 ad 1
+Ad primum ergo dicendum quod Glossa illa loquitur de illo qui confugit ad Deum per actum meritorium liberi arbitrii iam per gratiam informati, quem si non reciperet, esset contra iustitiam quam ipse statuit. Vel si referatur ad motum liberi arbitrii ante gratiam, loquitur secundum quod ipsum confugium hominis ad Deum est per motionem divinam, quam iustum est non deficere.
+
+@@ I-II q. 112 a. 3 ad 2
+Ad secundum dicendum quod defectus gratiae prima causa est ex nobis, sed collationis gratiae prima causa est a Deo; secundum illud Osee XIII, perditio tua, Israel, tantummodo ex me auxilium tuum.
+
+@@ I-II q. 112 a. 3 ad 3
+Ad tertium dicendum quod etiam in rebus naturalibus dispositio materiae non ex necessitate consequitur formam, nisi per virtutem agentis qui dispositionem causat.
+
+@@ I-II q. 112 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod gratia non sit maior in uno quam in alio. Gratia enim causatur in nobis ex dilectione divina, ut dictum est. Sed Sap. VI dicitur, pusillum et magnum ipse fecit, et aequaliter est illi cura de omnibus. Ergo omnes aequaliter gratiam ab eo consequuntur.
+
+@@ I-II q. 112 a. 4 arg. 2
+Praeterea, ea quae in summo dicuntur, non recipiunt magis et minus. Sed gratia in summo dicitur, quia coniungit ultimo fini. Ergo non recipit magis et minus. Non ergo est maior in uno quam in alio.
+
+@@ I-II q. 112 a. 4 arg. 3
+Praeterea, gratia est vita animae, ut supra dictum est. Sed vivere non dicitur secundum magis et minus. Ergo etiam neque gratia.
+
+@@ I-II q. 112 a. 4 s. c.
+Sed contra est quod dicitur ad Ephes. IV, unicuique data est gratia secundum mensuram donationis Christi. Quod autem mensurate datur, non omnibus aequaliter datur. Ergo non omnes aequalem gratiam habent.
+
+@@ I-II q. 112 a. 4 co.
+Respondeo dicendum quod, sicut supra dictum est, habitus duplicem magnitudinem habere potest, unam ex parte finis vel obiecti, secundum quod dicitur una virtus alia nobilior inquantum ad maius bonum ordinatur; aliam vero ex parte subiecti, quod magis vel minus participat habitum inhaerentem. Secundum igitur primam magnitudinem, gratia gratum faciens non potest esse maior et minor, quia gratia secundum sui rationem coniungit hominem summo bono, quod est Deus. Sed ex parte subiecti, gratia potest suscipere magis vel minus, prout scilicet unus perfectius illustratur a lumine gratiae quam alius. Cuius diversitatis ratio quidem est aliqua ex parte praeparantis se ad gratiam, qui enim se magis ad gratiam praeparat, pleniorem gratiam accipit. Sed ex hac parte non potest accipi prima ratio huius diversitatis, quia praeparatio ad gratiam non est hominis nisi inquantum liberum arbitrium eius praeparatur a Deo. Unde prima causa huius diversitatis accipienda est ex parte ipsius Dei, qui diversimode suae gratiae dona dispensat, ad hoc quod ex diversis gradibus pulchritudo et perfectio Ecclesiae consurgat, sicut etiam diversos gradus rerum instituit ut esset universum perfectum. Unde apostolus, ad Ephes. IV, postquam dixerat, unicuique data est gratia secundum mensuram donationis Christi, enumeratis diversis gratiis, subiungit, ad consummationem sanctorum, in aedificationem corporis Christi.
+
+@@ I-II q. 112 a. 4 ad 1
+Ad primum ergo dicendum quod cura divina dupliciter considerari potest. Uno modo, quantum ad ipsum divinum actum, qui est simplex et uniformis. Et secundum hoc, aequaliter se habet eius cura ad omnes, quia scilicet uno actu et simplici et maiora et minora dispensat. Alio modo potest considerari ex parte eorum quae in creaturis ex divina cura proveniunt. Et secundum hoc invenitur inaequalitas, inquantum scilicet Deus sua cura quibusdam maiora, quibusdam minora providet dona.
+
+@@ I-II q. 112 a. 4 ad 2
+Ad secundum dicendum quod ratio illa procedit secundum primum modum magnitudinis gratiae. Non enim potest gratia secundum hoc maior esse, quod ad maius bonum ordinet, sed ex eo quod magis vel minus ordinat ad idem bonum magis vel minus participandum. Potest enim esse diversitas intensionis et remissionis secundum participationem subiecti, et in ipsa gratia et in finali gloria.
+
+@@ I-II q. 112 a. 4 ad 3
+Ad tertium dicendum quod vita naturalis pertinet ad substantiam hominis, et ideo non recipit magis et minus. Sed vitam gratiae participat homo accidentaliter, et ideo eam potest homo magis vel minus habere.
+
+@@ I-II q. 112 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod homo possit scire se habere gratiam. Gratia enim est in anima per sui essentiam. Sed certissima cognitio animae est eorum quae sunt in anima per sui essentiam; ut patet per Augustinum, XII super Gen. ad Litt. Ergo gratia certissime potest cognosci a Deo qui gratiam habet.
+
+@@ I-II q. 112 a. 5 arg. 2
+Praeterea, sicut scientia est donum Dei, ita et gratia. Sed qui a Deo scientiam accipit, scit se scientiam habere; secundum illud Sap. VII, dominus dedit mihi horum quae sunt veram scientiam. Ergo pari ratione qui accipit gratiam a Deo, scit se gratiam habere.
+
+@@ I-II q. 112 a. 5 arg. 3
+Praeterea, lumen est magis cognoscibile quam tenebra, quia secundum apostolum, ad Ephes. V, omne quod manifestatur, lumen est. Sed peccatum, quod est spiritualis tenebra, per certitudinem potest sciri ab eo qui habet peccatum. Ergo multo magis gratia, quae est spirituale lumen.
+
+@@ I-II q. 112 a. 5 arg. 4
+Praeterea, apostolus dicit, I ad Cor. II, nos autem non spiritum huius mundi accepimus, sed spiritum qui a Deo est, ut sciamus quae a Deo donata sunt nobis. Sed gratia est praecipuum donum Dei. Ergo homo qui accepit gratiam per spiritum sanctum, per eundem spiritum scit gratiam esse sibi datam.
+
+@@ I-II q. 112 a. 5 arg. 5
+Praeterea, Gen. XXII, ex persona domini dicitur ad Abraham, nunc cognovi quod timeas dominum, idest, cognoscere te feci. Loquitur autem ibi de timore casto, qui non est sine gratia. Ergo homo potest cognoscere se habere gratiam.
+
+@@ I-II q. 112 a. 5 s. c.
+Sed contra est quod dicitur Eccle. IX, nemo scit utrum sit dignus odio vel amore. Sed gratia gratum faciens facit hominem dignum Dei amore. Ergo nullus potest scire utrum habeat gratiam gratum facientem.
+
+@@ I-II q. 112 a. 5 co.
+Respondeo dicendum quod tripliciter aliquid cognosci potest. Uno modo, per revelationem. Et hoc modo potest aliquis scire se habere gratiam. Revelat enim Deus hoc aliquando aliquibus ex speciali privilegio, ut securitatis gaudium etiam in hac vita in eis incipiat, et confidentius et fortius magnifica opera prosequantur, et mala praesentis vitae sustineant, sicut Paulo dictum est, II ad Cor. XII, sufficit tibi gratia mea. Alio modo homo cognoscit aliquid per seipsum, et hoc certitudinaliter. Et sic nullus potest scire se habere gratiam. Certitudo enim non potest haberi de aliquo, nisi possit diiudicari per proprium principium, sic enim certitudo habetur de conclusionibus demonstrativis per indemonstrabilia universalia principia; nullus autem posset scire se habere scientiam alicuius conclusionis, si principium ignoraret. Principium autem gratiae, et obiectum eius, est ipse Deus, qui propter sui excellentiam est nobis ignotus; secundum illud Iob XXXVI, ecce, Deus magnus, vincens scientiam nostram. Et ideo eius praesentia in nobis vel absentia per certitudinem cognosci non potest; secundum illud Iob IX, si venerit ad me, non videbo eum, si autem abierit, non intelligam. Et ideo homo non potest per certitudinem diiudicare utrum ipse habeat gratiam; secundum illud I ad Cor. IV, sed neque meipsum iudico, qui autem iudicat me, dominus est. Tertio modo cognoscitur aliquid coniecturaliter per aliqua signa. Et hoc modo aliquis cognoscere potest se habere gratiam, inquantum scilicet percipit se delectari in Deo, et contemnere res mundanas; et inquantum homo non est conscius sibi alicuius peccati mortalis. Secundum quem modum potest intelligi quod habetur Apoc. II, vincenti dabo manna absconditum, quod nemo novit nisi qui accipit, quia scilicet ille qui accipit, per quandam experientiam dulcedinis novit, quam non experitur ille qui non accipit. Ista tamen cognitio imperfecta est. Unde apostolus dicit, I ad Cor. IV, nihil mihi conscius sum, sed non in hoc iustificatus sum. Quia ut dicitur in Psalmo XVIII, delicta quis intelligit? Ab occultis meis munda me, domine.
+
+@@ I-II q. 112 a. 5 ad 1
+Ad primum ergo dicendum quod illa quae sunt per essentiam sui in anima, cognoscuntur experimentali cognitione, inquantum homo experitur per actus principia intrinseca, sicut voluntatem percipimus volendo, et vitam in operibus vitae.
+
+@@ I-II q. 112 a. 5 ad 2
+Ad secundum dicendum quod de ratione scientiae est quod homo certitudinem habeat de his quorum habet scientiam, et similiter de ratione fidei est quod homo sit certus de his quorum habet fidem. Et hoc ideo, quia certitudo pertinet ad perfectionem intellectus, in quo praedicta dona existunt. Et ideo quicumque habet scientiam vel fidem, certus est se habere. Non est autem similis ratio de gratia et caritate et aliis huiusmodi, quae perficiunt vim appetitivam.
+
+@@ I-II q. 112 a. 5 ad 3
+Ad tertium dicendum quod peccatum habet pro principio et pro obiecto bonum commutabile, quod nobis est notum. Obiectum autem vel finis gratiae est nobis ignotum, propter sui luminis immensitatem; secundum illud I ad Tim. ult., lucem habitat inaccessibilem.
+
+@@ I-II q. 112 a. 5 ad 4
+Ad quartum dicendum quod apostolus ibi loquitur de donis gloriae, quae sunt nobis data in spe, quae certissime cognoscimus per fidem; licet non cognoscamus per certitudinem nos habere gratiam, per quam nos possumus ea promereri. Vel potest dici quod loquitur de notitia privilegiata, quae est per revelationem. Unde subdit, nobis autem revelavit Deus per spiritum sanctum.
+
+@@ I-II q. 112 a. 5 ad 5
+Ad quintum dicendum quod illud etiam verbum Abrahae dictum, potest referri ad notitiam experimentalem, quae est per exhibitionem operis. In opere enim illo quod fecerat Abraham, cognoscere potuit experimentaliter se Dei timorem habere. Vel potest etiam ad revelationem referri.

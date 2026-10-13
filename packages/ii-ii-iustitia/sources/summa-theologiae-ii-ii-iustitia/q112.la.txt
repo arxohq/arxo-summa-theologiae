@@ -1,0 +1,50 @@
+@@ II-II q. 112 pr.
+Deinde considerandum est de iactantia et ironia, quae sunt partes mendacii, secundum philosophum, in IV Ethic. Primo autem circa iactantiam quaeruntur duo. Primo, cui virtuti opponatur. Secundo, utrum sit peccatum mortale.
+
+@@ II-II q. 112 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod iactantia non opponatur virtuti veritatis. Veritati enim opponitur mendacium. Sed quandoque potest esse iactantia etiam sine mendacio, sicut cum aliquis excellentiam suam ostentat, dicitur enim Esther I, quod Assuerus fecit grande convivium, ut ostenderet divitias gloriae suae ac regni sui, ac magnitudinem atque iactantiam potentiae suae. Ergo iactantia non opponitur virtuti veritatis.
+
+@@ II-II q. 112 a. 1 arg. 2
+Praeterea, iactantia ponitur a Gregorio, XXIII Moral., una de quatuor speciebus superbiae, cum scilicet quis iactat se habere quod non habet. Unde dicitur Ierem. XLVIII, audivimus superbiam Moab, superbus est valde. Sublimitatem eius et arrogantiam et superbiam et altitudinem cordis illius ego scio, ait dominus, iactantiam eius, et quod non sit iuxta eam virtus eius. Et XXXI Moral., dicit Gregorius quod iactantia oritur ex inani gloria. Superbia autem et inanis gloria opponuntur virtuti humilitatis. Ergo iactantia non opponitur veritati, sed humilitati.
+
+@@ II-II q. 112 a. 1 arg. 3
+Praeterea, iactantia ex divitiis causari videtur, unde dicitur Sap. V, quid nobis profuit superbia? Aut quid divitiarum iactantia contulit nobis? Sed superfluitas divitiarum videtur pertinere ad peccatum avaritiae, quod opponitur iustitiae vel liberalitati. Non ergo iactantia opponitur veritati.
+
+@@ II-II q. 112 a. 1 s. c.
+Sed contra est quod philosophus, in II et IV Ethic., iactantiam opponit veritati.
+
+@@ II-II q. 112 a. 1 co.
+Respondeo dicendum quod iactantia proprie importare videtur quod homo verbis se extollat, illa enim quae homo vult longe iactare, in altum elevat. Tunc autem proprie aliquis se extollit, quando de se supra se aliquid dicit. Quod quidem contingit dupliciter. Quandoque enim aliquis loquitur de se, non quidem supra id quod in se est, sed supra id quod de eo homines opinantur quod apostolus refugiens dicit, II ad Cor. XII, parco, ne quis me existimet supra id quod videt in me, aut audit aliquid ex me. Alio modo aliquis per verba se extollit loquens de se supra id quod in se est secundum rei veritatem. Et quia magis est aliquid iudicandum secundum quod in se est quam secundum quod est in opinione aliorum, inde est quod magis proprie dicitur iactantia quando aliquis effert se supra id quod in ipso est, quam quando effert se supra id quod est in opinione aliorum, quamvis utroque modo iactantia dici possit. Et ideo iactantia proprie dicta opponitur veritati per modum excessus.
+
+@@ II-II q. 112 a. 1 ad 1
+Ad primum ergo dicendum quod ratio illa procedit de iactantia secundum quod excedit opinionem.
+
+@@ II-II q. 112 a. 1 ad 2
+Ad secundum dicendum quod peccatum iactantiae potest considerari dupliciter. Uno modo, secundum speciem actus. Et sic opponitur veritati, ut dictum est. Alio modo, secundum causam suam, ex qua, etsi non semper, tamen frequentius accidit. Et sic procedit quidem ex superbia sicut ex causa interius motiva et impellente, ex hoc enim quod aliquis interius per arrogantiam supra seipsum elevatur, sequitur plerumque quod exterius maiora quaedam de se iactet; licet quandoque non ex arrogantia, sed ex quadam vanitate aliquis ad iactantiam procedat, et in hoc delectetur quia talis est secundum habitum. Et ideo arrogantia, per quam aliquis supra seipsum extollitur, est superbiae species, non tamen est idem iactantiae, sed, ut frequentius, eius causa, et propter hoc Gregorius iactantiam ponit inter superbiae species. Tendit autem iactator plerumque ad hoc quod gloriam consequatur per suam iactantiam. Et ideo, secundum Gregorium, ex inani gloria oritur secundum rationem finis.
+
+@@ II-II q. 112 a. 1 ad 3
+Ad tertium dicendum quod opulentia etiam iactantiam causat dupliciter. Uno modo, occasionaliter, inquantum de divitiis aliquis superbit. Unde et signanter, Prov. VIII, opes dicuntur superbae. Alio modo, per modum finis, quia, ut dicitur in IV Ethic., aliqui seipsos iactant non solum propter gloriam, sed etiam propter lucrum, qui de seipsis fingunt ea ex quibus lucrari possint, puta quod sint medici, vel sapientes et divini.
+
+@@ II-II q. 112 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod iactantia sit peccatum mortale. Dicitur enim Prov. XXVIII, qui se iactat et dilatat, iurgia concitat. Sed concitare iurgia est peccatum mortale, detestatur enim Deus eos qui seminant discordias, ut habetur Prov. VI. Ergo iactantia est peccatum mortale.
+
+@@ II-II q. 112 a. 2 arg. 2
+Praeterea, omne quod prohibetur in lege Dei est peccatum mortale. Sed super illud Eccli. VI, non te extollas in cogitatione tua, dicit Glossa, iactantiam et superbiam prohibet. Ergo iactantia est peccatum mortale.
+
+@@ II-II q. 112 a. 2 arg. 3
+Praeterea, iactantia est mendacium quoddam. Non est autem mendacium officiosum vel iocosum. Quod patet ex fine mendacii. Quia, ut philosophus dicit, in IV Ethic., iactator fingit de se maiora existentibus, quandoque nullius gratia, quandoque autem gratia gloriae vel honoris, quandoque autem gratia argenti, et sic patet quod neque est mendacium iocosum, neque officiosum. Unde relinquitur quod semper sit perniciosum. Videtur ergo semper esse peccatum mortale.
+
+@@ II-II q. 112 a. 2 s. c.
+Sed contra est quod iactantia oritur ex inani gloria, secundum Gregorium, XXXI Moral. Sed inanis gloria non semper est peccatum mortale, sed quandoque veniale, quod vitare est valde perfectorum, dicit enim Gregorius quod valde perfectorum est sic ostenso opere auctoris gloriam quaerere ut de illata laude privata nesciant exultatione gaudere. Ergo iactantia non semper est peccatum mortale.
+
+@@ II-II q. 112 a. 2 co.
+Respondeo dicendum quod, sicut supra dictum est, peccatum mortale est quod caritati contrariatur. Dupliciter ergo iactantia considerari potest. Uno modo, secundum se, prout est mendacium quoddam. Et sic quandoque est peccatum mortale, quandoque veniale. Mortale quidem, quando aliquis iactanter de se profert quod est contra gloriam Dei, sicut ex persona regis Tyri dicitur Ezech. XXVIII, elevatum est cor tuum, et dixisti, Deus ego sum. Vel etiam contra caritatem proximi, sicut cum aliquis, iactando seipsum, prorumpit in contumelias aliorum; sicut habetur Luc. XVIII de Pharisaeo, qui dicebat, non sum sicut ceteri hominum, raptores, iniusti, adulteri, velut etiam hic publicanus. Quandoque vero est peccatum veniale, quando scilicet aliquis de se talia iactat quae neque sunt contra Deum, neque contra proximum. Alio modo potest considerari secundum suam causam, scilicet superbiam, vel appetitum lucri aut inanis gloriae. Et sic, si procedat ex superbia vel inani gloria quae sit peccatum mortale, etiam ipsa iactantia erit peccatum mortale. Alioquin erit peccatum veniale. Sed quando aliquis prorumpit in iactantiam propter appetitum lucri, hoc videtur iam pertinere ad proximi deceptionem et damnum. Et ideo talis iactantia magis est peccatum mortale. Unde et philosophus dicit, in IV Ethic., quod turpior est qui se iactat causa lucri quam qui se iactat causa gloriae vel honoris. Non tamen semper est peccatum mortale, quia potest esse tale lucrum ex quo alius non damnificatur.
+
+@@ II-II q. 112 a. 2 ad 1
+Ad primum ergo dicendum quod ille qui se iactat ad hoc quod iurgia concitet, peccat mortaliter. Sed quandoque contingit quod iactantia est causa iurgiorum non per se, sed per accidens. Unde ex hoc iactantia non est peccatum mortale.
+
+@@ II-II q. 112 a. 2 ad 2
+Ad secundum dicendum quod Glossa illa loquitur de iactantia secundum quod procedit ex superbia prohibita, quae est peccatum mortale.
+
+@@ II-II q. 112 a. 2 ad 3
+Ad tertium dicendum quod non semper iactantia importat mendacium perniciosum, sed solum quando est contra caritatem Dei aut proximi, aut secundum se aut secundum causam suam. Quod autem aliquis se iactet quasi hoc ipso delectatus, est quiddam vanum, ut philosophus dicit. Unde reducitur ad mendacium iocosum, nisi forte hoc divinae dilectioni praeferret, ut propter hoc Dei praecepta contemneret; sic enim esset contra caritatem Dei, in quo solo mens nostra debet quiescere sicut in ultimo fine. Videtur autem ad mendacium officiosum pertinere cum aliquis ad hoc se iactat ut gloriam vel lucrum acquirat, dummodo hoc sit sine damno aliorum; quia hoc iam pertineret ad mendacium perniciosum.

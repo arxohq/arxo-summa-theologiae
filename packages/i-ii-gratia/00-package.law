@@ -1,0 +1,49 @@
+// Словарь трактата I-II qq. 109-114.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_gratia version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-gratia";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation before_first_grace(s: Subject) kind empirical {
+    label la unofficial "before_first_grace";
+    label ru unofficial "before_first_grace";
+}
+pub relation divine_auxilium_given(s: Subject) kind empirical {
+    label la unofficial "divine_auxilium_given";
+    label ru unofficial "divine_auxilium_given";
+}
+pub relation habitual_grace_given(s: Subject) kind empirical {
+    label la unofficial "habitual_grace_given";
+    label ru unofficial "habitual_grace_given";
+}
+pub relation impius_presented(s: Subject) kind empirical {
+    label la unofficial "impius_presented";
+    label ru unofficial "impius_presented";
+}
+pub relation in_grace(s: Subject) kind empirical {
+    label la unofficial "in_grace";
+    label ru unofficial "in_grace";
+}
+pub relation justification_considered(s: Subject) kind empirical {
+    label la unofficial "justification_considered";
+    label ru unofficial "justification_considered";
+}
+pub relation without_auxilium(s: Subject) kind empirical {
+    label la unofficial "without_auxilium";
+    label ru unofficial "without_auxilium";
+}
+pub relation without_habitual_grace(s: Subject) kind empirical {
+    label la unofficial "without_habitual_grace";
+    label ru unofficial "without_habitual_grace";
+}

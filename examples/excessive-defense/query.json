@@ -1,0 +1,15 @@
+{
+  "queryId": "familia-defensio-illicita",
+  "kind": "truth",
+  "literal": {
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita",
+    "args": [
+      {
+        "kind": "entity_ref",
+        "id": "urn:example:duplex:actus:familia"
+      }
+    ]
+  }
+}

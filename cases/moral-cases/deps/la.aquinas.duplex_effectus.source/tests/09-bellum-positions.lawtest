@@ -1,0 +1,22 @@
+language "law.core" version "0.2";
+package la.aquinas.duplex_effectus version "0.1.0";
+namespace "urn:la:aquinas:clir:duplex-effectus";
+
+test "urn:query:duplex-09-bellum-positions" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "b0": presented_bellum(entity_ref("urn:case:duplex:bellum:iustum")) { origin case_input; }
+        assert "b1": bellum_a_principe(entity_ref("urn:case:duplex:bellum:iustum"), entity_ref("urn:case:duplex:persona:princeps")) { origin case_input; }
+        assert "b2": auctoritas_principis(entity_ref("urn:case:duplex:bellum:iustum")) { origin case_input; }
+        assert "b3": causa_iusta(entity_ref("urn:case:duplex:bellum:iustum")) { origin case_input; }
+        assert "b4": intentio_recta(entity_ref("urn:case:duplex:bellum:iustum")) { origin case_input; }
+    }
+    evaluate positions();
+    expect position(BellumIustumGerere, ACTIVE);
+    expect not position(BellumIllicitumGerere, ACTIVE);
+}

@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:32bba0f27983143585893622d36d67ab1b87095d9b87a4c623200cac3ba94ab1",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:19c9b2a29c15c117b2dd1707fc4baaff2dc2688d3df4c13c59bda1b0b536805a",
+    "name": "la.aquinas.summa.i_de_trinitate",
+    "namespace": "urn:la:aquinas:clir:summa-i-de-trinitate",
+    "sourceHash": "sha256:63d48dd7cdbf3c1642a279fe47f2a8c9e99ee61902b7bd95862e376207811ec1",
+    "version": "0.1.0"
+  }
+}

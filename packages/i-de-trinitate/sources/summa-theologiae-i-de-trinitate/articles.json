@@ -1,0 +1,283 @@
+{
+  "$comment": "Completeness is measured by author-numbered articuli of I qq. 27-43.",
+  "editions": [
+    {
+      "document": "q27.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "27-1": "@@ I q. 27 a. 1 arg. 1",
+        "27-2": "@@ I q. 27 a. 2 arg. 1",
+        "27-3": "@@ I q. 27 a. 3 arg. 1",
+        "27-4": "@@ I q. 27 a. 4 arg. 1",
+        "27-5": "@@ I q. 27 a. 5 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 27 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q28.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "28-1": "@@ I q. 28 a. 1 arg. 1",
+        "28-2": "@@ I q. 28 a. 2 arg. 1",
+        "28-3": "@@ I q. 28 a. 3 arg. 1",
+        "28-4": "@@ I q. 28 a. 4 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 28 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q29.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "29-1": "@@ I q. 29 a. 1 arg. 1",
+        "29-2": "@@ I q. 29 a. 2 arg. 1",
+        "29-3": "@@ I q. 29 a. 3 arg. 1",
+        "29-4": "@@ I q. 29 a. 4 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 29 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q30.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "30-1": "@@ I q. 30 a. 1 arg. 1",
+        "30-2": "@@ I q. 30 a. 2 arg. 1",
+        "30-3": "@@ I q. 30 a. 3 arg. 1",
+        "30-4": "@@ I q. 30 a. 4 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 30 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q31.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "31-1": "@@ I q. 31 a. 1 arg. 1",
+        "31-2": "@@ I q. 31 a. 2 arg. 1",
+        "31-3": "@@ I q. 31 a. 3 arg. 1",
+        "31-4": "@@ I q. 31 a. 4 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 31 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q32.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "32-1": "@@ I q. 32 a. 1 arg. 1",
+        "32-2": "@@ I q. 32 a. 2 arg. 1",
+        "32-3": "@@ I q. 32 a. 3 arg. 1",
+        "32-4": "@@ I q. 32 a. 4 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 32 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q33.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "33-1": "@@ I q. 33 a. 1 arg. 1",
+        "33-2": "@@ I q. 33 a. 2 arg. 1",
+        "33-3": "@@ I q. 33 a. 3 arg. 1",
+        "33-4": "@@ I q. 33 a. 4 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 33 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q34.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "34-1": "@@ I q. 34 a. 1 arg. 1",
+        "34-2": "@@ I q. 34 a. 2 arg. 1",
+        "34-3": "@@ I q. 34 a. 3 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 34 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q35.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "35-1": "@@ I q. 35 a. 1 arg. 1",
+        "35-2": "@@ I q. 35 a. 2 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 35 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q36.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "36-1": "@@ I q. 36 a. 1 arg. 1",
+        "36-2": "@@ I q. 36 a. 2 arg. 1",
+        "36-3": "@@ I q. 36 a. 3 arg. 1",
+        "36-4": "@@ I q. 36 a. 4 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 36 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q37.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "37-1": "@@ I q. 37 a. 1 arg. 1",
+        "37-2": "@@ I q. 37 a. 2 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 37 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q38.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "38-1": "@@ I q. 38 a. 1 arg. 1",
+        "38-2": "@@ I q. 38 a. 2 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 38 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q39.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "39-1": "@@ I q. 39 a. 1 arg. 1",
+        "39-2": "@@ I q. 39 a. 2 arg. 1",
+        "39-3": "@@ I q. 39 a. 3 arg. 1",
+        "39-4": "@@ I q. 39 a. 4 arg. 1",
+        "39-5": "@@ I q. 39 a. 5 arg. 1",
+        "39-6": "@@ I q. 39 a. 6 arg. 1",
+        "39-7": "@@ I q. 39 a. 7 arg. 1",
+        "39-8": "@@ I q. 39 a. 8 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 39 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q40.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "40-1": "@@ I q. 40 a. 1 arg. 1",
+        "40-2": "@@ I q. 40 a. 2 arg. 1",
+        "40-3": "@@ I q. 40 a. 3 arg. 1",
+        "40-4": "@@ I q. 40 a. 4 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 40 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q41.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "41-1": "@@ I q. 41 a. 1 arg. 1",
+        "41-2": "@@ I q. 41 a. 2 arg. 1",
+        "41-3": "@@ I q. 41 a. 3 arg. 1",
+        "41-4": "@@ I q. 41 a. 4 arg. 1",
+        "41-5": "@@ I q. 41 a. 5 arg. 1",
+        "41-6": "@@ I q. 41 a. 6 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 41 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q42.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "42-1": "@@ I q. 42 a. 1 arg. 1",
+        "42-2": "@@ I q. 42 a. 2 arg. 1",
+        "42-3": "@@ I q. 42 a. 3 arg. 1",
+        "42-4": "@@ I q. 42 a. 4 arg. 1",
+        "42-5": "@@ I q. 42 a. 5 arg. 1",
+        "42-6": "@@ I q. 42 a. 6 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 42 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q43.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "43-1": "@@ I q. 43 a. 1 arg. 1",
+        "43-2": "@@ I q. 43 a. 2 arg. 1",
+        "43-3": "@@ I q. 43 a. 3 arg. 1",
+        "43-4": "@@ I q. 43 a. 4 arg. 1",
+        "43-5": "@@ I q. 43 a. 5 arg. 1",
+        "43-6": "@@ I q. 43 a. 6 arg. 1",
+        "43-7": "@@ I q. 43 a. 7 arg. 1",
+        "43-8": "@@ I q. 43 a. 8 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 43 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    }
+  ]
+}

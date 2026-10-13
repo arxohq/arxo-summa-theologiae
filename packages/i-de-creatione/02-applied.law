@@ -1,0 +1,56 @@
+// Прикладной канон respondeo I qq. 44-49.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_creatione version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-creatione";
+
+use self::{
+    ST_I_Q44_A1_RESP,
+    ST_I_Q45_A1_RESP,
+    ST_I_Q47_A1_RESP,
+    Subject,
+    creation_considered,
+    creature_presented,
+    creatures_presented,
+    presented,
+};
+
+pub relation god_is_cause(s: Subject) kind institutional {
+    label la official "necesse est omne ens a Deo esse";
+    label ru unofficial "всякое сущее необходимо от Бога";
+}
+
+@source(ST_I_Q44_A1_RESP)
+rule GodCauseOfBeings(s: Subject) strict {
+    label la official "necesse est omne ens a Deo esse";
+    label ru unofficial "всякое сущее необходимо от Бога";
+    when presented(s) and creature_presented(s);
+    then god_is_cause(s);
+}
+
+pub relation creation_from_nothing(s: Subject) kind institutional {
+    label la official "creare est ex nihilo aliquid facere";
+    label ru unofficial "творить — делать нечто из ничего";
+}
+
+@source(ST_I_Q45_A1_RESP)
+rule CreationIsMakingFromNothing(s: Subject) strict {
+    label la official "creare est ex nihilo aliquid facere";
+    label ru unofficial "творить — делать нечто из ничего";
+    when presented(s) and creation_considered(s);
+    then creation_from_nothing(s);
+}
+
+pub relation multitude_from_god(s: Subject) kind institutional {
+    label la official "rerum multitudo et distinctio est a Deo";
+    label ru unofficial "множество и различие вещей — от Бога";
+}
+
+@source(ST_I_Q47_A1_RESP)
+rule MultitudeFromGod(s: Subject) strict {
+    label la official "rerum multitudo et distinctio est a Deo";
+    label ru unofficial "множество и различие вещей — от Бога";
+    when presented(s) and creatures_presented(s);
+    then multitude_from_god(s);
+}
+

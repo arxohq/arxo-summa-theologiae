@@ -1,0 +1,15 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [
+      {
+        "id": "urn:case:st:i_de_deo:s",
+        "kind": "entity_ref"
+      }
+    ],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:clir:summa-i-de-deo#god_exists"
+  },
+  "queryId": "urn:la:aquinas:clir:summa-i-de-deo#test/urn%3Aquery%3Ai-de-deo-godexists-affirmat/query/0"
+}

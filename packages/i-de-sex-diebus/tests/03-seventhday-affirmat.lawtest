@@ -1,0 +1,20 @@
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_sex_diebus version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-sex-diebus";
+
+test "urn:query:i-de-sex-diebus-seventhday-affirmat" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "p": presented(entity_ref("urn:case:st:i_de_sex_diebus:s")) { origin case_input; }
+        assert "f": creation_considered(entity_ref("urn:case:st:i_de_sex_diebus:s")) { origin case_input; }
+    }
+    evaluate truth(seventh_day_rest(entity_ref("urn:case:st:i_de_sex_diebus:s")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}

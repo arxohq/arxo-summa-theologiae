@@ -1,0 +1,392 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:b3723e483fa3a3a67d758539236b2a402b8b736108246da3a0bc015a13fe4e00",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:ed04db3c10ebcc04f305e47a2671d9de4bf58cf792d049b1eb8739d89e82d964",
+    "decisionTime": "1270-06-01T12:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "1270-06-01T12:00:00Z",
+    "legalTime": "1270-06-01",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:b3622e8cde65392e0c5914b5d28ff581a8db06732a1657ad7befb2105d0f9efc",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:d2103f6f6ee6ad52cb7eef94febea1526bfe8d0aa4862592a12501d64b0049dd",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:b3622e8cde65392e0c5914b5d28ff581a8db06732a1657ad7befb2105d0f9efc",
+    "timezone": "UTC"
+  },
+  "positions": [
+    {
+      "createdBy": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:df8d40ccc27de4f708c74d9f695e6d57b8ea97bef1e3d3370bba3338f8a28d79",
+      "holder": "urn:example:duplex:persona:miles",
+      "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:d88e944f19ef2c28d6b58cbef54689833154973b94405491c4ef432c292ccef4",
+      "manifest": "urn:manifest:oracle-1",
+      "modality": "liberty",
+      "payload": {
+        "action": {
+          "args": [
+            {
+              "id": "urn:example:duplex:persona:miles",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "function": "urn:la:aquinas:clir:duplex-effectus#se_defendit",
+          "kind": "call"
+        },
+        "holder": {
+          "id": "urn:example:duplex:persona:miles",
+          "kind": "entity_ref"
+        },
+        "kind": "liberty",
+        "window": {
+          "end": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "infinity"
+          },
+          "endInclusive": false,
+          "kind": "interval",
+          "start": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Date"
+            },
+            "value": "1270-01-01"
+          },
+          "startInclusive": true
+        }
+      },
+      "proof": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:df8d40ccc27de4f708c74d9f695e6d57b8ea97bef1e3d3370bba3338f8a28d79",
+      "status": "ACTIVE",
+      "statusHistory": [],
+      "template": "urn:la:aquinas:clir:duplex-effectus#DefensioPropria"
+    }
+  ],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#bonum"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#refert_ad_bonum_commune"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#bonum",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#defensor"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:example:duplex:persona:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#defensor",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#minister"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:persona:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#minister",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#moderamen"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_moderata"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#moderamen",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#non-libido"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#privata_libido"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#non-libido",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#presented"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#vis"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#vis",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_licita"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:DefensioPubliciMinistri:d662d8ec05eb1ccec761be7ed2e2831ec76f2708dea91f1ee3c8a733e121fcc5",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#bonum",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#defensor",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#minister",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#moderamen",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#non-libido",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#vis"
+        ],
+        "rule": "urn:la:aquinas:clir:duplex-effectus#DefensioPubliciMinistri",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:example:duplex:actus:miles",
+            "kind": "entity_ref"
+          },
+          "v1": {
+            "id": "urn:example:duplex:persona:miles",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "rule": "urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur",
+          "substitution": {
+            "v0": {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            },
+            "v1": {
+              "id": "urn:example:duplex:persona:miles",
+              "kind": "entity_ref"
+            }
+          }
+        },
+        "conclusion": {
+          "position": "urn:position:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:d88e944f19ef2c28d6b58cbef54689833154973b94405491c4ef432c292ccef4",
+          "template": "urn:la:aquinas:clir:duplex-effectus#DefensioPropria"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:df8d40ccc27de4f708c74d9f695e6d57b8ea97bef1e3d3370bba3338f8a28d79",
+        "kind": "norm_creation",
+        "premises": [
+          "urn:proof:apply:DefensioPubliciMinistri:d662d8ec05eb1ccec761be7ed2e2831ec76f2708dea91f1ee3c8a733e121fcc5",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#defensor",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "owner": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:df8d40ccc27de4f708c74d9f695e6d57b8ea97bef1e3d3370bba3338f8a28d79",
+          "status": "ACTIVE"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:d88e944f19ef2c28d6b58cbef54689833154973b94405491c4ef432c292ccef4",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:law:std#active"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm-status:0c6f36e1c8ce4800bb38586f90e1b96655c72048e8d940218361dd4cd92ac4e5",
+        "kind": "norm_status_transition",
+        "premises": [
+          "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:df8d40ccc27de4f708c74d9f695e6d57b8ea97bef1e3d3370bba3338f8a28d79"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "positions": [
+            {
+              "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:d88e944f19ef2c28d6b58cbef54689833154973b94405491c4ef432c292ccef4",
+              "status": "ACTIVE"
+            }
+          ]
+        },
+        "evidence": [],
+        "id": "urn:proof:query:miles-positions",
+        "kind": "query_evaluation",
+        "premises": [
+          "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:df8d40ccc27de4f708c74d9f695e6d57b8ea97bef1e3d3370bba3338f8a28d79"
+        ],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:b0907d8b49a6e5c72b82a2f6dcafa51e6a7c560818afb225f6abeba1b55d2eed",
+    "roots": [
+      "urn:proof:query:miles-positions"
+    ]
+  },
+  "resultHash": "sha256:9facfbffde14f47620f504efc70999575470ca6e3a159ce4e6063471da12bd9b",
+  "results": [
+    {
+      "applicabilityStatus": "APPLICABLE",
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:miles-positions",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatus": "ACTIVE",
+      "normativeStatusSupports": [
+        {
+          "proof": [
+            "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:df8d40ccc27de4f708c74d9f695e6d57b8ea97bef1e3d3370bba3338f8a28d79"
+          ],
+          "status": "CREATED",
+          "truthStatus": "TRUE_ONLY",
+          "valid": {
+            "end": "1270-06-01",
+            "endInclusive": true,
+            "start": "1270-06-01",
+            "startInclusive": true
+          }
+        },
+        {
+          "proof": [
+            "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur:df8d40ccc27de4f708c74d9f695e6d57b8ea97bef1e3d3370bba3338f8a28d79"
+          ],
+          "status": "ACTIVE",
+          "truthStatus": "TRUE_ONLY",
+          "valid": {
+            "end": "1270-06-01",
+            "endInclusive": true,
+            "start": "1270-06-01",
+            "startInclusive": true
+          }
+        }
+      ],
+      "proof": "urn:proof:query:miles-positions",
+      "query": "miles-positions",
+      "resultKind": "NORM_POSITION",
+      "sourceAnchors": []
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

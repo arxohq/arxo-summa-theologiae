@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:951aa9a4b266bdd83f97345b1b25a8638e2c0920d97c0b6e2ea652821c97a4d8",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:3ac6c6905c08ee4369334d04cd0edc70aea215e9b45470c3a951c11ba84bd5db",
+    "name": "la.aquinas.summa.ii_ii_spe",
+    "namespace": "urn:la:aquinas:clir:summa-ii-ii-spe",
+    "sourceHash": "sha256:cccc50048a88f800d985a6aae914ba23be5a3ff345503a70e562658158bad673",
+    "version": "0.1.0"
+  }
+}

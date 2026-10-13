@@ -1,0 +1,148 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:6a1de9fd0bf94146ab2bf68601e01f4782d435d0ebd02d36432957935dc83aa7",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#presented",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:viator",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:c7355d419118bf34eea4267da3301b1b2714c1bd1b641eb586e7880ab8cce83a",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#defensor",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:viator",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:example:duplex:persona:viator",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:a970d99456356957260b8cee3f03007a77c9974195f141629927e77f3f8d9a37",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#vis",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:viator",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:02c07655bf95b5f3951204151e5852fe2a7b2a497311626d6cd1039e621ce5e6",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#finis",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:viator",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_conservationis_vitae"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:5311be1694ce9e67bae346a642998a70b905b21c4191c19c19dec2712a8a4eee",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#non-occisio",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:viator",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_occisionis"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:c1059792e4aadbda8a48f537aadd4910abce3ce757c382745e7477f4f95de3b2",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#non-medium",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:actus:viator",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#mors_est_medium"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:ea4ea326f1b0cef8f4e53aa3de5f4b3f8aa8f7b8f21e424253db5058b38645c1",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#privatus",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:persona:viator",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    }
+  ],
+  "context": {
+    "decisionTime": "1270-06-01T12:00:00Z",
+    "knowledgeTime": "1270-06-01T12:00:00Z",
+    "legalTime": "1270-06-01",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

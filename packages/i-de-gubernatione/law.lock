@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:4bcdcf0adf6960d5c2090c44356d6e15bc96c21e90b84006a5320ddcab0a2a51",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:871159b536049fb4748f17a21c3c82532aa2640db4a370c6e2914da2a5ba2d9f",
+    "name": "la.aquinas.summa.i_de_gubernatione",
+    "namespace": "urn:la:aquinas:clir:summa-i-de-gubernatione",
+    "sourceHash": "sha256:cf13d39ec2ea35dcc7551d0c5bc1f722e5d75edec4e2acb1e2b0fd37fd26ab28",
+    "version": "0.1.0"
+  }
+}

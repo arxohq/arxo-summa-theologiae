@@ -1,0 +1,84 @@
+// Прикладной канон respondeo I-II qq. 71-89.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_vitiis version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-vitiis";
+
+use self::{
+    ST_I_II_Q71_A1_RESP,
+    ST_I_II_Q72_A1_RESP,
+    ST_I_II_Q74_A1_RESP,
+    ST_I_II_Q76_A1_RESP,
+    ST_I_II_Q87_A1_RESP,
+    Subject,
+    ignorance_presented,
+    presented,
+    sin_presented,
+    vice_presented,
+};
+
+pub relation vice_opposed(s: Subject) kind institutional {
+    label la official "vitium opponitur virtuti";
+    label ru unofficial "порок противоположен добродетели";
+}
+
+@source(ST_I_II_Q71_A1_RESP)
+rule ViceOpposedVirtue(s: Subject) strict {
+    label la official "vitium opponitur virtuti";
+    label ru unofficial "порок противоположен добродетели";
+    when presented(s) and vice_presented(s);
+    then vice_opposed(s);
+}
+
+pub relation sins_by_objects(s: Subject) kind institutional {
+    label la official "peccata distinguuntur secundum obiecta";
+    label ru unofficial "грехи различаются по объектам";
+}
+
+@source(ST_I_II_Q72_A1_RESP)
+rule SinsDifferByObjects(s: Subject) strict {
+    label la official "peccata distinguuntur secundum obiecta";
+    label ru unofficial "грехи различаются по объектам";
+    when presented(s) and sin_presented(s);
+    then sins_by_objects(s);
+}
+
+pub relation sin_in_will(s: Subject) kind institutional {
+    label la official "peccatum est in voluntate";
+    label ru unofficial "грех есть в воле";
+}
+
+@source(ST_I_II_Q74_A1_RESP)
+rule SinInWill(s: Subject) strict {
+    label la official "peccatum est in voluntate";
+    label ru unofficial "грех есть в воле";
+    when presented(s) and sin_presented(s);
+    then sin_in_will(s);
+}
+
+pub relation ignorance_causes(s: Subject) kind institutional {
+    label la official "ignorantia potest esse causa peccati";
+    label ru unofficial "неведение может быть причиной греха";
+}
+
+@source(ST_I_II_Q76_A1_RESP)
+rule IgnoranceCanCauseSin(s: Subject) strict {
+    label la official "ignorantia potest esse causa peccati";
+    label ru unofficial "неведение может быть причиной греха";
+    when presented(s) and ignorance_presented(s);
+    then ignorance_causes(s);
+}
+
+pub relation sin_incurs_debt(s: Subject) kind institutional {
+    label la official "peccatum inducit reatum poenae";
+    label ru unofficial "грех налагает виновность наказания";
+}
+
+@source(ST_I_II_Q87_A1_RESP)
+rule SinIncursDebt(s: Subject) strict {
+    label la official "peccatum inducit reatum poenae";
+    label ru unofficial "грех налагает виновность наказания";
+    when presented(s) and sin_presented(s);
+    then sin_incurs_debt(s);
+}
+

@@ -1,0 +1,36 @@
+[package]
+name = "la.aquinas.summa.i_ii_vitiis"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-ii-vitiis"
+
+[metadata]
+act = "la-summa-i-ii-vitiis"
+title = "Фома Аквинский, Summa theologiae I-II, вопросы 71–89: порок и грех"
+primarySource = "SUMMA_THEOLOGIAE_I_II_71_89"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_ii_vitiis#authored"
+regression = false
+suites = [
+    "tests/01-viceopposedvirtue-affirmat.lawtest",
+    "tests/01b-viceopposedvirtue-negata.lawtest",
+    "tests/02-sinsdifferbyobjects-affirmat.lawtest",
+    "tests/02b-sinsdifferbyobjects-negata.lawtest",
+    "tests/03-sininwill-affirmat.lawtest",
+    "tests/03b-sininwill-negata.lawtest",
+    "tests/04-ignorancecancausesin-affirmat.lawtest",
+    "tests/04b-ignorancecancausesin-negata.lawtest",
+    "tests/05-sinincursdebt-affirmat.lawtest",
+    "tests/05b-sinincursdebt-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_ii_vitiis"]
+
+[authoring]
+local_imports = "explicit"

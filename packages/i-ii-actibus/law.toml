@@ -1,0 +1,36 @@
+[package]
+name = "la.aquinas.summa.i_ii_actibus"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-ii-actibus"
+
+[metadata]
+act = "la-summa-i-ii-actibus"
+title = "Фома Аквинский, Summa theologiae I-II, вопросы 6–21: человеческие акты"
+primarySource = "SUMMA_THEOLOGIAE_I_II_6_21"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_ii_actibus#authored"
+regression = false
+suites = [
+    "tests/01-someactsvoluntary-affirmat.lawtest",
+    "tests/01b-someactsvoluntary-negata.lawtest",
+    "tests/02-circumstancesbelong-affirmat.lawtest",
+    "tests/02b-circumstancesbelong-negata.lawtest",
+    "tests/03-actsgoodorevil-affirmat.lawtest",
+    "tests/03b-actsgoodorevil-negata.lawtest",
+    "tests/04-willgoodfromobject-affirmat.lawtest",
+    "tests/04b-willgoodfromobject-negata.lawtest",
+    "tests/05-actrightorsinful-affirmat.lawtest",
+    "tests/05b-actrightorsinful-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_ii_actibus"]
+
+[authoring]
+local_imports = "explicit"

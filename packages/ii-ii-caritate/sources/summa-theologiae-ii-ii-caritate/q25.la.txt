@@ -1,0 +1,296 @@
+@@ II-II q. 25 pr.
+Deinde considerandum est de obiecto caritatis. Circa quod duo consideranda occurrunt, primo quidem de his quae sunt ex caritate diligenda; secundo, de ordine diligendorum. Circa primum quaeruntur duodecim. Primo, utrum solus Deus sit ex caritate diligendus, vel etiam proximus. Secundo, utrum caritas sit ex caritate diligenda. Tertio, utrum creaturae irrationales sint ex caritate diligendae. Quarto, utrum aliquis possit ex caritate seipsum diligere. Quinto, utrum corpus proprium. Sexto, utrum peccatores sint ex caritate diligendi. Septimo, utrum peccatores seipsos diligant. Octavo, utrum inimici sint ex caritate diligendi. Nono, utrum sint eis signa amicitiae exhibenda. Decimo, utrum Angeli sint ex caritate diligendi. Undecimo, utrum Daemones. Duodecimo, de enumeratione diligendorum ex caritate.
+
+@@ II-II q. 25 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod dilectio caritatis sistat in Deo, et non se extendat ad proximum. Sicut enim Deo debemus amorem, ita et timorem, secundum illud Deut. X, et nunc, Israel, quid dominus Deus petit nisi ut timeas et diligas eum? Sed alius est timor quo timetur homo, qui dicitur timor humanus; et alius timor quo timetur Deus, qui est vel servilis vel filialis; ut ex supradictis patet. Ergo etiam alius est amor caritatis, quo diligitur Deus; et alius est amor quo diligitur proximus.
+
+@@ II-II q. 25 a. 1 arg. 2
+Praeterea, philosophus dicit, in VIII Ethic., quod amari est honorari. Sed alius est honor qui debetur Deo, qui est honor latriae; et alius est honor qui debetur creaturae, qui est honor duliae. Ergo etiam alius est amor quo diligitur Deus, et quo diligitur proximus.
+
+@@ II-II q. 25 a. 1 arg. 3
+Praeterea, spes generat caritatem; ut habetur in Glossa, Matth. I. Sed spes ita habetur de Deo quod reprehenduntur sperantes in homine, secundum illud Ierem. XVII, maledictus homo qui confidit in homine. Ergo caritas ita debetur Deo quod ad proximum non se extendat.
+
+@@ II-II q. 25 a. 1 s. c.
+Sed contra est quod dicitur I Ioan. IV, hoc mandatum habemus a Deo, ut qui diligit Deum, diligat et fratrem suum.
+
+@@ II-II q. 25 a. 1 co.
+Respondeo dicendum quod, sicut supra dictum est, habitus non diversificantur nisi ex hoc quod variat speciem actus, omnes enim actus unius speciei ad eundem habitum pertinent. Cum autem species actus ex obiecto sumatur secundum formalem rationem ipsius, necesse est quod idem specie sit actus qui fertur in rationem obiecti, et qui fertur in obiectum sub tali ratione, sicut est eadem specie visio qua videtur lumen, et qua videtur color secundum luminis rationem. Ratio autem diligendi proximum Deus est, hoc enim debemus in proximo diligere, ut in Deo sit. Unde manifestum est quod idem specie actus est quo diligitur Deus, et quo diligitur proximus. Et propter hoc habitus caritatis non solum se extendit ad dilectionem Dei, sed etiam ad dilectionem proximi.
+
+@@ II-II q. 25 a. 1 ad 1
+Ad primum ergo dicendum quod proximus potest timeri dupliciter, sicut et amari. Uno modo, propter id quod est sibi proprium, puta cum aliquis timet tyrannum propter eius crudelitatem, vel cum amat ipsum propter cupiditatem acquirendi aliquid ab eo. Et talis timor humanus distinguitur a timore Dei, et similiter amor. Alio modo timetur homo et amatur propter id quod est Dei in ipso, sicut cum saecularis potestas timetur propter ministerium divinum quod habet ad vindictam malefactorum, et amatur propter iustitiam. Et talis timor hominis non distinguitur a timore Dei, sicut nec amor.
+
+@@ II-II q. 25 a. 1 ad 2
+Ad secundum dicendum quod amor respicit bonum in communi, sed honor respicit proprium bonum honorati, defertur enim alicui in testimonium propriae virtutis. Et ideo amor non diversificatur specie propter diversam quantitatem bonitatis diversorum, dummodo referuntur ad aliquod unum bonum commune, sed honor diversificatur secundum propria bona singulorum. Unde eodem amore caritatis diligimus omnes proximos, inquantum referuntur ad unum bonum commune, quod est Deus, sed diversos honores diversis deferimus, secundum propriam virtutem singulorum. Et similiter Deo singularem honorem latriae exhibemus, propter eius singularem virtutem.
+
+@@ II-II q. 25 a. 1 ad 3
+Ad tertium dicendum quod vituperantur qui sperant in homine sicut in principali auctore salutis, non autem qui sperant in homine sicut in adiuvante ministerialiter sub Deo. Et similiter reprehensibile esset si quis proximum diligeret tanquam principalem finem, non autem si quis proximum diligat propter Deum, quod pertinet ad caritatem.
+
+@@ II-II q. 25 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod caritas non sit ex caritate diligenda. Ea enim quae sunt ex caritate diligenda, duobus praeceptis caritatis concluduntur, ut patet Matth. XXII. Sed sub neutro eorum caritas continetur, quia nec caritas est Deus nec est proximus. Ergo caritas non est ex caritate diligenda.
+
+@@ II-II q. 25 a. 2 arg. 2
+Praeterea, caritas fundatur super communicatione beatitudinis, ut supra dictum est. Sed caritas non potest esse particeps beatitudinis. Ergo caritas non est ex caritate diligenda.
+
+@@ II-II q. 25 a. 2 arg. 3
+Praeterea, caritas est amicitia quaedam, ut supra dictum est. Sed nullus potest habere amicitiam ad caritatem, vel ad aliquod accidens, quia huiusmodi reamare non possunt, quod est de ratione amicitiae, ut dicitur in VIII Ethic. Ergo caritas non est ex caritate diligenda.
+
+@@ II-II q. 25 a. 2 s. c.
+Sed contra est quod Augustinus dicit, VIII de Trin., qui diligit proximum, consequens est ut etiam ipsam dilectionem diligat. Sed proximus diligitur ex caritate. Ergo consequens est ut etiam caritas ex caritate diligatur.
+
+@@ II-II q. 25 a. 2 co.
+Respondeo dicendum quod caritas amor quidam est. Amor autem ex natura potentiae cuius est actus habet quod possit supra seipsum reflecti. Quia enim voluntatis obiectum est bonum universale, quidquid sub ratione boni continetur potest cadere sub actu voluntatis; et quia ipsum velle est quoddam bonum, potest velle se velle, sicut etiam intellectus, cuius obiectum est verum, intelligit se intelligere, quia hoc etiam est quoddam verum. Sed amor etiam ex ratione propriae speciei habet quod supra se reflectatur, quia est spontaneus motus amantis in amatum; unde ex hoc ipso quod amat aliquis, amat se amare. Sed caritas non est simplex amor, sed habet rationem amicitiae, ut supra dictum est. Per amicitiam autem amatur aliquid dupliciter. Uno modo, sicut ipse amicus ad quem amicitiam habemus et cui bona volumus. Alio modo, sicut bonum quod amico volumus. Et hoc modo caritas per caritatem amatur, et non primo, quia caritas est illud bonum quod optamus omnibus quos ex caritate diligimus. Et eadem ratio est de beatitudine et de aliis virtutibus.
+
+@@ II-II q. 25 a. 2 ad 1
+Ad primum ergo dicendum quod Deus et proximus sunt illi ad quos amicitiam habemus. Sed in illorum dilectione includitur dilectio caritatis, diligimus enim proximum et Deum inquantum hoc amamus, ut nos et proximus Deum diligamus, quod est caritatem habere.
+
+@@ II-II q. 25 a. 2 ad 2
+Ad secundum dicendum quod caritas est ipsa communicatio spiritualis vitae, per quam ad beatitudinem pervenitur. Et ideo amatur sicut bonum desideratum omnibus quos ex caritate diligimus.
+
+@@ II-II q. 25 a. 2 ad 3
+Ad tertium dicendum quod ratio illa procedit secundum quod per amicitiam amantur illi ad quos amicitiam habemus.
+
+@@ II-II q. 25 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod etiam creaturae irrationales sint ex caritate diligendae. Per caritatem enim maxime conformamur Deo. Sed Deus diligit creaturas irrationales ex caritate, diligit enim omnia quae sunt, ut habetur Sap. XI; et omne quod diligit, seipso diligit, qui est caritas. Ergo et nos debemus creaturas irrationales ex caritate diligere.
+
+@@ II-II q. 25 a. 3 arg. 2
+Praeterea, caritas principaliter fertur in Deum, ad alia autem se extendit secundum quod ad Deum pertinent. Sed sicut creatura rationalis pertinet ad Deum inquantum habet similitudinem imaginis, ita etiam creatura irrationalis inquantum habet similitudinem vestigii. Ergo caritas etiam se extendit ad creaturas irrationales.
+
+@@ II-II q. 25 a. 3 arg. 3
+Praeterea, sicut caritatis obiectum est Deus, ita et fidei. Sed fides se extendit ad creaturas irrationales, inquantum credimus caelum et terram esse creata a Deo, et pisces et aves esse productos ex aquis, et gressibilia animalia et plantas ex terra. Ergo caritas etiam se extendit ad creaturas irrationales.
+
+@@ II-II q. 25 a. 3 s. c.
+Sed contra est quod dilectio caritatis solum se extendit ad Deum et proximum. Sed nomine proximi non potest intelligi creatura irrationalis, quia non communicat cum homine in vita rationali. Ergo caritas non se extendit ad creaturas irrationales.
+
+@@ II-II q. 25 a. 3 co.
+Respondeo dicendum quod caritas, secundum praedicta, est amicitia quaedam. Per amicitiam autem amatur uno quidem modo, amicus ad quem amicitia habetur; et alio modo, bona quae amico optantur. Primo ergo modo nulla creatura irrationalis potest ex caritate amari. Et hoc triplici ratione. Quarum duae pertinent communiter ad amicitiam, quae ad creaturas irrationales haberi non potest. Primo quidem, quia amicitia ad eum habetur cui volumus bonum. Non autem proprie possum bonum velle creaturae irrationali, quia non est eius proprie habere bonum, sed solum creaturae rationalis, quae est domina utendi bono quod habet per liberum arbitrium. Et ideo philosophus dicit, in II Physic., quod huiusmodi rebus non dicimus aliquid bene vel male contingere nisi secundum similitudinem. Secundo, quia omnis amicitia fundatur super aliqua communicatione vitae, nihil enim est ita proprium amicitiae sicut convivere, ut patet per philosophum, VIII Ethic. Creaturae autem irrationales non possunt communicationem habere in vita humana, quae est secundum rationem. Unde nulla amicitia potest haberi ad creaturas irrationales, nisi forte secundum metaphoram. Tertia ratio est propria caritati, quia caritas fundatur super communicatione beatitudinis aeternae, cuius creatura irrationalis capax non est. Unde amicitia caritatis non potest haberi ad creaturam irrationalem. Possunt tamen ex caritate diligi creaturae irrationales sicut bona quae aliis volumus, inquantum scilicet ex caritate volumus eas conservari ad honorem Dei et utilitatem hominum. Et sic etiam ex caritate Deus eas diligit.
+
+@@ II-II q. 25 a. 3 ad 1
+Unde patet responsio ad primum.
+
+@@ II-II q. 25 a. 3 ad 2
+Ad secundum dicendum quod similitudo vestigii non causat capacitatem vitae aeternae, sicut similitudo imaginis. Unde non est similis ratio.
+
+@@ II-II q. 25 a. 3 ad 3
+Ad tertium dicendum quod fides se potest extendere ad omnia quae sunt quocumque modo vera. Sed amicitia caritatis se extendit ad illa sola quae nata sunt habere bonum vitae aeternae. Unde non est simile.
+
+@@ II-II q. 25 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod homo non diligat seipsum ex caritate. Dicit enim Gregorius, in quadam homilia, quod caritas minus quam inter duos haberi non potest. Ergo ad seipsum nullus habet caritatem.
+
+@@ II-II q. 25 a. 4 arg. 2
+Praeterea, amicitia de sui ratione importat reamationem et aequalitatem, ut patet in VIII Ethic., quae quidem non possunt esse homini ad seipsum. Sed caritas amicitia quaedam est, ut dictum est. Ergo ad seipsum aliquis caritatem habere non potest.
+
+@@ II-II q. 25 a. 4 arg. 3
+Praeterea, illud quod ad caritatem pertinet non potest esse vituperabile, quia caritas non agit perperam, ut dicitur I ad Cor. XIII. Sed amare seipsum est vituperabile, dicitur enim II ad Tim. III, in novissimis diebus instabunt tempora periculosa, et erunt homines amantes seipsos. Ergo homo non potest seipsum ex caritate diligere.
+
+@@ II-II q. 25 a. 4 s. c.
+Sed contra est quod dicitur Levit. XIX, diliges amicum tuum sicut teipsum. Sed amicum ex caritate diligimus. Ergo et nosipsos ex caritate debemus diligere.
+
+@@ II-II q. 25 a. 4 co.
+Respondeo dicendum quod, cum caritas sit amicitia quaedam, sicut dictum est, dupliciter possumus de caritate loqui. Uno modo, sub communi ratione amicitiae. Et secundum hoc dicendum est quod amicitia proprie non habetur ad seipsum, sed aliquid maius amicitia, quia amicitia unionem quandam importat, dicit enim Dionysius quod amor est virtus unitiva; unicuique autem ad seipsum est unitas, quae est potior unione. Unde sicut unitas est principium unionis, ita amor quo quis diligit seipsum, est forma et radix amicitiae, in hoc enim amicitiam habemus ad alios, quod ad eos nos habemus sicut ad nosipsos; dicitur enim in IX Ethic. quod amicabilia quae sunt ad alterum veniunt ex his quae sunt ad seipsum. Sicut etiam de principiis non habetur scientia, sed aliquid maius, scilicet intellectus. Alio modo possumus loqui de caritate secundum propriam rationem ipsius, prout scilicet est amicitia hominis ad Deum principaliter, et ex consequenti ad ea quae sunt Dei. Inter quae etiam est ipse homo qui caritatem habet. Et sic inter cetera quae ex caritate diligit quasi ad Deum pertinentia, etiam seipsum ex caritate diligit.
+
+@@ II-II q. 25 a. 4 ad 1
+Ad primum ergo dicendum quod Gregorius loquitur de caritate secundum communem amicitiae rationem.
+
+@@ II-II q. 25 a. 4 ad 2
+Et secundum hoc etiam procedit secunda ratio.
+
+@@ II-II q. 25 a. 4 ad 3
+Ad tertium dicendum quod amantes seipsos vituperantur inquantum amant se secundum naturam sensibilem, cui obtemperant. Quod non est vere amare seipsum secundum naturam rationalem, ut sibi velit ea bona quae pertinent ad perfectionem rationis. Et hoc modo praecipue ad caritatem pertinet diligere seipsum.
+
+@@ II-II q. 25 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod homo non debeat corpus suum ex caritate diligere. Non enim diligimus illum cui convivere non volumus. Sed homines caritatem habentes refugiunt corporis convictum, secundum illud Rom. VII, quis me liberabit de corpore mortis huius? Et Philipp. I, desiderium habens dissolvi et cum Christo esse. Ergo corpus nostrum non est ex caritate diligendum.
+
+@@ II-II q. 25 a. 5 arg. 2
+Praeterea, amicitia caritatis fundatur super communicatione divinae fruitionis. Sed huius fruitionis corpus particeps esse non potest. Ergo corpus non est ex caritate diligendum.
+
+@@ II-II q. 25 a. 5 arg. 3
+Praeterea, caritas, cum sit amicitia quaedam, ad eos habetur qui reamare possunt. Sed corpus nostrum non potest nos ex caritate diligere. Ergo non est ex caritate diligendum.
+
+@@ II-II q. 25 a. 5 s. c.
+Sed contra est quod Augustinus, in I de Doct. Christ., ponit quatuor ex caritate diligenda, inter quae unum est corpus proprium.
+
+@@ II-II q. 25 a. 5 co.
+Respondeo dicendum quod corpus nostrum secundum duo potest considerari, uno modo, secundum eius naturam; alio modo, secundum corruptionem culpae et poenae. Natura autem corporis nostri non est a malo principio creata, ut Manichaei fabulantur, sed est a Deo. Unde possumus eo uti ad servitium Dei, secundum illud Rom. VI, exhibete membra vestra arma iustitiae Deo. Et ideo ex dilectione caritatis qua diligimus Deum, debemus etiam corpus nostrum diligere. Sed infectionem culpae et corruptionem poenae in corpore nostro diligere non debemus, sed potius ad eius remotionem anhelare desiderio caritatis.
+
+@@ II-II q. 25 a. 5 ad 1
+Ad primum ergo dicendum quod apostolus non refugiebat corporis communionem quantum ad corporis naturam, immo secundum hoc nolebat ab eo spoliari, secundum illud II ad Cor. V, nolumus expoliari, sed supervestiri. Sed volebat carere infectione concupiscentiae, quae remanet in corpore; et corruptione ipsius, quae aggravat animam, ne possit Deum videre. Unde signanter dixit, de corpore mortis huius.
+
+@@ II-II q. 25 a. 5 ad 2
+Ad secundum dicendum quod corpus nostrum quamvis Deo frui non possit cognoscendo et amando ipsum, tamen per opera quae per corpus agimus ad perfectam Dei fruitionem possumus venire. Unde et ex fruitione animae redundat quaedam beatitudo ad corpus, scilicet sanitatis et incorruptionis vigor; ut Augustinus dicit, in epistola ad Diosc. Et ideo, quia corpus aliquo modo est particeps beatitudinis, potest dilectione caritatis amari.
+
+@@ II-II q. 25 a. 5 ad 3
+Ad tertium dicendum quod reamatio habet locum in amicitia quae est ad alterum, non autem in amicitia quae est ad seipsum, vel secundum animam vel secundum corpus.
+
+@@ II-II q. 25 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod peccatores non sint ex caritate diligendi. Dicitur enim in Psalm., iniquos odio habui. Sed David caritatem habebat. Ergo ex caritate magis sunt odiendi peccatores quam diligendi.
+
+@@ II-II q. 25 a. 6 arg. 2
+Praeterea, probatio dilectionis exhibitio est operis; ut Gregorius dicit, in homilia Pentecostes. Sed peccatoribus iusti non exhibent opera dilectionis, sed magis opera quae videntur esse odii, secundum illud Psalm., in matutino interficiebam omnes peccatores terrae. Et dominus praecepit, Exod. XXII, maleficos non patieris vivere. Ergo peccatores non sunt ex caritate diligendi.
+
+@@ II-II q. 25 a. 6 arg. 3
+Praeterea, ad amicitiam pertinet ut amicis velimus et optemus bona. Sed sancti ex caritate optant peccatoribus mala, secundum illud Psalm., convertantur peccatores in Infernum. Ergo peccatores non sunt ex caritate diligendi.
+
+@@ II-II q. 25 a. 6 arg. 4
+Praeterea, proprium amicorum est de eisdem gaudere et idem velle. Sed caritas non facit velle quod peccatores volunt, neque facit gaudere de hoc de quo peccatores gaudent; sed magis facit contrarium. Ergo peccatores non sunt ex caritate diligendi.
+
+@@ II-II q. 25 a. 6 arg. 5
+Praeterea, proprium est amicorum simul convivere, ut dicitur in VIII Ethic. Sed cum peccatoribus non est convivendum, secundum illud II ad Cor. VI, recedite de medio eorum. Ergo peccatores non sunt ex caritate diligendi.
+
+@@ II-II q. 25 a. 6 s. c.
+Sed contra est quod Augustinus dicit, in I de Doct. Christ., quod cum dicitur, diliges proximum tuum, manifestum est omnem hominem proximum esse deputandum. Sed peccatores non desinunt esse homines, quia peccatum non tollit naturam. Ergo peccatores sunt ex caritate diligendi.
+
+@@ II-II q. 25 a. 6 co.
+Respondeo dicendum quod in peccatoribus duo possunt considerari, scilicet natura, et culpa. Secundum naturam quidem, quam a Deo habent, capaces sunt beatitudinis, super cuius communicatione caritas fundatur, ut supra dictum est. Et ideo secundum naturam suam sunt ex caritate diligendi. Sed culpa eorum Deo contrariatur, et est beatitudinis impedimentum. Unde secundum culpam, qua Deo adversantur, sunt odiendi quicumque peccatores, etiam pater et mater et propinqui, ut habetur Luc. XIV. Debemus enim in peccatoribus odire quod peccatores sunt, et diligere quod homines sunt beatitudinis capaces. Et hoc est eos vere ex caritate diligere propter Deum.
+
+@@ II-II q. 25 a. 6 ad 1
+Ad primum ergo dicendum quod iniquos propheta odio habuit inquantum iniqui sunt, habens odio iniquitatem ipsorum, quod est ipsorum malum. Et hoc est perfectum odium, de quo ipse dicit, perfecto odio oderam illos. Eiusdem autem rationis est odire malum alicuius et diligere bonum eius. Unde etiam istud odium perfectum ad caritatem pertinet.
+
+@@ II-II q. 25 a. 6 ad 2
+Ad secundum dicendum quod amicis peccantibus, sicut philosophus dicit, in IX Ethic., non sunt subtrahenda amicitiae beneficia, quousque habeatur spes sanationis eorum, sed magis est eis auxiliandum ad recuperationem virtutis quam ad recuperationem pecuniae, si eam amisissent, quanto virtus est magis amicitiae affinis quam pecunia. Sed quando in maximam malitiam incidunt et insanabiles fiunt, tunc non est eis amicitiae familiaritas exhibenda. Et ideo huiusmodi peccantes, de quibus magis praesumitur nocumentum aliorum quam eorum emendatio, secundum legem divinam et humanam praecipiuntur occidi. Et tamen hoc facit iudex non ex odio eorum, sed ex caritatis amore quo bonum publicum praefertur vitae singularis personae. Et tamen mors per iudicem inflicta peccatori prodest, sive convertatur, ad culpae expiationem; sive non convertatur, ad culpae terminationem, quia per hoc tollitur ei potestas amplius peccandi.
+
+@@ II-II q. 25 a. 6 ad 3
+Ad tertium dicendum quod huiusmodi imprecationes quae in sacra Scriptura inveniuntur, tripliciter possunt intelligi. Uno modo, per modum praenuntiationis, non per modum optationis, ut sit sensus, convertantur peccatores in Infernum, idest convertentur. Alio modo, per modum optationis, ut tamen desiderium optantis non referatur ad poenam hominum, sed ad iustitiam punientis, secundum illud, laetabitur iustus cum viderit vindictam. Quia nec ipse Deus puniens laetatur in perditione impiorum, ut dicitur Sap. I, sed in sua iustitia, quia iustus dominus, et iustitias dilexit. Tertio, ut desiderium referatur ad remotionem culpae, non ad ipsam poenam, ut scilicet peccata destruantur et homines remaneant.
+
+@@ II-II q. 25 a. 6 ad 4
+Ad quartum dicendum quod ex caritate diligimus peccatores non quidem ut velimus quae ipsi volunt, vel gaudeamus de his de quibus ipsi gaudent, sed ut faciamus eos velle quod volumus, et gaudere de his de quibus gaudemus. Unde dicitur Ierem. XV, ipsi convertentur ad te, et tu non converteris ad eos.
+
+@@ II-II q. 25 a. 6 ad 5
+Ad quintum dicendum quod convivere peccatoribus infirmis quidem est vitandum, propter periculum quod eis imminet ne ab eis subvertantur. Perfectis autem, de quorum corruptione non timetur, laudabile est quod cum peccatoribus conversentur, ut eos convertant. Sic enim dominus cum peccatoribus manducabat et bibebat, ut habetur Matth. IX. Convictus tamen peccatorum quantum ad consortium peccati vitandus est omnibus. Et sic dicitur II ad Cor. VI, recedite de medio eorum, et immundum ne tetigeritis, scilicet secundum peccati consensum.
+
+@@ II-II q. 25 a. 7 arg. 1
+Ad septimum sic proceditur. Videtur quod peccatores seipsos diligant. Illud enim quod est principium peccati maxime in peccatoribus invenitur. Sed amor sui est principium peccati, dicit enim Augustinus, XIV de Civ. Dei, quod facit civitatem Babylonis. Ergo peccatores maxime amant seipsos.
+
+@@ II-II q. 25 a. 7 arg. 2
+Praeterea, peccatum non tollit naturam. Sed hoc unicuique convenit ex sua natura quod diligat seipsum, unde etiam creaturae irrationales naturaliter appetunt proprium bonum, puta conservationem sui esse et alia huiusmodi. Ergo peccatores diligunt seipsos.
+
+@@ II-II q. 25 a. 7 arg. 3
+Praeterea, omnibus est diligibile bonum; ut Dionysius dicit, in IV cap. de Div. Nom. Sed multi peccatores reputant se bonos. Ergo multi peccatores seipsos diligunt.
+
+@@ II-II q. 25 a. 7 s. c.
+Sed contra est quod dicitur in Psalm., qui diligit iniquitatem, odit animam suam.
+
+@@ II-II q. 25 a. 7 co.
+Respondeo dicendum quod amare seipsum uno modo commune est omnibus; alio modo proprium est bonorum; tertio modo proprium est malorum. Quod enim aliquis amet id quod seipsum esse aestimat, hoc commune est omnibus. Homo autem dicitur esse aliquid dupliciter. Uno modo, secundum suam substantiam et naturam. Et secundum hoc omnes aestimant bonum commune se esse id quod sunt, scilicet ex anima et corpore compositos. Et sic etiam omnes homines, boni et mali, diligunt seipsos, inquantum diligunt sui ipsorum conservationem. Alio modo dicitur esse homo aliquid secundum principalitatem, sicut princeps civitatis dicitur esse civitas; unde quod principes faciunt, dicitur civitas facere. Sic autem non omnes aestimant se esse id quod sunt. Principale enim in homine est mens rationalis, secundarium autem est natura sensitiva et corporalis, quorum primum apostolus nominat interiorem hominem, secundum exteriorem, ut patet II ad Cor. IV. Boni autem aestimant principale in seipsis rationalem naturam, sive interiorem hominem, unde secundum hoc aestimant se esse quod sunt. Mali autem aestimant principale in seipsis naturam sensitivam et corporalem, scilicet exteriorem hominem. Unde non recte cognoscentes seipsos, non vere diligunt seipsos, sed diligunt id quod seipsos esse reputant. Boni autem, vere cognoscentes seipsos, vere seipsos diligunt. Et hoc probat philosophus, in IX Ethic., per quinque quae sunt amicitiae propria. Unusquisque enim amicus primo quidem vult suum amicum esse et vivere; secundo, vult ei bona; tertio, operatur bona ad ipsum; quarto, convivit ei delectabiliter; quinto, concordat cum ipso, quasi in iisdem delectatus et contristatus. Et secundum hoc boni diligunt seipsos quantum ad interiorem hominem, quia etiam volunt ipsum servari in sua integritate; et optant ei bona eius, quae sunt bona spiritualia; et etiam ad assequenda operam impendunt; et delectabiliter ad cor proprium redeunt, quia ibi inveniunt et bonas cogitationes in praesenti, et memoriam bonorum praeteritorum, et spem futurorum bonorum, ex quibus delectatio causatur; similiter etiam non patiuntur in seipsis voluntatis dissensionem, quia tota anima eorum tendit in unum. E contrario autem mali non volunt conservari integritatem interioris hominis; neque appetunt spiritualia eius bona; neque ad hoc operantur; neque delectabile est eis secum convivere redeundo ad cor, quia inveniunt ibi mala et praesentia et praeterita et futura, quae abhorrent; neque etiam sibi ipsis concordant, propter conscientiam remordentem, secundum illud Psalm., arguam te, et statuam contra faciem tuam. Et per eadem probari potest quod mali amant seipsos secundum corruptionem exterioris hominis. Sic autem boni non amant seipsos.
+
+@@ II-II q. 25 a. 7 ad 1
+Ad primum ergo dicendum quod amor sui qui est principium peccati, est ille qui est proprius malorum, perveniens usque ad contemptum Dei, ut ibi dicitur, quia mali sic etiam cupiunt exteriora bona quod spiritualia contemnunt.
+
+@@ II-II q. 25 a. 7 ad 2
+Ad secundum dicendum quod naturalis amor, etsi non totaliter tollatur a malis, tamen in eis pervertitur per modum iam dictum.
+
+@@ II-II q. 25 a. 7 ad 3
+Ad tertium dicendum quod mali, inquantum aestimant se bonos, sic aliquid participant de amore sui. Nec tamen ista est vera sui dilectio, sed apparens. Quae etiam non est possibilis in his qui valde sunt mali.
+
+@@ II-II q. 25 a. 8 arg. 1
+Ad octavum sic proceditur. Videtur quod non sit de necessitate caritatis ut inimici diligantur. Dicit enim Augustinus, in Enchirid., quod hoc tam magnum bonum, scilicet diligere inimicos, non est tantae multitudinis quantam credimus exaudiri cum in oratione dicitur, dimitte nobis debita nostra. Sed nulli dimittitur peccatum sine caritate, quia, ut dicitur Proverb. X, universa delicta operit caritas. Ergo non est de necessitate caritatis diligere inimicos.
+
+@@ II-II q. 25 a. 8 arg. 2
+Praeterea, caritas non tollit naturam. Sed unaquaeque res, etiam irrationalis, naturaliter odit suum contrarium, sicut ovis lupum, et aqua ignem. Ergo caritas non facit quod inimici diligantur.
+
+@@ II-II q. 25 a. 8 arg. 3
+Praeterea, caritas non agit perperam. Sed hoc videtur esse perversum quod aliquis diligat inimicos, sicut et quod aliquis odio habeat amicos, unde II Reg. XIX exprobrando dicit Ioab ad David, diligis odientes te, et odio habes diligentes te. Ergo caritas non facit ut inimici diligantur.
+
+@@ II-II q. 25 a. 8 s. c.
+Sed contra est quod dominus dicit, Matth. V, diligite inimicos vestros.
+
+@@ II-II q. 25 a. 8 co.
+Respondeo dicendum quod dilectio inimicorum tripliciter potest considerari. Uno quidem modo, ut inimici diligantur inquantum sunt inimici. Et hoc est perversum et caritati repugnans, quia hoc est diligere malum alterius. Alio modo potest accipi dilectio inimicorum quantum ad naturam, sed in universali. Et sic dilectio inimicorum est de necessitate caritatis, ut scilicet aliquis diligens Deum et proximum ab illa generalitate dilectionis proximi inimicos suos non excludat. Tertio modo potest considerari dilectio inimicorum in speciali, ut scilicet aliquis in speciali moveatur motu dilectionis ad inimicum. Et istud non est de necessitate caritatis absolute, quia nec etiam moveri motu dilectionis in speciali ad quoslibet homines singulariter est de necessitate caritatis, quia hoc esset impossibile. Est tamen de necessitate caritatis secundum praeparationem animi, ut scilicet homo habeat animum paratum ad hoc quod in singulari inimicum diligeret si necessitas occurreret. Sed quod absque articulo necessitatis homo etiam hoc actu impleat ut diligat inimicum propter Deum, hoc pertinet ad perfectionem caritatis. Cum enim ex caritate diligatur proximus propter Deum, quanto aliquis magis diligit Deum, tanto etiam magis ad proximum dilectionem ostendit, nulla inimicitia impediente. Sicut si aliquis multum diligeret aliquem hominem, amore ipsius filios eius amaret etiam sibi inimicos. Et secundum hunc modum loquitur Augustinus.
+
+@@ II-II q. 25 a. 8 ad 1
+Unde patet responsio ad primum.
+
+@@ II-II q. 25 a. 8 ad 2
+Ad secundum dicendum quod unaquaeque res naturaliter odio habet id quod est sibi contrarium inquantum est sibi contrarium. Inimici autem sunt nobis contrarii inquantum sunt inimici. Unde hoc debemus in eis odio habere, debet enim nobis displicere quod nobis inimici sunt. Non autem sunt nobis contrarii inquantum homines sunt et beatitudinis capaces. Et secundum hoc debemus eos diligere.
+
+@@ II-II q. 25 a. 8 ad 3
+Ad tertium dicendum quod diligere inimicos inquantum sunt inimici, hoc est vituperabile. Et hoc non facit caritas, ut dictum est.
+
+@@ II-II q. 25 a. 9 arg. 1
+Ad nonum sic proceditur. Videtur quod de necessitate caritatis sit quod aliquis homo signa vel effectus dilectionis inimico exhibeat. Dicitur enim I Ioan. III, non diligamus verbo neque lingua, sed opere et veritate. Sed opere diligit aliquis exhibendo ad eum quem diligit signa et effectus dilectionis. Ergo de necessitate caritatis est ut aliquis huiusmodi signa et effectus inimicis exhibeat.
+
+@@ II-II q. 25 a. 9 arg. 2
+Praeterea, Matth. V dominus simul dicit, diligite inimicos vestros, et, benefacite his qui oderunt vos. Sed diligere inimicos est de necessitate caritatis. Ergo et benefacere inimicis.
+
+@@ II-II q. 25 a. 9 arg. 3
+Praeterea, caritate amatur non solum Deus, sed etiam proximus. Sed Gregorius dicit, in homilia Pentecostes, quod amor Dei non potest esse otiosus, magna enim operatur, si est; si desinit operari, amor non est. Ergo caritas quae habetur ad proximum non potest esse sine operationis effectu. Sed de necessitate caritatis est ut omnis proximus diligatur, etiam inimicus. Ergo de necessitate caritatis est ut etiam ad inimicos signa et effectus dilectionis extendamus.
+
+@@ II-II q. 25 a. 9 s. c.
+Sed contra est quod Matth. V, super illud, benefacite his qui oderunt vos, dicit Glossa quod benefacere inimicis est cumulus perfectionis. Sed id quod pertinet ad perfectionem caritatis non est de necessitate ipsius. Ergo non est de necessitate caritatis quod aliquis signa et effectus dilectionis inimicis exhibeat.
+
+@@ II-II q. 25 a. 9 co.
+Respondeo dicendum quod effectus et signa caritatis ex interiori dilectione procedunt et ei proportionantur. Dilectio autem interior ad inimicum in communi quidem est de necessitate praecepti absolute; in speciali autem non absolute, sed secundum praeparationem animi, ut supra dictum est. Sic igitur dicendum est de effectu vel signo dilectionis exterius exhibendo. Sunt enim quaedam beneficia vel signa dilectionis quae exhibentur proximis in communi, puta cum aliquis orat pro omnibus fidelibus vel pro toto populo, aut cum aliquod beneficium impendit aliquis toti communitati. Et talia beneficia vel dilectionis signa inimicis exhibere est de necessitate praecepti, si enim non exhiberentur inimicis, hoc pertineret ad livorem vindictae, contra id quod dicitur Levit. XIX, non quaeres ultionem; et non eris memor iniuriae civium tuorum. Alia vero sunt beneficia vel dilectionis signa quae quis exhibet particulariter aliquibus personis. Et talia beneficia vel dilectionis signa inimicis exhibere non est de necessitate salutis nisi secundum praeparationem animi, ut scilicet subveniatur eis in articulo necessitatis, secundum illud Proverb. XXV, si esurierit inimicus tuus, ciba illum, si sitit, da illi potum. Sed quod praeter articulum necessitatis huiusmodi beneficia aliquis inimicis exhibeat, pertinet ad perfectionem caritatis, per quam aliquis non solum cavet vinci a malo, quod necessitatis est, sed etiam vult in bono vincere malum, quod est etiam perfectionis, dum scilicet non solum cavet propter iniuriam sibi illatam detrahi ad odium; sed etiam propter sua beneficia inimicum intendit pertrahere ad suum amorem.
+
+@@ II-II q. 25 a. 9 ad arg.
+Et per hoc patet responsio ad obiecta.
+
+@@ II-II q. 25 a. 10 arg. 1
+Ad decimum sic proceditur. Videtur quod Angelos non debeamus ex caritate diligere. Ut enim Augustinus dicit, in libro de Doct. Christ., gemina est dilectio caritatis, scilicet Dei et proximi. Sed dilectio Angelorum non continetur sub dilectione Dei, cum sint substantiae creatae, nec etiam videtur contineri sub dilectione proximi, cum non communicent nobiscum in specie. Ergo Angeli non sunt ex caritate diligendi.
+
+@@ II-II q. 25 a. 10 arg. 2
+Praeterea, magis conveniunt nobiscum bruta animalia quam Angeli, nam nos et bruta animalia sumus in eodem genere propinquo. Sed ad bruta animalia non habemus caritatem, ut supra dictum est. Ergo etiam neque ad Angelos.
+
+@@ II-II q. 25 a. 10 arg. 3
+Praeterea, nihil est ita proprium amicorum sicut convivere, ut dicitur in VIII Ethic. Sed Angeli non convivunt nobiscum, nec etiam eos videre possumus. Ergo ad eos caritatis amicitiam habere non valemus.
+
+@@ II-II q. 25 a. 10 s. c.
+Sed contra est quod Augustinus dicit, in I de Doct. Christ., iam vero si vel cui praebendum, vel a quo nobis praebendum est officium misericordiae, recte proximus dicitur; manifestum est praecepto quo iubemur diligere proximum, etiam sanctos Angelos contineri, a quibus multa nobis misericordiae impenduntur officia.
+
+@@ II-II q. 25 a. 10 co.
+Respondeo dicendum quod amicitia caritatis, sicut supra dictum est, fundatur super communicatione beatitudinis aeternae, in cuius participatione communicant cum Angelis homines, dicitur enim Matth. XXII quod in resurrectione erunt homines sicut Angeli in caelo. Et ideo manifestum est quod amicitia caritatis etiam ad Angelos se extendit.
+
+@@ II-II q. 25 a. 10 ad 1
+Ad primum ergo dicendum quod proximus non solum dicitur communicatione speciei, sed etiam communicatione beneficiorum pertinentium ad vitam aeternam; super qua communicatione amicitia caritatis fundatur.
+
+@@ II-II q. 25 a. 10 ad 2
+Ad secundum dicendum quod bruta animalia conveniunt nobiscum in genere propinquo ratione naturae sensitivae, secundum quam non sumus participes aeternae beatitudinis, sed secundum mentem rationalem; in qua communicamus cum Angelis.
+
+@@ II-II q. 25 a. 10 ad 3
+Ad tertium dicendum quod Angeli non convivunt nobis exteriori conversatione, quae nobis est secundum sensitivam naturam. Convivimus tamen Angelis secundum mentem, imperfecte quidem in hac vita, perfecte autem in patria, sicut et supra dictum est.
+
+@@ II-II q. 25 a. 11 arg. 1
+Ad undecimum sic proceditur. Videtur quod Daemones ex caritate debeamus diligere. Angeli enim sunt nobis proximi inquantum communicamus cum eis in rationali mente. Sed etiam Daemones sic nobiscum communicant, quia data naturalia in eis manent integra, scilicet esse, vivere et intelligere, ut dicitur in IV cap. de Div. Nom. Ergo debemus Daemones ex caritate diligere.
+
+@@ II-II q. 25 a. 11 arg. 2
+Praeterea, Daemones differunt a beatis Angelis differentia peccati, sicut et peccatores homines a iustis. Sed iusti homines ex caritate diligunt peccatores. Ergo etiam ex caritate debent diligere Daemones.
+
+@@ II-II q. 25 a. 11 arg. 3
+Praeterea, illi a quibus beneficia nobis impenduntur debent a nobis ex caritate diligi tanquam proximi, sicut patet ex auctoritate Augustini supra inducta. Sed Daemones nobis in multis sunt utiles, dum nos tentando nobis coronas fabricant, sicut Augustinus dicit, XI de Civ. Dei. Ergo Daemones sunt ex caritate diligendi.
+
+@@ II-II q. 25 a. 11 s. c.
+Sed contra est quod dicitur Isaiae XXVIII, delebitur foedus vestrum cum morte, et pactum vestrum cum Inferno non stabit. Sed perfectio pacis et foederis est per caritatem. Ergo ad Daemones, qui sunt Inferni incolae et mortis procuratores, caritatem habere non debemus.
+
+@@ II-II q. 25 a. 11 co.
+Respondeo dicendum quod, sicut supra dictum est, in peccatoribus ex caritate debemus diligere naturam, peccatum odire. In nomine autem Daemonis significatur natura peccato deformata. Et ideo Daemones ex caritate non sunt diligendi. Et si non fiat vis in nomine, et quaestio referatur ad illos spiritus qui Daemones dicuntur, utrum sint ex caritate diligendi, respondendum est, secundum praemissa, quod aliquid ex caritate diligitur dupliciter. Uno modo, sicut ad quem amicitia habetur. Et sic ad illos spiritus caritatis amicitiam habere non possumus. Pertinet enim ad rationem amicitiae ut amicis nostris bonum velimus. Illud autem bonum vitae aeternae quod respicit caritas, spiritibus illis a Deo aeternaliter damnatis ex caritate velle non possumus, hoc enim repugnaret caritati Dei, per quam eius iustitiam approbamus. Alio modo diligitur aliquid sicut quod volumus permanere ut bonum alterius, per quem modum ex caritate diligimus irrationales creaturas, inquantum volumus eas permanere ad gloriam Dei et utilitatem hominum, ut supra dictum est. Et per hunc modum et naturam Daemonum etiam ex caritate diligere possumus, inquantum scilicet volumus illos spiritus in suis naturalibus conservari ad gloriam Dei.
+
+@@ II-II q. 25 a. 11 ad 1
+Ad primum ergo dicendum quod mens Angelorum non habet impossibilitatem ad aeternam beatitudinem habendam, sicut habet mens Daemonum. Et ideo amicitia caritatis, quae fundatur super communicatione vitae aeternae magis quam super communicatione naturae, habetur ad Angelos, non autem ad Daemones.
+
+@@ II-II q. 25 a. 11 ad 2
+Ad secundum dicendum quod homines peccatores in hac vita habent possibilitatem perveniendi ad beatitudinem aeternam. Quod non habent illi qui sunt in Inferno damnati; de quibus, quantum ad hoc, est eadem ratio sicut et de Daemonibus.
+
+@@ II-II q. 25 a. 11 ad 3
+Ad tertium dicendum quod utilitas quae nobis ex Daemonibus provenit non est ex eorum intentione, sed ex ordinatione divinae providentiae. Et ideo ex hoc non inducimur ad habendum amicitiam eorum, sed ad hoc quod simus Deo amici, qui eorum perversam intentionem convertit in nostram utilitatem.
+
+@@ II-II q. 25 a. 12 arg. 1
+Ad duodecimum sic proceditur. Videtur quod inconvenienter enumerentur quatuor ex caritate diligenda, scilicet Deus, proximus, corpus nostrum et nos ipsi. Ut enim Augustinus dicit, super Ioan., qui non diligit Deum, nec seipsum diligit. In Dei ergo dilectione includitur dilectio sui ipsius. Non ergo est alia dilectio sui ipsius, et alia dilectio Dei.
+
+@@ II-II q. 25 a. 12 arg. 2
+Praeterea, pars non debet dividi contra totum. Sed corpus nostrum est quaedam pars nostri. Non ergo debet dividi, quasi aliud diligibile, corpus nostrum a nobis ipsis.
+
+@@ II-II q. 25 a. 12 arg. 3
+Praeterea, sicut nos habemus corpus, ita etiam et proximus. Sicut ergo dilectio qua quis diligit proximum, distinguitur a dilectione qua quis diligit seipsum; ita dilectio qua quis diligit corpus proximi, debet distingui a dilectione qua quis diligit corpus suum. Non ergo convenienter distinguuntur quatuor ex caritate diligenda.
+
+@@ II-II q. 25 a. 12 s. c.
+Sed contra est quod Augustinus dicit, in I de Doct. Christ., quatuor sunt diligenda, unum quod supra nos est, scilicet Deus; alterum quod nos sumus; tertium quod iuxta nos est, scilicet proximus; quartum quod infra nos est, scilicet proprium corpus.
+
+@@ II-II q. 25 a. 12 co.
+Respondeo dicendum quod, sicut dictum est, amicitia caritatis super communicatione beatitudinis fundatur. In qua quidem communicatione unum quidem est quod consideratur ut principium influens beatitudinem, scilicet Deus; aliud est beatitudinem directe participans, scilicet homo et Angelus; tertium autem est id ad quod per quandam redundantiam beatitudo derivatur, scilicet corpus humanum. Id quidem quod est beatitudinem influens est ea ratione diligibile quia est beatitudinis causa. Id autem quod est beatitudinem participans potest esse duplici ratione diligibile, vel quia est unum nobiscum; vel quia est nobis consociatum in beatitudinis participatione. Et secundum hoc sumuntur duo ex caritate diligibilia, prout scilicet homo diligit et seipsum et proximum.
+
+@@ II-II q. 25 a. 12 ad 1
+Ad primum ergo dicendum quod diversa habitudo diligentis ad diversa diligibilia facit diversam rationem diligibilitatis. Et secundum hoc, quia alia est habitudo hominis diligentis ad Deum et ad seipsum, propter hoc ponuntur duo diligibilia, cum dilectio unius sit causa dilectionis alterius. Unde, ea remota, alia removetur.
+
+@@ II-II q. 25 a. 12 ad 2
+Ad secundum dicendum quod subiectum caritatis est mens rationalis quae potest beatitudinis esse capax, ad quam corpus directe non attingit, sed solum per quandam redundantiam. Et ideo homo secundum rationalem mentem, quae est principalis in homine, alio modo se diligit secundum caritatem, et alio modo corpus proprium.
+
+@@ II-II q. 25 a. 12 ad 3
+Ad tertium dicendum quod homo diligit proximum et secundum animam et secundum corpus ratione cuiusdam consociationis in beatitudine. Et ideo ex parte proximi est una tantum ratio dilectionis. Unde corpus proximi non ponitur speciale diligibile.

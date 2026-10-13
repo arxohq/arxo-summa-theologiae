@@ -1,0 +1,3256 @@
+{
+  "format": "law.package-questions/0.1",
+  "package": "la.aquinas.summa.ii_ii_prudentia",
+  "language": "ru",
+  "tasks": [
+    {
+      "id": "ii-ii-prudentia",
+      "title": "II-II qq. 47-56: благоразумие",
+      "source_units": [
+        "ST_II_II_Q47_A1_RESP",
+        "ST_II_II_Q49_A1_RESP",
+        "ST_II_II_Q53_A1_RESP"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "prudenceisvirtue",
+      "task": "ii-ii-prudentia",
+      "question": "Есть ли благоразумие добродетель?",
+      "kind": "truth",
+      "predicate": "prudence_is_virtue",
+      "parameters": [
+        {
+          "name": "s",
+          "type": "Subject",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(prudence_is_virtue(s: <s>));",
+      "tests": [
+        "urn:query:ii-ii-prudentia-prudenceisvirtue-affirmat",
+        "urn:query:ii-ii-prudentia-prudenceisvirtue-negata"
+      ],
+      "source_units": [
+        "ST_II_II_Q47_A1_RESP"
+      ],
+      "branches": [
+        {
+          "summary": "условия respondeo налицо",
+          "rule": "PrudenceIsVirtue"
+        },
+        {
+          "summary": "нет отличительного факта",
+          "rule": "PrudenceIsVirtue"
+        }
+      ]
+    },
+    {
+      "id": "integralparts",
+      "task": "ii-ii-prudentia",
+      "question": "Принадлежит ли память благоразумию?",
+      "kind": "truth",
+      "predicate": "memory_belongs_prudence",
+      "parameters": [
+        {
+          "name": "s",
+          "type": "Subject",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(memory_belongs_prudence(s: <s>));",
+      "tests": [
+        "urn:query:ii-ii-prudentia-integralparts-affirmat",
+        "urn:query:ii-ii-prudentia-integralparts-negata"
+      ],
+      "source_units": [
+        "ST_II_II_Q49_A1_RESP"
+      ],
+      "branches": [
+        {
+          "summary": "условия respondeo налицо",
+          "rule": "IntegralParts"
+        },
+        {
+          "summary": "нет отличительного факта",
+          "rule": "IntegralParts"
+        }
+      ]
+    },
+    {
+      "id": "imprudencevice",
+      "task": "ii-ii-prudentia",
+      "question": "Есть ли неблагоразумие порок?",
+      "kind": "truth",
+      "predicate": "imprudence_is_vice",
+      "parameters": [
+        {
+          "name": "s",
+          "type": "Subject",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(imprudence_is_vice(s: <s>));",
+      "tests": [
+        "urn:query:ii-ii-prudentia-imprudencevice-affirmat",
+        "urn:query:ii-ii-prudentia-imprudencevice-negata"
+      ],
+      "source_units": [
+        "ST_II_II_Q53_A1_RESP"
+      ],
+      "branches": [
+        {
+          "summary": "условия respondeo налицо",
+          "rule": "ImprudenceVice"
+        },
+        {
+          "summary": "нет отличительного факта",
+          "rule": "ImprudenceVice"
+        }
+      ]
+    }
+  ],
+  "boundaries": [
+    {
+      "id": "graphs",
+      "task": "ii-ii-prudentia",
+      "question": "Исполняется ли граф возражений как прикладной канон?",
+      "reason_kind": "source_delegates",
+      "limitation": "Граф возражений §274 порождается из заголовков Corpus (arg./s. c./co./ad N) и не является прикладным каноном respondeo.",
+      "source_units": [
+        "ST_II_II_Q47_A1_RESP"
+      ]
+    },
+    {
+      "id": "bodies",
+      "task": "ii-ii-prudentia",
+      "question": "Передоказывается ли теорема артикула?",
+      "reason_kind": "source_delegates",
+      "limitation": "Тела доказательств возражений остаются в закреплённых байтах; пакет не передоказывает теорему, а применяет принятую формулировку к делу.",
+      "source_units": [
+        "ST_II_II_Q47_A1_RESP"
+      ]
+    },
+    {
+      "id": "rest-articles",
+      "task": "ii-ii-prudentia",
+      "question": "Выделена ли прикладная голова у каждого артикула?",
+      "reason_kind": "not_formalized",
+      "limitation": "Артикулы без отдельной прикладной головы имеют граф §274; прикладной слой читает избранные respondeo трактата, не каждый артикул.",
+      "source_units": [
+        "ST_II_II_Q47_A1_RESP"
+      ]
+    }
+  ],
+  "internal": [
+    {
+      "predicate": "q47_a10_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a10_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a11_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a12_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a13_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a14_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a15_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a16_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a2_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a3_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_arg2_premise3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_arg2_premise4",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a4_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a5_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_arg2_premise3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a6_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a7_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a8_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_arg1_premise3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_arg1_premise4",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q47_a9_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_ad4_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_ad5_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_arg4_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_arg5_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_reply4",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_reply5",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q48_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a2_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a3_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a4_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a5_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a6_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_arg3_premise3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a7_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_arg2_premise3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q49_a8_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a2_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a3_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q50_a4_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_arg3_premise3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a2_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a3_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q51_a4_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a2_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a3_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q52_a4_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_arg3_premise3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a2_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a3_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_arg2_premise3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a4_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a5_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q53_a6_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_ad4_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_arg4_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_arg4_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_reply4",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a2_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q54_a3_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a2_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a3_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a4_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a5_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a6_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a7_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q55_a8_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_arg2_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a1_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_ad1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_ad2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_ad3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_arg1_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_arg1_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_arg2_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_arg3_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_arg3_premise2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_reply1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_reply2",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_reply3",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_respondeo_premise1",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    },
+    {
+      "predicate": "q56_a2_thesis",
+      "reason": "граф §274 артикула: спрашивается профилем argumentation, не прикладной карточкой respondeo"
+    }
+  ]
+}

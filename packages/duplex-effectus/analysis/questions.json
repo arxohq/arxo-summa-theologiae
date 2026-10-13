@@ -1,0 +1,201 @@
+{
+  "$comment": "Каталог вопросов пакета (DECISION-0190, law.package-questions/0.1).",
+  "format": "law.package-questions/0.1",
+  "package": "la.aquinas.duplex_effectus",
+  "language": "ru",
+  "tasks": [
+    {"id": "defensio", "title": "Самооборона и двойной эффект (II-II q. 64 a. 7)", "source_units": ["ST_Q64_A7_RESP"]},
+    {"id": "bellum", "title": "Справедливая война (II-II q. 40 a. 1)", "source_units": ["ST_Q40_A1_RESP"]}
+  ],
+  "questions": [
+    {
+      "id": "defensio-licita",
+      "task": "defensio",
+      "question": "Дозволена ли предъявленная оборона?",
+      "kind": "truth",
+      "predicate": "defensio_licita",
+      "parameters": [{"name": "a", "type": "Actus", "role": "bound"}],
+      "template": "evaluate truth(defensio_licita(a: <a>));",
+      "branches": [
+        {"summary": "частная оборона: намерение сохранить жизнь, сила соразмерна, смерть не цель и не средство", "rule": "DefensioLicitaPrivata"},
+        {"summary": "публичная власть относит намеренное поражение к общему благу", "rule": "DefensioPubliciMinistri"}
+      ],
+      "tests": ["urn:query:duplex-01-defensio-licita", "urn:query:duplex-02b-licita-negata", "urn:query:duplex-04-miles-auctoritas-publica", "urn:query:duplex-05-moderamen-awaits-judgment"],
+      "cases": ["ViatorContraLatronem", "MilesContraHostes"],
+      "queries": ["viator-defensio-licita", "miles-defensio-licita"],
+      "source_units": ["ST_Q64_A7_RESP"]
+    },
+    {
+      "id": "defensio-illicita",
+      "task": "defensio",
+      "question": "Недозволена ли предъявленная оборона?",
+      "kind": "truth",
+      "predicate": "defensio_illicita",
+      "parameters": [{"name": "a", "type": "Actus", "role": "bound"}],
+      "template": "evaluate truth(defensio_illicita(a: <a>));",
+      "branches": [
+        {"summary": "сила больше, чем требует мера безупречной защиты", "rule": "ImmoderataViolentiaIllicita"},
+        {"summary": "намеренное убийство делает оборону недозволенной", "rule": "OccisioRedditDefensionemIllicitam"},
+        {"summary": "служитель публичной власти движим частной страстью", "rule": "PrivataLibidoMinistriPeccat"}
+      ],
+      "tests": ["urn:query:duplex-02-defensio-immoderata", "urn:query:duplex-10-privata-libido"],
+      "cases": ["FamiliaNocte"],
+      "queries": ["familia-defensio-illicita"],
+      "source_units": ["ST_Q64_A7_RESP"]
+    },
+    {
+      "id": "pochemu-ne-licita",
+      "task": "defensio",
+      "question": "Почему предъявленная оборона не дозволена: какой посылки не хватает?",
+      "kind": "why_not",
+      "predicate": "defensio_licita",
+      "parameters": [{"name": "a", "type": "Actus", "role": "bound"}],
+      "template": "evaluate why_not(defensio_licita(a: <a>));",
+      "tests": [],
+      "cases": ["FamiliaNocte"],
+      "queries": ["familia-pochemu-ne-licita"],
+      "source_units": ["ST_Q64_A7_RESP"]
+    },
+    {
+      "id": "occisio-illicita",
+      "task": "defensio",
+      "question": "Недозволено ли намеренное убийство в этой обороне?",
+      "kind": "truth",
+      "predicate": "occisio_illicita",
+      "parameters": [{"name": "a", "type": "Actus", "role": "bound"}],
+      "template": "evaluate truth(occisio_illicita(a: <a>));",
+      "branches": [
+        {"summary": "частное лицо намерено убить", "rule": "OccisioIntentaPrivatoIllicita"},
+        {"summary": "смерть как средство, не praeter intentionem", "rule": "OccisioUtMediumIllicita"}
+      ],
+      "tests": ["urn:query:duplex-03-intentio-homicidii"],
+      "source_units": ["ST_Q64_A7_RESP"]
+    },
+    {
+      "id": "pozitsii-defensio",
+      "task": "defensio",
+      "question": "Открыта ли позиция дозволенной самообороны?",
+      "kind": "positions",
+      "norms": ["DefensioPropria"],
+      "template": "evaluate positions(); expect position(DefensioPropria, <статус>);",
+      "tests": ["urn:query:duplex-08-defensio-propria-positions", "urn:query:duplex-11b-miles-sine-occisio-prohibition"],
+      "cases": ["ViatorContraLatronem"],
+      "queries": ["viator-positions"],
+      "source_units": ["ST_Q64_A7_RESP"]
+    },
+    {
+      "id": "pozitsii-occisio",
+      "task": "defensio",
+      "question": "Запрещено ли частному лицу иметь целью убийство в этой обороне?",
+      "kind": "positions",
+      "norms": ["OccisioIntentaInDefensione"],
+      "template": "evaluate positions(); expect position(OccisioIntentaInDefensione, <статус>);",
+      "tests": ["urn:query:duplex-08-defensio-propria-positions", "urn:query:duplex-11-occisio-prohibition-violated", "urn:query:duplex-11b-miles-sine-occisio-prohibition", "urn:query:duplex-12-defensio-illicita-prohibition-active"],
+      "cases": ["ViatorContraLatronem", "FamiliaNocte"],
+      "queries": ["viator-positions", "familia-positions"],
+      "source_units": ["ST_Q64_A7_RESP"]
+    },
+    {
+      "id": "pozitsii-defensio-vetita",
+      "task": "defensio",
+      "question": "Запрещена ли предъявленная недозволенная оборона?",
+      "kind": "positions",
+      "norms": ["DefensioIllicitaProhibita"],
+      "template": "evaluate positions(); expect position(DefensioIllicitaProhibita, <статус>);",
+      "tests": ["urn:query:duplex-12-defensio-illicita-prohibition-active", "urn:query:duplex-12b-defensio-illicita-prohibition-violated"],
+      "cases": ["FamiliaNocte"],
+      "queries": ["familia-positions"],
+      "source_units": ["ST_Q64_A7_RESP"]
+    },
+    {
+      "id": "bellum-iustum",
+      "task": "bellum",
+      "question": "Справедлива ли предъявленная война?",
+      "kind": "truth",
+      "predicate": "bellum_iustum",
+      "parameters": [{"name": "b", "type": "Bellum", "role": "bound"}],
+      "template": "evaluate truth(bellum_iustum(b: <b>));",
+      "branches": [
+        {"summary": "три условия: власть государя, справедливая причина, правое намерение", "rule": "BellumIustumConstat"}
+      ],
+      "tests": ["urn:query:duplex-06-bellum-iustum"],
+      "cases": ["PrincepsCupiditas"],
+      "queries": ["princeps-bellum-iustum"],
+      "source_units": ["ST_Q40_A1_RESP"]
+    },
+    {
+      "id": "bellum-illicitum",
+      "task": "bellum",
+      "question": "Недозволена ли война из-за порочного намерения?",
+      "kind": "truth",
+      "predicate": "bellum_illicitum",
+      "parameters": [{"name": "b", "type": "Bellum", "role": "bound"}],
+      "template": "evaluate truth(bellum_illicitum(b: <b>));",
+      "branches": [
+        {"summary": "власть и справедливая причина есть, намерение порочно", "rule": "PravaIntentioRedditBellumIllicitum"}
+      ],
+      "tests": ["urn:query:duplex-07-bellum-sine-intentione-recta"],
+      "cases": ["PrincepsCupiditas"],
+      "queries": ["princeps-bellum-illicitum"],
+      "source_units": ["ST_Q40_A1_RESP"]
+    },
+    {
+      "id": "pozitsii-bellum",
+      "task": "bellum",
+      "question": "Вправе ли государь вести эту войну?",
+      "kind": "positions",
+      "norms": ["BellumIustumGerere"],
+      "template": "evaluate positions(); expect position(BellumIustumGerere, <статус>);",
+      "tests": ["urn:query:duplex-09-bellum-positions"],
+      "source_units": ["ST_Q40_A1_RESP"]
+    },
+    {
+      "id": "pozitsii-bellum-vetitum",
+      "task": "bellum",
+      "question": "Запрещено ли государю вести эту недозволенную войну?",
+      "kind": "positions",
+      "norms": ["BellumIllicitumGerere"],
+      "template": "evaluate positions(); expect position(BellumIllicitumGerere, <статус>);",
+      "tests": ["urn:query:duplex-09-bellum-positions", "urn:query:duplex-13-bellum-illicitum-prohibition-active", "urn:query:duplex-13b-bellum-illicitum-prohibition-violated"],
+      "cases": ["PrincepsCupiditas"],
+      "queries": ["princeps-bellum-positions"],
+      "source_units": ["ST_Q40_A1_RESP"]
+    }
+  ],
+  "boundaries": [
+    {
+      "id": "argumenta-extra-pack",
+      "task": "defensio",
+      "question": "Исполняется ли граф возражений артикула?",
+      "reason_kind": "source_delegates",
+      "limitation": "Граф возражений, sed contra и ответов ad не исполняется: он уже построен в пакете la.aquinas.summa_theologiae_law; здесь применяется только формулировка respondeo.",
+      "source_units": ["ST_Q64_A7_ARG1"]
+    },
+    {
+      "id": "moderamen-judgment",
+      "task": "defensio",
+      "question": "Вычисляется ли численный порог соразмерной силы?",
+      "reason_kind": "case_data",
+      "limitation": "Соразмерность силы (moderamen inculpatae tutelae) не вычисляется: артикул численного порога не содержит и отдаёт признак практическому суждению §47.3.",
+      "source_units": ["ST_Q64_A7_RESP"],
+      "related_question": "defensio-licita"
+    },
+    {
+      "id": "irregularitas",
+      "task": "defensio",
+      "question": "Наступает ли irregularitas клирика?",
+      "reason_kind": "source_delegates",
+      "limitation": "Irregularitas клирика после человекоубийства, даже безгрешного, не моделируется: каноническое последствие вне среза моральной квалификации акта.",
+      "source_units": ["ST_Q64_A7_AD3"]
+    },
+    {
+      "id": "proofs-in-bytes",
+      "task": "bellum",
+      "question": "Передоказывается ли теорема справедливой войны?",
+      "reason_kind": "engine_limit",
+      "limitation": "Тела доказательств возражений остаются в закреплённых байтах; пакет не передоказывает теорему, а применяет принятую формулировку к делу.",
+      "source_units": ["ST_Q40_A1_RESP"]
+    }
+  ],
+  "internal": []
+}

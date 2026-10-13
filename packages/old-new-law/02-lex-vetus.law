@@ -1,0 +1,69 @@
+// I-II q. 98: ветхий закон благ, но несовершенен; обязывает Израиль в добавленном.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_old_new_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-old-new-law";
+
+use self::{
+    Law,
+    People,
+    Precept,
+    ST_I_II_Q98_A1_RESP,
+    ST_I_II_Q98_A5_RESP,
+    added_beyond_nature,
+    belongs_to,
+    is_old_law,
+    of_israel,
+    of_natural_law,
+    presented_law,
+    presented_people,
+};
+
+pub relation old_law_good(l: Law) kind institutional {
+    label la official "lex vetus bona fuit";
+    label ru unofficial "ветхий закон благ";
+}
+pub relation old_law_imperfect(l: Law) kind institutional {
+    label la official "lex vetus bona quidem est, sed imperfecta";
+    label ru unofficial "ветхий закон благ, но несовершенен: благодати не сообщает";
+}
+pub relation binds_as_natural(pr: Precept, p: People) kind institutional {
+    label la official "omnes tenebantur quia erant de lege naturae";
+    label ru unofficial "естественное содержание ветхого закона обязывает всех";
+}
+pub relation binds_israel_only(pr: Precept, p: People) kind institutional {
+    label la official "non tenebantur nisi solus populus Iudaeorum";
+    label ru unofficial "добавленное сверх природы обязывает только Израиль";
+}
+
+@source(ST_I_II_Q98_A1_RESP)
+rule OldLawIsGood(l: Law) strict {
+    label la official "absque omni dubio lex vetus bona fuit";
+    label ru unofficial "ветхий закон благ, потому что согласен с разумом";
+    when presented_law(l) and is_old_law(l);
+    then old_law_good(l);
+}
+
+@source(ST_I_II_Q98_A1_RESP)
+rule OldLawCannotConferGrace(l: Law) strict {
+    label la official "hanc autem gratiam lex vetus conferre non potuit";
+    label ru unofficial "ветхий закон не сообщает благодати Святого Духа";
+    when presented_law(l) and is_old_law(l);
+    then old_law_imperfect(l);
+}
+
+@source(ST_I_II_Q98_A5_RESP)
+rule NaturalContentBindsAll(pr: Precept, l: Law, p: People) strict {
+    label la official "quantum ad illa quae lex vetus continebat de lege naturae, omnes tenebantur";
+    label ru unofficial "естественные предписания ветхого закона обязывают всякий народ";
+    when belongs_to(pr, l) and is_old_law(l) and of_natural_law(pr) and presented_people(p);
+    then binds_as_natural(pr, p);
+}
+
+@source(ST_I_II_Q98_A5_RESP)
+rule AddedPreceptsBindIsrael(pr: Precept, l: Law, p: People) strict {
+    label la official "quantum ad illa quae lex vetus superaddebat, non tenebantur nisi solus populus Iudaeorum";
+    label ru unofficial "собственные добавления ветхого закона обязывают только Израиль";
+    when belongs_to(pr, l) and is_old_law(l) and added_beyond_nature(pr) and of_israel(p);
+    then binds_israel_only(pr, p);
+}

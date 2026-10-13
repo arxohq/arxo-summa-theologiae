@@ -1,0 +1,82 @@
+// Прикладной канон respondeo II-II qq. 23-46.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_caritate version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-caritate";
+
+use self::{
+    ST_II_II_Q23_A1_RESP,
+    ST_II_II_Q24_A1_RESP,
+    ST_II_II_Q26_A1_RESP,
+    ST_II_II_Q27_A1_RESP,
+    ST_II_II_Q44_A1_RESP,
+    Subject,
+    charity_presented,
+    presented,
+};
+
+pub relation charity_friendship(s: Subject) kind institutional {
+    label la official "caritas est amicitia";
+    label ru unofficial "любовь есть дружба";
+}
+
+@source(ST_II_II_Q23_A1_RESP)
+rule CharityIsFriendship(s: Subject) strict {
+    label la official "caritas est amicitia";
+    label ru unofficial "любовь есть дружба";
+    when presented(s) and charity_presented(s);
+    then charity_friendship(s);
+}
+
+pub relation charity_in_will(s: Subject) kind institutional {
+    label la official "caritas est in voluntate";
+    label ru unofficial "любовь — в воле";
+}
+
+@source(ST_II_II_Q24_A1_RESP)
+rule CharityInWill(s: Subject) strict {
+    label la official "caritas est in voluntate";
+    label ru unofficial "любовь — в воле";
+    when presented(s) and charity_presented(s);
+    then charity_in_will(s);
+}
+
+pub relation charity_has_order(s: Subject) kind institutional {
+    label la official "in caritate est ordo";
+    label ru unofficial "в любви есть порядок";
+}
+
+@source(ST_II_II_Q26_A1_RESP)
+rule OrderOfCharity(s: Subject) strict {
+    label la official "in caritate est ordo";
+    label ru unofficial "в любви есть порядок";
+    when presented(s) and charity_presented(s);
+    then charity_has_order(s);
+}
+
+pub relation love_is_act(s: Subject) kind institutional {
+    label la official "diligere est actus caritatis";
+    label ru unofficial "любить есть акт любви";
+}
+
+@source(ST_II_II_Q27_A1_RESP)
+rule ToLoveIsActOfCharity(s: Subject) strict {
+    label la official "diligere est actus caritatis";
+    label ru unofficial "любить есть акт любви";
+    when presented(s) and charity_presented(s);
+    then love_is_act(s);
+}
+
+pub relation charity_has_precepts(s: Subject) kind institutional {
+    label la official "caritatis sunt praecepta";
+    label ru unofficial "у любви есть предписания";
+}
+
+@source(ST_II_II_Q44_A1_RESP)
+rule PreceptsOfCharity(s: Subject) strict {
+    label la official "caritatis sunt praecepta";
+    label ru unofficial "у любви есть предписания";
+    when presented(s) and charity_presented(s);
+    then charity_has_precepts(s);
+}
+

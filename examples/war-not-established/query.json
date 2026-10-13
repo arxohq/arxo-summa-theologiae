@@ -1,0 +1,15 @@
+{
+  "queryId": "princeps-bellum-iustum",
+  "kind": "truth",
+  "literal": {
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_iustum",
+    "args": [
+      {
+        "kind": "entity_ref",
+        "id": "urn:example:duplex:bellum:cupiditas"
+      }
+    ]
+  }
+}

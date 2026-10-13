@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:eb3919ecbe53f316a64df5d24e1db9512e0164040d69305319d36cfcf59362e9",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:6fb9818aa9a8adbadaf1f290a17bb887908f745678934a9ae0fa5bbbacc2ab3c",
+    "name": "la.aquinas.duplex_effectus",
+    "namespace": "urn:la:aquinas:clir:duplex-effectus",
+    "sourceHash": "sha256:8fb8567e3020aa3b1612b6877c96fb44fc0889f5db7b38df26d32a88e645b4da",
+    "version": "0.1.0"
+  }
+}

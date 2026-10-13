@@ -1,0 +1,146 @@
+@@ I-II q. 42 pr.
+Deinde considerandum est de obiecto timoris. Et circa hoc quaeruntur sex. Primo, utrum bonum sit obiectum timoris, vel malum. Secundo, utrum malum naturae sit obiectum timoris. Tertio, utrum timor sit de malo culpae. Quarto, utrum ipse timor timeri possit. Quinto, utrum repentina magis timeantur. Sexto, utrum ea contra quae non est remedium, magis timeantur.
+
+@@ I-II q. 42 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod bonum sit obiectum timoris. Dicit enim Augustinus, in libro octoginta trium quaest., quod nihil timemus, nisi ne id quod amamus, aut adeptum amittamus, aut non adipiscamur speratum. Sed id quod amamus est bonum. Ergo timor respicit bonum sicut proprium obiectum.
+
+@@ I-II q. 42 a. 1 arg. 2
+Praeterea, philosophus dicit, in II Rhetoric., quod potestas, et super alium ipsum esse, est terribile. Sed huiusmodi est quoddam bonum. Ergo bonum est obiectum timoris.
+
+@@ I-II q. 42 a. 1 arg. 3
+Praeterea, in Deo nihil malum esse potest. Sed mandatur nobis ut Deum timeamus; secundum illud Psalmi XXXIII, timete dominum, omnes sancti eius. Ergo etiam timor est de bono.
+
+@@ I-II q. 42 a. 1 s. c.
+Sed contra est quod Damascenus dicit, in II libro, quod timor est de malo futuro.
+
+@@ I-II q. 42 a. 1 co.
+Respondeo dicendum quod timor est quidam motus appetitivae virtutis. Ad virtutem autem appetitivam pertinet prosecutio et fuga, ut dicitur in VI Ethic. Est autem prosecutio boni. Fuga autem mali. Unde quicumque motus appetitivae virtutis importat prosecutionem, habet aliquod bonum pro obiecto, quicumque autem importat fugam, habet malum pro obiecto. Unde, cum timor fugam quandam importet, primo et per se respicit malum sicut proprium obiectum. Potest autem respicere etiam bonum, secundum quod habet habitudinem ad malum. Quod quidem potest esse dupliciter. Uno quidem modo, inquantum per malum privatur bonum. Ex hoc autem ipso est aliquid malum, quod est privativum boni. Unde, cum fugiatur malum quia malum est, sequitur ut fugiatur quia privat bonum quod quis amando prosequitur. Et secundum hoc dicit Augustinus quod nulla est causa timendi, nisi ne amittatur bonum amatum. Alio modo comparatur bonum ad malum, ut causa ipsius, inquantum scilicet aliquod bonum sua virtute potest inducere aliquod nocumentum in bono amato. Et ideo, sicut spes, ut supra dictum est, ad duo respicit, scilicet ad bonum in quod tendit, et ad id per quod sperat se bonum concupitum adipisci; ita etiam timor ad duo respicit, scilicet ad malum quod refugit, et ad illud bonum quod sua virtute potest infligere malum. Et per hunc modum Deus timetur ab homine, inquantum potest infligere poenam, vel spiritualem vel corporalem. Per hunc etiam modum timetur potestas alicuius hominis, maxime quando est laesa, vel quando est iniusta, quia sic in promptu habet nocumentum inferre. Ita etiam timetur super alium esse, idest inniti alii, ut scilicet in eius potestate sic constitutum nobis nocumentum inferre, sicut ille qui est conscius criminis, timetur, ne crimen revelet.
+
+@@ I-II q. 42 a. 1 ad arg.
+Et per hoc patet responsio ad obiecta.
+
+@@ I-II q. 42 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod timor non sit de malo naturae. Dicit enim philosophus, in II Rhetoric., quod timor consiliativos facit. Non autem consiliamur de his quae a natura eveniunt, ut dicitur in III Ethic. Ergo timor non est de malo naturae.
+
+@@ I-II q. 42 a. 2 arg. 2
+Praeterea, defectus naturales semper homini imminent, ut mors et alia huiusmodi. Si igitur de huiusmodi malis esset timor, oporteret quod homo semper esset in timore.
+
+@@ I-II q. 42 a. 2 arg. 3
+Praeterea, natura non movet ad contraria. Sed malum naturae provenit ex natura. Ergo quod timendo aliquis refugiat huiusmodi malum, non est a natura. Timor ergo naturalis non est de malo naturae; ad quem tamen hoc malum pertinere videtur.
+
+@@ I-II q. 42 a. 2 s. c.
+Sed contra est quod philosophus dicit, in III Ethic., quod inter omnia terribilissimum est mors, quae est malum naturae.
+
+@@ I-II q. 42 a. 2 co.
+Respondeo dicendum quod, sicut philosophus dicit in II Rhetoric., timor provenit ex phantasia futuri mali corruptivi vel contristativi. Sicut autem contristativum malum est quod contrariatur voluntati; ita corruptivum malum est quod contrariatur naturae. Et hoc est malum naturae. Unde de malo naturae potest esse timor. Sed considerandum est quod malum naturae quandoque est a causa naturali, et tunc dicitur malum naturae, non solum quia privat naturae bonum, sed etiam quia est effectus naturae; sicut mors naturalis, et alii huiusmodi defectus. Aliquando vero malum naturae provenit ex causa non naturali, sicut mors quae violenter infertur a persecutore. Et utroque modo malum naturae quodammodo timetur, et quodammodo non timetur. Cum enim timor proveniat ex phantasia futuri mali, ut dicit philosophus; illud quod removet futuri mali phantasiam, excludit etiam timorem. Quod autem non appareat aliquod malum ut futurum, potest ex duobus contingere. Uno quidem modo, ex hoc quod est remotum et distans, hoc enim, propter distantiam, imaginamur ut non futurum. Et ideo vel non timemus, vel parum timemus. Ut enim philosophus dicit, in II Rhetoric., quae valde longe sunt non timentur, sciunt enim omnes, quod morientur; sed quia non prope est, nihil curant. Alio modo aestimatur aliquod malum quod est futurum, ut non futurum, propter necessitatem, quae facit ipsum aestimare ut praesens. Unde philosophus dicit, in II Rhetoric., quod illi qui iam decapitantur non timent, videntes sibi necessitatem mortis imminere; sed ad hoc quod aliquis timeat, oportet adesse aliquam spem salutis. Sic igitur malum naturae non timetur, quia non apprehenditur ut futurum. Si vero malum naturae, quod est corruptivum, apprehendatur ut propinquum, et tamen cum aliqua spe evasionis, tunc timebitur.
+
+@@ I-II q. 42 a. 2 ad 1
+Ad primum ergo dicendum quod malum naturae quandoque non provenit a natura, ut dictum est. Secundum tamen quod a natura provenit, etsi non ex toto vitari possit, potest tamen differri. Et sub hac spe, potest esse consilium de vitatione ipsius.
+
+@@ I-II q. 42 a. 2 ad 2
+Ad secundum dicendum quod malum naturae, etsi semper immineat, non tamen semper imminet de propinquo. Et ideo non semper timetur.
+
+@@ I-II q. 42 a. 2 ad 3
+Ad tertium dicendum quod mors et alii defectus naturae proveniunt a natura universali, quibus tamen repugnat natura particularis quantum potest. Et sic ex inclinatione particularis naturae, est dolor et tristitia de huiusmodi malis, cum sunt praesentia; et timor, si immineant in futurum.
+
+@@ I-II q. 42 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod timor possit esse de malo culpae. Dicit enim Augustinus, super canonicam Ioan., quod timore casto timet homo separationem a Deo. Sed nihil separat nos a Deo nisi culpa; secundum illud Isaiae LIX. Peccata vestra diviserunt inter vos et Deum vestrum. Ergo timor potest esse de malo culpae.
+
+@@ I-II q. 42 a. 3 arg. 2
+Praeterea, Tullius dicit, in IV de Tusculanis quaest., quod de illis timemus, cum futura sunt, de quorum praesentia tristamur. Sed de malo culpae potest aliquis dolere vel tristari. Ergo etiam malum culpae aliquis potest timere.
+
+@@ I-II q. 42 a. 3 arg. 3
+Praeterea, spes timori opponitur. Sed spes potest esse de bono virtutis, ut patet per philosophum in IX Ethic. Et apostolus dicit, ad Gal. V, confido de vobis in domino, quod nihil aliud sapietis. Ergo etiam timor potest esse de malo culpae.
+
+@@ I-II q. 42 a. 3 arg. 4
+Praeterea, verecundia est quaedam species timoris, ut supra dictum est. Sed verecundia est de turpi facto. Quod est malum culpae. Ergo et timor.
+
+@@ I-II q. 42 a. 3 s. c.
+Sed contra est quod philosophus dicit, in II Rhetoric., quod non omnia mala timentur, puta si aliquis erit iniustus, aut tardus.
+
+@@ I-II q. 42 a. 3 co.
+Respondeo dicendum quod, sicut supra dictum est, sicut obiectum spei est bonum futurum arduum quod quis potest adipisci; ita timor est de malo futuro arduo quod non potest de facili vitari. Ex quo potest accipi quod id quod omnino subiacet potestati et voluntati nostrae, non habet rationem terribilis, sed illud solum est terribile, quod habet causam extrinsecam. Malum autem culpae propriam causam habet voluntatem humanam. Et ideo proprie non habet rationem terribilis. Sed quia voluntas humana ab aliquo exteriori potest inclinari ad peccandum; si illud inclinans habeat magnam vim ad inclinandum, secundum hoc poterit esse timor de malo culpae, inquantum est ab exteriori causa, puta cum aliquis timet commorari in societate malorum, ne ab eis ad peccandum inducatur. Sed proprie loquendo, in tali dispositione magis timet homo seductionem quam culpam secundum propriam rationem, idest inquantum est voluntaria, sic enim non habet ut timeatur.
+
+@@ I-II q. 42 a. 3 ad 1
+Ad primum ergo dicendum quod separatio a Deo est quaedam poena consequens peccatum, et omnis poena aliquo modo est ab exteriori causa.
+
+@@ I-II q. 42 a. 3 ad 2
+Ad secundum dicendum quod tristitia et timor in uno conveniunt, quia utrumque est de malo, differunt autem in duobus. In uno quidem, quia tristitia est de malo praesenti, timor de malo futuro. In alio vero, quia tristitia, cum sit in concupiscibili, respicit malum absolute, unde potest esse de quocumque malo, sive parvo sive magno. Timor vero, cum sit in irascibili, respicit malum cum quadam arduitate seu difficultate, quae tollitur, inquantum aliquid subiacet voluntati. Et ideo non omnia timemus quae sunt futura, de quibus tristamur cum sunt praesentia, sed aliqua, quae scilicet sunt ardua.
+
+@@ I-II q. 42 a. 3 ad 3
+Ad tertium dicendum quod spes est de bono quod quis potest adipisci. Potest autem aliquis adipisci bonum vel per se, vel per alium, et ideo spes potest esse de actu virtutis, qui est in potestate nostra constitutus. Sed timor est de malo quod non subiacet nostrae potestati, et ideo semper malum quod timetur, est a causa extrinseca. Bonum autem quod speratur, potest esse et a causa intrinseca, et a causa extrinseca.
+
+@@ I-II q. 42 a. 3 ad 4
+Ad quartum dicendum quod, sicut supra dictum est, verecundia non est timor de actu ipso peccati, sed de turpitudine vel ignominia quae consequitur ipsum, quae est a causa extrinseca.
+
+@@ I-II q. 42 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod timor timeri non possit. Omne enim quod timetur, timendo custoditur, ne amittatur, sicut ille qui timet amittere sanitatem timendo custodit eam. Si igitur timor timeatur, timendo se custodiet homo ne timeat. Quod videtur esse inconveniens.
+
+@@ I-II q. 42 a. 4 arg. 2
+Praeterea, timor est quaedam fuga. Sed nihil fugit seipsum. Ergo timor non timet timorem.
+
+@@ I-II q. 42 a. 4 arg. 3
+Praeterea, timor est de futuro. Sed ille qui timet, iam habet timorem. Non ergo potest timere timorem.
+
+@@ I-II q. 42 a. 4 s. c.
+Sed contra est quod homo potest amare amorem, et dolere de dolore. Ergo etiam, pari ratione, potest timere timorem.
+
+@@ I-II q. 42 a. 4 co.
+Respondeo dicendum quod, sicut dictum est, illud solum habet rationem terribilis, quod ex causa extrinseca provenit, non autem quod provenit ex voluntate nostra. Timor autem partim provenit ex causa extrinseca, et partim subiacet voluntati. Provenit quidem ex causa extrinseca, inquantum est passio quaedam consequens phantasiam imminentis mali. Et secundum hoc, potest aliquis timere timorem, ne scilicet immineat ei necessitas timendi, propter ingruentiam alicuius excellentis mali. Subiacet autem voluntati, inquantum appetitus inferior obedit rationi, unde homo potest timorem repellere. Et secundum hoc, timor non potest timeri, ut dicit Augustinus, in libro octoginta trium quaest. Sed quia rationibus quas inducit, aliquis posset uti ad ostendendum quod timor nullo modo timeatur, ideo ad eas respondendum est.
+
+@@ I-II q. 42 a. 4 ad 1
+Ad primum ergo dicendum quod, non omnis timor est unus timor, sed secundum diversa quae timentur, sunt diversi timores. Nihil ergo prohibet quin uno timore aliquis praeservet se ab alio timore, et sic custodiat se non timentem illo timore.
+
+@@ I-II q. 42 a. 4 ad 2
+Ad secundum dicendum quod, cum sit alius timor quo timetur malum imminens, et alius timor quo timetur ipse timor mali imminentis; non sequitur quod idem fugiat seipsum, vel quod sit idem fuga sui ipsius.
+
+@@ I-II q. 42 a. 4 ad 3
+Ad tertium dicendum quod propter diversitatem timorum iam dictam, timore praesenti potest homo timere futurum timorem.
+
+@@ I-II q. 42 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod insolita et repentina non sint magis terribilia. Sicut enim spes est de bono, ita timor est de malo. Sed experientia facit ad augmentum spei in bonis. Ergo etiam facit ad augmentum timoris in malis.
+
+@@ I-II q. 42 a. 5 arg. 2
+Praeterea, philosophus dicit, in II Rhetoric., quod magis timentur non qui acutae sunt irae, sed mites et astuti. Constat autem quod illi qui acutae irae sunt, magis habent subitos motus. Ergo ea quae sunt subita, sunt minus terribilia.
+
+@@ I-II q. 42 a. 5 arg. 3
+Praeterea, quae sunt subita, minus considerari possunt. Sed tanto aliqua magis timentur, quanto magis considerantur, unde philosophus dicit, in III Ethic., quod aliqui videntur fortes propter ignorantiam, qui, si cognoverint quod aliud sit quam suspicantur, fugiunt. Ergo repentina minus timentur.
+
+@@ I-II q. 42 a. 5 s. c.
+Sed contra est quod Augustinus dicit, in II Confess., timor insolita et repentina exhorrescit, rebus quae amantur adversantia, dum praecavet securitati.
+
+@@ I-II q. 42 a. 5 co.
+Respondeo dicendum quod, sicut supra dictum est, obiectum timoris est malum imminens quod non de facili repelli potest. Hoc autem ex duobus contingit, scilicet ex magnitudine mali, et ex debilitate timentis. Ad utrumque autem horum operatur quod aliquid sit insolitum et repentinum. Primo quidem, facit ad hoc quod malum imminens maius appareat. Omnia enim corporalia, et bona et mala, quanto magis considerantur, minora apparent. Et ideo, sicut propter diuturnitatem dolor praesentis mali mitigatur, ut patet per Tullium in III de Tusculanis quaest.; ita etiam ex praemeditatione minuitur timor futuri mali. Secundo, aliquid esse insolitum et repentinum facit ad debilitatem timentis, inquantum subtrahit remedia quae homo potest praeparare ad repellendum futurum malum, quae esse non possunt quando ex improviso malum occurrit.
+
+@@ I-II q. 42 a. 5 ad 1
+Ad primum ergo dicendum quod obiectum spei est bonum quod quis potest adipisci. Et ideo ea quae augmentant potestatem hominis, nata sunt augere spem, et eadem ratione, diminuere timorem, quia timor est de malo cui non de facili potest resisti. Quia igitur experientia facit hominem magis potentem ad operandum, ideo, sicut auget spem, ita diminuit timorem.
+
+@@ I-II q. 42 a. 5 ad 2
+Ad secundum dicendum quod illi qui habent iram acutam, non occultant eam, et ideo nocumenta ab eis illata non ita sunt repentina, quin praevideantur. Sed homines mites et astuti occultant iram, et ideo nocumentum quod ab eis imminet, non potest praevideri, sed ex improviso advenit. Et propter hoc philosophus dicit quod tales magis timentur.
+
+@@ I-II q. 42 a. 5 ad 3
+Ad tertium dicendum quod, per se loquendo, bona vel mala corporalia in principio maiora apparent. Cuius ratio est, quia unumquodque magis apparet, contrario iuxta se posito. Unde cum aliquis statim a paupertate ad divitias transit, propter paupertatem praeexistentem divitias magis aestimat, et e contrario divites statim ad paupertatem devenientes, eam magis horrent. Et propter hoc, malum repentinum magis timetur, quia magis videtur esse malum. Sed potest propter aliquod accidens contingere quod magnitudo alicuius mali lateat, puta cum hostes se insidiose occultant. Et tunc verum est quod malum ex diligenti consideratione fit terribilius.
+
+@@ I-II q. 42 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod ea quae non habent remedium, non sint magis timenda. Ad timorem enim requiritur quod remaneat aliqua spes salutis, ut supra dictum est. Sed in malis quae non habent remedium, nulla remanet spes salutis. Ergo talia mala nullo modo timentur.
+
+@@ I-II q. 42 a. 6 arg. 2
+Praeterea, malo mortis nullum remedium adhiberi potest, non enim, secundum naturam, potest esse reditus a morte ad vitam. Non tamen mors maxime timetur, ut dicit philosophus, in II Rhetoric. Non ergo ea magis timentur quae remedium non habent.
+
+@@ I-II q. 42 a. 6 arg. 3
+Praeterea, philosophus dicit, in I Ethic., quod non est magis bonum quod est diuturnius, eo quod est unius diei, neque quod est perpetuum, eo quod non est perpetuum. Ergo, eadem ratione, neque maius malum. Sed ea quae non habent remedium, non videntur differre ab aliis nisi propter diuturnitatem vel perpetuitatem. Ergo propter hoc non sunt peiora, vel magis timenda.
+
+@@ I-II q. 42 a. 6 s. c.
+Sed contra est quod philosophus dicit, in II Rhetoric., quod omnia timenda sunt terribiliora quaecumque, si peccaverint, corrigi non contingit; aut quorum auxilia non sunt; aut non facilia.
+
+@@ I-II q. 42 a. 6 co.
+Respondeo dicendum quod obiectum timoris est malum, unde illud quod facit ad augmentum mali, facit ad augmentum timoris. Malum autem augetur non solum secundum speciem ipsius mali, sed etiam secundum circumstantias, ut ex supra dictis apparet. Inter ceteras autem circumstantias, diuturnitas, vel etiam perpetuitas, magis videtur facere ad augmentum mali. Ea enim quae sunt in tempore, secundum durationem temporis quodammodo mensurantur, unde si pati aliquid in tanto tempore est malum, pati idem in duplo tempore apprehenditur ut duplatum. Et secundum hanc rationem, pati idem in infinito tempore, quod est perpetuo pati, habet quodammodo infinitum augmentum. Mala autem quae, postquam advenerint, non possunt habere remedium, vel non de facili, accipiuntur ut perpetua vel diuturna. Et ideo maxime redduntur timenda.
+
+@@ I-II q. 42 a. 6 ad 1
+Ad primum ergo dicendum quod remedium mali est duplex. Unum, per quod impeditur futurum malum, ne adveniat. Et tali remedio sublato, aufertur spes, et per consequens timor. Unde de tali remedio nunc non loquimur. Aliud remedium mali est, quo malum iam praesens removetur. Et de tali remedio nunc loquimur.
+
+@@ I-II q. 42 a. 6 ad 2
+Ad secundum dicendum quod, licet mors sit irremediabile malum, tamen, quia non imminet de prope, non timetur, ut supra dictum est.
+
+@@ I-II q. 42 a. 6 ad 3
+Ad tertium dicendum quod philosophus ibi loquitur de per se bono, quod est bonum secundum speciem suam. Sic autem non fit aliquid magis bonum propter diuturnitatem vel perpetuitatem, sed propter naturam ipsius boni.

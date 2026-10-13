@@ -1,0 +1,36 @@
+[package]
+name = "la.aquinas.summa.i_ii_passionibus"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-ii-passionibus"
+
+[metadata]
+act = "la-summa-i-ii-passionibus"
+title = "Фома Аквинский, Summa theologiae I-II, вопросы 22–48: страсти"
+primarySource = "SUMMA_THEOLOGIAE_I_II_22_48"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_ii_passionibus#authored"
+regression = false
+suites = [
+    "tests/01-passioninsensitive-affirmat.lawtest",
+    "tests/01b-passioninsensitive-negata.lawtest",
+    "tests/02-passionscontraries-affirmat.lawtest",
+    "tests/02b-passionscontraries-negata.lawtest",
+    "tests/03-moralgoodorevilinpassions-affirmat.lawtest",
+    "tests/03b-moralgoodorevilinpassions-negata.lawtest",
+    "tests/04-loveinconcupiscible-affirmat.lawtest",
+    "tests/04b-loveinconcupiscible-negata.lawtest",
+    "tests/05-delightispassion-affirmat.lawtest",
+    "tests/05b-delightispassion-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_ii_passionibus"]
+
+[authoring]
+local_imports = "explicit"

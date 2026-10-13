@@ -1,0 +1,47 @@
+# Манифест §10 — маркер корня пакета (DECISION-0033). Нормативны заголовки §22
+# в самих .law; манифест обязан с ними совпадать (LDC-E1109, lawc check).
+#
+# Срез прикладной казуистики «Суммы теологии»: II-II q. 64 a. 7 (принцип
+# двойного эффекта и самооборона) и II-II q. 40 a. 1 (три условия справедливой
+# войны). Доказательства возражений остаются в закреплённых байтах; пакет
+# применяет respondeo к предъявленному действию.
+
+[package]
+name = "la.aquinas.duplex_effectus"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:duplex-effectus"
+
+[metadata]
+act = "la-aquinas-duplex-effectus"
+title = "Фома Аквинский, Summa theologiae II-II: принцип двойного эффекта (q. 64 a. 7) и справедливая война (q. 40 a. 1)"
+primarySource = "SUMMA_THEOLOGIAE_II_II_Q40_Q64"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.duplex_effectus#authored"
+regression = false
+suites = [
+    "tests/01-defensio-licita.lawtest",
+    "tests/02-defensio-immoderata.lawtest",
+    "tests/03-intentio-homicidii.lawtest",
+    "tests/04-miles-auctoritas-publica.lawtest",
+    "tests/05-moderamen-awaits-judgment.lawtest",
+    "tests/06-bellum-iustum.lawtest",
+    "tests/07-bellum-sine-intentione-recta.lawtest",
+    "tests/08-defensio-propria-positions.lawtest",
+    "tests/09-bellum-positions.lawtest",
+    "tests/10-privata-libido.lawtest",
+    "tests/11-occisio-prohibition.lawtest",
+    "tests/12-defensio-illicita-prohibition.lawtest",
+    "tests/13-bellum-illicitum-prohibition.lawtest",
+]
+world = ["la.aquinas.duplex_effectus"]
+
+[authoring]
+local_imports = "explicit"

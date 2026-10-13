@@ -1,0 +1,95 @@
+{
+  "$comment": "Completeness is measured by the 38 author-numbered articuli; every objection, sed contra, respondeo and numbered reply is pinned and represented in the §274 graph.",
+  "editions": [
+    {
+      "document": "q90-92.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "90-1": "@@ I-II q. 90 a. 1 arg. 1",
+        "90-2": "@@ I-II q. 90 a. 2 arg. 1",
+        "90-3": "@@ I-II q. 90 a. 3 arg. 1",
+        "90-4": "@@ I-II q. 90 a. 4 arg. 1",
+        "91-1": "@@ I-II q. 91 a. 1 arg. 1",
+        "91-2": "@@ I-II q. 91 a. 2 arg. 1",
+        "91-3": "@@ I-II q. 91 a. 3 arg. 1",
+        "91-4": "@@ I-II q. 91 a. 4 arg. 1",
+        "91-5": "@@ I-II q. 91 a. 5 arg. 1",
+        "91-6": "@@ I-II q. 91 a. 6 arg. 1",
+        "92-1": "@@ I-II q. 92 a. 1 arg. 1",
+        "92-2": "@@ I-II q. 92 a. 2 arg. 1"
+      },
+      "boundaries": [
+        "@@ I-II q. 90 pr.",
+        "@@ I-II q. 91 pr.",
+        "@@ I-II q. 92 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; the 38 articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q93.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "93-1": "@@ I-II q. 93 a. 1 arg. 1",
+        "93-2": "@@ I-II q. 93 a. 2 arg. 1",
+        "93-3": "@@ I-II q. 93 a. 3 arg. 1",
+        "93-4": "@@ I-II q. 93 a. 4 arg. 1",
+        "93-5": "@@ I-II q. 93 a. 5 arg. 1",
+        "93-6": "@@ I-II q. 93 a. 6 arg. 1"
+      },
+      "boundaries": [
+        "@@ I-II q. 93 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; the 38 articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q94.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "94-1": "@@ I-II q. 94 a. 1 arg. 1",
+        "94-2": "@@ I-II q. 94 a. 2 arg. 1",
+        "94-3": "@@ I-II q. 94 a. 3 arg. 1",
+        "94-4": "@@ I-II q. 94 a. 4 arg. 1",
+        "94-5": "@@ I-II q. 94 a. 5 arg. 1",
+        "94-6": "@@ I-II q. 94 a. 6 arg. 1"
+      },
+      "boundaries": [
+        "@@ I-II q. 94 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; the 38 articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q95-97.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "95-1": "@@ I-II q. 95 a. 1 arg. 1",
+        "95-2": "@@ I-II q. 95 a. 2 arg. 1",
+        "95-3": "@@ I-II q. 95 a. 3 arg. 1",
+        "95-4": "@@ I-II q. 95 a. 4 arg. 1",
+        "96-1": "@@ I-II q. 96 a. 1 arg. 1",
+        "96-2": "@@ I-II q. 96 a. 2 arg. 1",
+        "96-3": "@@ I-II q. 96 a. 3 arg. 1",
+        "96-4": "@@ I-II q. 96 a. 4 arg. 1",
+        "96-5": "@@ I-II q. 96 a. 5 arg. 1",
+        "96-6": "@@ I-II q. 96 a. 6 arg. 1",
+        "97-1": "@@ I-II q. 97 a. 1 arg. 1",
+        "97-2": "@@ I-II q. 97 a. 2 arg. 1",
+        "97-3": "@@ I-II q. 97 a. 3 arg. 1",
+        "97-4": "@@ I-II q. 97 a. 4 arg. 1"
+      },
+      "boundaries": [
+        "@@ I-II q. 95 pr.",
+        "@@ I-II q. 96 pr.",
+        "@@ I-II q. 97 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; the 38 articuli are the measured units.",
+      "declared": {}
+    }
+  ]
+}

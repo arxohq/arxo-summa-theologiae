@@ -1,0 +1,32 @@
+[package]
+name = "la.aquinas.summa.i_de_trinitate"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-de-trinitate"
+
+[metadata]
+act = "la-summa-i-de-trinitate"
+title = "Фома Аквинский, Summa theologiae I, вопросы 27–43: Троица"
+primarySource = "SUMMA_THEOLOGIAE_I_27_43"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_de_trinitate#authored"
+regression = false
+suites = [
+    "tests/01-processioningod-affirmat.lawtest",
+    "tests/01b-processioningod-negata.lawtest",
+    "tests/02-trinityknowablebyfaith-affirmat.lawtest",
+    "tests/02b-trinityknowablebyfaith-negata.lawtest",
+    "tests/03-personsandessence-affirmat.lawtest",
+    "tests/03b-personsandessence-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_de_trinitate"]
+
+[authoring]
+local_imports = "explicit"

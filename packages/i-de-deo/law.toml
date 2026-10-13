@@ -1,0 +1,34 @@
+[package]
+name = "la.aquinas.summa.i_de_deo"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-de-deo"
+
+[metadata]
+act = "la-summa-i-de-deo"
+title = "Фома Аквинский, Summa theologiae I, вопросы 2–26: единый Бог"
+primarySource = "SUMMA_THEOLOGIAE_I_2_26"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_de_deo#authored"
+regression = false
+suites = [
+    "tests/01-godexists-affirmat.lawtest",
+    "tests/01b-godexists-negata.lawtest",
+    "tests/02-godnotbody-affirmat.lawtest",
+    "tests/02b-godnotbody-negata.lawtest",
+    "tests/03-godisperfect-affirmat.lawtest",
+    "tests/03b-godisperfect-negata.lawtest",
+    "tests/04-godisone-affirmat.lawtest",
+    "tests/04b-godisone-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_de_deo"]
+
+[authoring]
+local_imports = "explicit"

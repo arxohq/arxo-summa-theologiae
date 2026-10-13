@@ -1,0 +1,71 @@
+// Прикладной канон respondeo III qq. 27-59.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.iii_vita_christi version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-iii-vita-christi";
+
+use self::{
+    ST_III_Q27_A1_RESP,
+    ST_III_Q31_A1_RESP,
+    ST_III_Q46_A1_RESP,
+    ST_III_Q53_A1_RESP,
+    Subject,
+    christ_presented,
+    mary_presented,
+    passion_considered,
+    presented,
+    resurrection_considered,
+};
+
+pub relation mary_sanctified(s: Subject) kind institutional {
+    label la official "beata virgo fuit sanctificata";
+    label ru unofficial "блаженная Дева была освящена";
+}
+
+@source(ST_III_Q27_A1_RESP)
+rule SanctificationOfMary(s: Subject) strict {
+    label la official "beata virgo fuit sanctificata";
+    label ru unofficial "блаженная Дева была освящена";
+    when presented(s) and mary_presented(s);
+    then mary_sanctified(s);
+}
+
+pub relation christ_took_flesh(s: Subject) kind institutional {
+    label la official "Christus carnem assumpsit";
+    label ru unofficial "Христос принял плоть";
+}
+
+@source(ST_III_Q31_A1_RESP)
+rule ChristTookFlesh(s: Subject) strict {
+    label la official "Christus carnem assumpsit";
+    label ru unofficial "Христос принял плоть";
+    when presented(s) and christ_presented(s);
+    then christ_took_flesh(s);
+}
+
+pub relation passion_fitting(s: Subject) kind institutional {
+    label la official "Christus pati debuit";
+    label ru unofficial "Христу надлежало пострадать";
+}
+
+@source(ST_III_Q46_A1_RESP)
+rule PassionNecessary(s: Subject) strict {
+    label la official "Christus pati debuit";
+    label ru unofficial "Христу надлежало пострадать";
+    when presented(s) and passion_considered(s);
+    then passion_fitting(s);
+}
+
+pub relation resurrection_fitting(s: Subject) kind institutional {
+    label la official "necesse fuit Christum resurgere";
+    label ru unofficial "Христу необходимо было воскреснуть";
+}
+
+@source(ST_III_Q53_A1_RESP)
+rule ResurrectionNecessary(s: Subject) strict {
+    label la official "necesse fuit Christum resurgere";
+    label ru unofficial "Христу необходимо было воскреснуть";
+    when presented(s) and resurrection_considered(s);
+    then resurrection_fitting(s);
+}
+

@@ -1,0 +1,69 @@
+// Прикладной канон respondeo I qq. 2-26.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_deo version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-deo";
+
+use self::{
+    ST_I_Q11_A3_RESP,
+    ST_I_Q2_A3_RESP,
+    ST_I_Q3_A1_RESP,
+    ST_I_Q4_A1_RESP,
+    Subject,
+    god_considered,
+    presented,
+    question_of_existence,
+};
+
+pub relation god_exists(s: Subject) kind institutional {
+    label la official "Deum esse";
+    label ru unofficial "Бог есть";
+}
+
+@source(ST_I_Q2_A3_RESP)
+rule GodExists(s: Subject) strict {
+    label la official "Deum esse";
+    label ru unofficial "Бог есть";
+    when presented(s) and question_of_existence(s);
+    then god_exists(s);
+}
+
+pub relation god_not_body(s: Subject) kind institutional {
+    label la official "Deus non est corpus";
+    label ru unofficial "Бог не есть тело";
+}
+
+@source(ST_I_Q3_A1_RESP)
+rule GodNotBody(s: Subject) strict {
+    label la official "Deus non est corpus";
+    label ru unofficial "Бог не есть тело";
+    when presented(s) and god_considered(s);
+    then god_not_body(s);
+}
+
+pub relation god_is_perfect(s: Subject) kind institutional {
+    label la official "Deus est perfectus";
+    label ru unofficial "Бог совершенен";
+}
+
+@source(ST_I_Q4_A1_RESP)
+rule GodIsPerfect(s: Subject) strict {
+    label la official "Deus est perfectus";
+    label ru unofficial "Бог совершенен";
+    when presented(s) and god_considered(s);
+    then god_is_perfect(s);
+}
+
+pub relation god_is_one(s: Subject) kind institutional {
+    label la official "Deus est unus";
+    label ru unofficial "Бог един";
+}
+
+@source(ST_I_Q11_A3_RESP)
+rule GodIsOne(s: Subject) strict {
+    label la official "Deus est unus";
+    label ru unofficial "Бог един";
+    when presented(s) and god_considered(s);
+    then god_is_one(s);
+}
+

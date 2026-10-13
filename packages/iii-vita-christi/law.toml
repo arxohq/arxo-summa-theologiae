@@ -1,0 +1,34 @@
+[package]
+name = "la.aquinas.summa.iii_vita_christi"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-iii-vita-christi"
+
+[metadata]
+act = "la-summa-iii-vita-christi"
+title = "Фома Аквинский, Summa theologiae III, вопросы 27–59: жизнь Христа"
+primarySource = "SUMMA_THEOLOGIAE_III_27_59"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.iii_vita_christi#authored"
+regression = false
+suites = [
+    "tests/01-sanctificationofmary-affirmat.lawtest",
+    "tests/01b-sanctificationofmary-negata.lawtest",
+    "tests/02-christtookflesh-affirmat.lawtest",
+    "tests/02b-christtookflesh-negata.lawtest",
+    "tests/03-passionnecessary-affirmat.lawtest",
+    "tests/03b-passionnecessary-negata.lawtest",
+    "tests/04-resurrectionnecessary-affirmat.lawtest",
+    "tests/04b-resurrectionnecessary-negata.lawtest"
+]
+world = ["la.aquinas.summa.iii_vita_christi"]
+
+[authoring]
+local_imports = "explicit"

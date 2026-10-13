@@ -1,0 +1,46 @@
+language "law.core" version "0.2";
+package la.aquinas.duplex_effectus version "0.1.0";
+namespace "urn:la:aquinas:clir:duplex-effectus";
+
+test "urn:query:duplex-11-occisio-prohibition-violated" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "a0": presented_actus(entity_ref("urn:case:duplex:actus:vindicta")) { origin case_input; }
+        assert "a1": defensor(entity_ref("urn:case:duplex:actus:vindicta"), entity_ref("urn:case:duplex:persona:privatus")) { origin case_input; }
+        assert "a2": vis_illata(entity_ref("urn:case:duplex:actus:vindicta")) { origin case_input; }
+        assert "a3": intentio_occisionis(entity_ref("urn:case:duplex:actus:vindicta")) { origin case_input; }
+        assert "a4": vis_moderata(entity_ref("urn:case:duplex:actus:vindicta")) { origin adjudicated; }
+        assert "a5": not publicus_minister(entity_ref("urn:case:duplex:persona:privatus")) { origin case_input; }
+        assert "a6": intendit_occisionem(entity_ref("urn:case:duplex:persona:privatus"), entity_ref("urn:case:duplex:actus:vindicta")) { origin case_input; }
+    }
+    evaluate positions();
+    expect position(OccisioIntentaInDefensione, VIOLATED);
+    expect not position(DefensioPropria, ACTIVE);
+}
+
+test "urn:query:duplex-11b-miles-sine-occisio-prohibition" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "a0": presented_actus(entity_ref("urn:case:duplex:actus:miles")) { origin case_input; }
+        assert "a1": defensor(entity_ref("urn:case:duplex:actus:miles"), entity_ref("urn:case:duplex:persona:miles")) { origin case_input; }
+        assert "a2": vis_illata(entity_ref("urn:case:duplex:actus:miles")) { origin case_input; }
+        assert "a3": vis_moderata(entity_ref("urn:case:duplex:actus:miles")) { origin adjudicated; }
+        assert "a4": publicus_minister(entity_ref("urn:case:duplex:persona:miles")) { origin case_input; }
+        assert "a5": intentio_occisionis(entity_ref("urn:case:duplex:actus:miles")) { origin case_input; }
+        assert "a6": refert_ad_bonum_commune(entity_ref("urn:case:duplex:actus:miles")) { origin case_input; }
+        assert "a7": not privata_libido(entity_ref("urn:case:duplex:actus:miles")) { origin case_input; }
+    }
+    evaluate positions();
+    expect position(DefensioPropria, ACTIVE);
+    expect not position(OccisioIntentaInDefensione, ACTIVE);
+}

@@ -1,0 +1,32 @@
+[package]
+name = "la.aquinas.summa.ii_ii_prudentia"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-ii-ii-prudentia"
+
+[metadata]
+act = "la-summa-ii-ii-prudentia"
+title = "Фома Аквинский, Summa theologiae II-II, вопросы 47–56: благоразумие"
+primarySource = "SUMMA_THEOLOGIAE_II_II_47_56"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.ii_ii_prudentia#authored"
+regression = false
+suites = [
+    "tests/01-prudenceisvirtue-affirmat.lawtest",
+    "tests/01b-prudenceisvirtue-negata.lawtest",
+    "tests/02-integralparts-affirmat.lawtest",
+    "tests/02b-integralparts-negata.lawtest",
+    "tests/03-imprudencevice-affirmat.lawtest",
+    "tests/03b-imprudencevice-negata.lawtest"
+]
+world = ["la.aquinas.summa.ii_ii_prudentia"]
+
+[authoring]
+local_imports = "explicit"

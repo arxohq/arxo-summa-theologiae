@@ -1,0 +1,84 @@
+// Прикладной канон respondeo I-II qq. 49-70.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_habitibus version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-habitibus";
+
+use self::{
+    ST_I_II_Q49_A1_RESP,
+    ST_I_II_Q54_A1_RESP,
+    ST_I_II_Q55_A1_RESP,
+    ST_I_II_Q62_A1_RESP,
+    ST_I_II_Q63_A1_RESP,
+    Subject,
+    habit_presented,
+    infused_presented,
+    presented,
+    virtue_presented,
+};
+
+pub relation habit_is_quality(s: Subject) kind institutional {
+    label la official "habitus est qualitas";
+    label ru unofficial "навык есть качество";
+}
+
+@source(ST_I_II_Q49_A1_RESP)
+rule HabitIsQuality(s: Subject) strict {
+    label la official "habitus est qualitas";
+    label ru unofficial "навык есть качество";
+    when presented(s) and habit_presented(s);
+    then habit_is_quality(s);
+}
+
+pub relation habits_by_objects(s: Subject) kind institutional {
+    label la official "habitus distinguuntur per obiecta";
+    label ru unofficial "навыки различаются по объектам";
+}
+
+@source(ST_I_II_Q54_A1_RESP)
+rule HabitsDistinguishedByObjects(s: Subject) strict {
+    label la official "habitus distinguuntur per obiecta";
+    label ru unofficial "навыки различаются по объектам";
+    when presented(s) and habit_presented(s);
+    then habits_by_objects(s);
+}
+
+pub relation virtue_is_habit(s: Subject) kind institutional {
+    label la official "virtus est habitus";
+    label ru unofficial "добродетель есть навык";
+}
+
+@source(ST_I_II_Q55_A1_RESP)
+rule VirtueIsHabit(s: Subject) strict {
+    label la official "virtus est habitus";
+    label ru unofficial "добродетель есть навык";
+    when presented(s) and virtue_presented(s);
+    then virtue_is_habit(s);
+}
+
+pub relation theological_virtues(s: Subject) kind institutional {
+    label la official "virtutes theologicae a Deo infunduntur";
+    label ru unofficial "богословские добродетели изливаются Богом";
+}
+
+@source(ST_I_II_Q62_A1_RESP)
+rule TheologicalVirtues(s: Subject) strict {
+    label la official "virtutes theologicae a Deo infunduntur";
+    label ru unofficial "богословские добродетели изливаются Богом";
+    when presented(s) and infused_presented(s);
+    then theological_virtues(s);
+}
+
+pub relation virtue_caused(s: Subject) kind institutional {
+    label la official "virtus habet causam";
+    label ru unofficial "добродетель имеет причину";
+}
+
+@source(ST_I_II_Q63_A1_RESP)
+rule VirtueCause(s: Subject) strict {
+    label la official "virtus habet causam";
+    label ru unofficial "добродетель имеет причину";
+    when presented(s) and virtue_presented(s);
+    then virtue_caused(s);
+}
+

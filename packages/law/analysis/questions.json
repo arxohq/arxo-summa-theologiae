@@ -1,0 +1,3308 @@
+{
+  "$comment": "Каталог вопросов пакета (DECISION-0190, law.package-questions/0.1). Карточка — параметризованный шаблон запроса §172, а не ответ. Свидетельства — сценарии tests/, в том числе порождённые (tests/catalog): каждый выполняет посылки правила и спрашивает вывод.",
+  "format": "law.package-questions/0.1",
+  "package": "la.aquinas.summa_theologiae_law",
+  "tasks": [
+    {
+      "id": "st-q90-a1-ad1",
+      "title": "ST_Q90_A1_AD1",
+      "source_units": [
+        "ST_Q90_A1_AD1"
+      ]
+    },
+    {
+      "id": "st-q90-a1-arg1",
+      "title": "ST_Q90_A1_ARG1",
+      "source_units": [
+        "ST_Q90_A1_ARG1"
+      ]
+    },
+    {
+      "id": "st-q90-a2-arg1",
+      "title": "ST_Q90_A2_ARG1",
+      "source_units": [
+        "ST_Q90_A2_ARG1"
+      ]
+    },
+    {
+      "id": "st-q90-a3-arg1",
+      "title": "ST_Q90_A3_ARG1",
+      "source_units": [
+        "ST_Q90_A3_ARG1"
+      ]
+    },
+    {
+      "id": "st-q90-a4-arg1",
+      "title": "ST_Q90_A4_ARG1",
+      "source_units": [
+        "ST_Q90_A4_ARG1"
+      ]
+    },
+    {
+      "id": "st-q90-a4-resp",
+      "title": "ST_Q90_A4_RESP",
+      "source_units": [
+        "ST_Q90_A4_RESP"
+      ]
+    },
+    {
+      "id": "st-q91-a1-arg1",
+      "title": "ST_Q91_A1_ARG1",
+      "source_units": [
+        "ST_Q91_A1_ARG1"
+      ]
+    },
+    {
+      "id": "st-q91-a1-resp",
+      "title": "ST_Q91_A1_RESP",
+      "source_units": [
+        "ST_Q91_A1_RESP"
+      ]
+    },
+    {
+      "id": "st-q91-a2-arg1",
+      "title": "ST_Q91_A2_ARG1",
+      "source_units": [
+        "ST_Q91_A2_ARG1"
+      ]
+    },
+    {
+      "id": "st-q91-a2-resp",
+      "title": "ST_Q91_A2_RESP",
+      "source_units": [
+        "ST_Q91_A2_RESP"
+      ]
+    },
+    {
+      "id": "st-q91-a3-arg1",
+      "title": "ST_Q91_A3_ARG1",
+      "source_units": [
+        "ST_Q91_A3_ARG1"
+      ]
+    },
+    {
+      "id": "st-q91-a3-resp",
+      "title": "ST_Q91_A3_RESP",
+      "source_units": [
+        "ST_Q91_A3_RESP"
+      ]
+    },
+    {
+      "id": "st-q91-a4-arg1",
+      "title": "ST_Q91_A4_ARG1",
+      "source_units": [
+        "ST_Q91_A4_ARG1"
+      ]
+    },
+    {
+      "id": "st-q91-a4-resp",
+      "title": "ST_Q91_A4_RESP",
+      "source_units": [
+        "ST_Q91_A4_RESP"
+      ]
+    },
+    {
+      "id": "st-q91-a5-arg1",
+      "title": "ST_Q91_A5_ARG1",
+      "source_units": [
+        "ST_Q91_A5_ARG1"
+      ]
+    },
+    {
+      "id": "st-q91-a6-arg1",
+      "title": "ST_Q91_A6_ARG1",
+      "source_units": [
+        "ST_Q91_A6_ARG1"
+      ]
+    },
+    {
+      "id": "st-q92-a1-arg1",
+      "title": "ST_Q92_A1_ARG1",
+      "source_units": [
+        "ST_Q92_A1_ARG1"
+      ]
+    },
+    {
+      "id": "st-q92-a2-arg1",
+      "title": "ST_Q92_A2_ARG1",
+      "source_units": [
+        "ST_Q92_A2_ARG1"
+      ]
+    },
+    {
+      "id": "st-q92-a2-resp",
+      "title": "ST_Q92_A2_RESP",
+      "source_units": [
+        "ST_Q92_A2_RESP"
+      ]
+    },
+    {
+      "id": "st-q93-a1-arg1",
+      "title": "ST_Q93_A1_ARG1",
+      "source_units": [
+        "ST_Q93_A1_ARG1"
+      ]
+    },
+    {
+      "id": "st-q93-a2-arg1",
+      "title": "ST_Q93_A2_ARG1",
+      "source_units": [
+        "ST_Q93_A2_ARG1"
+      ]
+    },
+    {
+      "id": "st-q93-a3-arg1",
+      "title": "ST_Q93_A3_ARG1",
+      "source_units": [
+        "ST_Q93_A3_ARG1"
+      ]
+    },
+    {
+      "id": "st-q93-a4-ad4",
+      "title": "ST_Q93_A4_AD4",
+      "source_units": [
+        "ST_Q93_A4_AD4"
+      ]
+    },
+    {
+      "id": "st-q93-a5-arg1",
+      "title": "ST_Q93_A5_ARG1",
+      "source_units": [
+        "ST_Q93_A5_ARG1"
+      ]
+    },
+    {
+      "id": "st-q93-a6-arg1",
+      "title": "ST_Q93_A6_ARG1",
+      "source_units": [
+        "ST_Q93_A6_ARG1"
+      ]
+    },
+    {
+      "id": "st-q94-a1-ad4",
+      "title": "ST_Q94_A1_AD4",
+      "source_units": [
+        "ST_Q94_A1_AD4"
+      ]
+    },
+    {
+      "id": "st-q94-a2-arg1",
+      "title": "ST_Q94_A2_ARG1",
+      "source_units": [
+        "ST_Q94_A2_ARG1"
+      ]
+    },
+    {
+      "id": "st-q94-a3-arg1",
+      "title": "ST_Q94_A3_ARG1",
+      "source_units": [
+        "ST_Q94_A3_ARG1"
+      ]
+    },
+    {
+      "id": "st-q94-a4-arg1",
+      "title": "ST_Q94_A4_ARG1",
+      "source_units": [
+        "ST_Q94_A4_ARG1"
+      ]
+    },
+    {
+      "id": "st-q94-a5-arg1",
+      "title": "ST_Q94_A5_ARG1",
+      "source_units": [
+        "ST_Q94_A5_ARG1"
+      ]
+    },
+    {
+      "id": "st-q94-a6-arg1",
+      "title": "ST_Q94_A6_ARG1",
+      "source_units": [
+        "ST_Q94_A6_ARG1"
+      ]
+    },
+    {
+      "id": "st-q95-a1-arg1",
+      "title": "ST_Q95_A1_ARG1",
+      "source_units": [
+        "ST_Q95_A1_ARG1"
+      ]
+    },
+    {
+      "id": "st-q95-a2-arg1",
+      "title": "ST_Q95_A2_ARG1",
+      "source_units": [
+        "ST_Q95_A2_ARG1"
+      ]
+    },
+    {
+      "id": "st-q95-a3-arg1",
+      "title": "ST_Q95_A3_ARG1",
+      "source_units": [
+        "ST_Q95_A3_ARG1"
+      ]
+    },
+    {
+      "id": "st-q95-a4-arg1",
+      "title": "ST_Q95_A4_ARG1",
+      "source_units": [
+        "ST_Q95_A4_ARG1"
+      ]
+    },
+    {
+      "id": "st-q96-a1-arg1",
+      "title": "ST_Q96_A1_ARG1",
+      "source_units": [
+        "ST_Q96_A1_ARG1"
+      ]
+    },
+    {
+      "id": "st-q96-a2-arg1",
+      "title": "ST_Q96_A2_ARG1",
+      "source_units": [
+        "ST_Q96_A2_ARG1"
+      ]
+    },
+    {
+      "id": "st-q96-a2-resp",
+      "title": "ST_Q96_A2_RESP",
+      "source_units": [
+        "ST_Q96_A2_RESP"
+      ]
+    },
+    {
+      "id": "st-q96-a3-arg1",
+      "title": "ST_Q96_A3_ARG1",
+      "source_units": [
+        "ST_Q96_A3_ARG1"
+      ]
+    },
+    {
+      "id": "st-q96-a4-arg1",
+      "title": "ST_Q96_A4_ARG1",
+      "source_units": [
+        "ST_Q96_A4_ARG1"
+      ]
+    },
+    {
+      "id": "st-q96-a4-resp",
+      "title": "ST_Q96_A4_RESP",
+      "source_units": [
+        "ST_Q96_A4_RESP"
+      ]
+    },
+    {
+      "id": "st-q96-a5-arg1",
+      "title": "ST_Q96_A5_ARG1",
+      "source_units": [
+        "ST_Q96_A5_ARG1"
+      ]
+    },
+    {
+      "id": "st-q96-a6-arg1",
+      "title": "ST_Q96_A6_ARG1",
+      "source_units": [
+        "ST_Q96_A6_ARG1"
+      ]
+    },
+    {
+      "id": "st-q97-a1-arg1",
+      "title": "ST_Q97_A1_ARG1",
+      "source_units": [
+        "ST_Q97_A1_ARG1"
+      ]
+    },
+    {
+      "id": "st-q97-a1-resp",
+      "title": "ST_Q97_A1_RESP",
+      "source_units": [
+        "ST_Q97_A1_RESP"
+      ]
+    },
+    {
+      "id": "st-q97-a2-arg1",
+      "title": "ST_Q97_A2_ARG1",
+      "source_units": [
+        "ST_Q97_A2_ARG1"
+      ]
+    },
+    {
+      "id": "st-q97-a3-arg1",
+      "title": "ST_Q97_A3_ARG1",
+      "source_units": [
+        "ST_Q97_A3_ARG1"
+      ]
+    },
+    {
+      "id": "st-q97-a3-resp",
+      "title": "ST_Q97_A3_RESP",
+      "source_units": [
+        "ST_Q97_A3_RESP"
+      ]
+    },
+    {
+      "id": "st-q97-a4-arg1",
+      "title": "ST_Q97_A4_ARG1",
+      "source_units": [
+        "ST_Q97_A4_ARG1"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "binds-in-conscience",
+      "task": "st-q96-a4-resp",
+      "question": "Установлено ли по делу: закон обязывает в совести?",
+      "kind": "truth",
+      "predicate": "binds_in_conscience",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(binds_in_conscience(<l>));",
+      "tests": [
+        "CATALOG-HUMANLAWCLAIMSCONSCIENCEBINDING"
+      ],
+      "source_units": [
+        "ST_Q96_A4_RESP"
+      ]
+    },
+    {
+      "id": "compliance-tolerated-to-avoid-scandal",
+      "task": "st-q96-a4-resp",
+      "question": "Установлено ли по делу: исполнение терпимо ради предотвращения соблазна или возмущения?",
+      "kind": "truth",
+      "predicate": "compliance_tolerated_to_avoid_scandal",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(compliance_tolerated_to_avoid_scandal(<l>));",
+      "tests": [
+        "CATALOG-AVOIDSCANDALWITHOUTMORALVALIDATION"
+      ],
+      "source_units": [
+        "ST_Q96_A4_RESP"
+      ]
+    },
+    {
+      "id": "custom-abrogates-law",
+      "task": "st-q97-a3-resp",
+      "question": "Установлено ли по делу: обычай отменяет закон?",
+      "kind": "truth",
+      "predicate": "custom_abrogates_law",
+      "parameters": [
+        {
+          "name": "c",
+          "type": "Custom",
+          "role": "bound"
+        },
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(custom_abrogates_law(<c>, <l>));",
+      "tests": [
+        "CATALOG-CUSTOMABROGATESCONTRARYLAW"
+      ],
+      "source_units": [
+        "ST_Q97_A3_RESP"
+      ]
+    },
+    {
+      "id": "custom-interprets-law",
+      "task": "st-q97-a3-resp",
+      "question": "Установлено ли по делу: обычай толкует закон?",
+      "kind": "truth",
+      "predicate": "custom_interprets_law",
+      "parameters": [
+        {
+          "name": "c",
+          "type": "Custom",
+          "role": "bound"
+        },
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(custom_interprets_law(<c>, <l>));",
+      "tests": [
+        "CATALOG-CUSTOMINTERPRETSLAW"
+      ],
+      "source_units": [
+        "ST_Q97_A3_RESP"
+      ]
+    },
+    {
+      "id": "divine-law",
+      "task": "st-q91-a4-resp",
+      "question": "Установлено ли по делу: божественный закон?",
+      "kind": "truth",
+      "predicate": "divine_law",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(divine_law(<l>));",
+      "tests": [
+        "CATALOG-DIVINE_LAW/RULE"
+      ],
+      "source_units": [
+        "ST_Q91_A4_RESP"
+      ]
+    },
+    {
+      "id": "eternal-law",
+      "task": "st-q91-a1-resp",
+      "question": "Установлено ли по делу: вечный закон?",
+      "kind": "truth",
+      "predicate": "eternal_law",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(eternal_law(<l>));",
+      "tests": [
+        "CATALOG-ETERNAL_LAW/RULE"
+      ],
+      "source_units": [
+        "ST_Q91_A1_RESP"
+      ]
+    },
+    {
+      "id": "has-law-effect",
+      "task": "st-q92-a2-resp",
+      "question": "Установлено ли по делу: закон имеет указанное действие?",
+      "kind": "truth",
+      "predicate": "has_law_effect",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        },
+        {
+          "name": "effect",
+          "type": "LawEffect",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(has_law_effect(<l>, <effect>));",
+      "tests": [
+        "CATALOG-LAWCOMMANDS"
+      ],
+      "source_units": [
+        "ST_Q92_A2_RESP"
+      ]
+    },
+    {
+      "id": "human-law",
+      "task": "st-q91-a3-resp",
+      "question": "Установлено ли по делу: человеческий закон?",
+      "kind": "truth",
+      "predicate": "human_law",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(human_law(<l>));",
+      "tests": [
+        "CATALOG-HUMAN_LAW/RULE"
+      ],
+      "source_units": [
+        "ST_Q91_A3_RESP"
+      ]
+    },
+    {
+      "id": "is-law",
+      "task": "st-q90-a4-resp",
+      "question": "Установлено ли по делу: закон есть распоряжение разума для общего блага, изданное попечителем сообщества и обнародованное?",
+      "kind": "truth",
+      "predicate": "is_law",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(is_law(<l>));",
+      "tests": [
+        "CATALOG-IS_LAW/SUFFICIENT"
+      ],
+      "source_units": [
+        "ST_Q90_A4_RESP"
+      ]
+    },
+    {
+      "id": "may-be-changed",
+      "task": "st-q97-a1-resp",
+      "question": "Установлено ли по делу: человеческий закон может быть изменён?",
+      "kind": "truth",
+      "predicate": "may_be_changed",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(may_be_changed(<l>));",
+      "tests": [
+        "CATALOG-CHANGEDCONDITIONSSUPPORTCHANGE"
+      ],
+      "source_units": [
+        "ST_Q97_A1_RESP"
+      ]
+    },
+    {
+      "id": "may-remain-unprohibited",
+      "task": "st-q96-a2-resp",
+      "question": "Установлено ли по делу: человеческий закон вправе оставить порок незапрещённым?",
+      "kind": "truth",
+      "predicate": "may_remain_unprohibited",
+      "parameters": [
+        {
+          "name": "v",
+          "type": "Vice",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(may_remain_unprohibited(<v>));",
+      "tests": [
+        "CATALOG-LESSERVICEMAYREMAINUNPROHIBITED"
+      ],
+      "source_units": [
+        "ST_Q96_A2_RESP"
+      ]
+    },
+    {
+      "id": "must-not-be-obeyed",
+      "task": "st-q96-a4-resp",
+      "question": "Установлено ли по делу: закон не должен исполняться?",
+      "kind": "truth",
+      "predicate": "must_not_be_obeyed",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(must_not_be_obeyed(<l>));",
+      "tests": [
+        "CATALOG-DIVINEGOODCONTRARYLAWMUSTNOTBEOBEYED"
+      ],
+      "source_units": [
+        "ST_Q96_A4_RESP"
+      ]
+    },
+    {
+      "id": "natural-law",
+      "task": "st-q91-a2-resp",
+      "question": "Установлено ли по делу: естественный закон?",
+      "kind": "truth",
+      "predicate": "natural_law",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(natural_law(<l>));",
+      "tests": [
+        "CATALOG-NATURAL_LAW/RULE"
+      ],
+      "source_units": [
+        "ST_Q91_A2_RESP"
+      ]
+    },
+    {
+      "id": "q90-a1-thesis",
+      "task": "st-q90-a1-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XC, артикула I: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q90_a1_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q90_a1_thesis());",
+      "tests": [
+        "CATALOG-Q90A1OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q90_A1_ARG1"
+      ]
+    },
+    {
+      "id": "q90-a2-thesis",
+      "task": "st-q90-a2-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XC, артикула II: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q90_a2_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q90_a2_thesis());",
+      "tests": [
+        "CATALOG-Q90A2OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q90_A2_ARG1"
+      ]
+    },
+    {
+      "id": "q90-a3-thesis",
+      "task": "st-q90-a3-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XC, артикула III: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q90_a3_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q90_a3_thesis());",
+      "tests": [
+        "CATALOG-Q90A3OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q90_A3_ARG1"
+      ]
+    },
+    {
+      "id": "q90-a4-thesis",
+      "task": "st-q90-a4-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XC, артикула IV: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q90_a4_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q90_a4_thesis());",
+      "tests": [
+        "CATALOG-Q90A4OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q90_A4_ARG1"
+      ]
+    },
+    {
+      "id": "q91-a1-thesis",
+      "task": "st-q91-a1-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCI, артикула I: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q91_a1_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q91_a1_thesis());",
+      "tests": [
+        "CATALOG-Q91A1OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q91_A1_ARG1"
+      ]
+    },
+    {
+      "id": "q91-a2-thesis",
+      "task": "st-q91-a2-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCI, артикула II: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q91_a2_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q91_a2_thesis());",
+      "tests": [
+        "CATALOG-Q91A2OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q91_A2_ARG1"
+      ]
+    },
+    {
+      "id": "q91-a3-thesis",
+      "task": "st-q91-a3-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCI, артикула III: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q91_a3_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q91_a3_thesis());",
+      "tests": [
+        "CATALOG-Q91A3OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q91_A3_ARG1"
+      ]
+    },
+    {
+      "id": "q91-a4-thesis",
+      "task": "st-q91-a4-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCI, артикула IV: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q91_a4_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q91_a4_thesis());",
+      "tests": [
+        "CATALOG-Q91A4OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q91_A4_ARG1"
+      ]
+    },
+    {
+      "id": "q91-a5-thesis",
+      "task": "st-q91-a5-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCI, артикула V: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q91_a5_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q91_a5_thesis());",
+      "tests": [
+        "CATALOG-Q91A5OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q91_A5_ARG1"
+      ]
+    },
+    {
+      "id": "q91-a6-thesis",
+      "task": "st-q91-a6-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCI, артикула VI: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q91_a6_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q91_a6_thesis());",
+      "tests": [
+        "CATALOG-Q91A6OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q91_A6_ARG1"
+      ]
+    },
+    {
+      "id": "q92-a1-thesis",
+      "task": "st-q92-a1-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCII, артикула I: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q92_a1_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q92_a1_thesis());",
+      "tests": [
+        "CATALOG-Q92A1OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q92_A1_ARG1"
+      ]
+    },
+    {
+      "id": "q92-a2-thesis",
+      "task": "st-q92-a2-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCII, артикула II: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q92_a2_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q92_a2_thesis());",
+      "tests": [
+        "CATALOG-Q92A2OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q92_A2_ARG1"
+      ]
+    },
+    {
+      "id": "q93-a1-thesis",
+      "task": "st-q93-a1-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIII, артикула I: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q93_a1_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q93_a1_thesis());",
+      "tests": [
+        "CATALOG-Q93A1OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q93_A1_ARG1"
+      ]
+    },
+    {
+      "id": "q93-a2-thesis",
+      "task": "st-q93-a2-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIII, артикула II: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q93_a2_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q93_a2_thesis());",
+      "tests": [
+        "CATALOG-Q93A2OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q93_A2_ARG1"
+      ]
+    },
+    {
+      "id": "q93-a3-thesis",
+      "task": "st-q93-a3-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIII, артикула III: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q93_a3_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q93_a3_thesis());",
+      "tests": [
+        "CATALOG-Q93A3OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q93_A3_ARG1"
+      ]
+    },
+    {
+      "id": "q93-a4-thesis",
+      "task": "st-q93-a4-ad4",
+      "question": "Установлено ли по делу: тезис вопроса XCIII, артикула IV: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q93_a4_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q93_a4_thesis());",
+      "tests": [
+        "CATALOG-Q93A4AD4SUPPLEMENT"
+      ],
+      "source_units": [
+        "ST_Q93_A4_AD4"
+      ]
+    },
+    {
+      "id": "q93-a5-thesis",
+      "task": "st-q93-a5-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIII, артикула V: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q93_a5_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q93_a5_thesis());",
+      "tests": [
+        "CATALOG-Q93A5OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q93_A5_ARG1"
+      ]
+    },
+    {
+      "id": "q93-a6-thesis",
+      "task": "st-q93-a6-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIII, артикула VI: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q93_a6_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q93_a6_thesis());",
+      "tests": [
+        "CATALOG-Q93A6OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q93_A6_ARG1"
+      ]
+    },
+    {
+      "id": "q94-a1-thesis",
+      "task": "st-q94-a1-ad4",
+      "question": "Установлено ли по делу: тезис вопроса XCIV, артикула I: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q94_a1_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q94_a1_thesis());",
+      "tests": [
+        "CATALOG-Q94A1AD4SUPPLEMENT"
+      ],
+      "source_units": [
+        "ST_Q94_A1_AD4"
+      ]
+    },
+    {
+      "id": "q94-a2-thesis",
+      "task": "st-q94-a2-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIV, артикула II: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q94_a2_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q94_a2_thesis());",
+      "tests": [
+        "CATALOG-Q94A2OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q94_A2_ARG1"
+      ]
+    },
+    {
+      "id": "q94-a3-thesis",
+      "task": "st-q94-a3-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIV, артикула III: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q94_a3_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q94_a3_thesis());",
+      "tests": [
+        "CATALOG-Q94A3OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q94_A3_ARG1"
+      ]
+    },
+    {
+      "id": "q94-a4-thesis",
+      "task": "st-q94-a4-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIV, артикула IV: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q94_a4_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q94_a4_thesis());",
+      "tests": [
+        "CATALOG-Q94A4OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q94_A4_ARG1"
+      ]
+    },
+    {
+      "id": "q94-a5-thesis",
+      "task": "st-q94-a5-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIV, артикула V: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q94_a5_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q94_a5_thesis());",
+      "tests": [
+        "CATALOG-Q94A5OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q94_A5_ARG1"
+      ]
+    },
+    {
+      "id": "q94-a6-thesis",
+      "task": "st-q94-a6-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCIV, артикула VI: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q94_a6_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q94_a6_thesis());",
+      "tests": [
+        "CATALOG-Q94A6OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q94_A6_ARG1"
+      ]
+    },
+    {
+      "id": "q95-a1-thesis",
+      "task": "st-q95-a1-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCV, артикула I: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q95_a1_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q95_a1_thesis());",
+      "tests": [
+        "CATALOG-Q95A1OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q95_A1_ARG1"
+      ]
+    },
+    {
+      "id": "q95-a2-thesis",
+      "task": "st-q95-a2-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCV, артикула II: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q95_a2_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q95_a2_thesis());",
+      "tests": [
+        "CATALOG-Q95A2OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q95_A2_ARG1"
+      ]
+    },
+    {
+      "id": "q95-a3-thesis",
+      "task": "st-q95-a3-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCV, артикула III: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q95_a3_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q95_a3_thesis());",
+      "tests": [
+        "CATALOG-Q95A3OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q95_A3_ARG1"
+      ]
+    },
+    {
+      "id": "q95-a4-thesis",
+      "task": "st-q95-a4-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCV, артикула IV: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q95_a4_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q95_a4_thesis());",
+      "tests": [
+        "CATALOG-Q95A4OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q95_A4_ARG1"
+      ]
+    },
+    {
+      "id": "q96-a1-thesis",
+      "task": "st-q96-a1-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVI, артикула I: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q96_a1_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q96_a1_thesis());",
+      "tests": [
+        "CATALOG-Q96A1OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q96_A1_ARG1"
+      ]
+    },
+    {
+      "id": "q96-a2-thesis",
+      "task": "st-q96-a2-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVI, артикула II: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q96_a2_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q96_a2_thesis());",
+      "tests": [
+        "CATALOG-Q96A2OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q96_A2_ARG1"
+      ]
+    },
+    {
+      "id": "q96-a3-thesis",
+      "task": "st-q96-a3-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVI, артикула III: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q96_a3_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q96_a3_thesis());",
+      "tests": [
+        "CATALOG-Q96A3OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q96_A3_ARG1"
+      ]
+    },
+    {
+      "id": "q96-a4-thesis",
+      "task": "st-q96-a4-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVI, артикула IV: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q96_a4_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q96_a4_thesis());",
+      "tests": [
+        "CATALOG-Q96A4OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q96_A4_ARG1"
+      ]
+    },
+    {
+      "id": "q96-a5-thesis",
+      "task": "st-q96-a5-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVI, артикула V: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q96_a5_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q96_a5_thesis());",
+      "tests": [
+        "CATALOG-Q96A5OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q96_A5_ARG1"
+      ]
+    },
+    {
+      "id": "q96-a6-thesis",
+      "task": "st-q96-a6-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVI, артикула VI: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q96_a6_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q96_a6_thesis());",
+      "tests": [
+        "CATALOG-Q96A6OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q96_A6_ARG1"
+      ]
+    },
+    {
+      "id": "q97-a1-thesis",
+      "task": "st-q97-a1-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVII, артикула I: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q97_a1_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q97_a1_thesis());",
+      "tests": [
+        "CATALOG-Q97A1OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q97_A1_ARG1"
+      ]
+    },
+    {
+      "id": "q97-a2-thesis",
+      "task": "st-q97-a2-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVII, артикула II: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q97_a2_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q97_a2_thesis());",
+      "tests": [
+        "CATALOG-Q97A2OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q97_A2_ARG1"
+      ]
+    },
+    {
+      "id": "q97-a3-thesis",
+      "task": "st-q97-a3-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVII, артикула III: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q97_a3_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q97_a3_thesis());",
+      "tests": [
+        "CATALOG-Q97A3OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q97_A3_ARG1"
+      ]
+    },
+    {
+      "id": "q97-a4-thesis",
+      "task": "st-q97-a4-arg1",
+      "question": "Установлено ли по делу: тезис вопроса XCVII, артикула IV: sed contra / respondeo?",
+      "kind": "truth",
+      "predicate": "q97_a4_thesis",
+      "parameters": [],
+      "template": "evaluate truth(q97_a4_thesis());",
+      "tests": [
+        "CATALOG-Q97A4OBIECTIO1"
+      ],
+      "source_units": [
+        "ST_Q97_A4_ARG1"
+      ]
+    },
+    {
+      "id": "should-be-prohibited-by-human-law",
+      "task": "st-q96-a2-resp",
+      "question": "Установлено ли по делу: порок должен запрещаться человеческим законом?",
+      "kind": "truth",
+      "predicate": "should_be_prohibited_by_human_law",
+      "parameters": [
+        {
+          "name": "v",
+          "type": "Vice",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(should_be_prohibited_by_human_law(<v>));",
+      "tests": [
+        "CATALOG-GRAVEHARMFULVICESHOULDBEPROHIBITED"
+      ],
+      "source_units": [
+        "ST_Q96_A2_RESP"
+      ]
+    },
+    {
+      "id": "written-law-continues-in-force",
+      "task": "st-q97-a3-resp",
+      "question": "Установлено ли по делу: писаный закон сохраняет силу?",
+      "kind": "truth",
+      "predicate": "written_law_continues_in_force",
+      "parameters": [
+        {
+          "name": "l",
+          "type": "Law",
+          "role": "bound"
+        }
+      ],
+      "template": "evaluate truth(written_law_continues_in_force(<l>));",
+      "tests": [
+        "CATALOG-WRITTENLAWPRIMAFACIECONTINUES"
+      ],
+      "source_units": [
+        "ST_Q97_A3_RESP"
+      ]
+    }
+  ],
+  "boundaries": [
+    {
+      "id": "granica-01",
+      "task": "st-q90-a1-ad1",
+      "question": "Покрывает ли пакет весь акт — значит ли отсутствие карточки, что право молчит?",
+      "reason_kind": "not_formalized",
+      "limitation": "Правила заведены у 273 закреплённых фрагментов из 319: остальные закреплены байтами публикации, но исполняемых норм не несут. Отсутствие карточки означает «в модели нормы нет», а не «право молчит».",
+      "source_units": [
+        "ST_Q90_A1_AD1"
+      ]
+    },
+    {
+      "id": "granica-02",
+      "task": "st-q90-a1-ad1",
+      "question": "Видны ли обязанности, запреты и правомочия пакета в positions?",
+      "reason_kind": "not_formalized",
+      "limitation": "Деонтических позиций (§§122–140) пакет не объявляет: требования выражены институциональными предикатами, и запрос positions по ним не отвечает.",
+      "source_units": [
+        "ST_Q90_A1_AD1"
+      ]
+    }
+  ],
+  "internal": [
+    {
+      "predicate": "custom_has_force_of_law",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (ContraryCustomDisplacesWrittenLaw, CustomAbrogatesContraryLaw, CustomInterpretsLaw); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a1_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A1Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a2_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A2Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a3_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A3Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q90_a4_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q90A4Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a1_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A1Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a2_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A2Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a3_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A3Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_arg2_premise3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a4_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A4Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a5_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A5Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q91_a6_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q91A6Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_ad4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Ad4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_arg4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_arg4_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_reply4",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a1_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A1Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_ad4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Ad4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_arg4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_arg4_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_reply4",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q92_a2_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q92A2Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_arg3_premise3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a1_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A1Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a2_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A2Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a3_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A3Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_ad4_supplement_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Ad4Supplement); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_arg1_premise3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_arg1_premise4",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_arg1_premise5",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a4_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A4Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_arg1_premise3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a5_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A5Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q93_a6_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q93A6Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_ad4_supplement_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Ad4Supplement); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a1_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A1Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a2_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A2Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a3_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A3Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a4_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A4Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a5_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A5Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q94_a6_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q94A6Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_arg3_premise3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a1_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A1Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_ad4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Ad4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_arg4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_arg4_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_reply4",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a2_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A2Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_ad4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Ad4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_arg4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_reply4",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a3_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A3Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_ad4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Ad4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_arg2_premise3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_arg2_premise4",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_arg4_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_arg4_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_reply4",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Obiectio4); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q95_a4_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q95A4Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a1_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A1Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a2_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A2Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a3_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A3Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a4_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A4Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a5_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A5Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q96_a6_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q96A6Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a1_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A1Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a2_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A2Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_arg2_premise3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a3_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A3Respondeo); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_ad1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Ad1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_ad2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Ad2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_ad3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Ad3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_arg1_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_arg1_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_arg2_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_arg2_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_arg3_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_arg3_premise2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_reply1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Obiectio1); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_reply2",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Obiectio2); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_reply3",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Obiectio3); самостоятельным вопросом к пакету он не является."
+    },
+    {
+      "predicate": "q97_a4_respondeo_premise1",
+      "reason": "Промежуточное звено: предикат выводится правилом пакета и читается телами других правил (Q97A4Respondeo); самостоятельным вопросом к пакету он не является."
+    }
+  ]
+}

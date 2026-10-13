@@ -1,0 +1,146 @@
+@@ III q. 73 pr.
+Consequenter considerandum est de sacramento Eucharistiae. Et primo, de ipso sacramento; secundo, de materia; tertio, de forma; quarto, de effectu; quinto, de recipientibus hoc sacramentum; sexto, de ministro; septimo, de ritu. Circa primum quaeruntur sex. Primo, utrum Eucharistia sit sacramentum. Secundo, utrum sit unum vel plura. Tertio, utrum sit de necessitate salutis. Quarto, de nominibus eius. Quinto, de institutione ipsius. Sexto, de figuris eius.
+
+@@ III q. 73 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod Eucharistia non sit sacramentum. Ad idem enim non debent ordinari duo sacramenta, quia unumquodque sacramentum efficax est ad suum effectum producendum. Cum ergo ad perfectionem ordinetur confirmatio et Eucharistia, ut Dionysius dicit, IV cap. Eccl. Hier., videtur Eucharistia non esse sacramentum, cum confirmatio sit sacramentum, ut prius habitum est.
+
+@@ III q. 73 a. 1 arg. 2
+Praeterea, in quolibet sacramento novae legis id quod visibiliter subiicitur sensui, efficit invisibilem effectum sacramenti, sicut ablutio aquae causat et characterem baptismalem et ablutionem spiritualem, ut supra dictum est. Sed species panis et vini, quae subiiciuntur sensui in hoc sacramento, non efficiunt neque ipsum corpus Christi verum, quod est res et sacramentum, neque corpus mysticum, quod est res tantum in Eucharistia. Ergo videtur quod Eucharistia non sit sacramentum novae legis.
+
+@@ III q. 73 a. 1 arg. 3
+Praeterea, sacramenta novae legis habentia materiam in usu materiae perficiuntur, sicut Baptismus in ablutione, et confirmatio in chrismatis consignatione. Si ergo Eucharistia sit sacramentum, perficeretur in usu materiae, non in consecratione ipsius materiae. Quod patet esse falsum, quia forma huius sacramenti sunt verba quae in consecratione materiae dicuntur, ut infra patebit. Ergo Eucharistia non est sacramentum.
+
+@@ III q. 73 a. 1 s. c.
+Sed contra est quod in collecta dicitur, hoc tuum sacramentum non sit nobis reatus ad poenam.
+
+@@ III q. 73 a. 1 co.
+Respondeo dicendum quod sacramenta Ecclesiae ordinantur ad subveniendum homini in vita spirituali. Vita autem spiritualis vitae corporali conformatur, eo quod corporalia spiritualium similitudinem gerunt. Manifestum est autem quod, sicut ad vitam corporalem requiritur generatio, per quam homo vitam accipit, et augmentum, quo homo perducitur ad perfectionem vitae; ita etiam requiritur alimentum, quo homo conservatur in vita. Et ideo, sicut ad vitam spiritualem oportuit esse Baptismum, qui est spiritualis generatio, et confirmationem, quae est spirituale augmentum; ita oportuit esse sacramentum Eucharistiae, quod est spirituale alimentum.
+
+@@ III q. 73 a. 1 ad 1
+Ad primum ergo dicendum quod duplex est perfectio. Una quae est in ipso homine, ad quam perducitur per augmentum. Et talis perfectio competit confirmationi. Alia autem est perfectio quam homo consequitur ex adiunctione cibi vel indumenti, vel alicuius huiusmodi. Et talis perfectio competit Eucharistiae, quae est spiritualis refectio.
+
+@@ III q. 73 a. 1 ad 2
+Ad secundum dicendum quod aqua Baptismi non causat aliquem spiritualem effectum propter ipsam aquam, sed propter virtutem spiritus sancti in aqua existentem, unde Chrysostomus dicit, super illud Ioan. V, Angelus domini secundum tempus etc., in baptizatis non simpliciter aqua operatur, sed, cum spiritus sancti susceperit gratiam, tunc omnia solvit peccata. Sicut autem se habet virtus spiritus sancti ad aquam Baptismi, ita se habet corpus Christi verum ad species panis et vini. Unde species panis et vini non efficiunt aliquid nisi virtute corporis Christi veri.
+
+@@ III q. 73 a. 1 ad 3
+Ad tertium dicendum quod sacramentum dicitur ex eo quod continet aliquid sacrum. Potest autem aliquid esse sacrum dupliciter, scilicet absolute, et in ordine ad aliud. Haec est autem differentia inter Eucharistiam et alia sacramenta habentia materiam sensibilem, quod Eucharistia continet aliquid sacrum absolute, scilicet ipsum Christum, aqua vero Baptismi continet aliquid sacrum in ordine ad aliud, scilicet virtutem ad sanctificandum, et eadem ratio est de chrismate et similibus. Et ideo sacramentum Eucharistiae perficitur in ipsa consecratione materiae, alia vero sacramenta perficiuntur in applicatione materiae ad hominem sanctificandum. Et ex hoc etiam consequitur alia differentia. Nam in sacramento Eucharistiae id quod est res et sacramentum, est in ipsa materia; id autem quod est res tantum, est in suscipiente, scilicet gratia quae confertur. In Baptismo autem utrumque est in suscipiente, et character, qui est res et sacramentum; et gratia remissionis peccatorum, quae est res tantum. Et eadem ratio est de aliis sacramentis.
+
+@@ III q. 73 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod Eucharistia non sit unum sacramentum, sed plura. Dicitur enim in collecta, purificent nos, quaesumus, domine, sacramenta quae sumpsimus, quod quidem dicitur propter Eucharistiae sumptionem. Ergo Eucharistia non est unum sacramentum, sed plura.
+
+@@ III q. 73 a. 2 arg. 2
+Praeterea, impossibile est, multiplicato genere, non multiplicari speciem, sicut quod unus homo sit plura animalia. Sed signum est genus sacramenti, ut supra dictum est. Cum igitur in Eucharistia sint plura signa, scilicet panis et vini, videtur consequens esse quod sint plura sacramenta.
+
+@@ III q. 73 a. 2 arg. 3
+Praeterea, hoc sacramentum perficitur in consecratione materiae, sicut dictum est. Sed in hoc sacramento est duplex materiae consecratio. Ergo est duplex sacramentum.
+
+@@ III q. 73 a. 2 s. c.
+Sed contra est quod apostolus dicit, I Cor. X, unus panis et unum corpus multi sumus, omnes qui de uno pane et uno calice participamus. Ex quo patet quod Eucharistia sit sacramentum ecclesiasticae unitatis. Sed sacramentum similitudinem gerit rei cuius est sacramentum. Ergo Eucharistia est unum sacramentum.
+
+@@ III q. 73 a. 2 co.
+Respondeo dicendum quod, sicut dicitur V Metaphys., unum dicitur non solum quod est indivisibile vel quod est continuum, sed etiam quod est perfectum, sicut cum dicitur una domus, et unus homo. Est autem unum perfectione ad cuius integritatem concurrunt omnia quae requiruntur ad finem eiusdem, sicut homo integratur ex omnibus membris necessariis operationi animae, et domus ex partibus quae sunt necessariae ad inhabitandum. Et sic hoc sacramentum dicitur unum. Ordinatur enim ad spiritualem refectionem, quae corporali conformatur. Ad corporalem autem refectionem duo requiruntur, scilicet cibus, qui est alimentum siccum; et potus, qui est alimentum humidum. Et ideo etiam ad integritatem huius sacramenti duo concurrunt, scilicet spiritualis cibus et spiritualis potus, secundum illud Ioan. VI, caro mea vere est cibus, et sanguis meus vere est potus. Ergo hoc sacramentum multa quidem materialiter est, sed unum formaliter et perfective.
+
+@@ III q. 73 a. 2 ad 1
+Ad primum ergo dicendum quod in collecta eadem et pluraliter dicitur primo, purificent nos sacramenta quae sumpsimus; et postea singulariter subditur, hoc tuum sacramentum non sit nobis reatus ad poenam, ad ostendendum quod hoc sacramentum quodammodo est multa, simpliciter autem unum.
+
+@@ III q. 73 a. 2 ad 2
+Ad secundum dicendum quod panis et vinum materialiter quidem sunt plura signa, formaliter vero et perfective unum, inquantum ex eis perficitur una refectio.
+
+@@ III q. 73 a. 2 ad 3
+Ad tertium dicendum quod ex hoc quod est duplex consecratio huius sacramenti, non potest plus haberi nisi quod hoc sacramentum materialiter est multa, ut dictum est.
+
+@@ III q. 73 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod hoc sacramentum sit de necessitate salutis. Dicit enim dominus, Ioan. VI, nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis. Sed in hoc sacramento manducatur caro Christi et bibitur sanguis eius. Ergo sine hoc sacramento non potest homo habere salutem spiritualis vitae.
+
+@@ III q. 73 a. 3 arg. 2
+Praeterea, hoc sacramentum est quoddam spirituale alimentum. Sed alimentum corporale est de necessitate corporalis salutis. Ergo etiam hoc sacramentum est de necessitate salutis spiritualis.
+
+@@ III q. 73 a. 3 arg. 3
+Praeterea, sicut Baptismus est sacramentum dominicae passionis, sine qua non est salus, ita et Eucharistia, dicit enim apostolus, I Cor. XI, quotiescumque manducaveritis panem hunc et calicem biberitis, mortem domini annuntiabitis, donec veniat. Ergo, sicut Baptismus est de necessitate salutis, ita hoc sacramentum.
+
+@@ III q. 73 a. 3 s. c.
+Sed contra est quod scribit Augustinus Bonifacio, contra Pelagianos, nec id cogitetis, parvulos vitam habere non posse, qui sunt expertes corporis et sanguinis Christi.
+
+@@ III q. 73 a. 3 co.
+Respondeo dicendum quod in hoc sacramento duo est considerare, scilicet ipsum sacramentum, et rem sacramenti. Dictum est autem quod res sacramenti est unitas corporis mystici, sine qua non potest esse salus, nulli enim patet aditus salutis extra Ecclesiam, sicut nec in diluvio absque arca Noe, quae significat Ecclesiam, ut habetur I Petr. III. Dictum est autem supra quod res alicuius sacramenti haberi potest ante perceptionem sacramenti, ex ipso voto sacramenti percipiendi. Unde ante perceptionem huius sacramenti, potest homo habere salutem ex voto percipiendi hoc sacramentum, sicut et ante Baptismum ex voto Baptismi, ut supra dictum est. Tamen est differentia quantum ad duo. Primo quidem, quia Baptismus est principium spiritualis vitae, et ianua sacramentorum. Eucharistia vero est quasi consummatio spiritualis vitae, et omnium sacramentorum finis, ut supra dictum est, per sanctificationes enim omnium sacramentorum fit praeparatio ad suscipiendam vel consecrandam Eucharistiam. Et ideo perceptio Baptismi est necessaria ad inchoandam spiritualem vitam, perceptio autem Eucharistiae est necessaria ad consummandam ipsam, non ad hoc quod simpliciter habeatur, sed sufficit eam habere in voto, sicut et finis habetur in desiderio et intentione. Alia differentia est, quia per Baptismum ordinatur homo ad Eucharistiam. Et ideo ex hoc ipso quod pueri baptizantur, ordinantur per Ecclesiam ad Eucharistiam. Et sic, sicut ex fide Ecclesiae credunt, sic ex intentione Ecclesiae desiderant Eucharistiam, et per consequens recipiunt rem ipsius. Sed ad Baptismum non ordinantur per aliud praecedens sacramentum. Et ideo, ante susceptionem Baptismi, non habent pueri aliquo modo Baptismum in voto, sed soli adulti. Unde rem sacramenti percipere non possunt sine perceptione sacramenti. Et ideo hoc sacramentum non hoc modo est de necessitate salutis sicut Baptismus.
+
+@@ III q. 73 a. 3 ad 1
+Ad primum ergo dicendum quod, sicut Augustinus dicit, exponens illud verbum Ioannis, hunc cibum et potum, scilicet carnis suae et sanguinis, societatem vult intelligi corporis et membrorum suorum, quod est Ecclesia, in praedestinatis et vocatis et iustificatis et glorificatis sanctis et fidelibus eius. Unde, sicut ipse dicit, in epistola ad Bonifacium, nulli est aliquatenus ambigendum tunc unumquemque fidelium corporis sanguinisque domini participem fieri, quando in Baptismate membrum corporis Christi efficitur, nec alienari ab illius panis calicisque consortio, etiam si, antequam panem illum comedat et calicem bibat, de hoc saeculo in unitate corporis Christi constitutus abscedat.
+
+@@ III q. 73 a. 3 ad 2
+Ad secundum dicendum quod haec est differentia inter alimentum corporale et spirituale, quod alimentum corporale convertitur in substantiam eius qui nutritur, et ideo non potest homini valere ad vitae conservationem alimentum corporale nisi realiter sumatur. Sed alimentum spirituale convertit hominem in seipsum, secundum illud quod Augustinus dicit, in libro Confess., quod quasi audivit vocem Christi dicentis, nec tu me mutabis in te, sicut cibum carnis tuae, sed tu mutaberis in me. Potest autem aliquis in Christum mutari et ei incorporari voto mentis, etiam sine huius sacramenti perceptione. Et ideo non est simile.
+
+@@ III q. 73 a. 3 ad 3
+Ad tertium dicendum quod Baptismus est sacramentum mortis et passionis Christi prout homo regeneratur in Christo virtute passionis eius. Sed Eucharistia est sacramentum passionis Christi prout homo perficitur in unione ad Christum passum. Unde, sicut Baptismus dicitur sacramentum fidei, quae est fundamentum spiritualis vitae; ita Eucharistia dicitur sacramentum caritatis, quae est vinculum perfectionis, ut dicitur Coloss. III.
+
+@@ III q. 73 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod inconvenienter hoc sacramentum pluribus nominibus nominetur. Nomina enim debent respondere rebus. Sed hoc sacramentum est unum, ut dictum est. Ergo non debet pluribus nominibus nominari.
+
+@@ III q. 73 a. 4 arg. 2
+Praeterea, species non notificatur convenienter per id quod est commune toti generi. Sed Eucharistia est sacramentum novae legis. Omnibus autem sacramentis commune est quod in eis confertur gratia, quod significat nomen Eucharistiae, quod est idem quod bona gratia. Omnia etiam sacramenta remedium nobis afferunt in via praesentis vitae, quod pertinet ad rationem viatici. In omnibus etiam sacramentis fit aliquid sacrum, quod pertinet ad rationem sacrificii. Et per omnia sacramenta sibi invicem fideles communicant, quod significat hoc nomen synaxis in Graeco, vel communio in Latino. Ergo haec nomina non convenienter adaptantur huic sacramento.
+
+@@ III q. 73 a. 4 arg. 3
+Praeterea, hostia videtur idem esse quod sacrificium. Sicut ergo non proprie dicitur sacrificium, ita nec proprie dicitur hostia.
+
+@@ III q. 73 a. 4 s. c.
+Sed contra est quod usus fidelium habet.
+
+@@ III q. 73 a. 4 co.
+Respondeo dicendum quod hoc sacramentum habet triplicem significationem. Unam quidem respectu praeteriti, inquantum scilicet est commemorativum dominicae passionis, quae fuit verum sacrificium, ut supra dictum est. Et secundum hoc nominatur sacrificium. Aliam autem significationem habet respectu rei praesentis, scilicet ecclesiasticae unitatis, cui homines congregantur per hoc sacramentum. Et secundum hoc nominatur communio vel synaxis, dicit enim Damascenus, IV libro, quod dicitur communio, quia communicamus per ipsam Christo; et quia participamus eius carne et deitate; et quia communicamus et unimur ad invicem per ipsam. Tertiam significationem habet respectu futuri, inquantum scilicet hoc sacramentum est praefigurativum fruitionis Dei, quae erit in patria. Et secundum hoc dicitur viaticum, quia hoc praebet nobis viam illuc perveniendi. Et secundum hoc etiam dicitur Eucharistia, idest bona gratia, quia gratia Dei est vita aeterna, ut dicitur Rom. VI; vel quia realiter continet Christum, qui est plenus gratia. Dicitur etiam in Graeco metalepsis, idest assumptio, quia, ut Damascenus dicit, per hoc filii deitatem assumimus.
+
+@@ III q. 73 a. 4 ad 1
+Ad primum ergo dicendum quod nihil prohibet idem pluribus nominibus nominari secundum diversas proprietates vel effectus.
+
+@@ III q. 73 a. 4 ad 2
+Ad secundum dicendum quod id quod est commune omnibus sacramentis, attribuitur antonomastice ei, propter eius excellentiam.
+
+@@ III q. 73 a. 4 ad 3
+Ad tertium dicendum quod hoc sacramentum dicitur sacrificium, inquantum repraesentat ipsam passionem Christi. Dicitur autem hostia, inquantum continet ipsum Christum, qui est hostia suavitatis, ut dicitur Ephes. V.
+
+@@ III q. 73 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod non fuerit conveniens institutio istius sacramenti. Ut enim philosophus dicit, in II de Generat., ex eisdem nutrimur ex quibus sumus. Sed per Baptismum, qui est spiritualis regeneratio, accipimus esse spirituale, ut Dionysius dicit, II cap. Eccles. Hier. Ergo per Baptismum etiam nutrimur. Non ergo fuit necessarium instituere hoc sacramentum quasi spirituale nutrimentum.
+
+@@ III q. 73 a. 5 arg. 2
+Praeterea, per hoc sacramentum homines Christo uniuntur sicut membra capiti. Sed Christus est caput omnium hominum, etiam qui fuerunt ab initio mundi, ut supra dictum est. Ergo non debuit institutio huius sacramenti differri usque ad cenam domini.
+
+@@ III q. 73 a. 5 arg. 3
+Praeterea, hoc sacramentum dicitur esse memoriale dominicae passionis, secundum illud Matth. XXVI, hoc facite in meam commemorationem. Sed memoria est praeteritorum. Ergo hoc sacramentum non debuit institui ante Christi passionem.
+
+@@ III q. 73 a. 5 arg. 4
+Praeterea, per Baptismum aliquis ordinatur ad Eucharistiam, quae non nisi baptizatis dari debet. Sed Baptismus institutus fuit post Christi passionem et resurrectionem, ut patet Matth. ult. Ergo inconvenienter hoc sacramentum fuit ante passionem Christi institutum.
+
+@@ III q. 73 a. 5 s. c.
+Sed contra est quod hoc sacramentum institutum est a Christo, de quo dicitur Marc. VII, bene omnia fecit.
+
+@@ III q. 73 a. 5 co.
+Respondeo dicendum quod convenienter hoc sacramentum institutum fuit in cena, in qua scilicet Christus ultimo cum discipulis suis fuit conversatus. Primo quidem, ratione continentiae huius sacramenti. Continetur enim ipse Christus in Eucharistia sicut in sacramento. Et ideo, quando ipse Christus in propria specie a discipulis discessurus erat, in sacramentali specie seipsum eis reliquit, sicut in absentia imperatoris exhibetur veneranda eius imago. Unde Eusebius dicit, quia corpus assumptum ablaturus erat ab oculis et illaturus sideribus, necesse erat ut die cenae sacramentum corporis et sanguinis sui consecraret nobis, ut coleretur iugiter per mysterium quod semel offerebatur in pretium. Secundo, quia sine fide passionis Christi nunquam potuit esse salus, secundum illud Rom. III, quem proposuit Deus propitiatorem per fidem in sanguine ipsius. Et ideo oportuit omni tempore apud homines esse aliquod repraesentativum dominicae passionis. Cuius in veteri quidem testamento praecipuum sacramentum erat agnus paschalis, unde et apostolus dicit, I Cor. V, Pascha nostrum immolatus est Christus. Successit autem ei in novo testamento Eucharistiae sacramentum, quod est rememorativum praeteritae passionis, sicut et illud fuit praefigurativum futurae. Et ideo conveniens fuit, imminente passione, celebrato priori sacramento, novum sacramentum instituere, ut Leo Papa dicit. Tertio, quia ea quae ultimo dicuntur, maxime ab amicis recedentibus, magis memoriae commendantur, praesertim quia tunc magis inflammatur affectus ad amicos, ea vero ad quae magis afficimur, profundius animo imprimuntur. Quia igitur, ut beatus Alexander Papa dicit, nihil in sacrificiis maius esse potest quam corpus et sanguis Christi, nec ulla oblatio hac potior est, ideo, ut in maiori veneratione haberetur, dominus in ultimo discessu suo a discipulis hoc sacramentum instituit. Et hoc est quod Augustinus dicit, in libro responsionum ad Ianuarium, salvator, quo vehementius commendaret mysterii illius altitudinem, ultimum hoc voluit infigere cordibus et memoriae discipulorum, a quibus ad passionem discessurus erat.
+
+@@ III q. 73 a. 5 ad 1
+Ad primum ergo dicendum quod ex eisdem nutrimur ex quibus sumus, non tamen eodem modo nobis advenientibus. Nam ea ex quibus sumus, nobis adveniunt per generationem, eadem autem, inquantum ex eis nutrimur, nobis adveniunt per manducationem. Unde et, sicut per Baptismum regeneramur in Christo, ita per Eucharistiam manducamus Christum.
+
+@@ III q. 73 a. 5 ad 2
+Ad secundum dicendum quod Eucharistia est sacramentum perfectum dominicae passionis, tanquam continens ipsum Christum passum. Et ideo non potuit institui ante incarnationem, sed tunc habebant locum sacramenta quae erant tantum praefigurativa dominicae passionis.
+
+@@ III q. 73 a. 5 ad 3
+Ad tertium dicendum quod sacramentum illud fuit institutum in cena ut in futurum esset memoriale dominicae passionis, ea perfecta. Unde signanter dicit, haec quotiescumque feceritis, de futuro loquens.
+
+@@ III q. 73 a. 5 ad 4
+Ad quartum dicendum quod institutio respondet ordini intentionis. Sacramentum autem Eucharistiae, quamvis sit posterius Baptismo in perceptione, est tamen prius in intentione. Et ideo debuit prius institui. Vel potest dici quod Baptismus iam erat institutus in ipso Christi Baptismo. Unde et iam aliqui ipso Christi Baptismo erant baptizati, ut legitur Ioan. III.
+
+@@ III q. 73 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod agnus paschalis non fuerit praecipua figura huius sacramenti. Christus enim dicitur sacerdos secundum ordinem Melchisedech, propter hoc quod Melchisedech gessit figuram sacrificii Christi, offerens panem et vinum. Sed expressio similitudinis facit quod unum ab alio denominetur. Ergo videtur quod oblatio Melchisedech fuerit potissima figura huius sacramenti.
+
+@@ III q. 73 a. 6 arg. 2
+Praeterea, transitus maris rubri fuit figura Baptismi, secundum illud I Cor. X, omnes baptizati sunt in nube et in mari. Sed immolatio agni paschalis praecessit transitum maris rubri, quem subsecutum est manna, sicut Eucharistia sequitur Baptismum. Ergo manna est expressior figura huius sacramenti quam agnus paschalis.
+
+@@ III q. 73 a. 6 arg. 3
+Praeterea, potissima virtus huius sacramenti est quod introducit nos in regnum caelorum, sicut quoddam viaticum. Sed hoc maxime figuratum fuit in sacramento expiationis, quando pontifex intrabat semel in anno cum sanguine in sancta sanctorum, sicut apostolus probat, Heb. IX. Ergo videtur quod illud sacrificium fuerit expressior figura huius sacramenti quam agnus paschalis.
+
+@@ III q. 73 a. 6 s. c.
+Sed contra est quod apostolus dicit, I Cor. V, Pascha nostrum immolatus est Christus. Itaque epulemur in azymis sinceritatis et veritatis.
+
+@@ III q. 73 a. 6 co.
+Respondeo dicendum quod in hoc sacramento tria considerare possumus, scilicet id quod est sacramentum tantum, scilicet panis et vinum; et id quod est res et sacramentum, scilicet corpus Christi verum; et id quod est res tantum, scilicet effectus huius sacramenti. Quantum igitur ad id quod est sacramentum tantum potissima figura fuit huius sacramenti oblatio Melchisedech, qui obtulit panem et vinum. Quantum autem ad ipsum Christum passum, qui continetur in hoc sacramento, figurae eius fuerunt omnia sacrificia veteris testamenti; et praecipue sacrificium expiationis, quod erat solemnissimum. Quantum autem ad effectum, fuit praecipua eius figura manna, quod habebat in se omnis saporis suavitatem, ut dicitur Sap. XVI, sicut et gratia huius sacramenti quantum ad omnia reficit mentem. Sed agnus paschalis quantum ad haec tria praefigurabat hoc sacramentum. Quantum enim ad primum, quia manducabatur cum panibus azymis, secundum illud Exod. XII, edent carnes et azymos panes. Quantum vero ad secundum, quia immolabatur ab omni multitudine filiorum Israel quartadecima luna, quod fuit figura passionis Christi, qui propter innocentiam dicitur agnus. Quantum vero ad effectum, quia per sanguinem agni paschalis protecti sunt filii Israel a devastante Angelo, et educti de Aegyptiaca servitute. Et quantum ad hoc, ponitur figura huius sacramenti praecipua agnus paschalis, quia secundum omnia eam repraesentat.
+
+@@ III q. 73 a. 6 ad arg.
+Et per hoc patet responsio ad obiecta.

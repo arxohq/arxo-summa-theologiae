@@ -1,0 +1,347 @@
+@@ I-II q. 95 pr.
+Deinde considerandum est de lege humana. Et primo quidem, de ipsa lege secundum se; secundo, de potestate eius; tertio, de eius mutabilitate. Circa primum quaeruntur quatuor. Primo, de utilitate ipsius. Secundo, de origine eius. Tertio, de qualitate ipsius. Quarto, de divisione eiusdem.
+
+@@ I-II q. 95 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod non fuerit utile aliquas leges poni ab hominibus. Intentio enim cuiuslibet legis est ut per eam homines fiant boni, sicut supra dictum est. Sed homines magis inducuntur ad bonum voluntarii per monitiones, quam coacti per leges. Ergo non fuit necessarium leges ponere.
+
+@@ I-II q. 95 a. 1 arg. 2
+Praeterea, sicut dicit philosophus, in V Ethic., ad iudicem confugiunt homines sicut ad iustum animatum. Sed iustitia animata est melior quam inanimata, quae legibus continetur. Ergo melius fuisset ut executio iustitiae committeretur arbitrio iudicum, quam quod super hoc lex aliqua ederetur.
+
+@@ I-II q. 95 a. 1 arg. 3
+Praeterea, lex omnis directiva est actuum humanorum, ut ex supradictis patet. Sed cum humani actus consistant in singularibus, quae sunt infinita, non possunt ea quae ad directionem humanorum actuum pertinent, sufficienter considerari, nisi ab aliquo sapiente, qui inspiciat singula. Ergo melius fuisset arbitrio sapientum dirigi actus humanos, quam aliqua lege posita. Ergo non fuit necessarium leges humanas ponere.
+
+@@ I-II q. 95 a. 1 s. c.
+Sed contra est quod Isidorus dicit, in libro Etymol., factae sunt leges ut earum metu humana coerceretur audacia, tutaque sit inter improbos innocentia, et in ipsis improbis formidato supplicio refrenetur nocendi facultas. Sed haec sunt maxime necessaria humano generi. Ergo necessarium fuit ponere leges humanas.
+
+@@ I-II q. 95 a. 1 co.
+Respondeo dicendum quod, sicut ex supradictis patet, homini naturaliter inest quaedam aptitudo ad virtutem; sed ipsa virtutis perfectio necesse est quod homini adveniat per aliquam disciplinam. Sicut etiam videmus quod per aliquam industriam subvenitur homini in suis necessitatibus, puta in cibo et vestitu, quorum initia quaedam habet a natura, scilicet rationem et manus, non autem ipsum complementum, sicut cetera animalia, quibus natura dedit sufficienter tegumentum et cibum. Ad hanc autem disciplinam non de facili invenitur homo sibi sufficiens. Quia perfectio virtutis praecipue consistit in retrahendo hominem ab indebitis delectationibus, ad quas praecipue homines sunt proni, et maxime iuvenes, circa quos efficacior est disciplina. Et ideo oportet quod huiusmodi disciplinam, per quam ad virtutem perveniatur, homines ab alio sortiantur. Et quidem quantum ad illos iuvenes qui sunt proni ad actus virtutum, ex bona dispositione naturae, vel consuetudine, vel magis divino munere, sufficit disciplina paterna, quae est per monitiones. Sed quia inveniuntur quidam protervi et ad vitia proni, qui verbis de facili moveri non possunt; necessarium fuit ut per vim et metum cohiberentur a malo, ut saltem sic male facere desistentes, et aliis quietam vitam redderent, et ipsi tandem per huiusmodi assuetudinem ad hoc perducerentur quod voluntarie facerent quae prius metu implebant, et sic fierent virtuosi. Huiusmodi autem disciplina cogens metu poenae, est disciplina legum. Unde necessarium fuit ad pacem hominum et virtutem, ut leges ponerentur, quia sicut philosophus dicit, in I Polit., sicut homo, si sit perfectus virtute, est optimum animalium; sic, si sit separatus a lege et iustitia, est pessimum omnium; quia homo habet arma rationis ad explendas concupiscentias et saevitias, quae non habent alia animalia.
+
+@@ I-II q. 95 a. 1 ad 1
+Ad primum ergo dicendum quod homines bene dispositi melius inducuntur ad virtutem monitionibus voluntariis quam coactione, sed quidam male dispositi non ducuntur ad virtutem nisi cogantur.
+
+@@ I-II q. 95 a. 1 ad 2
+Ad secundum dicendum quod, sicut philosophus dicit, I Rhetor., melius est omnia ordinari lege, quam dimittere iudicum arbitrio. Et hoc propter tria. Primo quidem, quia facilius est invenire paucos sapientes, qui sufficiant ad rectas leges ponendas, quam multos, qui requirerentur ad recte iudicandum de singulis. Secundo, quia illi qui leges ponunt, ex multo tempore considerant quid lege ferendum sit, sed iudicia de singularibus factis fiunt ex casibus subito exortis. Facilius autem ex multis consideratis potest homo videre quid rectum sit, quam solum ex aliquo uno facto. Tertio, quia legislatores iudicant in universali, et de futuris, sed homines iudiciis praesidentes iudicant de praesentibus, ad quae afficiuntur amore vel odio, aut aliqua cupiditate; et sic eorum depravatur iudicium. Quia ergo iustitia animata iudicis non invenitur in multis; et quia flexibilis est; ideo necessarium fuit, in quibuscumque est possibile, legem determinare quid iudicandum sit, et paucissima arbitrio hominum committere.
+
+@@ I-II q. 95 a. 1 ad 3
+Ad tertium dicendum quod quaedam singularia, quae non possunt lege comprehendi, necesse est committere iudicibus, ut ibidem philosophus dicit, puta de eo quod est factum esse vel non esse, et de aliis huiusmodi.
+
+@@ I-II q. 95 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod non omnis lex humanitus posita a lege naturali derivetur. Dicit enim philosophus, in V Ethic., quod iustum legale est quod ex principio quidem nihil differt utrum sic vel aliter fiat. Sed in his quae oriuntur ex lege naturali, differt utrum sic vel aliter fiat. Ergo ea quae sunt legibus humanis statuta, non omnia derivantur a lege naturae.
+
+@@ I-II q. 95 a. 2 arg. 2
+Praeterea, ius positivum dividitur contra ius naturale, ut patet per Isidorum, in libro Etymol., et per philosophum, in V Ethic. Sed ea quae derivantur a principiis communibus legis naturae sicut conclusiones, pertinent ad legem naturae, ut supra dictum est. Ergo ea quae sunt de lege humana, non derivantur a lege naturae.
+
+@@ I-II q. 95 a. 2 arg. 3
+Praeterea, lex naturae est eadem apud omnes, dicit enim philosophus, in V Ethic., quod naturale iustum est quod ubique habet eandem potentiam. Si igitur leges humanae a naturali lege derivarentur, sequeretur quod etiam ipsae essent eaedem apud omnes. Quod patet esse falsum.
+
+@@ I-II q. 95 a. 2 arg. 4
+Praeterea, eorum quae a lege naturali derivantur, potest aliqua ratio assignari. Sed non omnium quae a maioribus lege statuta sunt, ratio reddi potest, ut iurisperitus dicit. Ergo non omnes leges humanae derivantur a lege naturali.
+
+@@ I-II q. 95 a. 2 s. c.
+Sed contra est quod Tullius dicit, in sua Rhetor., res a natura profectas, et a consuetudine probatas, legum metus et religio sanxit.
+
+@@ I-II q. 95 a. 2 co.
+Respondeo dicendum quod, sicut Augustinus dicit, in I de Lib. Arb., non videtur esse lex, quae iusta non fuerit. Unde inquantum habet de iustitia, intantum habet de virtute legis. In rebus autem humanis dicitur esse aliquid iustum ex eo quod est rectum secundum regulam rationis. Rationis autem prima regula est lex naturae, ut ex supradictis patet. Unde omnis lex humanitus posita intantum habet de ratione legis, inquantum a lege naturae derivatur. Si vero in aliquo, a lege naturali discordet, iam non erit lex sed legis corruptio. Sed sciendum est quod a lege naturali dupliciter potest aliquid derivari, uno modo, sicut conclusiones ex principiis; alio modo, sicut determinationes quaedam aliquorum communium. Primus quidem modus est similis ei quo in scientiis ex principiis conclusiones demonstrativae producuntur. Secundo vero modo simile est quod in artibus formae communes determinantur ad aliquid speciale, sicut artifex formam communem domus necesse est quod determinet ad hanc vel illam domus figuram. Derivantur ergo quaedam a principiis communibus legis naturae per modum conclusionum, sicut hoc quod est non esse occidendum, ut conclusio quaedam derivari potest ab eo quod est nulli esse malum faciendum. Quaedam vero per modum determinationis, sicut lex naturae habet quod ille qui peccat, puniatur; sed quod tali poena puniatur, hoc est quaedam determinatio legis naturae. Utraque igitur inveniuntur in lege humana posita. Sed ea quae sunt primi modi, continentur lege humana non tanquam sint solum lege posita, sed habent etiam aliquid vigoris ex lege naturali. Sed ea quae sunt secundi modi, ex sola lege humana vigorem habent.
+
+@@ I-II q. 95 a. 2 ad 1
+Ad primum ergo dicendum quod philosophus loquitur de illis quae sunt lege posita per determinationem vel specificationem quandam praeceptorum legis naturae.
+
+@@ I-II q. 95 a. 2 ad 2
+Ad secundum dicendum quod ratio illa procedit de his quae derivantur a lege naturae tanquam conclusiones.
+
+@@ I-II q. 95 a. 2 ad 3
+Ad tertium dicendum quod principia communia legis naturae non possunt eodem modo applicari omnibus, propter multam varietatem rerum humanarum. Et exinde provenit diversitas legis positivae apud diversos.
+
+@@ I-II q. 95 a. 2 ad 4
+Ad quartum dicendum quod verbum illud iurisperiti intelligendum est in his quae sunt introducta a maioribus circa particulares determinationes legis naturalis; ad quas quidem determinationes se habet expertorum et prudentum iudicium sicut ad quaedam principia; inquantum scilicet statim vident quid congruentius sit particulariter determinari. Unde philosophus dicit, in VI Ethic., quod in talibus oportet attendere expertorum et seniorum vel prudentum indemonstrabilibus enuntiationibus et opinionibus, non minus quam demonstrationibus.
+
+@@ I-II q. 95 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod Isidorus inconvenienter qualitatem legis positivae describat, dicens, erit lex honesta, iusta, possibilis secundum naturam, secundum consuetudinem patriae, loco temporique conveniens, necessaria, utilis; manifesta quoque, ne aliquid per obscuritatem in captionem contineat; nullo privato commodo, sed pro communi utilitate civium scripta. Supra enim in tribus conditionibus qualitatem legis explicaverat, dicens, lex erit omne quod ratione constiterit, dumtaxat quod religioni congruat, quod disciplinae conveniat, quod saluti proficiat. Ergo superflue postmodum conditiones legis multiplicat.
+
+@@ I-II q. 95 a. 3 arg. 2
+Praeterea, iustitia pars est honestatis; ut Tullius dicit, in I de Offic. Ergo postquam dixerat honesta, superflue additur iusta.
+
+@@ I-II q. 95 a. 3 arg. 3
+Praeterea, lex scripta, secundum Isidorum, contra consuetudinem dividitur. Non ergo debuit in definitione legis poni quod esset secundum consuetudinem patriae.
+
+@@ I-II q. 95 a. 3 arg. 4
+Praeterea, necessarium dupliciter dicitur. Scilicet id quod est necessarium simpliciter, quod impossibile est aliter se habere, et huiusmodi necessarium non subiacet humano iudicio, unde talis necessitas ad legem humanam non pertinet. Est etiam aliquid necessarium propter finem, et talis necessitas idem est quod utilitas. Ergo superflue utrumque ponitur, necessaria et utilis.
+
+@@ I-II q. 95 a. 3 s. c.
+Sed contra est auctoritas ipsius Isidori.
+
+@@ I-II q. 95 a. 3 co.
+Respondeo dicendum quod uniuscuiusque rei quae est propter finem, necesse est quod forma determinetur secundum proportionem ad finem; sicut forma serrae talis est qualis convenit sectioni; ut patet in II Physic. Quaelibet etiam res recta et mensurata oportet quod habeat formam proportionalem suae regulae et mensurae. Lex autem humana utrumque habet, quia et est aliquid ordinatum ad finem; et est quaedam regula vel mensura regulata vel mensurata quadam superiori mensura; quae quidem est duplex, scilicet lex divina et lex naturae, ut ex supradictis patet. Finis autem humanae legis est utilitas hominum; sicut etiam iurisperitus dicit. Et ideo Isidorus in conditione legis, primo quidem tria posuit, scilicet quod religioni congruat, inquantum scilicet est proportionata legi divinae; quod disciplinae conveniat, inquantum est proportionata legi naturae; quod saluti proficiat, inquantum est proportionata utilitati humanae. Et ad haec tria omnes aliae conditiones quas postea ponit, reducuntur. Nam quod dicitur honesta, refertur ad hoc quod religioni congruat. Quod autem subditur, iusta, possibilis secundum naturam, secundum consuetudinem patriae, loco temporique conveniens, additur ad hoc quod conveniat disciplinae. Attenditur enim humana disciplina primum quidem quantum ad ordinem rationis, qui importatur in hoc quod dicitur iusta. Secundo, quantum ad facultatem agentium. Debet enim esse disciplina conveniens unicuique secundum suam possibilitatem, observata etiam possibilitate naturae (non enim eadem sunt imponenda pueris, quae imponuntur viris perfectis); et secundum humanam consuetudinem; non enim potest homo solus in societate vivere, aliis morem non gerens. Tertio, quantum ad debitas circumstantias, dicit, loco temporique conveniens. Quod vero subditur, necessaria, utilis, etc., refertur ad hoc quod expediat saluti, ut necessitas referatur ad remotionem malorum; utilitas, ad consecutionem bonorum; manifestatio vero, ad cavendum nocumentum quod ex ipsa lege posset provenire. Et quia, sicut supra dictum est, lex ordinatur ad bonum commune, hoc ipsum in ultima parte determinationis ostenditur.
+
+@@ I-II q. 95 a. 3 ad arg.
+Et per hoc patet responsio ad obiecta.
+
+@@ I-II q. 95 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod inconvenienter Isidorus divisionem legum humanarum ponat, sive iuris humani. Sub hoc enim iure comprehendit ius gentium, quod ideo sic nominatur, ut ipse dicit, quia eo omnes fere gentes utuntur. Sed sicut ipse dicit, ius naturale est quod est commune omnium nationum. Ergo ius gentium non continetur sub iure positivo humano, sed magis sub iure naturali.
+
+@@ I-II q. 95 a. 4 arg. 2
+Praeterea, ea quae habent eandem vim, non videntur formaliter differre, sed solum materialiter. Sed leges, plebiscita, senatusconsulta, et alia huiusmodi quae ponit, omnia habent eandem vim. Ergo videtur quod non differant nisi materialiter. Sed talis distinctio in arte non est curanda, cum possit esse in infinitum. Ergo inconvenienter huiusmodi divisio humanarum legum introducitur.
+
+@@ I-II q. 95 a. 4 arg. 3
+Praeterea, sicut in civitate sunt principes et sacerdotes et milites, ita etiam sunt et alia hominum officia. Ergo videtur quod, sicut ponitur quoddam ius militare, et ius publicum, quod consistit in sacerdotibus et magistratibus; ita etiam debeant poni alia iura, ad alia officia civitatis pertinentia.
+
+@@ I-II q. 95 a. 4 arg. 4
+Praeterea, ea quae sunt per accidens, sunt praetermittenda. Sed accidit legi ut ab hoc vel illo homine feratur. Ergo inconvenienter ponitur divisio legum humanarum ex nominibus legislatorum, ut scilicet quaedam dicatur Cornelia, quaedam Falcidia, et cetera.
+
+@@ I-II q. 95 a. 4 s. c.
+In contrarium auctoritas Isidori sufficiat.
+
+@@ I-II q. 95 a. 4 co.
+Respondeo dicendum quod unumquodque potest per se dividi secundum id quod in eius ratione continetur. Sicut in ratione animalis continetur anima, quae est rationalis vel irrationalis, et ideo animal proprie et per se dividitur secundum rationale et irrationale; non autem secundum album et nigrum, quae sunt omnino praeter rationem eius. Sunt autem multa de ratione legis humanae, secundum quorum quodlibet lex humana proprie et per se dividi potest. Est enim primo de ratione legis humanae quod sit derivata a lege naturae, ut ex dictis patet. Et secundum hoc dividitur ius positivum in ius gentium et ius civile, secundum duos modos quibus aliquid derivatur a lege naturae, ut supra dictum est. Nam ad ius gentium pertinent ea quae derivantur ex lege naturae sicut conclusiones ex principiis, ut iustae emptiones, venditiones, et alia huiusmodi, sine quibus homines ad invicem convivere non possent; quod est de lege naturae, quia homo est naturaliter animal sociale, ut probatur in I Polit. Quae vero derivantur a lege naturae per modum particularis determinationis, pertinent ad ius civile, secundum quod quaelibet civitas aliquid sibi accommodum determinat. Secundo est de ratione legis humanae quod ordinetur ad bonum commune civitatis. Et secundum hoc lex humana dividi potest secundum diversitatem eorum qui specialiter dant operam ad bonum commune, sicut sacerdotes, pro populo Deum orantes; principes, populum gubernantes; et milites, pro salute populi pugnantes. Et ideo istis hominibus specialia quaedam iura aptantur. Tertio est de ratione legis humanae ut instituatur a gubernante communitatem civitatis, sicut supra dictum est. Et secundum hoc distinguuntur leges humanae secundum diversa regimina civitatum. Quorum unum, secundum philosophum, in III Polit., est regnum, quando scilicet civitas gubernatur ab uno, et secundum hoc accipiuntur constitutiones principum. Aliud vero regimen est aristocratia, idest principatus optimorum, vel optimatum, et secundum hoc sumuntur responsa prudentum, et etiam senatusconsulta. Aliud regimen est oligarchia, idest principatus paucorum divitum et potentum, et secundum hoc sumitur ius praetorium, quod etiam honorarium dicitur. Aliud autem regimen est populi, quod nominatur democratia, et secundum hoc sumuntur plebiscita. Aliud autem est tyrannicum, quod est omnino corruptum, unde ex hoc non sumitur aliqua lex. Est etiam aliquod regimen ex istis commixtum, quod est optimum, et secundum hoc sumitur lex, quam maiores natu simul cum plebibus sanxerunt, ut Isidorus dicit. Quarto vero de ratione legis humanae est quod sit directiva humanorum actuum. Et secundum hoc, secundum diversa de quibus leges feruntur, distinguuntur leges, quae interdum ab auctoribus nominantur, sicut distinguitur lex Iulia de adulteriis, lex Cornelia de sicariis, et sic de aliis, non propter auctores, sed propter res de quibus sunt.
+
+@@ I-II q. 95 a. 4 ad 1
+Ad primum ergo dicendum quod ius gentium est quidem aliquo modo naturale homini, secundum quod est rationalis, inquantum derivatur a lege naturali per modum conclusionis quae non est multum remota a principiis. Unde de facili in huiusmodi homines consenserunt. Distinguitur tamen a lege naturali, maxime ab eo quod est omnibus animalibus communis.
+
+@@ I-II q. 95 a. 4 ad 2
+Ad alia patet responsio ex his quae dicta sunt.
+
+@@ I-II q. 96 pr.
+Deinde considerandum est de potestate legis humanae. Et circa hoc quaeruntur sex. Primo, utrum lex humana debeat poni in communi. Secundo, utrum lex humana debeat omnia vitia cohibere. Tertio, utrum omnium virtutum actus habeat ordinare. Quarto, utrum imponat homini necessitatem quantum ad forum conscientiae. Quinto, utrum omnes homines legi humanae subdantur. Sexto, utrum his qui sunt sub lege, liceat agere praeter verba legis.
+
+@@ I-II q. 96 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod lex humana non debeat poni in communi, sed magis in particulari. Dicit enim philosophus, in V Ethic., quod legalia sunt quaecumque in singularibus lege ponunt; et etiam sententialia, quae sunt etiam singularia, quia de singularibus actibus sententiae feruntur. Ergo lex non solum ponitur in communi, sed etiam in singulari.
+
+@@ I-II q. 96 a. 1 arg. 2
+Praeterea, lex est directiva humanorum actuum, ut supra dictum est. Sed humani actus in singularibus consistunt. Ergo leges humanae non debent in universali ferri, sed magis in singulari.
+
+@@ I-II q. 96 a. 1 arg. 3
+Praeterea, lex est regula et mensura humanorum actuum, ut supra dictum est. Sed mensura debet esse certissima, ut dicitur in X Metaphys. Cum ergo in actibus humanis non possit esse aliquod universale certum, quin in particularibus deficiat; videtur quod necesse sit leges non in universali, sed in singulari poni.
+
+@@ I-II q. 96 a. 1 s. c.
+Sed contra est quod iurisperitus dicit, quod iura constitui oportet in his quae saepius accidunt, ex his autem quae forte uno casu accidere possunt, iura non constituuntur.
+
+@@ I-II q. 96 a. 1 co.
+Respondeo dicendum quod unumquodque quod est propter finem, necesse est quod sit fini proportionatum. Finis autem legis est bonum commune, quia, ut Isidorus dicit, in libro Etymol., nullo privato commodo, sed pro communi utilitate civium lex debet esse conscripta. Unde oportet leges humanas esse proportionatas ad bonum commune. Bonum autem commune constat ex multis. Et ideo oportet quod lex ad multa respiciat, et secundum personas, et secundum negotia, et secundum tempora. Constituitur enim communitas civitatis ex multis personis; et eius bonum per multiplices actiones procuratur; nec ad hoc solum instituitur quod aliquo modico tempore duret, sed quod omni tempore perseveret per civium successionem, ut Augustinus dicit, in XXII de Civ. Dei.
+
+@@ I-II q. 96 a. 1 ad 1
+Ad primum ergo dicendum quod philosophus in V Ethic. ponit tres partes iusti legalis, quod est ius positivum. Sunt enim quaedam quae simpliciter in communi ponuntur. Et haec sunt leges communes. Et quantum ad huiusmodi, dicit quod legale est quod ex principio quidem nihil differt sic vel aliter, quando autem ponitur, differt, puta quod captivi statuto pretio redimantur. Quaedam vero sunt quae sunt communia quantum ad aliquid, et singularia quantum ad aliquid. Et huiusmodi dicuntur privilegia, quasi leges privatae, quia respiciunt singulares personas, et tamen potestas eorum extenditur ad multa negotia. Et quantum ad hoc, subdit, adhuc quaecumque in singularibus lege ponunt. Dicuntur etiam quaedam legalia, non quia sint leges, sed propter applicationem legum communium ad aliqua particularia facta; sicut sunt sententiae, quae pro iure habentur. Et quantum ad hoc, subdit, et sententialia.
+
+@@ I-II q. 96 a. 1 ad 2
+Ad secundum dicendum quod illud quod est directivum, oportet esse plurium directivum, unde in X Metaphys., philosophus dicit quod omnia quae sunt unius generis, mensurantur aliquo uno, quod est primum in genere illo. Si enim essent tot regulae vel mensurae quot sunt mensurata vel regulata, cessaret utilitas regulae vel mensurae, quae est ut ex uno multa possint cognosci. Et ita nulla esset utilitas legis, si non se extenderet nisi ad unum singularem actum. Ad singulares enim actus dirigendos dantur singularia praecepta prudentium, sed lex est praeceptum commune, ut supra dictum est.
+
+@@ I-II q. 96 a. 1 ad 3
+Ad tertium dicendum quod non est eadem certitudo quaerenda in omnibus, ut in I Ethic. dicitur. Unde in rebus contingentibus, sicut sunt naturalia et res humanae, sufficit talis certitudo ut aliquid sit verum ut in pluribus, licet interdum deficiat in paucioribus.
+
+@@ I-II q. 96 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod ad legem humanam pertineat omnia vitia cohibere. Dicit enim Isidorus, in libro Etymol., quod leges sunt factae ut earum metu coerceatur audacia. Non autem sufficienter coerceretur, nisi quaelibet mala cohiberentur per legem. Ergo lex humana debet quaelibet mala cohibere.
+
+@@ I-II q. 96 a. 2 arg. 2
+Praeterea, intentio legislatoris est cives facere virtuosos. Sed non potest esse aliquis virtuosus, nisi ab omnibus vitiis compescatur. Ergo ad legem humanam pertinet omnia vitia compescere.
+
+@@ I-II q. 96 a. 2 arg. 3
+Praeterea, lex humana a lege naturali derivatur, ut supra dictum est. Sed omnia vitia repugnant legi naturae. Ergo lex humana omnia vitia debet cohibere.
+
+@@ I-II q. 96 a. 2 s. c.
+Sed contra est quod dicitur in I de Lib. Arb., videtur mihi legem istam quae populo regendo scribitur, recte ista permittere, et divinam providentiam vindicare. Sed divina providentia non vindicat nisi vitia. Ergo recte lex humana permittit aliqua vitia, non cohibendo ipsa.
+
+@@ I-II q. 96 a. 2 co.
+Respondeo dicendum quod, sicut iam dictum est, lex ponitur ut quaedam regula vel mensura humanorum actuum. Mensura autem debet esse homogenea mensurato, ut dicitur in X Metaphys., diversa enim diversis mensuris mensurantur. Unde oportet quod etiam leges imponantur hominibus secundum eorum conditionem, quia, ut Isidorus dicit, lex debet esse possibilis et secundum naturam, et secundum consuetudinem patriae. Potestas autem sive facultas operandi ex interiori habitu seu dispositione procedit, non enim idem est possibile ei qui non habet habitum virtutis, et virtuoso; sicut etiam non est idem possibile puero et viro perfecto. Et propter hoc non ponitur eadem lex pueris quae ponitur adultis, multa enim pueris permittuntur quae in adultis lege puniuntur, vel etiam vituperantur. Et similiter multa sunt permittenda hominibus non perfectis virtute, quae non essent toleranda in hominibus virtuosis. Lex autem humana ponitur multitudini hominum, in qua maior pars est hominum non perfectorum virtute. Et ideo lege humana non prohibentur omnia vitia, a quibus virtuosi abstinent; sed solum graviora, a quibus possibile est maiorem partem multitudinis abstinere; et praecipue quae sunt in nocumentum aliorum, sine quorum prohibitione societas humana conservari non posset, sicut prohibentur lege humana homicidia et furta et huiusmodi.
+
+@@ I-II q. 96 a. 2 ad 1
+Ad primum ergo dicendum quod audacia pertinere videtur ad invasionem aliorum. Unde praecipue pertinet ad illa peccata quibus iniuria proximis irrogatur; quae lege humana prohibentur, ut dictum est.
+
+@@ I-II q. 96 a. 2 ad 2
+Ad secundum dicendum quod lex humana intendit homines inducere ad virtutem, non subito, sed gradatim. Et ideo non statim multitudini imperfectorum imponit ea quae sunt iam virtuosorum, ut scilicet ab omnibus malis abstineant. Alioquin imperfecti, huiusmodi praecepta ferre non valentes, in deteriora mala prorumperent, sicut dicitur Prov. XXX, qui nimis emungit, elicit sanguinem; et Matth. IX dicitur quod, si vinum novum, idest praecepta perfectae vitae, mittatur in utres veteres, idest in homines imperfectos, utres rumpuntur, et vinum effunditur, idest, praecepta contemnuntur, et homines ex contemptu ad peiora mala prorumpunt.
+
+@@ I-II q. 96 a. 2 ad 3
+Ad tertium dicendum quod lex naturalis est quaedam participatio legis aeternae in nobis, lex autem humana deficit a lege aeterna. Dicit enim Augustinus, in I de Lib. Arb., lex ista quae regendis civitatibus fertur, multa concedit atque impunita relinquit, quae per divinam providentiam vindicantur. Neque enim quia non omnia facit, ideo quae facit, improbanda sunt. Unde etiam lex humana non omnia potest prohibere quae prohibet lex naturae.
+
+@@ I-II q. 96 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod lex humana non praecipiat actus omnium virtutum. Actibus enim virtutum opponuntur actus vitiosi. Sed lex humana non prohibet omnia vitia, ut dictum est. Ergo etiam non praecipit actus omnium virtutum.
+
+@@ I-II q. 96 a. 3 arg. 2
+Praeterea, actus virtutis a virtute procedit. Sed virtus est finis legis, et ita quod est ex virtute, sub praecepto legis cadere non potest. Ergo lex humana non praecipit actus omnium virtutum.
+
+@@ I-II q. 96 a. 3 arg. 3
+Praeterea, lex ordinatur ad bonum commune, ut dictum est. Sed quidam actus virtutum non ordinantur ad bonum commune, sed ad bonum privatum. Ergo lex non praecipit actus omnium virtutum.
+
+@@ I-II q. 96 a. 3 s. c.
+Sed contra est quod philosophus dicit, in V Ethic., quod praecipit lex fortis opera facere, et quae temperati, et quae mansueti; similiter autem secundum alias virtutes et malitias, haec quidem iubens, haec autem prohibens.
+
+@@ I-II q. 96 a. 3 co.
+Respondeo dicendum quod species virtutum distinguuntur secundum obiecta, ut ex supradictis patet. Omnia autem obiecta virtutum referri possunt vel ad bonum privatum alicuius personae, vel ad bonum commune multitudinis, sicut ea quae sunt fortitudinis potest aliquis exequi vel propter conservationem civitatis, vel ad conservandum ius amici sui; et simile est in aliis. Lex autem, ut dictum est, ordinatur ad bonum commune. Et ideo nulla virtus est de cuius actibus lex praecipere non possit. Non tamen de omnibus actibus omnium virtutum lex humana praecipit, sed solum de illis qui sunt ordinabiles ad bonum commune, vel immediate, sicut cum aliqua directe propter bonum commune fiunt; vel mediate, sicut cum aliqua ordinantur a legislatore pertinentia ad bonam disciplinam, per quam cives informantur ut commune bonum iustitiae et pacis conservent.
+
+@@ I-II q. 96 a. 3 ad 1
+Ad primum ergo dicendum quod lex humana non prohibet omnes actus vitiosos, secundum obligationem praecepti, sicut nec praecipit omnes actus virtuosos. Prohibet tamen aliquos actus singulorum vitiorum, sicut etiam praecipit quosdam actus singularum virtutum.
+
+@@ I-II q. 96 a. 3 ad 2
+Ad secundum dicendum quod aliquis actus dicitur esse virtutis dupliciter. Uno modo, ex eo quod homo operatur virtuosa, sicut actus iustitiae est facere recta, et actus fortitudinis facere fortia. Et sic lex praecipit aliquos actus virtutum. Alio modo dicitur actus virtutis, quia aliquis operatur virtuosa eo modo quo virtuosus operatur. Et talis actus semper procedit a virtute, nec cadit sub praecepto legis, sed est finis ad quem legislator ducere intendit.
+
+@@ I-II q. 96 a. 3 ad 3
+Ad tertium dicendum quod non est aliqua virtus cuius actus non sint ordinabiles ad bonum commune, ut dictum est, vel mediate vel immediate.
+
+@@ I-II q. 96 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod lex humana non imponat homini necessitatem in foro conscientiae. Inferior enim potestas non potest imponere legem in iudicio superioris potestatis. Sed potestas hominis, quae fert legem humanam, est infra potestatem divinam. Ergo lex humana non potest imponere legem quantum ad iudicium divinum, quod est iudicium conscientiae.
+
+@@ I-II q. 96 a. 4 arg. 2
+Praeterea, iudicium conscientiae maxime dependet ex divinis mandatis. Sed quandoque divina mandata evacuantur per leges humanas; secundum illud Matth. XV, irritum fecistis mandatum Dei propter traditiones vestras. Ergo lex humana non imponit necessitatem homini quantum ad conscientiam.
+
+@@ I-II q. 96 a. 4 arg. 3
+Praeterea, leges humanae frequenter ingerunt calumniam et iniuriam hominibus; secundum illud Isaiae X, vae qui condunt leges iniquas, et scribentes iniustitias scripserunt, ut opprimerent in iudicio pauperes, et vim facerent causae humilium populi mei. Sed licitum est unicuique oppressionem et violentiam evitare. Ergo leges humanae non imponunt necessitatem homini quantum ad conscientiam.
+
+@@ I-II q. 96 a. 4 s. c.
+Sed contra est quod dicitur I Petr. II, haec est gratia, si propter conscientiam sustineat quis tristitias, patiens iniuste.
+
+@@ I-II q. 96 a. 4 co.
+Respondeo dicendum quod leges positae humanitus vel sunt iustae, vel iniustae. Si quidem iustae sint, habent vim obligandi in foro conscientiae a lege aeterna, a qua derivantur; secundum illud Prov. VIII, per me reges regnant, et legum conditores iusta decernunt. Dicuntur autem leges iustae et ex fine, quando scilicet ordinantur ad bonum commune; et ex auctore, quando scilicet lex lata non excedit potestatem ferentis; et ex forma, quando scilicet secundum aequalitatem proportionis imponuntur subditis onera in ordine ad bonum commune. Cum enim unus homo sit pars multitudinis, quilibet homo hoc ipsum quod est et quod habet, est multitudinis, sicut et quaelibet pars id quod est, est totius. Unde et natura aliquod detrimentum infert parti, ut salvet totum. Et secundum hoc, leges huiusmodi, onera proportionabiliter inferentes, iustae sunt, et obligant in foro conscientiae, et sunt leges legales. Iniustae autem sunt leges dupliciter. Uno modo, per contrarietatem ad bonum humanum, e contrario praedictis, vel ex fine, sicut cum aliquis praesidens leges imponit onerosas subditis non pertinentes ad utilitatem communem, sed magis ad propriam cupiditatem vel gloriam; vel etiam ex auctore, sicut cum aliquis legem fert ultra sibi commissam potestatem; vel etiam ex forma, puta cum inaequaliter onera multitudini dispensantur, etiam si ordinentur ad bonum commune. Et huiusmodi magis sunt violentiae quam leges, quia, sicut Augustinus dicit, in libro de Lib. Arb., lex esse non videtur, quae iusta non fuerit. Unde tales leges non obligant in foro conscientiae, nisi forte propter vitandum scandalum vel turbationem, propter quod etiam homo iuri suo debet cedere, secundum illud Matth. V, qui angariaverit te mille passus, vade cum eo alia duo; et qui abstulerit tibi tunicam, da ei et pallium. Alio modo leges possunt esse iniustae per contrarietatem ad bonum divinum, sicut leges tyrannorum inducentes ad idololatriam, vel ad quodcumque aliud quod sit contra legem divinam. Et tales leges nullo modo licet observare, quia sicut dicitur Act. V, obedire oportet Deo magis quam hominibus.
+
+@@ I-II q. 96 a. 4 ad 1
+Ad primum ergo dicendum quod, sicut apostolus dicit, ad Rom. XIII, omnis potestas humana a Deo est, et ideo qui potestati resistit, in his quae ad ordinem potestatis pertinent, Dei ordinationi resistit. Et secundum hoc efficitur reus quantum ad conscientiam.
+
+@@ I-II q. 96 a. 4 ad 2
+Ad secundum dicendum quod ratio illa procedit de legibus humanis quae ordinantur contra Dei mandatum. Et ad hoc ordo potestatis non se extendit. Unde in talibus legi humanae non est parendum.
+
+@@ I-II q. 96 a. 4 ad 3
+Ad tertium dicendum quod ratio illa procedit de lege quae infert gravamen iniustum subditis, ad quod etiam ordo potestatis divinitus concessus non se extendit. Unde nec in talibus homo obligatur ut obediat legi, si sine scandalo vel maiori detrimento resistere possit.
+
+@@ I-II q. 96 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod non omnes legi subiiciantur. Illi enim soli subiiciuntur legi, quibus lex ponitur. Sed apostolus dicit, I ad Tim. I, quod iusto non est lex posita. Ergo iusti non subiiciuntur legi humanae.
+
+@@ I-II q. 96 a. 5 arg. 2
+Praeterea, Urbanus Papa dicit, et habetur in decretis, XIX qu. II, qui lege privata ducitur, nulla ratio exigit ut publica constringatur. Lege autem privata spiritus sancti ducuntur omnes viri spirituales, qui sunt filii Dei; secundum illud Rom. VIII, qui spiritu Dei aguntur, hi filii Dei sunt. Ergo non omnes homines legi humanae subiiciuntur.
+
+@@ I-II q. 96 a. 5 arg. 3
+Praeterea, iurisperitus dicit quod princeps legibus solutus est. Qui autem est solutus a lege, non subditur legi. Ergo non omnes subiecti sunt legi.
+
+@@ I-II q. 96 a. 5 s. c.
+Sed contra est quod apostolus dicit, Rom. XIII, omnis anima potestatibus sublimioribus subdita sit. Sed non videtur esse subditus potestati, qui non subiicitur legi quam fert potestas. Ergo omnes homines debent esse legi humanae subiecti.
+
+@@ I-II q. 96 a. 5 co.
+Respondeo dicendum quod, sicut ex supradictis patet, lex de sui ratione duo habet, primo quidem, quod est regula humanorum actuum; secundo, quod habet vim coactivam. Dupliciter ergo aliquis homo potest esse legi subiectus. Uno modo, sicut regulatum regulae. Et hoc modo omnes illi qui subduntur potestati, subduntur legi quam fert potestas. Quod autem aliquis potestati non subdatur, potest contingere dupliciter. Uno modo, quia est simpliciter absolutus ab eius subiectione. Unde illi qui sunt de una civitate vel regno, non subduntur legibus principis alterius civitatis vel regni, sicut nec eius dominio. Alio modo, secundum quod regitur superiori lege. Puta si aliquis subiectus sit proconsuli, regulari debet eius mandato, non tamen in his quae dispensantur ei ab imperatore, quantum enim ad illa, non adstringitur mandato inferioris, cum superiori mandato dirigatur. Et secundum hoc contingit quod aliquis simpliciter subiectus legi, secundum aliqua legi non adstringitur, secundum quae regitur superiori lege. Alio vero modo dicitur aliquis subdi legi sicut coactum cogenti. Et hoc modo homines virtuosi et iusti non subduntur legi, sed soli mali. Quod enim est coactum et violentum, est contrarium voluntati. Voluntas autem bonorum consonat legi, a qua malorum voluntas discordat. Et ideo secundum hoc boni non sunt sub lege, sed solum mali.
+
+@@ I-II q. 96 a. 5 ad 1
+Ad primum ergo dicendum quod ratio illa procedit de subiectione quae est per modum coactionis. Sic enim iusto non est lex posita, quia ipsi sibi sunt lex, dum ostendunt opus legis scriptum in cordibus suis, sicut apostolus, ad Rom. II, dicit. Unde in eos non habet lex vim coactivam, sicut habet in iniustos.
+
+@@ I-II q. 96 a. 5 ad 2
+Ad secundum dicendum quod lex spiritus sancti est superior omni lege humanitus posita. Et ideo viri spirituales, secundum hoc quod lege spiritus sancti ducuntur, non subduntur legi, quantum ad ea quae repugnant ductioni spiritus sancti. Sed tamen hoc ipsum est de ductu spiritus sancti, quod homines spirituales legibus humanis subdantur; secundum illud I Petr. II, subiecti estote omni humanae creaturae, propter Deum.
+
+@@ I-II q. 96 a. 5 ad 3
+Ad tertium dicendum quod princeps dicitur esse solutus a lege, quantum ad vim coactivam legis, nullus enim proprie cogitur a seipso; lex autem non habet vim coactivam nisi ex principis potestate. Sic igitur princeps dicitur esse solutus a lege, quia nullus in ipsum potest iudicium condemnationis ferre, si contra legem agat. Unde super illud Psalmi l, tibi soli peccavi etc., dicit Glossa quod lex non habet hominem qui sua facta diiudicet. Sed quantum ad vim directivam legis, princeps subditur legi propria voluntate; secundum quod dicitur extra, de constitutionibus, cap. cum omnes, quod quisque iuris in alterum statuit, ipse eodem iure uti debet. Et sapientis dicit auctoritas, patere legem quam ipse tuleris. Improperatur etiam his a domino qui dicunt et non faciunt; et qui aliis onera gravia imponunt, et ipsi nec digito volunt ea movere; ut habetur Matth. XXIII. Unde quantum ad Dei iudicium, princeps non est solutus a lege, quantum ad vim directivam eius; sed debet voluntarius, non coactus, legem implere. Est etiam princeps supra legem, inquantum, si expediens fuerit, potest legem mutare, et in ea dispensare, pro loco et tempore.
+
+@@ I-II q. 96 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod non liceat ei qui subditur legi, praeter verba legis agere. Dicit enim Augustinus, in libro de vera Relig., in temporalibus legibus, quamvis homines iudicent de his cum eas instituunt, tamen quando fuerint institutae et firmatae, non licebit de ipsis iudicare, sed secundum ipsas. Sed si aliquis praetermittat verba legis, dicens se intentionem legislatoris servare, videtur iudicare de lege. Ergo non licet ei qui subditur legi, ut praetermittat verba legis, ut intentionem legislatoris servet.
+
+@@ I-II q. 96 a. 6 arg. 2
+Praeterea, ad eum solum pertinet leges interpretari, cuius est condere leges. Sed hominum subditorum legi non est leges condere. Ergo eorum non est interpretari legislatoris intentionem, sed semper secundum verba legis agere debent.
+
+@@ I-II q. 96 a. 6 arg. 3
+Praeterea, omnis sapiens intentionem suam verbis novit explicare. Sed illi qui leges condiderunt, reputari debent sapientes, dicit enim sapientia, Prov. VIII, per me reges regnant, et legum conditores iusta decernunt. Ergo de intentione legislatoris non est iudicandum nisi per verba legis.
+
+@@ I-II q. 96 a. 6 s. c.
+Sed contra est quod Hilarius dicit, in IV de Trin., intelligentia dictorum ex causis est assumenda dicendi, quia non sermoni res, sed rei debet esse sermo subiectus. Ergo magis est attendendum ad causam quae movit legislatorem, quam ad ipsa verba legis.
+
+@@ I-II q. 96 a. 6 co.
+Respondeo dicendum quod, sicut supra dictum est, omnis lex ordinatur ad communem hominum salutem, et intantum obtinet vim et rationem legis; secundum vero quod ab hoc deficit, virtutem obligandi non habet. Unde iurisperitus dicit quod nulla iuris ratio aut aequitatis benignitas patitur ut quae salubriter pro utilitate hominum introducuntur, ea nos duriori interpretatione, contra ipsorum commodum, perducamus ad severitatem. Contingit autem multoties quod aliquid observari communi saluti est utile ut in pluribus, quod tamen in aliquibus casibus est maxime nocivum. Quia igitur legislator non potest omnes singulares casus intueri, proponit legem secundum ea quae in pluribus accidunt, ferens intentionem suam ad communem utilitatem. Unde si emergat casus in quo observatio talis legis sit damnosa communi saluti, non est observanda. Sicut si in civitate obsessa statuatur lex quod portae civitatis maneant clausae, hoc est utile communi saluti ut in pluribus, si tamen contingat casus quod hostes insequantur aliquos cives, per quos civitas conservatur, damnosissimum esset civitati nisi eis portae aperirentur, et ideo in tali casu essent portae aperiendae, contra verba legis, ut servaretur utilitas communis, quam legislator intendit. Sed tamen hoc est considerandum, quod si observatio legis secundum verba non habeat subitum periculum, cui oportet statim occurri, non pertinet ad quemlibet ut interpretetur quid sit utile civitati et quid inutile, sed hoc solum pertinet ad principes, qui propter huiusmodi casus habent auctoritatem in legibus dispensandi. Si vero sit subitum periculum, non patiens tantam moram ut ad superiorem recurri possit, ipsa necessitas dispensationem habet annexam, quia necessitas non subditur legi.
+
+@@ I-II q. 96 a. 6 ad 1
+Ad primum ergo dicendum quod ille qui in casu necessitatis agit praeter verba legis, non iudicat de ipsa lege, sed iudicat de casu singulari, in quo videt verba legis observanda non esse.
+
+@@ I-II q. 96 a. 6 ad 2
+Ad secundum dicendum quod ille qui sequitur intentionem legislatoris, non interpretatur legem simpliciter; sed in casu in quo manifestum est per evidentiam nocumenti, legislatorem aliud intendisse. Si enim dubium sit, debet vel secundum verba legis agere, vel superiores consulere.
+
+@@ I-II q. 96 a. 6 ad 3
+Ad tertium dicendum quod nullius hominis sapientia tanta est ut possit omnes singulares casus excogitare, et ideo non potest sufficienter per verba sua exprimere ea quae conveniunt ad finem intentum. Et si posset legislator omnes casus considerare, non oporteret ut omnes exprimeret, propter confusionem vitandam, sed legem ferre deberet secundum ea quae in pluribus accidunt.
+
+@@ I-II q. 97 pr.
+Deinde considerandum est de mutatione legum. Et circa hoc quaeruntur quatuor. Primo, utrum lex humana sit mutabilis. Secundo, utrum semper debeat mutari, quando aliquid melius occurrerit. Tertio, utrum per consuetudinem aboleatur; et utrum consuetudo obtineat vim legis. Quarto, utrum usus legis humanae per dispensationem rectorum immutari debeat.
+
+@@ I-II q. 97 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod lex humana nullo modo debeat mutari. Lex enim humana derivatur a lege naturali, ut supra dictum est. Sed lex naturalis immobilis perseverat. Ergo et lex humana debet immobilis permanere.
+
+@@ I-II q. 97 a. 1 arg. 2
+Praeterea, sicut philosophus dicit, in V Ethic., mensura maxime debet esse permanens. Sed lex humana est mensura humanorum actuum, ut supra dictum est. Ergo debet immobiliter permanere.
+
+@@ I-II q. 97 a. 1 arg. 3
+Praeterea, de ratione legis est quod sit iusta et recta, ut supra dictum est. Sed illud quod semel est rectum, semper est rectum. Ergo illud quod semel est lex, semper debet esse lex.
+
+@@ I-II q. 97 a. 1 s. c.
+Sed contra est quod Augustinus dicit, in I de Lib. Arb., lex temporalis quamvis iusta sit, commutari tamen per tempora iuste potest.
+
+@@ I-II q. 97 a. 1 co.
+Respondeo dicendum quod sicut supra dictum est, lex humana est quoddam dictamen rationis, quo diriguntur humani actus. Et secundum hoc duplex causa potest esse quod lex humana iuste mutetur, una quidem ex parte rationis; alia vero ex parte hominum, quorum actus lege regulantur. Ex parte quidem rationis, quia humanae rationi naturale esse videtur ut gradatim ab imperfecto ad perfectum perveniat. Unde videmus in scientiis speculativis quod qui primo philosophati sunt, quaedam imperfecta tradiderunt, quae postmodum per posteriores sunt magis perfecta. Ita etiam est in operabilibus. Nam primi qui intenderunt invenire aliquid utile communitati hominum, non valentes omnia ex seipsis considerare, instituerunt quaedam imperfecta in multis deficientia quae posteriores mutaverunt, instituentes aliqua quae in paucioribus deficere possent a communi utilitate. Ex parte vero hominum, quorum actus lege regulantur, lex recte mutari potest propter mutationem conditionum hominum, quibus secundum diversas eorum conditiones diversa expediunt. Sicut Augustinus ponit exemplum, in I de Lib. Arb., quod si populus sit bene moderatus et gravis, communisque utilitatis diligentissimus custos, recte lex fertur qua tali populo liceat creare sibi magistratus, per quos respublica administretur. Porro si paulatim idem populus depravatus habeat venale suffragium, et regimen flagitiosis sceleratisque committat; recte adimitur tali populo potestas dandi honores, et ad paucorum bonorum redit arbitrium.
+
+@@ I-II q. 97 a. 1 ad 1
+Ad primum ergo dicendum quod naturalis lex est participatio quaedam legis aeternae, ut supra dictum est, et ideo immobilis perseverat, quod habet ex immobilitate et perfectione divinae rationis instituentis naturam. Sed ratio humana mutabilis est et imperfecta. Et ideo eius lex mutabilis est. Et praeterea lex naturalis continet quaedam universalia praecepta, quae semper manent, lex vero posita ab homine continet praecepta quaedam particularia, secundum diversos casus qui emergunt.
+
+@@ I-II q. 97 a. 1 ad 2
+Ad secundum dicendum quod mensura debet esse permanens quantum est possibile. Sed in rebus mutabilibus non potest esse aliquid omnino immutabiliter permanens. Et ideo lex humana non potest esse omnino immutabilis.
+
+@@ I-II q. 97 a. 1 ad 3
+Ad tertium dicendum quod rectum in rebus corporalibus dicitur absolute, et ideo semper, quantum est de se, manet rectum. Sed rectitudo legis dicitur in ordine ad utilitatem communem, cui non semper proportionatur una eademque res, sicut supra dictum est. Et ideo talis rectitudo mutatur.
+
+@@ I-II q. 97 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod semper lex humana, quando aliquid melius occurrit, sit mutanda. Leges enim humanae sunt adinventae per rationem humanam, sicut etiam aliae artes. Sed in aliis artibus mutatur id quod prius tenebatur, si aliquid melius occurrat. Ergo idem est etiam faciendum in legibus humanis.
+
+@@ I-II q. 97 a. 2 arg. 2
+Praeterea, ex his quae praeterita sunt, providere possumus de futuris. Sed nisi leges humanae mutatae fuissent supervenientibus melioribus adinventionibus, multa inconvenientia sequerentur, eo quod leges antiquae inveniuntur multas ruditates continere. Ergo videtur quod leges sint mutandae, quotiescumque aliquid melius occurrit statuendum.
+
+@@ I-II q. 97 a. 2 arg. 3
+Praeterea, leges humanae circa singulares actus hominum statuuntur. In singularibus autem perfectam cognitionem adipisci non possumus nisi per experientiam, quae tempore indiget, ut dicitur in II Ethic. Ergo videtur quod per successionem temporis possit aliquid melius occurrere statuendum.
+
+@@ I-II q. 97 a. 2 s. c.
+Sed contra est quod dicitur in decretis, dist. XII, ridiculum est et satis abominabile dedecus, ut traditiones quas antiquitus a patribus suscepimus, infringi patiamur.
+
+@@ I-II q. 97 a. 2 co.
+Respondeo dicendum quod, sicut dictum est, lex humana intantum recte mutatur, inquantum per eius mutationem communi utilitati providetur. Habet autem ipsa legis mutatio, quantum in se est, detrimentum quoddam communis salutis. Quia ad observantiam legum plurimum valet consuetudo, intantum quod ea quae contra communem consuetudinem fiunt, etiam si sint leviora de se, graviora videantur. Unde quando mutatur lex, diminuitur vis constrictiva legis, inquantum tollitur consuetudo. Et ideo nunquam debet mutari lex humana, nisi ex aliqua parte tantum recompensetur communi saluti, quantum ex ista parte derogatur. Quod quidem contingit vel ex hoc quod aliqua maxima et evidentissima utilitas ex novo statuto provenit, vel ex eo quod est maxima necessitas, ex eo quod lex consueta aut manifestam iniquitatem continet, aut eius observatio est plurimum nociva. Unde dicitur a iurisperito quod in rebus novis constituendis, evidens debet esse utilitas, ut recedatur ab eo iure quod diu aequum visum est.
+
+@@ I-II q. 97 a. 2 ad 1
+Ad primum ergo dicendum quod ea quae sunt artis, habent efficaciam ex sola ratione, et ideo ubicumque melior ratio occurrat, est mutandum quod prius tenebatur. Sed leges habent maximam virtutem ex consuetudine, ut philosophus dicit, in II Polit. Et inde non sunt de facili mutandae.
+
+@@ I-II q. 97 a. 2 ad 2
+Ad secundum dicendum quod ratio illa concludit quod leges sunt mutandae, non tamen pro quacumque melioratione, sed pro magna utilitate vel necessitate, ut dictum est.
+
+@@ I-II q. 97 a. 2 ad 3
+Et similiter dicendum est ad tertium.
+
+@@ I-II q. 97 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod consuetudo non possit obtinere vim legis, nec legem amovere. Lex enim humana derivatur a lege naturae et a lege divina, ut ex supradictis patet. Sed consuetudo hominum non potest immutare legem naturae, nec legem divinam. Ergo etiam nec legem humanam immutare potest.
+
+@@ I-II q. 97 a. 3 arg. 2
+Praeterea, ex multis malis non potest fieri unum bonum. Sed ille qui incipit primo contra legem agere, male facit. Ergo, multiplicatis similibus actibus, non efficietur aliquod bonum. Lex autem est quoddam bonum, cum sit regula humanorum actuum. Ergo per consuetudinem non potest removeri lex, ut ipsa consuetudo vim legis obtineat.
+
+@@ I-II q. 97 a. 3 arg. 3
+Praeterea, ferre legem pertinet ad publicas personas, ad quas pertinet regere communitatem, unde privatae personae legem facere non possunt. Sed consuetudo invalescit per actus privatarum personarum. Ergo consuetudo non potest obtinere vim legis, per quam lex removeatur.
+
+@@ I-II q. 97 a. 3 s. c.
+Sed contra est quod Augustinus dicit, in Epist. ad Casulan., mos populi Dei et instituta maiorum pro lege sunt tenenda. Et sicut praevaricatores legum divinarum, ita et contemptores consuetudinum ecclesiasticarum coercendi sunt.
+
+@@ I-II q. 97 a. 3 co.
+Respondeo dicendum quod omnis lex proficiscitur a ratione et voluntate legislatoris, lex quidem divina et naturalis a rationabili Dei voluntate; lex autem humana a voluntate hominis ratione regulata. Sicut autem ratio et voluntas hominis manifestantur verbo in rebus agendis, ita etiam manifestantur facto, hoc enim unusquisque eligere videtur ut bonum, quod opere implet. Manifestum est autem quod verbo humano potest et mutari lex, et etiam exponi, inquantum manifestat interiorem motum et conceptum rationis humanae. Unde etiam et per actus, maxime multiplicatos, qui consuetudinem efficiunt, mutari potest lex, et exponi, et etiam aliquid causari quod legis virtutem obtineat, inquantum scilicet per exteriores actus multiplicatos interior voluntatis motus, et rationis conceptus, efficacissime declaratur; cum enim aliquid multoties fit, videtur ex deliberato rationis iudicio provenire. Et secundum hoc, consuetudo et habet vim legis, et legem abolet, et est legum interpretatrix.
+
+@@ I-II q. 97 a. 3 ad 1
+Ad primum ergo dicendum quod lex naturalis et divina procedit a voluntate divina, ut dictum est. Unde non potest mutari per consuetudinem procedentem a voluntate hominis, sed solum per auctoritatem divinam mutari posset. Et inde est quod nulla consuetudo vim obtinere potest contra legem divinam vel legem naturalem, dicit enim Isidorus, in Synonym., usus auctoritati cedat, pravum usum lex et ratio vincat.
+
+@@ I-II q. 97 a. 3 ad 2
+Ad secundum dicendum quod, sicut supra dictum est, leges humanae in aliquibus casibus deficiunt, unde possibile est quandoque praeter legem agere, in casu scilicet in quo deficit lex, et tamen actus non erit malus. Et cum tales casus multiplicantur, propter aliquam mutationem hominum, tunc manifestatur per consuetudinem quod lex ulterius utilis non est, sicut etiam manifestaretur si lex contraria verbo promulgaretur. Si autem adhuc maneat ratio eadem propter quam prima lex utilis erat, non consuetudo legem, sed lex consuetudinem vincit, nisi forte propter hoc solum inutilis lex videatur, quia non est possibilis secundum consuetudinem patriae, quae erat una de conditionibus legis. Difficile enim est consuetudinem multitudinis removere.
+
+@@ I-II q. 97 a. 3 ad 3
+Ad tertium dicendum quod multitudo in qua consuetudo introducitur duplicis conditionis esse potest. Si enim sit libera multitudo, quae possit sibi legem facere, plus est consensus totius multitudinis ad aliquid observandum, quem consuetudo manifestat, quam auctoritas principis, qui non habet potestatem condendi legem, nisi inquantum gerit personam multitudinis. Unde licet singulae personae non possint condere legem, tamen totus populus legem condere potest. Si vero multitudo non habeat liberam potestatem condendi sibi legem, vel legem a superiori potestate positam removendi; tamen ipsa consuetudo in tali multitudine praevalens obtinet vim legis, inquantum per eos toleratur ad quos pertinet multitudini legem imponere, ex hoc enim ipso videntur approbare quod consuetudo induxit.
+
+@@ I-II q. 97 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod rectores multitudinis non possint in legibus humanis dispensare. Lex enim statuta est pro communi utilitate, ut Isidorus dicit. Sed bonum commune non debet intermitti pro privato commodo alicuius personae, quia, ut dicit philosophus, in I Ethic., bonum gentis divinius est quam bonum unius hominis. Ergo videtur quod non debeat dispensari cum aliquo ut contra legem communem agat.
+
+@@ I-II q. 97 a. 4 arg. 2
+Praeterea, illis qui super alios constituuntur, praecipitur Deut. I, ita parvum audietis ut magnum, nec accipietis cuiusquam personam, quia Dei iudicium est. Sed concedere alicui quod communiter denegatur omnibus, videtur esse acceptio personarum. Ergo huiusmodi dispensationes facere rectores multitudinis non possunt, cum hoc sit contra praeceptum legis divinae.
+
+@@ I-II q. 97 a. 4 arg. 3
+Praeterea, lex humana, si sit recta, oportet quod consonet legi naturali et legi divinae, aliter enim non congrueret religioni, nec conveniret disciplinae, quod requiritur ad legem, ut Isidorus dicit. Sed in lege divina et naturali nullus homo potest dispensare. Ergo nec etiam in lege humana.
+
+@@ I-II q. 97 a. 4 s. c.
+Sed contra est quod dicit apostolus, I ad Cor. IX, dispensatio mihi credita est.
+
+@@ I-II q. 97 a. 4 co.
+Respondeo dicendum quod dispensatio proprie importat commensurationem alicuius communis ad singula, unde etiam gubernator familiae dicitur dispensator, inquantum unicuique de familia cum pondere et mensura distribuit et operationes et necessaria vitae. Sic igitur et in quacumque multitudine ex eo dicitur aliquis dispensare, quod ordinat qualiter aliquod commune praeceptum sit a singulis adimplendum. Contingit autem quandoque quod aliquod praeceptum quod est ad commodum multitudinis ut in pluribus, non est conveniens huic personae, vel in hoc casu, quia vel per hoc impediretur aliquid melius, vel etiam induceretur aliquod malum, sicut ex supradictis patet. Periculosum autem esset ut hoc iudicio cuiuslibet committeretur, nisi forte propter evidens et subitum periculum, ut supra dictum est. Et ideo ille qui habet regere multitudinem, habet potestatem dispensandi in lege humana quae suae auctoritati innititur, ut scilicet in personis vel casibus in quibus lex deficit, licentiam tribuat ut praeceptum legis non servetur. Si autem absque hac ratione, pro sola voluntate, licentiam tribuat, non erit fidelis in dispensatione, aut erit imprudens, infidelis quidem, si non habeat intentionem ad bonum commune; imprudens autem, si rationem dispensandi ignoret. Propter quod dominus dicit, Lucae XII, quis, putas, est fidelis dispensator et prudens, quem constituit dominus super familiam suam?
+
+@@ I-II q. 97 a. 4 ad 1
+Ad primum ergo dicendum quod, quando cum aliquo dispensatur ut legem communem non servet, non debet fieri in praeiudicium boni communis; sed ea intentione ut ad bonum commune proficiat.
+
+@@ I-II q. 97 a. 4 ad 2
+Ad secundum dicendum quod non est acceptio personarum si non serventur aequalia in personis inaequalibus. Unde quando conditio alicuius personae requirit ut rationabiliter in ea aliquid specialiter observetur, non est personarum acceptio si sibi aliqua specialis gratia fiat.
+
+@@ I-II q. 97 a. 4 ad 3
+Ad tertium dicendum quod lex naturalis inquantum continet praecepta communia, quae nunquam fallunt, dispensationem recipere non potest. In aliis vero praeceptis, quae sunt quasi conclusiones praeceptorum communium, quandoque per hominem dispensatur, puta quod mutuum non reddatur proditori patriae, vel aliquid huiusmodi. Ad legem autem divinam ita se habet quilibet homo, sicut persona privata ad legem publicam cui subiicitur. Unde sicut in lege humana publica non potest dispensare nisi ille a quo lex auctoritatem habet, vel is cui ipse commiserit; ita in praeceptis iuris divini, quae sunt a Deo, nullus potest dispensare nisi Deus, vel si cui ipse specialiter committeret.

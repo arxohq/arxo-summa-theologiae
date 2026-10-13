@@ -1,0 +1,71 @@
+// Прикладной канон respondeo II-II qq. 123-140.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_fortitudine version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-fortitudine";
+
+use self::{
+    ST_II_II_Q123_A1_RESP,
+    ST_II_II_Q124_A1_RESP,
+    ST_II_II_Q125_A1_RESP,
+    ST_II_II_Q129_A1_RESP,
+    Subject,
+    fear_presented,
+    fortitude_presented,
+    magnanimity_presented,
+    martyrdom_presented,
+    presented,
+};
+
+pub relation fortitude_is_virtue(s: Subject) kind institutional {
+    label la official "fortitudo est virtus";
+    label ru unofficial "мужество есть добродетель";
+}
+
+@source(ST_II_II_Q123_A1_RESP)
+rule FortitudeIsVirtue(s: Subject) strict {
+    label la official "fortitudo est virtus";
+    label ru unofficial "мужество есть добродетель";
+    when presented(s) and fortitude_presented(s);
+    then fortitude_is_virtue(s);
+}
+
+pub relation martyrdom_is_act(s: Subject) kind institutional {
+    label la official "martyrium est actus fortitudinis";
+    label ru unofficial "мученичество — акт мужества";
+}
+
+@source(ST_II_II_Q124_A1_RESP)
+rule MartyrdomActOfFortitude(s: Subject) strict {
+    label la official "martyrium est actus fortitudinis";
+    label ru unofficial "мученичество — акт мужества";
+    when presented(s) and martyrdom_presented(s);
+    then martyrdom_is_act(s);
+}
+
+pub relation fear_can_be_sin(s: Subject) kind institutional {
+    label la official "timor potest esse peccatum";
+    label ru unofficial "страх может быть грехом";
+}
+
+@source(ST_II_II_Q125_A1_RESP)
+rule FearCanBeSin(s: Subject) strict {
+    label la official "timor potest esse peccatum";
+    label ru unofficial "страх может быть грехом";
+    when presented(s) and fear_presented(s);
+    then fear_can_be_sin(s);
+}
+
+pub relation magnanimity_is_virtue(s: Subject) kind institutional {
+    label la official "magnanimitas est virtus";
+    label ru unofficial "великодушие есть добродетель";
+}
+
+@source(ST_II_II_Q129_A1_RESP)
+rule MagnanimityVirtue(s: Subject) strict {
+    label la official "magnanimitas est virtus";
+    label ru unofficial "великодушие есть добродетель";
+    when presented(s) and magnanimity_presented(s);
+    then magnanimity_is_virtue(s);
+}
+

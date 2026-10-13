@@ -1,0 +1,109 @@
+// q.92, q.95-96: действия и пределы человеческого закона.
+// q.96 a.4 моделируется именно дефитером: несправедливость против человеческого
+// блага снимает prima-facie кандидат обязанности совести, не выводя автоматически
+// противоположный моральный запрет. Исключение ради scandalum/turbatio записано
+// отдельным практическим основанием терпеть исполнение, но не возвращает моральную
+// силу несправедливому закону.
+
+language "law.core" version "0.2";
+package la.aquinas.summa_theologiae_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-theologiae-law";
+
+use self::{
+    Law,
+    ST_Q92_A2_RESP,
+    ST_Q96_A2_RESP,
+    ST_Q96_A4_RESP,
+    Vice,
+    operative_law,
+};
+
+enum LawEffect {
+    Command;
+    Prohibition;
+    Permission;
+    Punishment;
+    label la official "actus legis";
+    label ru unofficial "вид действия закона";
+}
+relation has_law_effect(l: Law, effect: LawEffect) kind institutional {
+    label la official "lex hunc actum exercet";
+    label ru unofficial "закон имеет указанное действие";
+}
+
+@source(ST_Q92_A2_RESP)
+rule LawCommands(l: Law) strict { when operative_law(l); then has_law_effect(l, Command); label la official "actus legis est praecipere"; label ru unofficial "закон предписывает"; }
+@source(ST_Q92_A2_RESP)
+rule LawProhibits(l: Law) strict { when operative_law(l); then has_law_effect(l, Prohibition); label la official "actus legis est prohibere"; label ru unofficial "закон запрещает"; }
+@source(ST_Q92_A2_RESP)
+rule LawPermits(l: Law) strict { when operative_law(l); then has_law_effect(l, Permission); label la official "actus legis est permittere"; label ru unofficial "закон дозволяет"; }
+@source(ST_Q92_A2_RESP)
+rule LawPunishes(l: Law) strict { when operative_law(l); then has_law_effect(l, Punishment); label la official "actus legis est punire"; label ru unofficial "закон наказывает"; }
+
+relation lesser_vice(v: Vice) kind empirical { label la official "vitium minus grave est"; label ru unofficial "порок не относится к наиболее тяжким"; }
+relation majority_cannot_abstain_without_virtue(v: Vice) kind empirical { label la official "multitudo imperfecta ab hoc abstinere non potest nisi virtuosa sit"; label ru unofficial "большинство не способно воздержаться от порока без совершенной добродетели"; }
+relation grave_vice(v: Vice) kind empirical { label la official "vitium grave est"; label ru unofficial "порок является тяжким"; }
+relation harms_others(v: Vice) kind empirical { label la official "vitium in nocumentum aliorum vergit"; label ru unofficial "порок причиняет вред другим"; }
+pub relation may_remain_unprohibited(v: Vice) kind institutional { label la official "lex humana potest hoc vitium non prohibere"; label ru unofficial "человеческий закон вправе оставить порок незапрещённым"; }
+pub relation should_be_prohibited_by_human_law(v: Vice) kind institutional { label la official "vitium lege humana prohibendum est"; label ru unofficial "порок должен запрещаться человеческим законом"; }
+
+@source(ST_Q96_A2_RESP)
+rule LesserViceMayRemainUnprohibited(v: Vice) strict {
+    label la official "lex humana non prohibet omnia vitia, sed ea a quibus maior pars abstinere potest";
+    label ru unofficial "менее тяжкий порок, от которого большинство не может воздержаться без добродетели, допустимо не запрещать";
+    when lesser_vice(v) and majority_cannot_abstain_without_virtue(v);
+    then may_remain_unprohibited(v);
+}
+@source(ST_Q96_A2_RESP)
+rule GraveHarmfulViceShouldBeProhibited(v: Vice) strict {
+    label la official "graviora vitia, praecipue quae sunt in nocumentum aliorum, prohibentur";
+    label ru unofficial "тяжкие пороки, особенно вредящие другим, должны запрещаться";
+    when grave_vice(v) and harms_others(v);
+    then should_be_prohibited_by_human_law(v);
+}
+
+relation enacted_human_law(l: Law) kind empirical { label la official "lex humanitus posita est"; label ru unofficial "человеческий закон установлен"; }
+relation just_in_end_author_and_form(l: Law) kind empirical { label la official "lex iusta est ex fine, auctore et forma"; label ru unofficial "закон справедлив по цели, автору и форме"; }
+relation contrary_to_human_good(l: Law) kind empirical { label la official "lex bono humano adversatur"; label ru unofficial "закон противоречит человеческому благу"; }
+relation contrary_to_divine_good(l: Law) kind empirical { label la official "lex bono divino adversatur"; label ru unofficial "закон противоречит божественному благу"; }
+relation scandal_or_disturbance_without_compliance(l: Law) kind empirical { label la official "ex inoboedientia scandalum vel turbatio sequeretur"; label ru unofficial "неисполнение вызовет соблазн или общественное возмущение"; }
+pub relation binds_in_conscience(l: Law) kind institutional { label la official "lex in foro conscientiae obligat"; label ru unofficial "закон обязывает в совести"; }
+pub relation compliance_tolerated_to_avoid_scandal(l: Law) kind institutional { label la official "servatur ad vitandum scandalum vel turbationem"; label ru unofficial "исполнение терпимо ради предотвращения соблазна или возмущения"; }
+pub relation must_not_be_obeyed(l: Law) kind institutional { label la official "lex nullo modo observanda est"; label ru unofficial "закон не должен исполняться"; }
+
+@source(ST_Q96_A4_RESP)
+rule JustHumanLawBindsConscience(l: Law) strict {
+    label la official "leges iustae habent vim obligandi in foro conscientiae";
+    label ru unofficial "справедливый человеческий закон обязывает в совести";
+    when enacted_human_law(l) and just_in_end_author_and_form(l);
+    then binds_in_conscience(l);
+}
+@source(ST_Q96_A4_RESP)
+rule HumanLawClaimsConscienceBinding(l: Law) defeasible {
+    label la official "lex humanitus posita prima facie obligare praetendit";
+    label ru unofficial "установленный человеческий закон prima facie претендует на обязательность в совести";
+    when enacted_human_law(l);
+    then binds_in_conscience(l);
+}
+@source(ST_Q96_A4_RESP)
+rule HumanGoodInjusticeDefeatsConscienceBinding(l: Law) defeater {
+    label la official "leges iniustae contra bonum humanum non obligant in foro conscientiae";
+    label ru unofficial "несправедливость против человеческого блага снимает обязательность закона в совести";
+    when enacted_human_law(l) and contrary_to_human_good(l);
+    defeat binds_in_conscience(l);
+}
+@source(ST_Q96_A4_RESP)
+rule AvoidScandalWithoutMoralValidation(l: Law) strict {
+    label la official "iniusta tolerantur propter vitandum scandalum vel turbationem";
+    label ru unofficial "несправедливое установление может соблюдаться ради предотвращения соблазна или возмущения без признания его моральной силы";
+    when contrary_to_human_good(l) and scandal_or_disturbance_without_compliance(l);
+    then compliance_tolerated_to_avoid_scandal(l);
+}
+@source(ST_Q96_A4_RESP)
+rule DivineGoodContraryLawMustNotBeObeyed(l: Law) strict {
+    label la official "leges contra bonum divinum nullo modo licet observare";
+    label ru unofficial "закон против божественного блага исполнять нельзя";
+    when enacted_human_law(l) and contrary_to_divine_good(l);
+    then must_not_be_obeyed(l);
+}
+

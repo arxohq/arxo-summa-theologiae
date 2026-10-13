@@ -1,0 +1,99 @@
+// Прикладной канон respondeo III qq. 60-90.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.iii_sacramentis version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-iii-sacramentis";
+
+use self::{
+    ST_III_Q60_A1_RESP,
+    ST_III_Q62_A1_RESP,
+    ST_III_Q66_A1_RESP,
+    ST_III_Q73_A1_RESP,
+    ST_III_Q75_A1_RESP,
+    ST_III_Q84_A1_RESP,
+    Subject,
+    baptism_presented,
+    eucharist_presented,
+    penance_presented,
+    presented,
+    sacrament_presented,
+};
+
+pub relation sacrament_is_sign(s: Subject) kind institutional {
+    label la official "sacramentum est signum";
+    label ru unofficial "таинство есть знак";
+}
+
+@source(ST_III_Q60_A1_RESP)
+rule SacramentIsSign(s: Subject) strict {
+    label la official "sacramentum est signum";
+    label ru unofficial "таинство есть знак";
+    when presented(s) and sacrament_presented(s);
+    then sacrament_is_sign(s);
+}
+
+pub relation sacraments_cause_grace(s: Subject) kind institutional {
+    label la official "sacramenta causant gratiam";
+    label ru unofficial "таинства причиняют благодать";
+}
+
+@source(ST_III_Q62_A1_RESP)
+rule SacramentsCauseGrace(s: Subject) strict {
+    label la official "sacramenta causant gratiam";
+    label ru unofficial "таинства причиняют благодать";
+    when presented(s) and sacrament_presented(s);
+    then sacraments_cause_grace(s);
+}
+
+pub relation baptism_is_sacrament(s: Subject) kind institutional {
+    label la official "baptismus est sacramentum";
+    label ru unofficial "крещение есть таинство";
+}
+
+@source(ST_III_Q66_A1_RESP)
+rule BaptismSacrament(s: Subject) strict {
+    label la official "baptismus est sacramentum";
+    label ru unofficial "крещение есть таинство";
+    when presented(s) and baptism_presented(s);
+    then baptism_is_sacrament(s);
+}
+
+pub relation eucharist_is_sacrament(s: Subject) kind institutional {
+    label la official "eucharistia est sacramentum";
+    label ru unofficial "Евхаристия есть таинство";
+}
+
+@source(ST_III_Q73_A1_RESP)
+rule EucharistSacrament(s: Subject) strict {
+    label la official "eucharistia est sacramentum";
+    label ru unofficial "Евхаристия есть таинство";
+    when presented(s) and eucharist_presented(s);
+    then eucharist_is_sacrament(s);
+}
+
+pub relation real_presence(s: Subject) kind institutional {
+    label la official "in hoc sacramento est verum corpus Christi";
+    label ru unofficial "в этом таинстве есть истинное тело Христа";
+}
+
+@source(ST_III_Q75_A1_RESP)
+rule RealPresence(s: Subject) strict {
+    label la official "in hoc sacramento est verum corpus Christi";
+    label ru unofficial "в этом таинстве есть истинное тело Христа";
+    when presented(s) and eucharist_presented(s);
+    then real_presence(s);
+}
+
+pub relation penance_is_sacrament(s: Subject) kind institutional {
+    label la official "paenitentia est sacramentum";
+    label ru unofficial "покаяние есть таинство";
+}
+
+@source(ST_III_Q84_A1_RESP)
+rule PenanceSacrament(s: Subject) strict {
+    label la official "paenitentia est sacramentum";
+    label ru unofficial "покаяние есть таинство";
+    when presented(s) and penance_presented(s);
+    then penance_is_sacrament(s);
+}
+

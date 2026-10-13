@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:1fcedf996a0eeafa29543dac4600ab27fb619a54ad26816dbc2fe7eefca7e7e9",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:72b5b96fcaf87b95c1c7c9efab5eb05ffdb1e4f45c91b1f26a2246058ccf4874",
+    "name": "la.aquinas.summa_theologiae_law",
+    "namespace": "urn:la:aquinas:clir:summa-theologiae-law",
+    "sourceHash": "sha256:ff15f51a2675b4ba0c63931edc54b0aaea58e1daad204c26ff2d67e9f6e0b8ee",
+    "version": "0.1.0"
+  }
+}

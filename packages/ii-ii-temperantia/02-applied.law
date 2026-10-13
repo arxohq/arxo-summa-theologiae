@@ -1,0 +1,71 @@
+// Прикладной канон respondeo II-II qq. 141-170.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_temperantia version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-temperantia";
+
+use self::{
+    ST_II_II_Q141_A1_RESP,
+    ST_II_II_Q142_A1_RESP,
+    ST_II_II_Q151_A1_RESP,
+    ST_II_II_Q155_A1_RESP,
+    Subject,
+    chastity_presented,
+    continence_presented,
+    intemperance_presented,
+    presented,
+    temperance_presented,
+};
+
+pub relation temperance_is_virtue(s: Subject) kind institutional {
+    label la official "temperantia est virtus";
+    label ru unofficial "воздержание есть добродетель";
+}
+
+@source(ST_II_II_Q141_A1_RESP)
+rule TemperanceIsVirtue(s: Subject) strict {
+    label la official "temperantia est virtus";
+    label ru unofficial "воздержание есть добродетель";
+    when presented(s) and temperance_presented(s);
+    then temperance_is_virtue(s);
+}
+
+pub relation intemperance_is_vice(s: Subject) kind institutional {
+    label la official "intemperantia est vitium";
+    label ru unofficial "невоздержание есть порок";
+}
+
+@source(ST_II_II_Q142_A1_RESP)
+rule IntemperanceVice(s: Subject) strict {
+    label la official "intemperantia est vitium";
+    label ru unofficial "невоздержание есть порок";
+    when presented(s) and intemperance_presented(s);
+    then intemperance_is_vice(s);
+}
+
+pub relation chastity_is_virtue(s: Subject) kind institutional {
+    label la official "castitas est virtus";
+    label ru unofficial "целомудрие есть добродетель";
+}
+
+@source(ST_II_II_Q151_A1_RESP)
+rule ChastityVirtue(s: Subject) strict {
+    label la official "castitas est virtus";
+    label ru unofficial "целомудрие есть добродетель";
+    when presented(s) and chastity_presented(s);
+    then chastity_is_virtue(s);
+}
+
+pub relation continence_is_virtue(s: Subject) kind institutional {
+    label la official "continentia est virtus";
+    label ru unofficial "воздержность есть добродетель";
+}
+
+@source(ST_II_II_Q155_A1_RESP)
+rule ContinenceVirtue(s: Subject) strict {
+    label la official "continentia est virtus";
+    label ru unofficial "воздержность есть добродетель";
+    when presented(s) and continence_presented(s);
+    then continence_is_virtue(s);
+}
+

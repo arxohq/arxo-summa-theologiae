@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:0df9ff0bb3b08f0b088b702d0944591a3b00a16958e8f5adff0da7f6fa19e265",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:36d8a8fa1b21aa414c520cc2dcd1bbf111bab1c0c7645586121b13fb6b06b6fd",
+    "name": "la.aquinas.summa.i_de_sex_diebus",
+    "namespace": "urn:la:aquinas:clir:summa-i-de-sex-diebus",
+    "sourceHash": "sha256:e7d3b8cf501d1e44b38538004760b2ac11fe813d9a790b9d62be86de59c0a8d6",
+    "version": "0.1.0"
+  }
+}

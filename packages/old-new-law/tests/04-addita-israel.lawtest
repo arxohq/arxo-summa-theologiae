@@ -1,0 +1,22 @@
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_old_new_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-old-new-law";
+
+test "urn:query:old-new-04-addita-israel" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "a0": belongs_to(entity_ref("urn:case:st:precept:sabbata"), entity_ref("urn:case:st:law:vetus")) { origin case_input; }
+        assert "a1": is_old_law(entity_ref("urn:case:st:law:vetus")) { origin case_input; }
+        assert "a2": added_beyond_nature(entity_ref("urn:case:st:precept:sabbata")) { origin case_input; }
+        assert "a3": of_israel(entity_ref("urn:case:st:people:israel")) { origin case_input; }
+    }
+    evaluate truth(binds_israel_only(entity_ref("urn:case:st:precept:sabbata"), entity_ref("urn:case:st:people:israel")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}

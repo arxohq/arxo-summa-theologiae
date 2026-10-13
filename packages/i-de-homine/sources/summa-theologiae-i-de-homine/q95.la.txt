@@ -1,0 +1,128 @@
+@@ I q. 95 pr.
+Deinde considerandum est de his quae pertinent ad voluntatem primi hominis. Et circa hoc consideranda sunt duo, primo quidem, de gratia et iustitia primi hominis; secundo, de usu iustitiae quantum ad dominium super alia. Circa primum quaeruntur quatuor. Primo, utrum primus homo creatus fuerit in gratia. Secundo, utrum in statu innocentiae habuerit animae passiones. Tertio, utrum habuit virtutes omnes. Quarto, utrum opera eius fuissent aeque efficacia ad merendum, sicut modo sunt.
+
+@@ I q. 95 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod primus homo non fuerit creatus in gratia. Apostolus enim, I Cor. XV, distinguens Adam a Christo, dicit, factus est primus Adam in animam viventem; novissimus autem in spiritum vivificantem. Sed vivificatio spiritus est per gratiam. Ergo hoc est proprium Christi, quod fuerit factus in gratia.
+
+@@ I q. 95 a. 1 arg. 2
+Praeterea, Augustinus dicit, in libro de quaestionibus veteris et novi testamenti, quod Adam non habuit spiritum sanctum. Sed quicumque habet gratiam, habet spiritum sanctum. Ergo Adam non fuit creatus in gratia.
+
+@@ I q. 95 a. 1 arg. 3
+Praeterea, Augustinus dicit, in libro de correptione et gratia, quod Deus sic ordinavit Angelorum et hominum vitam, ut prius in eis ostenderet quid posset eorum liberum arbitrium, deinde quid posset suae gratiae beneficium, iustitiaeque iudicium. Primo ergo condidit hominem et Angelum in sola naturali arbitrii libertate, et postmodum eis gratiam contulit.
+
+@@ I q. 95 a. 1 arg. 4
+Praeterea, Magister dicit, in XXIV distinctione libri II Sent., quod homini in creatione datum est auxilium per quod stare poterat, sed non poterat proficere. Quicumque autem habet gratiam, potest proficere per meritum. Ergo primus homo non fuit creatus in gratia.
+
+@@ I q. 95 a. 1 arg. 5
+Praeterea, ad hoc quod aliquis accipiat gratiam, requiritur consensus ex parte recipientis, cum per hoc perficiatur matrimonium quoddam spirituale inter Deum et animam. Sed consensus in gratiam esse non potest nisi prius existentis. Ergo homo non accepit gratiam in primo instanti suae creationis.
+
+@@ I q. 95 a. 1 arg. 6
+Praeterea, natura plus distat a gratia quam gratia a gloria, quae nihil est aliud quam gratia consummata. Sed in homine gratia praecessit gloriam. Ergo multo magis natura praecessit gratiam.
+
+@@ I q. 95 a. 1 s. c.
+Sed contra, homo et Angelus aequaliter ordinantur ad gratiam. Sed Angelus est creatus in gratia, dicit enim Augustinus, XII de Civ. Dei, quod Deus simul erat in eis condens naturam et largiens gratiam. Ergo et homo creatus fuit in gratia.
+
+@@ I q. 95 a. 1 co.
+Respondeo dicendum quod quidam dicunt quod primus homo non fuit quidem creatus in gratia, sed tamen postmodum gratia fuit sibi collata antequam peccasset, plurimae enim sanctorum auctoritates attestantur hominem in statu innocentiae gratiam habuisse. Sed quod etiam fuerit conditus in gratia, ut alii dicunt, videtur requirere ipsa rectitudo primi status, in qua Deus hominem fecit, secundum illud Eccle. VII, Deus fecit hominem rectum. Erat enim haec rectitudo secundum hoc, quod ratio subdebatur Deo, rationi vero inferiores vires, et animae corpus. Prima autem subiectio erat causa et secundae et tertiae, quandiu enim ratio manebat Deo subiecta, inferiora ei subdebantur, ut Augustinus dicit. Manifestum est autem quod illa subiectio corporis ad animam, et inferiorum virium ad rationem, non erat naturalis, alioquin post peccatum mansisset, cum etiam in Daemonibus data naturalia post peccatum permanserint, ut Dionysius dicit cap. IV de Div. Nom. Unde manifestum est quod et illa prima subiectio, qua ratio Deo subdebatur, non erat solum secundum naturam, sed secundum supernaturale donum gratiae, non enim potest esse quod effectus sit potior quam causa. Unde Augustinus dicit, XIII de Civ. Dei, quod posteaquam praecepti facta transgressio est, confestim, gratia deserente divina, de corporum suorum nuditate confusi sunt, senserunt enim motum inobedientis carnis suae, tanquam reciprocam poenam inobedientiae suae. Ex quo datur intelligi, si deserente gratia soluta est obedientia carnis ad animam, quod per gratiam in anima existentem inferiora ei subdebantur.
+
+@@ I q. 95 a. 1 ad 1
+Ad primum ergo dicendum quod apostolus illa verba inducit ad ostendendum esse corpus spirituale, si est corpus animale, quia vita spiritualis corporis incoepit in Christo, qui est primogenitus ex mortuis, sicut vita corporis animalis incoepit in Adam. Non ergo ex verbis apostoli habetur quod Adam non fuit spiritualis secundum animam; sed quod non fuit spiritualis secundum corpus.
+
+@@ I q. 95 a. 1 ad 2
+Ad secundum dicendum quod, sicut Augustinus dicit in eodem loco, non negatur quin aliquo modo fuerit in Adam spiritus sanctus, sicut et in aliis iustis, sed quod non sic fuerit in eo, sicut nunc est in fidelibus, qui admittuntur ad perceptionem haereditatis aeternae statim post mortem.
+
+@@ I q. 95 a. 1 ad 3
+Ad tertium dicendum quod ex illa auctoritate Augustini non habetur quod Angelus vel homo prius fuerit creatus in naturali libertate arbitrii, quam habuisset gratiam, sed quod prius ostendit quid in eis posset liberum arbitrium ante confirmationem, et quid postmodum consecuti sunt per auxilium gratiae confirmantis.
+
+@@ I q. 95 a. 1 ad 4
+Ad quartum dicendum quod Magister loquitur secundum opinionem illorum qui posuerunt hominem non esse creatum in gratia, sed in naturalibus tantum. Vel potest dici quod, etsi homo fuerit creatus in gratia, non tamen habuit ex creatione naturae quod posset proficere per meritum, sed ex superadditione gratiae.
+
+@@ I q. 95 a. 1 ad 5
+Ad quintum dicendum quod, cum motus voluntatis non sit continuus, nihil prohibet etiam in primo instanti suae creationis primum hominem gratiae consensisse.
+
+@@ I q. 95 a. 1 ad 6
+Ad sextum dicendum quod gloriam meremur per actum gratiae, non autem gratiam per actum naturae. Unde non est similis ratio.
+
+@@ I q. 95 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod in primo homine non fuerint animae passiones. Secundum enim passiones animae contingit quod caro concupiscit adversus spiritum. Sed hoc non erat in statu innocentiae. Ergo in statu innocentiae non erant animae passiones.
+
+@@ I q. 95 a. 2 arg. 2
+Praeterea, anima Adae erat nobilior quam corpus. Sed corpus Adae fuit impassibile. Ergo nec in anima eius fuerunt passiones.
+
+@@ I q. 95 a. 2 arg. 3
+Praeterea, per virtutem moralem comprimuntur animae passiones. Sed in Adam fuit virtus moralis perfecta. Ergo totaliter passiones excludebantur ab eo.
+
+@@ I q. 95 a. 2 s. c.
+Sed contra est quod dicit Augustinus, XIV de Civ. Dei, quod erat in eis amor imperturbatus in Deum, et quaedam aliae animae passiones.
+
+@@ I q. 95 a. 2 co.
+Respondeo dicendum quod passiones animae sunt in appetitu sensuali, cuius obiectum est bonum et malum. Unde omnium passionum animae quaedam ordinantur ad bonum, ut amor et gaudium; quaedam ad malum, ut timor et dolor. Et quia in primo statu nullum malum aderat nec imminebat; nec aliquod bonum aberat, quod cuperet bona voluntas pro tempore illo habendum, ut patet per Augustinum XIV de Civ. Dei, omnes illae passiones quae respiciunt malum, in Adam non erant ut timor et dolor et huiusmodi; similiter nec illae passiones quae respiciunt bonum non habitum et nunc habendum, ut cupiditas aestuans. Illae vero passiones quae possunt esse boni praesentis, ut gaudium et amor; vel quae sunt futuri boni ut suo tempore habendi, ut desiderium et spes non affligens; fuerunt in statu innocentiae. Aliter tamen quam in nobis. Nam in nobis appetitus sensualis, in quo sunt passiones, non totaliter subest rationi, unde passiones quandoque sunt in nobis praevenientes iudicium rationis, et impedientes; quandoque vero ex iudicio rationis consequentes, prout sensualis appetitus aliqualiter rationi obedit. In statu vero innocentiae inferior appetitus erat rationi totaliter subiectus, unde non erant in eo passiones animae, nisi ex rationis iudicio consequentes.
+
+@@ I q. 95 a. 2 ad 1
+Ad primum ergo dicendum quod caro concupiscit adversus spiritum, per hoc quod passiones rationi repugnant, quod in statu innocentiae non erat.
+
+@@ I q. 95 a. 2 ad 2
+Ad secundum dicendum quod corpus humanum in statu innocentiae erat impassibile quantum ad passiones quae removent dispositionem naturalem, ut infra dicetur. Et similiter anima fuit impassibilis quantum ad passiones quae impediunt rationem.
+
+@@ I q. 95 a. 2 ad 3
+Ad tertium dicendum quod perfecta virtus moralis non totaliter tollit passiones, sed ordinat eas, temperati enim est concupiscere sicut oportet, et quae oportet, ut dicitur in III Ethic.
+
+@@ I q. 95 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod Adam non habuerit omnes virtutes. Quaedam enim virtutes ordinantur ad refraenandam immoderantiam passionum; sicut per temperantiam refraenatur immoderata concupiscentia, et per fortitudinem immoderatus timor. Sed immoderantia passionum non erat in statu innocentiae. Ergo nec dictae virtutes.
+
+@@ I q. 95 a. 3 arg. 2
+Praeterea, quaedam virtutes sunt circa passiones respicientes malum; ut mansuetudo circa iras, et fortitudo circa timores. Sed tales passiones non erant in statu innocentiae, ut dictum est. Ergo nec huiusmodi virtutes.
+
+@@ I q. 95 a. 3 arg. 3
+Praeterea, poenitentia est quaedam virtus respiciens peccatum prius commissum. Misericordia etiam est quaedam virtus respiciens miseriam. Sed in statu innocentiae non erat peccatum nec miseria. Ergo neque huiusmodi virtutes.
+
+@@ I q. 95 a. 3 arg. 4
+Praeterea, perseverantia est quaedam virtus. Sed hanc Adam non habuit; ut sequens peccatum ostendit. Ergo non habuit omnes virtutes.
+
+@@ I q. 95 a. 3 arg. 5
+Praeterea, fides quaedam virtus est. Sed haec in statu innocentiae non fuit, importat enim aenigmaticam cognitionem, quae perfectioni primi status repugnare videtur.
+
+@@ I q. 95 a. 3 s. c.
+Sed contra est quod Augustinus dicit, in quadam homilia, princeps vitiorum devicit Adam de limo terrae ad imaginem Dei factum, pudicitia armatum, temperantia compositum, claritate splendidum.
+
+@@ I q. 95 a. 3 co.
+Respondeo dicendum quod homo in statu innocentiae aliqualiter habuit omnes virtutes. Et hoc ex dictis potest esse manifestum. Dictum est enim supra quod talis erat rectitudo primi status, quod ratio erat Deo subiecta, inferiores autem vires rationi. Virtutes autem nihil aliud sunt quam perfectiones quaedam, quibus ratio ordinatur in Deum, et inferiores vires disponuntur secundum regulam rationis; ut magis patebit cum de virtutibus agetur. Unde rectitudo primi status exigebat ut homo aliqualiter omnes virtutes haberet. Sed considerandum est quod virtutum quaedam sunt, quae de sui ratione nullam imperfectionem important, ut caritas et iustitia. Et huiusmodi virtutes fuerunt in statu innocentiae simpliciter, et quantum ad habitum et quantum ad actum. Quaedam vero sunt, quae de sui ratione imperfectionem important, vel ex parte actus vel ex parte materiae. Et si huiusmodi imperfectio non repugnat perfectioni primi status, nihilominus huiusmodi virtutes poterant esse in primo statu; sicut fides, quae est eorum quae non videntur, et spes, quae est eorum quae non habentur. Perfectio enim primi status non se extendebat ad hoc, ut videret Deum per essentiam, et ut haberet eum cum fruitione finalis beatitudinis, unde fides et spes esse poterant in primo statu, et quantum ad habitum et quantum ad actum. Si vero imperfectio quae est de ratione virtutis alicuius, repugnat perfectioni primi status, poterat huiusmodi virtus ibi esse secundum habitum, sed non secundum actum, ut patet de poenitentia, quae est dolor de peccato commisso, et de misericordia, quae est dolor de miseria aliena; perfectioni enim primi status repugnat tam dolor, quam culpa et miseria. Unde huiusmodi virtutes erant in primo homine secundum habitum, sed non secundum actum, erat enim primus homo sic dispositus, ut si peccatum praecessisset, doleret; et similiter si miseriam in alio videret, eam pro posse repelleret. Sicut philosophus dicit, in IV Ethic., quod verecundia, quae est de turpi facto, contingit studioso solum sub conditione, est enim sic dispositus, quod verecundaretur si turpe aliquid committeret.
+
+@@ I q. 95 a. 3 ad 1
+Ad primum ergo dicendum quod accidit temperantiae et fortitudini quod superabundantiam passionum repellat, inquantum invenit passiones superabundantes in subiecto. Sed per se convenit huiusmodi virtutibus passiones moderari.
+
+@@ I q. 95 a. 3 ad 2
+Ad secundum dicendum quod illae passiones ad malum ordinatae, repugnant perfectioni primi status, quae habent respectum ad malum in ipso qui afficitur passione, ut timor et dolor. Sed passiones quae respiciunt malum in altero, non repugnant perfectioni primi status, poterat enim homo in primo statu habere odio malitiam Daemonum, sicut et diligere bonitatem Dei. Unde et virtutes quae circa tales passiones essent, possent esse in primo statu, et quantum ad habitum et quantum ad actum. Quae vero sunt circa passiones respicientes malum in eodem subiecto, si circa huiusmodi solas passiones sunt, non poterant esse in primo statu secundum actum, sed solum secundum habitum; sicut de poenitentia et misericordia dictum est. Sed sunt quaedam virtutes quae non sunt circa has passiones solum, sed etiam circa alias; sicut temperantia, quae non solum est circa tristitias, sed etiam circa delectationes; et fortitudo, quae non solum est circa timores, sed etiam circa audaciam et spem. Unde poterat esse in primo statu actus temperantiae, secundum quod est moderativa delectationum; et similiter fortitudo, secundum quod est moderativa audaciae sive spei; non autem secundum quod moderantur tristitiam et timorem.
+
+@@ I q. 95 a. 3 ad 3
+Ad tertium patet solutio ex his quae dicta sunt.
+
+@@ I q. 95 a. 3 ad 4
+Ad quartum dicendum quod perseverantia dupliciter sumitur. Uno modo, prout est quaedam virtus, et sic significat quendam habitum, quo quis eligit perseverare in bono. Et sic Adam perseverantiam habuit. Alio modo, prout est circumstantia virtutis, et sic significat continuationem quandam virtutis absque interruptione. Et hoc modo Adam perseverantiam non habuit.
+
+@@ I q. 95 a. 3 ad 5
+Ad quintum patet responsio per ea quae dicta sunt.
+
+@@ I q. 95 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod opera primi hominis fuerint minus efficacia ad merendum quam opera nostra. Gratia enim ex Dei misericordia datur, quae magis indigentibus subvenit magis. Sed nos indigemus magis gratia quam primus homo in statu innocentiae. Ergo copiosius infunditur nobis gratia. Quae cum sit radix meriti, opera nostra efficaciora ad merendum redduntur.
+
+@@ I q. 95 a. 4 arg. 2
+Praeterea, ad meritum requiritur pugna quaedam et difficultas. Dicitur enim II ad Tim. II, non coronabitur nisi qui legitime certaverit. Et philosophus dicit, in II Ethic., quod virtus est circa difficile et bonum. Sed nunc est maior pugna et difficultas. Ergo et maior efficacia ad merendum.
+
+@@ I q. 95 a. 4 arg. 3
+Praeterea, Magister dicit, XXIV distinctione II libri Sent., quod homo non meruisset, tentationi resistendo; nunc autem meretur qui tentationi resistit. Ergo efficaciora sunt opera nostra ad merendum quam in primo statu.
+
+@@ I q. 95 a. 4 s. c.
+Sed contra est quia secundum hoc, homo esset melioris conditionis post peccatum.
+
+@@ I q. 95 a. 4 co.
+Respondeo dicendum quod quantitas meriti ex duobus potest pensari. Uno modo, ex radice caritatis et gratiae. Et talis quantitas meriti respondet praemio essentiali, quod consistit in Dei fruitione, qui enim ex maiori caritate aliquid facit, perfectius Deo fruetur. Alio modo pensari potest quantitas meriti ex quantitate operis. Quae quidem est duplex, scilicet absoluta, et proportionalis. Vidua enim quae misit duo aera minuta in gazophylacium; minus opus fecit quantitate absoluta, quam illi qui magna munera posuerunt, sed quantitate proportionali vidua plus fecit, secundum sententiam domini, quia magis eius facultatem superabat. Utraque tamen quantitas meriti respondet praemio accidentali; quod est gaudium de bono creato. Sic igitur dicendum quod efficaciora fuissent hominis opera ad merendum in statu innocentiae quam post peccatum, si attendatur quantitas meriti ex parte gratiae; quae tunc copiosior fuisset, nullo obstaculo in natura humana invento. Similiter etiam, si consideretur absoluta quantitas operis, quia, cum homo esset maioris virtutis, maiora opera fecisset. Sed si consideretur quantitas proportionalis, maior invenitur ratio meriti post peccatum, propter hominis imbecillitatem, magis enim excedit parvum opus potestatem eius qui cum difficultate operatur illud, quam opus magnum potestatem eius qui sine difficultate operatur.
+
+@@ I q. 95 a. 4 ad 1
+Ad primum ergo dicendum quod homo post peccatum ad plura indiget gratia quam ante peccatum, sed non magis. Quia homo, etiam ante peccatum, indigebat gratia ad vitam aeternam consequendam, quae est principalis necessitas gratiae. Sed homo post peccatum, super hoc, indiget gratia etiam ad peccati remissionem, et infirmitatis sustentationem.
+
+@@ I q. 95 a. 4 ad 2
+Ad secundum dicendum quod difficultas et pugna pertinent ad quantitatem meriti, secundum quantitatem operis proportionalem, ut dictum est. Et est signum promptitudinis voluntatis, quae conatur ad id quod est sibi difficile, promptitudo autem voluntatis causatur ex magnitudine caritatis. Et tamen potest contingere quod aliquis ita prompta voluntate faciat opus aliquod facile, sicut alius difficile, quia paratus esset facere etiam quod sibi esset difficile. Difficultas tamen actualis, inquantum est poenalis, habet etiam quod sit satisfactoria pro peccato.
+
+@@ I q. 95 a. 4 ad 3
+Ad tertium dicendum quod resistere tentationi primo homini non fuisset meritorium, secundum opinionem ponentium quod gratiam non haberet; sicut nec modo est meritorium non habenti gratiam. Sed in hoc est differentia, quia in primo statu nihil erat interius impellens ad malum, sicut modo est, unde magis tunc poterat homo resistere tentationi sine gratia, quam modo.

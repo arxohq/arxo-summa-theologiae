@@ -1,0 +1,282 @@
+[
+  {
+    "slug": "i-de-angelis",
+    "spec": "la.aquinas.summa.i_de_angelis@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-de-angelis",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_de_angelis.lawir.json",
+    "worldSha256": "sha256:d0eba4f224899205c67670923a307be297107e198fbf4f4794f155a02e5b4472",
+    "nodes": 3001,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-de-creatione",
+    "spec": "la.aquinas.summa.i_de_creatione@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-de-creatione",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_de_creatione.lawir.json",
+    "worldSha256": "sha256:cb1680f06c94119d2b54496ec6d6c1bf18e2945c00428e1c5497bbb22fee816a",
+    "nodes": 1367,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-de-deo",
+    "spec": "la.aquinas.summa.i_de_deo@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-de-deo",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_de_deo.lawir.json",
+    "worldSha256": "sha256:23bd3c66e1a79bfeeea35d14d313d1da59ce9753d4a399d5ec9eb2723e127331",
+    "nodes": 6160,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-de-gubernatione",
+    "spec": "la.aquinas.summa.i_de_gubernatione@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-de-gubernatione",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_de_gubernatione.lawir.json",
+    "worldSha256": "sha256:871159b536049fb4748f17a21c3c82532aa2640db4a370c6e2914da2a5ba2d9f",
+    "nodes": 3499,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-de-homine",
+    "spec": "la.aquinas.summa.i_de_homine@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-de-homine",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_de_homine.lawir.json",
+    "worldSha256": "sha256:5eeec14495ce2cc98031ac22c732cb032f37d0164303bb5dc14c6c563a0c4f37",
+    "nodes": 6128,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-de-sex-diebus",
+    "spec": "la.aquinas.summa.i_de_sex_diebus@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-de-sex-diebus",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_de_sex_diebus.lawir.json",
+    "worldSha256": "sha256:36d8a8fa1b21aa414c520cc2dcd1bbf111bab1c0c7645586121b13fb6b06b6fd",
+    "nodes": 1385,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-de-trinitate",
+    "spec": "la.aquinas.summa.i_de_trinitate@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-de-trinitate",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_de_trinitate.lawir.json",
+    "worldSha256": "sha256:19c9b2a29c15c117b2dd1707fc4baaff2dc2688d3df4c13c59bda1b0b536805a",
+    "nodes": 3478,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-ii-actibus",
+    "spec": "la.aquinas.summa.i_ii_actibus@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-ii-actibus",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_ii_actibus.lawir.json",
+    "worldSha256": "sha256:a2ad8f54f97a80e6627d884777a305a41fb13d71f8ed77128a45739f27552555",
+    "nodes": 3788,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-ii-fine",
+    "spec": "la.aquinas.summa.i_ii_fine@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-ii-fine",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_ii_fine.lawir.json",
+    "worldSha256": "sha256:0c960e75eb5cec2d8c19512350570df8e5258149439a8738ee11296fa51314b7",
+    "nodes": 1695,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-ii-gratia",
+    "spec": "la.aquinas.summa.i_ii_gratia@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-ii-gratia",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_ii_gratia.lawir.json",
+    "worldSha256": "sha256:d159dcda25b68e42d3e5cde12999c0c54db68e0fd9dbe76ae90f92c339d8b634",
+    "nodes": 1885,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-ii-habitibus",
+    "spec": "la.aquinas.summa.i_ii_habitibus@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-ii-habitibus",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_ii_habitibus.lawir.json",
+    "worldSha256": "sha256:28f5388ce5a49bc781ea3a05e2b5279d4cb2c897c62accc88eabfcb630945854",
+    "nodes": 4362,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-ii-passionibus",
+    "spec": "la.aquinas.summa.i_ii_passionibus@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-ii-passionibus",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_ii_passionibus.lawir.json",
+    "worldSha256": "sha256:483c012a725ed324387ec1800c990204f71ca4d1baf6f3ae6f309d5874f12025",
+    "nodes": 5351,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-ii-vitiis",
+    "spec": "la.aquinas.summa.i_ii_vitiis@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-ii-vitiis",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_ii_vitiis.lawir.json",
+    "worldSha256": "sha256:36cb38196450bc0e173f089bdca9436c5bc6941f9bce7ced7820bbdc9beda7cf",
+    "nodes": 4668,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "i-sacra-doctrina",
+    "spec": "la.aquinas.summa.i_sacra_doctrina@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-i-sacra-doctrina",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_sacra_doctrina.lawir.json",
+    "worldSha256": "sha256:be872101dd383c08bd1a63eaf4ee88111594a8c36e18d73aa67f073463c5b664",
+    "nodes": 314,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "ii-ii-caritate",
+    "spec": "la.aquinas.summa.ii_ii_caritate@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-ii-ii-caritate",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-ii_ii_caritate.lawir.json",
+    "worldSha256": "sha256:364653df6b95e8c2510c0da2c5305b1c4b674f3154d9b7c7c43aff5d56829cc7",
+    "nodes": 6040,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "ii-ii-fide",
+    "spec": "la.aquinas.summa.ii_ii_fide@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-ii-ii-fide",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-ii_ii_fide.lawir.json",
+    "worldSha256": "sha256:260c9cb21bd9b8341a026386e26d3bb2217f7845f763f9869c75484b650f8b9a",
+    "nodes": 3509,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "ii-ii-fortitudine",
+    "spec": "la.aquinas.summa.ii_ii_fortitudine@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-ii-ii-fortitudine",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-ii_ii_fortitudine.lawir.json",
+    "worldSha256": "sha256:e06fa596030de4aaba6428c7f6fd1617cdd8c3039f95169d6f2b8e0147aa714b",
+    "nodes": 2802,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "ii-ii-gratiis",
+    "spec": "la.aquinas.summa.ii_ii_gratiis@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-ii-ii-gratiis",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-ii_ii_gratiis.lawir.json",
+    "worldSha256": "sha256:4170a804da9dc99ba8ea0d13301b32ad2e9c4b29c064af9f7ff431f29e79613b",
+    "nodes": 4663,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "ii-ii-iustitia",
+    "spec": "la.aquinas.summa.ii_ii_iustitia@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-ii-ii-iustitia",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-ii_ii_iustitia.lawir.json",
+    "worldSha256": "sha256:a5b3bbc707369a76b34da1a7cfaed7d9382f6c9aa7451b64ec4c06b5da6769ec",
+    "nodes": 13072,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "ii-ii-prudentia",
+    "spec": "la.aquinas.summa.ii_ii_prudentia@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-ii-ii-prudentia",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-ii_ii_prudentia.lawir.json",
+    "worldSha256": "sha256:eeae9c87e99914c83f40c5b5ecdbc89e52b4e737530459eef609025b234d60cf",
+    "nodes": 2275,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "ii-ii-spe",
+    "spec": "la.aquinas.summa.ii_ii_spe@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-ii-ii-spe",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-ii_ii_spe.lawir.json",
+    "worldSha256": "sha256:3ac6c6905c08ee4369334d04cd0edc70aea215e9b45470c3a951c11ba84bd5db",
+    "nodes": 1440,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "ii-ii-temperantia",
+    "spec": "la.aquinas.summa.ii_ii_temperantia@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-ii-ii-temperantia",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-ii_ii_temperantia.lawir.json",
+    "worldSha256": "sha256:94e020d6db27e67907aba73d8bb556fee538782e39afcaf304635dd7720b551a",
+    "nodes": 5719,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "iii-incarnatione",
+    "spec": "la.aquinas.summa.iii_incarnatione@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-iii-incarnatione",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-iii_incarnatione.lawir.json",
+    "worldSha256": "sha256:67927abbedbfe2a8c8efe10067899e66aec60d7724793dd413e37c7ecbfb12c5",
+    "nodes": 6226,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "iii-sacramentis",
+    "spec": "la.aquinas.summa.iii_sacramentis@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-iii-sacramentis",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-iii_sacramentis.lawir.json",
+    "worldSha256": "sha256:43529d1746a47f89b55e61ab046ee5c760ab7a9df81da50d27be94f4a445c9f1",
+    "nodes": 9888,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "iii-vita-christi",
+    "spec": "la.aquinas.summa.iii_vita_christi@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-iii-vita-christi",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-iii_vita_christi.lawir.json",
+    "worldSha256": "sha256:79c09f7d5e4cddead78c72b10e1fdcd999e596acf9fad010f2c80c3b78587027",
+    "nodes": 7431,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "law",
+    "spec": "la.aquinas.summa_theologiae_law@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-law",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa_theologiae_law.lawir.json",
+    "worldSha256": "sha256:72b5b96fcaf87b95c1c7c9efab5eb05ffdb1e4f45c91b1f26a2246058ccf4874",
+    "nodes": 1659,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "old-new-law",
+    "spec": "la.aquinas.summa.i_ii_old_new_law@0.1.0",
+    "source": "corpus/laws/doctrine/philosophy/summa-theologiae-old-new-law",
+    "dependencies": {},
+    "world": "registry/la-aquinas-summa-i_ii_old_new_law.lawir.json",
+    "worldSha256": "sha256:c4936e2b844bf8509cd9fc45a2fee73c967adfde03fedb3229c0448d1f52007e",
+    "nodes": 3112,
+    "semanticVersion": "0.2.11"
+  },
+  {
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": "corpus/laws/doctrine/ethics/aquinas-duplex-effectus",
+    "dependencies": {},
+    "world": "registry/la-aquinas-duplex_effectus.lawir.json",
+    "worldSha256": "sha256:6fb9818aa9a8adbadaf1f290a17bb887908f745678934a9ae0fa5bbbacc2ab3c",
+    "nodes": 68,
+    "semanticVersion": "0.2.11"
+  }
+]

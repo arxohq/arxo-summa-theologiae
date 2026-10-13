@@ -1,0 +1,98 @@
+@@ II-II q. 71 pr.
+Deinde considerandum est de iniustitia quae fit in iudicio ex parte advocatorum. Et circa hoc quaeruntur quatuor. Primo, utrum advocatus teneatur praestare patrocinium causae pauperum. Secundo, utrum aliquis debeat arceri ab officio advocati. Tertio, utrum advocatus peccet iniustam causam defendendo. Quarto, utrum peccet pecuniam accipiendo pro suo patrocinio.
+
+@@ II-II q. 71 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod advocatus teneatur patrocinium praestare causae pauperum. Dicitur enim Exod. XXIII, si videris asinum odientis te iacere sub onere, non pertransibis, sed sublevabis cum eo. Sed non minus periculum imminet pauperi si eius causa contra iustitiam opprimatur, quam si eius asinus iaceat sub onere. Ergo advocatus tenetur praestare patrocinium causae pauperum.
+
+@@ II-II q. 71 a. 1 arg. 2
+Praeterea, Gregorius dicit, in quadam homilia, habens intellectum curet omnino ne taceat; habens rerum affluentiam a misericordia non torpescat; habens artem qua regitur, usum illius cum proximo partiatur; habens loquendi locum apud divitem, pro pauperibus intercedat, talenti enim nomine cuilibet reputabitur quod vel minimum accepit. Sed talentum commissum non abscondere, sed fideliter dispensare quilibet tenetur, quod patet ex poena servi abscondentis talentum, Matth. XXV. Ergo advocatus tenetur pro pauperibus loqui.
+
+@@ II-II q. 71 a. 1 arg. 3
+Praeterea, praeceptum de misericordiae operibus adimplendis, cum sit affirmativum, obligat pro loco et tempore, quod est maxime in necessitate. Sed tempus necessitatis videtur esse quando alicuius pauperis causa opprimitur. Ergo in tali casu videtur quod advocatus teneatur pauperibus patrocinium praestare.
+
+@@ II-II q. 71 a. 1 s. c.
+Sed contra, non minor necessitas est indigentis cibo quam indigentis advocato. Sed ille qui habet potestatem cibandi non semper tenetur pauperem cibare. Ergo nec advocatus semper tenetur causae pauperum patrocinium praestare.
+
+@@ II-II q. 71 a. 1 co.
+Respondeo dicendum quod cum praestare patrocinium causae pauperum ad opus misericordiae pertineat, idem est hic dicendum quod et supra de aliis misericordiae operibus dictum est. Nullus enim sufficit omnibus indigentibus misericordiae opus impendere. Et ideo sicut Augustinus dicit, in I de Doct. Christ., cum omnibus prodesse non possis, his potissime consulendum est qui pro locorum et temporum vel quarumlibet rerum opportunitatibus, constrictius tibi, quasi quadam sorte, iunguntur. Dicit, pro locorum opportunitatibus, quia non tenetur homo per mundum quaerere indigentes quibus subveniat, sed sufficit si eis qui sibi occurrunt misericordiae opus impendat. Unde dicitur Exod. XXIII, si occurreris bovi inimici tui aut asino erranti, reduc ad eum. Addit autem, et temporum, quia non tenetur homo futurae necessitati alterius providere, sed sufficit si praesenti necessitati succurrat. Unde dicitur I Ioan. III, qui viderit fratrem suum necessitatem patientem, et clauserit viscera sua ab eo, et cetera. Subdit autem, vel quarumlibet rerum, quia homo sibi coniunctis quacumque necessitudine maxime debet curam impendere; secundum illud I ad Tim. V, si quis suorum, et maxime domesticorum curam non habet, fidem negavit. Quibus tamen concurrentibus, considerandum restat utrum aliquis tantam necessitatem patiatur quod non in promptu appareat quomodo ei possit aliter subveniri. Et in tali casu tenetur ei opus misericordiae impendere. Si autem in promptu appareat quomodo ei aliter subveniri possit, vel per seipsum vel per aliam personam magis coniunctam aut maiorem facultatem habentem, non tenetur ex necessitate indigenti subvenire, ita quod non faciendo peccet, quamvis, si subvenerit absque tali necessitate, laudabiliter faciat. Unde advocatus non tenetur semper causae pauperum patrocinium praestare, sed solum concurrentibus conditionibus praedictis. Alioquin oporteret eum omnia alia negotia praetermittere, et solis causis pauperum iuvandis intendere. Et idem dicendum est de medico, quantum ad curationem pauperum.
+
+@@ II-II q. 71 a. 1 ad 1
+Ad primum ergo dicendum quod quando asinus iacet sub onere, non potest ei aliter subveniri in casu isto nisi per advenientes subveniatur, et ideo tenentur iuvare. Non autem tenerentur si posset aliunde remedium afferri.
+
+@@ II-II q. 71 a. 1 ad 2
+Ad secundum dicendum quod homo talentum sibi creditum tenetur utiliter dispensare, servata opportunitate locorum et temporum et aliarum rerum, ut dictum est.
+
+@@ II-II q. 71 a. 1 ad 3
+Ad tertium dicendum quod non quaelibet necessitas causat debitum subveniendi, sed solum illa quae est dicta.
+
+@@ II-II q. 71 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod inconvenienter aliqui secundum iura arceantur ab officio advocandi. Ab operibus enim misericordiae nullus debet arceri. Sed patrocinium praestare in causis ad opera misericordiae pertinet, ut dictum est. Ergo nullus debet ab hoc officio arceri.
+
+@@ II-II q. 71 a. 2 arg. 2
+Praeterea, contrariarum causarum non videtur esse idem effectus. Sed esse deditum rebus divinis, et esse deditum peccatis, est contrarium. Inconvenienter igitur excluduntur ab officio advocati quidam propter religionem, ut monachi et clerici; quidam autem propter culpam, ut infames et haeretici.
+
+@@ II-II q. 71 a. 2 arg. 3
+Praeterea, homo debet diligere proximum sicut seipsum. Sed ad effectum dilectionis pertinet quod aliquis advocatus causae alicuius patrocinetur. Inconvenienter ergo aliqui quibus conceditur pro seipsis auctoritas advocationis, prohibentur patrocinari causis aliorum.
+
+@@ II-II q. 71 a. 2 s. c.
+Sed contra est quod III, qu. VII, multae personae arcentur ab officio postulandi.
+
+@@ II-II q. 71 a. 2 co.
+Respondeo dicendum quod aliquis impeditur ab aliquo actu duplici ratione, uno modo, propter impotentiam; alio modo, propter indecentiam. Sed impotentia simpliciter excludit aliquem ab actu, indecentia autem non excludit omnino, quia necessitas indecentiam tollere potest. Sic igitur ab officio advocatorum prohibentur quidam propter impotentiam, eo quod deficiunt sensu, vel interiori, sicut furiosi et impuberes; vel exteriori, sicut surdi et muti. Est enim necessaria advocato et interior peritia, qua possit convenienter iustitiam assumptae causae ostendere, et iterum loquela cum auditu, ut possit et pronuntiare et audire quod ei dicitur. Unde qui in his defectum patiuntur omnino prohibentur ne sint advocati, nec pro se nec pro aliis. Decentia autem huius officii exercendi tollitur dupliciter. Uno modo, ex hoc quod aliquis est rebus maioribus obligatus. Unde monachos et presbyteros non decet in quacumque causa advocatos esse, neque clericos in iudicio saeculari, quia huiusmodi personae sunt rebus divinis adstrictae. Alio modo, propter personae defectum, vel corporalem, ut patet de caecis, qui convenienter iudici adstare non possent; vel spiritualem, non enim decet ut alterius iustitiae patronus existat qui in seipso iustitiam contempsit. Et ideo infames, infideles et damnati de gravibus criminibus non decenter sunt advocati. Tamen huiusmodi indecentiae necessitas praefertur. Et propter hoc huiusmodi personae possunt pro seipsis, vel pro personis sibi coniunctis, uti officio advocati. Unde et clerici pro Ecclesiis suis possunt esse advocati, et monachi pro causa monasterii sui, si abbas praeceperit.
+
+@@ II-II q. 71 a. 2 ad 1
+Ad primum ergo dicendum quod ab operibus misericordiae interdum aliqui propter impotentiam, interdum etiam propter indecentiam impediuntur. Non enim omnia opera misericordiae omnes decent, sicut stultos non decet consilium dare, neque ignorantes docere.
+
+@@ II-II q. 71 a. 2 ad 2
+Ad secundum dicendum quod sicut virtus corrumpitur per superabundantiam et defectum, ita aliquis fit indecens et per maius et per minus. Et propter hoc quidam arcentur a patrocinio praestando in causis quia sunt maiores tali officio, sicut religiosi et clerici, quidam vero quia sunt minores quam ut eis hoc officium competat, sicut infames et infideles.
+
+@@ II-II q. 71 a. 2 ad 3
+Ad tertium dicendum quod non ita imminet homini necessitas patrocinari causis aliorum sicut propriis, quia alii possunt sibi aliter subvenire. Unde non est similis ratio.
+
+@@ II-II q. 71 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod advocatus non peccet si iniustam causam defendat. Sicut enim ostenditur peritia medici si infirmitatem desperatam sanet, ita etiam ostenditur peritia advocati si etiam iniustam causam defendere possit. Sed medicus laudatur si infirmitatem desperatam sanet. Ergo etiam advocatus non peccat, sed magis laudandus est, si iniustam causam defendat.
+
+@@ II-II q. 71 a. 3 arg. 2
+Praeterea, a quolibet peccato licet desistere. Sed advocatus punitur si causam suam prodiderit, ut habetur II, qu. III. Ergo advocatus non peccat iniustam causam defendendo, si eam defendendam susceperit.
+
+@@ II-II q. 71 a. 3 arg. 3
+Praeterea, maius videtur esse peccatum si iniustitia utatur ad iustam causam defendendam, puta producendo falsos testes vel allegando falsas leges, quam iniustam causam defendendo, quia hoc est peccatum in forma, illud in materia. Sed videtur advocato licere talibus astutiis uti, sicut militi licet ex insidiis pugnare. Ergo videtur quod advocatus non peccat si iniustam causam defendat.
+
+@@ II-II q. 71 a. 3 s. c.
+Sed contra est quod dicitur II Paralip. XIX, impio praebes auxilium, et idcirco iram domini merebaris. Sed advocatus defendens causam iniustam impio praebet auxilium. Ergo, peccando, iram domini meretur.
+
+@@ II-II q. 71 a. 3 co.
+Respondeo dicendum quod illicitum est alicui cooperari ad malum faciendum sive consulendo, sive adiuvando, sive qualitercumque consentiendo, quia consilians et coadiuvans quodammodo est faciens; et apostolus dicit, ad Rom. I, quod digni sunt morte non solum qui faciunt peccatum, sed etiam qui consentiunt facientibus. Unde et supra dictum est quod omnes tales ad restitutionem tenentur. Manifestum est autem quod advocatus et auxilium et consilium praestat ei cuius causae patrocinatur. Unde si scienter iniustam causam defendit, absque dubio graviter peccat; et ad restitutionem tenetur eius damni quod contra iustitiam per eius auxilium altera pars incurrit. Si autem ignoranter iniustam causam defendit, putans esse iustam, excusatur, secundum modum quo ignorantia excusare potest.
+
+@@ II-II q. 71 a. 3 ad 1
+Ad primum ergo dicendum quod medicus accipiens in cura infirmitatem desperatam nulli facit iniuriam. Advocatus autem suscipiens causam iniustam iniuste laedit eum contra quem patrocinium praestat. Et ideo non est similis ratio. Quamvis enim laudabilis videatur quantum ad peritiam artis, tamen peccat quantum ad iniustitiam voluntatis, qua abutitur arte ad malum.
+
+@@ II-II q. 71 a. 3 ad 2
+Ad secundum dicendum quod advocatus, si in principio credidit causam iustam esse et postea in processu appareat eam esse iniustam, non debet eam prodere, ut scilicet aliam partem iuvet, vel secreta suae causae alteri parti revelet. Potest tamen et debet causam deserere; vel eum cuius causam agit ad cedendum inducere, sive ad componendum, sine adversarii damno.
+
+@@ II-II q. 71 a. 3 ad 3
+Ad tertium dicendum quod, sicut supra dictum est, militi vel duci exercitus licet in bello iusto ex insidiis agere ea quae facere debet prudenter occultando, non autem falsitatem fraudulenter faciendo, quia etiam hosti fidem servare oportet, sicut Tullius dicit, in III de Offic. Unde et advocato defendenti causam iustam licet prudenter occultare ea quibus impediri posset processus eius, non autem licet ei aliqua falsitate uti.
+
+@@ II-II q. 71 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod advocato non liceat pro suo patrocinio pecuniam accipere. Opera enim misericordiae non sunt intuitu humanae remunerationis facienda, secundum illud Luc. XIV, cum facis prandium aut cenam, noli vocare amicos tuos neque vicinos divites, ne forte et ipsi te reinvitent, et fiat tibi retributio. Sed praestare patrocinium causae alicuius pertinet ad opera misericordiae, ut dictum est. Ergo non licet advocato accipere retributionem pecuniae pro patrocinio praestito.
+
+@@ II-II q. 71 a. 4 arg. 2
+Praeterea, spirituale non est pro temporali commutandum. Sed patrocinium praestitum videtur esse quiddam spirituale, cum sit usus scientiae iuris. Ergo non licet advocato pro patrocinio praestito pecuniam accipere.
+
+@@ II-II q. 71 a. 4 arg. 3
+Praeterea, sicut ad iudicium concurrit persona advocati, ita etiam persona iudicis et persona testis. Sed secundum Augustinum, ad Macedonium, non debet iudex vendere iustum iudicium, nec testis verum testimonium. Ergo nec advocatus poterit vendere iustum patrocinium.
+
+@@ II-II q. 71 a. 4 s. c.
+Sed contra est quod Augustinus dicit ibidem, quod advocatus licite vendit iustum patrocinium, et iurisperitus verum consilium.
+
+@@ II-II q. 71 a. 4 co.
+Respondeo dicendum quod ea quae quis non tenetur alteri exhibere, iuste potest pro eorum exhibitione recompensationem accipere. Manifestum est autem quod advocatus non semper tenetur patrocinium praestare aut consilium dare causis aliorum. Et ideo si vendat suum patrocinium sive consilium, non agit contra iustitiam. Et eadem ratio est de medico opem ferente ad sanandum, et de omnibus aliis huiusmodi personis, dum tamen moderate accipiant, considerata conditione personarum et negotiorum et laboris, et consuetudine patriae. Si autem per improbitatem aliquid immoderate extorqueat, peccat contra iustitiam. Unde Augustinus dicit, ad Macedonium, quod ab his extorta per immoderatam improbitatem repeti solent, data per tolerabilem consuetudinem non solent.
+
+@@ II-II q. 71 a. 4 ad 1
+Ad primum ergo dicendum quod non semper quae homo potest misericorditer facere, tenetur facere gratis, alioquin nulli liceret aliquam rem vendere, quia quamlibet rem potest homo misericorditer impendere. Sed quando eam misericorditer impendit, non humanam, sed divinam remunerationem quaerere debet. Et similiter advocatus, quando causae pauperum misericorditer patrocinatur, non debet intendere remunerationem humanam, sed divinam, non tamen semper tenetur gratis patrocinium impendere.
+
+@@ II-II q. 71 a. 4 ad 2
+Ad secundum dicendum quod etsi scientia iuris sit quiddam spirituale, tamen usus eius fit opere corporali. Et ideo pro eius recompensatione licet pecuniam accipere, alioquin nulli artifici liceret de arte sua lucrari.
+
+@@ II-II q. 71 a. 4 ad 3
+Ad tertium dicendum quod iudex et testis communes sunt utrique parti, quia iudex tenetur iustam sententiam dare, et testis tenetur verum testimonium dicere; iustitia autem et veritas non declinant in unam partem magis quam in aliam. Et ideo iudicibus de publico sunt stipendia laboris statuta; et testes accipiunt, non quasi pretium testimonii, sed quasi stipendium laboris, expensas vel ab utraque parte, vel ab ea a qua inducuntur, quia nemo militat stipendiis suis unquam, ut dicitur I ad Cor. IX. Sed advocatus alteram partem tantum defendit. Et ideo licite potest pretium accipere a parte quam adiuvat.

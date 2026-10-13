@@ -1,0 +1,37 @@
+// Словарь трактата I-II qq. 1-5.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_fine version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-fine";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation essence_seen(s: Subject) kind empirical {
+    label la unofficial "essence_seen";
+    label ru unofficial "essence_seen";
+}
+pub relation happiness_considered(s: Subject) kind empirical {
+    label la unofficial "happiness_considered";
+    label ru unofficial "happiness_considered";
+}
+pub relation human_act_presented(s: Subject) kind empirical {
+    label la unofficial "human_act_presented";
+    label ru unofficial "human_act_presented";
+}
+pub relation man_presented(s: Subject) kind empirical {
+    label la unofficial "man_presented";
+    label ru unofficial "man_presented";
+}
+pub relation wealth_proposed(s: Subject) kind empirical {
+    label la unofficial "wealth_proposed";
+    label ru unofficial "wealth_proposed";
+}

@@ -1,0 +1,69 @@
+// Прикладной канон respondeo II-II qq. 1-16.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_fide version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-fide";
+
+use self::{
+    ST_II_II_Q1_A1_RESP,
+    ST_II_II_Q2_A1_RESP,
+    ST_II_II_Q4_A1_RESP,
+    ST_II_II_Q5_A1_RESP,
+    Subject,
+    faith_presented,
+    presented,
+    unbelief_presented,
+};
+
+pub relation faith_object_first_truth(s: Subject) kind institutional {
+    label la official "obiectum fidei est veritas prima";
+    label ru unofficial "объект веры — первая истина";
+}
+
+@source(ST_II_II_Q1_A1_RESP)
+rule ObjectOfFaithIsFirstTruth(s: Subject) strict {
+    label la official "obiectum fidei est veritas prima";
+    label ru unofficial "объект веры — первая истина";
+    when presented(s) and faith_presented(s);
+    then faith_object_first_truth(s);
+}
+
+pub relation believe_is_act(s: Subject) kind institutional {
+    label la official "credere est actus fidei";
+    label ru unofficial "веровать есть акт веры";
+}
+
+@source(ST_II_II_Q2_A1_RESP)
+rule ToBelieveIsActOfFaith(s: Subject) strict {
+    label la official "credere est actus fidei";
+    label ru unofficial "веровать есть акт веры";
+    when presented(s) and faith_presented(s);
+    then believe_is_act(s);
+}
+
+pub relation faith_is_virtue(s: Subject) kind institutional {
+    label la official "fides est virtus";
+    label ru unofficial "вера есть добродетель";
+}
+
+@source(ST_II_II_Q4_A1_RESP)
+rule FaithIsVirtue(s: Subject) strict {
+    label la official "fides est virtus";
+    label ru unofficial "вера есть добродетель";
+    when presented(s) and faith_presented(s);
+    then faith_is_virtue(s);
+}
+
+pub relation infidels_lack_faith(s: Subject) kind institutional {
+    label la official "infideles fide carent";
+    label ru unofficial "неверные лишены веры";
+}
+
+@source(ST_II_II_Q5_A1_RESP)
+rule InfidelsLackFaith(s: Subject) strict {
+    label la official "infideles fide carent";
+    label ru unofficial "неверные лишены веры";
+    when presented(s) and unbelief_presented(s);
+    then infidels_lack_faith(s);
+}
+

@@ -1,0 +1,42 @@
+[package]
+name = "la.aquinas.summa.i_ii_gratia"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-ii-gratia"
+
+[metadata]
+act = "la-summa-i-ii-gratia"
+title = "Фома Аквинский, Summa theologiae I-II, вопросы 109–114: благодать"
+primarySource = "SUMMA_THEOLOGIAE_I_II_109_114"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_ii_gratia#authored"
+regression = false
+suites = [
+    "tests/01-graceneededformeritoriousgood-affirmat.lawtest",
+    "tests/01b-graceneededformeritoriousgood-negata.lawtest",
+    "tests/02-mancannotprepareunaided-affirmat.lawtest",
+    "tests/02b-mancannotprepareunaided-negata.lawtest",
+    "tests/03-graceputssomethinginsoul-affirmat.lawtest",
+    "tests/03b-graceputssomethinginsoul-negata.lawtest",
+    "tests/04-gracedividedoperanscooperans-affirmat.lawtest",
+    "tests/04b-gracedividedoperanscooperans-negata.lawtest",
+    "tests/05-godalonejustifies-affirmat.lawtest",
+    "tests/05b-godalonejustifies-negata.lawtest",
+    "tests/06-justificationisremission-affirmat.lawtest",
+    "tests/06b-justificationisremission-negata.lawtest",
+    "tests/07-cannotmeritfirstgrace-affirmat.lawtest",
+    "tests/07b-cannotmeritfirstgrace-negata.lawtest",
+    "tests/08-canmeritincrease-affirmat.lawtest",
+    "tests/08b-canmeritincrease-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_ii_gratia"]
+
+[authoring]
+local_imports = "explicit"

@@ -1,0 +1,30 @@
+language "law.core" version "0.2";
+package la.aquinas.summa_theologiae_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-theologiae-law";
+
+// Порождённые сценарии-свидетельства каталога вопросов (DECISION-0190):
+// мир выполняет посылки правила, запрос спрашивает его вывод.
+// Собраны corpus/tools/questions_catalog/build_catalog.py по CLIR пакета;
+// правка руками — только вместе с каталогом.
+
+// менее тяжкий порок, от которого большинство не может воздержаться без добродетели, допустимо не запрещать
+test "CATALOG-LESSERVICEMAYREMAINUNPROHIBITED" {
+    given {
+        context { decision_time @2026-08-25T12:00:00Z; knowledge_time @2026-08-25T12:00:00Z; legal_time @2026-08-25; timezone "Asia/Almaty"; }
+        assert "cat-0": lesser_vice(entity_ref("urn:law:catalog:lesservicemayremainunprohibited:v0")) { origin case_input; }
+        assert "cat-1": majority_cannot_abstain_without_virtue(entity_ref("urn:law:catalog:lesservicemayremainunprohibited:v0")) { origin case_input; }
+    }
+    evaluate truth(may_remain_unprohibited(entity_ref("urn:law:catalog:lesservicemayremainunprohibited:v0")));
+    expect truth_status == TRUE_ONLY;
+}
+
+// тяжкие пороки, особенно вредящие другим, должны запрещаться
+test "CATALOG-GRAVEHARMFULVICESHOULDBEPROHIBITED" {
+    given {
+        context { decision_time @2026-08-25T12:00:00Z; knowledge_time @2026-08-25T12:00:00Z; legal_time @2026-08-25; timezone "Asia/Almaty"; }
+        assert "cat-0": grave_vice(entity_ref("urn:law:catalog:graveharmfulviceshouldbeprohibited:v0")) { origin case_input; }
+        assert "cat-1": harms_others(entity_ref("urn:law:catalog:graveharmfulviceshouldbeprohibited:v0")) { origin case_input; }
+    }
+    evaluate truth(should_be_prohibited_by_human_law(entity_ref("urn:law:catalog:graveharmfulviceshouldbeprohibited:v0")));
+    expect truth_status == TRUE_ONLY;
+}

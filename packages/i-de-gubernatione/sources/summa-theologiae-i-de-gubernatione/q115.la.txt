@@ -1,0 +1,170 @@
+@@ I q. 115 pr.
+Consequenter considerandum est de actione corporalis creaturae; et fato, quod aliquibus corporibus attribuitur. Circa actiones corporales quaeruntur sex. Primo, utrum aliquod corpus sit activum. Secundo, utrum in corporibus sint aliquae seminales rationes. Tertio, utrum corpora caelestia sint causa eorum quae hic per inferiora corpora fiunt. Quarto, utrum sint causa humanorum actuum. Quinto, utrum eorum actionibus Daemones subdantur. Sexto, utrum caelestia corpora imponant necessitatem his quae eorum actionibus subduntur.
+
+@@ I q. 115 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod nullum corpus sit activum. Dicit enim Augustinus quod in rebus invenitur aliquid actum et non agens, sicut sunt corpora; aliquid agens et non actum, sicut Deus; aliquid agens et actum, sicut substantiae spirituales.
+
+@@ I q. 115 a. 1 arg. 2
+Praeterea, omne agens, excepto primo agente, in suo opere indiget subiecto quod sit susceptibile suae actionis. Sed infra substantiam corporalem non est substantia quae sit susceptibilis suae actionis, quia haec substantia tenet infimum gradum in entibus. Ergo substantia corporalis non est activa.
+
+@@ I q. 115 a. 1 arg. 3
+Praeterea, omnis substantia corporalis concluditur quantitate. Sed quantitas impedit substantiam a motu et actione, quia comprehendit eam, et mergitur in ea, sicut impeditur aer nubilosus a perceptione luminis. Et huius signum est, quod quanto magis accreverit quantitas corporis, tanto est ponderosius et gravius ad hoc quod moveatur. Ergo nulla substantia corporalis est activa.
+
+@@ I q. 115 a. 1 arg. 4
+Praeterea, omne agens habet virtutem agendi ex propinquitate ad primum activum. Sed a primo activo, quod est simplicissimum, remotissima sunt corpora, quae sunt maxime composita. Ergo nullum corpus est agens.
+
+@@ I q. 115 a. 1 arg. 5
+Praeterea, si aliquod corpus est agens, aut agit ad formam substantialem; aut ad formam accidentalem. Sed non ad formam substantialem, quia non invenitur in corporibus principium actionis nisi aliqua qualitas activa, quae est accidens; accidens autem non potest esse causa formae substantialis, cum causa sit potior quam effectus. Similiter etiam neque ad formam accidentalem, quia accidens non se extendit ultra suum subiectum, ut Augustinus dicit IX de Trin. Ergo nullum corpus est activum.
+
+@@ I q. 115 a. 1 s. c.
+Sed contra est quod Dionysius, XV cap. Cael. Hier., inter ceteras proprietates corporei ignis, dicit quod ad susceptas materias manifestat sui ipsius magnitudinem activus et potens.
+
+@@ I q. 115 a. 1 co.
+Respondeo dicendum quod sensibiliter apparet aliqua corpora esse activa. Sed circa corporum actiones tripliciter aliqui erraverunt. Fuerunt enim aliqui qui totaliter corporibus actiones subtraxerunt. Et haec est opinio Avicebron in libro fontis vitae, ubi per rationes quae tactae sunt, probare nititur quod nullum corpus agit, sed omnes actiones quae videntur esse corporum, sunt actiones cuiusdam virtutis spiritualis quae penetrat per omnia corpora; ita quod ignis, secundum eum, non calefacit, sed virtus spiritualis penetrans per ipsum. Et videtur haec opinio derivata esse ab opinione Platonis. Nam Plato posuit omnes formas quae sunt in materia corporali, esse participatas et determinatas et contractas ad hanc materiam; formas vero separatas esse absolutas et quasi universales; et ideo illas formas separatas dicebat esse causas formarum quae sunt in materia. Secundum hoc ergo quod forma quae est in materia corporali, determinata est ad hanc materiam individuatam per quantitatem, ponebat Avicebron quod a quantitate, prout est individuationis principium, retinetur et arcetur forma corporalis, ne possit se extendere per actionem in aliam materiam; sed solum forma spiritualis et immaterialis, quae non est coarctata per quantitatem, potest effluere per actionem in aliud. Sed ista ratio non concludit quod forma corporalis non sit agens, sed quod non sit agens universale. Secundum enim quod participatur aliquid, secundum hoc est necessarium quod participetur id quod est proprium ei, sicut quantum participatur de lumine, tantum participatur de ratione visibilis. Agere autem, quod nihil est aliud quam facere aliquid actu, est per se proprium actus, inquantum est actus, unde et omne agens agit sibi simile. Sic ergo ex hoc quod aliquid est forma non determinata per materiam quantitati subiectam, habet quod sit agens indeterminatum et universale, ex hoc vero quod est determinata ad hanc materiam, habet quod sit agens contractum et particulare. Unde si esset forma ignis separata, ut Platonici posuerunt, esset aliquo modo causa omnis ignitionis. Sed haec forma ignis quae est in hac materia corporali, est causa huius ignitionis quae est ab hoc corpore in hoc corpus. Unde et fit talis actio per contactum duorum corporum. Sed tamen haec opinio Avicebron superexcedit opinionem Platonis. Nam Plato ponebat solum formas substantiales separatas; accidentia vero reducebat ad principia materialia quae sunt magnum et parvum, quae ponebat esse prima contraria, sicut et alii rarum et densum. Et ideo tam Plato quam Avicenna, in aliquo ipsum sequens, ponebant quod agentia corporalia agunt secundum formas accidentales, disponendo materiam ad formam substantialem; sed ultima perfectio, quae est per introductionem formae substantialis est a principio immateriali. Et haec est secunda opinio de actione corporum, de qua supra dictum est, cum de creatione ageretur. Tertia vero opinio fuit Democriti, qui ponebat actionem esse per effluxionem atomorum a corpore agente, et passionem esse per receptionem eorundem in poris corporis patientis. Quam opinionem improbat Aristoteles in I de Generat. Sequeretur enim quod corpus non pateretur per totum, et quod quantitas corporis agentis diminueretur ex hoc quod agit, quae sunt manifeste falsa. Dicendum est ergo quod corpus agit secundum quod est actu, in aliud corpus secundum quod est in potentia.
+
+@@ I q. 115 a. 1 ad 1
+Ad primum ergo dicendum quod dictum Augustini est intelligendum de tota natura corporali simul accepta, quae non habet aliquam inferiorem naturam infra se, in quam agat, sicut natura spiritualis in corporalem, et natura increata in creatam. Sed tamen unum corpus est infra alterum, inquantum est in potentia ad id quod habet aliud in actu.
+
+@@ I q. 115 a. 1 ad 2
+Et per hoc patet solutio ad secundum. Sciendum est tamen quod, cum Avicebron sic argumentatur, est aliquid quod est movens non motum, scilicet primus factor rerum, ergo, ex opposito, est aliquid quod est motum et patiens tantum, quod concedendum est. Sed hoc est materia prima, quae est potentia pura, sicut Deus est actus purus. Corpus autem componitur ex potentia et actu, et ideo est agens et patiens.
+
+@@ I q. 115 a. 1 ad 3
+Ad tertium dicendum quod quantitas non impedit formam corporalem omnino ab actione, sicut dictum est, sed impedit eam ne sit agens universale, inquantum forma individuatur prout est in materia quantitati subiecta. Signum tamen quod inducitur de ponderositate corporum, non est ad propositum. Primo quidem, quia additio quantitatis non est causa gravitatis; ut probatur in IV de caelo et mundo. Secundo, quia falsum est quod ponderositas facit tardiorem motum, immo quanto aliquid est gravius, tanto magis movetur motu proprio. Tertio, quia actio non fit per motum localem, ut Democritus posuit; sed per hoc quod aliquid reducitur de potentia in actum.
+
+@@ I q. 115 a. 1 ad 4
+Ad quartum dicendum quod corpus non est id quod maxime distat a Deo, participat enim aliquid de similitudine divini esse, secundum formam quam habet. Sed id quod maxime distat a Deo, est materia prima; quae nullo modo est agens, cum sit in potentia tantum.
+
+@@ I q. 115 a. 1 ad 5
+Ad quintum dicendum quod corpus agit et ad formam accidentalem, et ad formam substantialem. Qualitas enim activa, ut calor, etsi sit accidens, agit tamen in virtute formae substantialis, sicut eius instrumentum; et ideo potest agere ad formam substantialem; sicut et calor naturalis, inquantum est instrumentum animae, agit ad generationem carnis. Ad accidens vero agit propria virtute. Nec est contra rationem accidentis, quod excedat suum subiectum in agendo, sed quod excedat in essendo, nisi forsan quis imaginetur idem accidens numero defluere ab agente in patiens, sicut Democritus ponebat fieri actionem per defluxum atomorum.
+
+@@ I q. 115 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod in materia corporali non sint aliquae rationes seminales. Ratio enim importat aliquid secundum esse spirituale. Sed in materia corporali non est aliquid spiritualiter, sed materialiter tantum, secundum scilicet modum eius in quo est. Ergo in materia corporali non sunt seminales rationes.
+
+@@ I q. 115 a. 2 arg. 2
+Praeterea, Augustinus dicit, III de Trin., quod Daemones quaedam opera faciunt adhibendo occultis motibus quaedam semina, quae in elementis cognoscunt. Sed ea quae per motum localem adhibentur, sunt corpora, non rationes. Ergo inconvenienter dicitur quod sunt in corporali materia seminales rationes.
+
+@@ I q. 115 a. 2 arg. 3
+Praeterea, semen est principium activum. Sed in materia corporali non est aliquod principium activum, cum materiae non competat agere, ut dictum est. Ergo in materia corporali non sunt seminales rationes.
+
+@@ I q. 115 a. 2 arg. 4
+Praeterea, in materia corporali dicuntur esse quaedam causales rationes, quae videntur sufficere ad rerum productionem. Sed seminales rationes sunt aliae a causalibus, quia praeter seminales rationes fiunt miracula, non autem praeter causales. Ergo inconvenienter dicitur quod seminales rationes sunt in materia corporali.
+
+@@ I q. 115 a. 2 s. c.
+Sed contra est quod Augustinus dicit, III de Trin., omnium rerum quae corporaliter visibiliterque nascuntur, occulta quaedam semina in istis corporeis mundi huius elementis latent.
+
+@@ I q. 115 a. 2 co.
+Respondeo dicendum quod denominationes consueverunt fieri a perfectiori, ut dicitur in II de anima. In tota autem natura corporea perfectiora sunt corpora viva, unde et ipsum nomen naturae translatum est a rebus viventibus ad omnes res naturales. Nam ipsum nomen naturae, ut philosophus dicit in V Metaphys., primo impositum fuit ad significandum generationem viventium, quae nativitas dicitur, et quia viventia generantur ex principio coniuncto, sicut fructus ex arbore, et foetus ex matre, cui colligatur, consequenter tractum est nomen naturae ad omne principium motus quod est in eo quod movetur. Manifestum est autem quod principium activum et passivum generationis rerum viventium sunt semina ex quibus viventia generantur. Et ideo convenienter Augustinus omnes virtutes activas et passivas quae sunt principia generationum et motuum naturalium, seminales rationes vocat. Huiusmodi autem virtutes activae et passivae in multiplici ordine considerari possunt. Nam primo quidem, ut Augustinus dicit VI super Gen. ad Litt., sunt principaliter et originaliter in ipso verbo Dei, secundum rationes ideales. Secundo vero, sunt in elementis mundi, ubi simul a principio productae sunt, sicut in universalibus causis. Tertio vero modo, sunt in iis quae ex universalibus causis secundum successiones temporum producuntur, sicut in hac planta et in hoc animali, tanquam in particularibus causis. Quarto modo, sunt in seminibus quae ex animalibus et plantis producuntur. Quae iterum comparantur ad alios effectus particulares, sicut primordiales causae universales ad primos effectus productos.
+
+@@ I q. 115 a. 2 ad 1
+Ad primum ergo dicendum quod huiusmodi virtutes activae et passivae rerum naturalium, etsi non possint dici rationes secundum quod sunt in materia corporali; possunt tamen dici rationes per comparationem ad suam originem, secundum quod deducuntur a rationibus idealibus.
+
+@@ I q. 115 a. 2 ad 2
+Ad secundum dicendum quod huiusmodi virtutes activae vel passivae sunt in aliquibus partibus corporalibus; quae dum adhibentur per motum localem ad aliquos effectus complendos, dicuntur semina adhiberi per Daemones.
+
+@@ I q. 115 a. 2 ad 3
+Ad tertium dicendum quod semen maris est principium activum in generatione animalis. Sed potest etiam dici semen id quod est ex parte feminae, quod est principium passivum. Et sic sub semine comprehendi possunt vires activae et passivae.
+
+@@ I q. 115 a. 2 ad 4
+Ad quartum dicendum quod ex verbis Augustini de huiusmodi rationibus seminalibus loquentis, satis accipi potest quod ipsae rationes seminales sunt etiam rationes causales, sicut et semen est quaedam causa, dicit enim in III de Trin., quod sicut matres gravidae sunt foetibus, sic ipse mundus est gravidus causis nascentium. Sed tamen rationes ideales possunt dici causales, non autem proprie loquendo seminales, quia semen non est principium separatum, et praeter huiusmodi rationes non fiunt miracula. Similiter etiam neque praeter virtutes passivas creaturae inditas, ut ex ea fieri possit quidquid Deus mandaverit. Sed praeter virtutes activas naturales, et potentias passivas quae ordinantur ad huiusmodi virtutes activas, dicuntur fieri miracula, dum dicitur quod fiunt praeter rationes seminales.
+
+@@ I q. 115 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod corpora caelestia non sint causa eorum quae hic in inferioribus corporibus fiunt. Dicit enim Damascenus, nos autem dicimus quoniam ipsa, scilicet corpora caelestia, non sunt causa alicuius eorum quae fiunt, neque corruptionis eorum quae corrumpuntur, signa autem sunt magis imbrium et aeris transmutationis.
+
+@@ I q. 115 a. 3 arg. 2
+Praeterea, ad faciendum aliquid, sufficit agens et materia. Sed in istis inferioribus invenitur materia patiens, inveniuntur etiam contraria agentia, scilicet calidum et frigidum et huiusmodi. Ergo non est necessarium, ad causandum ea quae hic inferius fiunt, causalitatem caelestibus corporibus attribuere.
+
+@@ I q. 115 a. 3 arg. 3
+Praeterea, agens agit sibi simile. Sed videmus quod omnia quae fiunt hic inferius, fiunt per hoc quod calefiunt et frigidantur, et humectantur et desiccantur, et aliis huiusmodi qualitatibus alterantur, quae non inveniuntur in corporibus caelestibus. Ergo corpora caelestia non sunt causa eorum quae hic fiunt.
+
+@@ I q. 115 a. 3 arg. 4
+Praeterea, sicut Augustinus dicit V de Civ. Dei, nihil est magis corporeum quam corporis sexus. Sed corporis sexus non causatur ex corporibus caelestibus, cuius signum esse videtur, quod duorum geminorum sub una constellatione natorum, unus est masculus et alter est femina. Ergo corpora caelestia non sunt causa rerum corporalium quae hic fiunt.
+
+@@ I q. 115 a. 3 s. c.
+Sed contra est quod Augustinus dicit, III de Trin., quod corpora crassiora et inferiora per subtiliora et potentiora quodam ordine reguntur. Et Dionysius dicit, IV cap. de Div. Nom., quod lumen solis ad generationem sensibilium corporum confert, et ad vitam ipsa movet, et nutrit et auget et perficit.
+
+@@ I q. 115 a. 3 co.
+Respondeo dicendum quod, cum omnis multitudo ab unitate procedat; quod autem immobile est, uno modo se habet, quod vero movetur, multiformiter, considerandum est, in tota natura, quod omnis motus ab immobili procedit. Et ideo quanto aliqua sunt immobiliora, tanto sunt magis causa eorum quae sunt magis mobilia. Corpora autem caelestia sunt inter alia corpora magis immobilia, non enim moventur nisi motu locali. Et ideo motus horum inferiorum corporum qui sunt varii et multiformes, reducuntur in motum corporis caelestis, sicut in causam.
+
+@@ I q. 115 a. 3 ad 1
+Ad primum ergo dicendum quod dictum Damasceni intelligendum est, quod corpora caelestia non sunt prima causa generationis et corruptionis eorum quae hic fiunt; sicut dicebant illi qui ponebant corpora caelestia esse deos.
+
+@@ I q. 115 a. 3 ad 2
+Ad secundum dicendum quod principia activa in istis inferioribus corporibus non inveniuntur nisi qualitates activae elementorum, quae sunt calidum et frigidum et huiusmodi. Et si sic esset quod formae substantiales inferiorum corporum non diversificarentur nisi secundum huiusmodi accidentia, quorum principia rarum et densum antiqui naturales posuerunt; non oporteret super haec inferiora corpora aliquod principium activum ponere, sed ipsa sufficerent ad agendum. Sed recte considerantibus apparet quod huiusmodi accidentia se habent sicut materiales dispositiones ad formas substantiales naturalium corporum. Materia autem non sufficit ad agendum. Et ideo oportet super has materiales dispositiones ponere aliquod principium activum. Unde Platonici posuerunt species separatas, secundum quarum participationem inferiora corpora substantiales formas consequuntur. Sed hoc non videtur sufficere. Quia species separatae semper eodem modo se haberent, cum ponantur immobiles, et sic sequeretur quod non esset aliqua variatio circa generationem et corruptionem inferiorum corporum; quod patet esse falsum. Unde secundum philosophum, in II de Gen., necesse est ponere aliquod principium activum mobile, quod per sui praesentiam et absentiam causet varietatem circa generationem et corruptionem inferiorum corporum. Et huiusmodi sunt corpora caelestia. Et ideo quidquid in istis inferioribus generat, movet ad speciem sicut instrumentum caelestis corporis; secundum quod dicitur in II Physic., quod homo generat hominem, et sol.
+
+@@ I q. 115 a. 3 ad 3
+Ad tertium dicendum quod corpora caelestia inferioribus corporibus non sunt similia similitudine speciei; sed inquantum sua universali virtute continent in se quidquid in inferioribus corporibus generatur; secundum quem modum dicimus etiam omnia esse Deo similia.
+
+@@ I q. 115 a. 3 ad 4
+Ad quartum dicendum quod actiones corporum caelestium diversimode recipiuntur in inferioribus corporibus secundum diversam materiae dispositionem. Contingit autem quandoque quod materia conceptus humani non est disposita totaliter ad masculinum sexum; unde partim formatur in masculum, partim in feminam. Unde ad hoc introducitur ab Augustino, ad repellendum scilicet divinationem quae fit per astra, quia effectus astrorum variantur etiam in rebus corporeis, secundum diversam materiae dispositionem.
+
+@@ I q. 115 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod corpora caelestia sint causa humanorum actuum. Corpora enim caelestia, cum moveantur a spiritualibus substantiis, sicut supra dictum est, agunt in virtute earum quasi instrumenta. Sed illae substantiae spirituales sunt superiores animabus nostris. Ergo videtur quod possint imprimere in animas nostras, et sic causare actus humanos.
+
+@@ I q. 115 a. 4 arg. 2
+Praeterea, omne multiforme reducitur in aliquod uniforme principium. Sed actus humani sunt varii et multiformes. Ergo videtur quod reducantur in uniformes motus caelestium corporum, sicut in sua principia.
+
+@@ I q. 115 a. 4 arg. 3
+Praeterea, astrologi frequenter vera annuntiant de eventibus bellorum, et aliis humanis actibus, quorum principia sunt intellectus et voluntas. Quod facere non possent secundum caelestia corpora, nisi essent humanorum actuum causa. Sunt ergo corpora caelestia humanorum actuum causa.
+
+@@ I q. 115 a. 4 s. c.
+Sed contra est quod Damascenus dicit, quod corpora caelestia humanorum actuum nequaquam sunt causa.
+
+@@ I q. 115 a. 4 co.
+Respondeo dicendum quod corpora caelestia in corpora quidem imprimunt directe et per se, sicut iam dictum est. In vires autem animae quae sunt actus organorum corporeorum, directe quidem, sed per accidens, quia necesse est huiusmodi actus harum potentiarum impediri secundum impedimenta organorum, sicut oculus turbatus non bene videt. Unde si intellectus et voluntas essent vires corporeis organis alligatae, sicut posuerunt aliqui, dicentes quod intellectus non differt a sensu; ex necessitate sequeretur quod corpora caelestia essent causa electionum et actuum humanorum. Et ex hoc sequeretur quod homo naturali instinctu ageretur ad suas actiones, sicut cetera animalia, in quibus non sunt nisi vires animae corporeis organis alligatae, nam illud quod fit in istis inferioribus ex impressione corporum caelestium, naturaliter agitur. Et ita sequeretur quod homo non esset liberi arbitrii, sed haberet actiones determinatas, sicut et ceterae res naturales. Quae manifeste sunt falsa, et conversationi humanae contraria. Sciendum est tamen quod indirecte et per accidens impressiones corporum caelestium ad intellectum et voluntatem pertingere possunt; inquantum scilicet tam intellectus quam voluntas aliquo modo ab inferioribus viribus accipiunt, quae organis corporeis alligantur. Sed circa hoc diversimode se habent intellectus et voluntas. Nam intellectus ex necessitate accipit ab inferioribus viribus apprehensivis, unde turbata vi imaginativa vel cogitativa vel memorativa, ex necessitate turbatur actio intellectus. Sed voluntas non ex necessitate sequitur inclinationem appetitus inferioris, licet enim passiones quae sunt in irascibili et concupiscibili, habeant quandam vim ad inclinandam voluntatem; tamen in potestate voluntatis remanet sequi passiones, vel eas refutare. Et ideo impressio caelestium corporum, secundum quam immutari possunt inferiores vires, minus pertingit ad voluntatem, quae est proxima causa humanorum actuum, quam ad intellectum. Ponere igitur caelestia corpora esse causam humanorum actuum, est proprium illorum qui dicunt intellectum non differre a sensu. Unde quidam eorum dicebant quod talis est voluntas in hominibus, qualem in diem inducit pater virorum deorumque. Quia ergo constat intellectum et voluntatem non esse actus organorum corporeorum, impossibile est quod corpora caelestia sint causa humanorum actuum.
+
+@@ I q. 115 a. 4 ad 1
+Ad primum ergo dicendum quod spirituales substantiae quae caelestia corpora movent, in corporalia quidem agunt mediantibus caelestibus corporibus, sed in intellectum humanum agunt immediate illuminando. Voluntatem autem immutare non possunt, ut supra habitum est.
+
+@@ I q. 115 a. 4 ad 2
+Ad secundum dicendum quod, sicut multiformitas corporalium motuum reducitur sicut in causam in uniformitatem motuum caelestium; ita multiformitas actuum qui sunt ab intellectu et voluntate, reducitur in principium uniforme quod est intellectus et voluntas divina.
+
+@@ I q. 115 a. 4 ad 3
+Ad tertium dicendum quod plures hominum sequuntur passiones, quae sunt motus sensitivi appetitus, ad quas cooperari possunt corpora caelestia, pauci autem sunt sapientes, qui huiusmodi passionibus resistant. Et ideo astrologi ut in pluribus vera possunt praedicere, et maxime in communi. Non autem in speciali, quia nihil prohibet aliquem hominem per liberum arbitrium passionibus resistere. Unde et ipsi astrologi dicunt quod sapiens homo dominatur astris, inquantum scilicet dominatur suis passionibus.
+
+@@ I q. 115 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod corpora caelestia possint imprimere in ipsos Daemones. Daemones enim secundum certa augmenta lunae aliquos homines vexant, qui et propter hoc lunatici dicuntur; ut patet Matth. IV et XVII. Sed hoc non esset, nisi corporibus caelestibus subiacerent. Ergo Daemones subiacent actionibus caelestium corporum.
+
+@@ I q. 115 a. 5 arg. 2
+Praeterea, necromantici observant certas constellationes ad invocandos Daemones. Non autem per corpora caelestia invocarentur, si non eis subiacerent. Ergo Daemones subiacent actionibus caelestium corporum.
+
+@@ I q. 115 a. 5 arg. 3
+Praeterea, corpora caelestia virtuosiora sunt quam corpora inferiora. Sed quibusdam inferioribus corporibus Daemones arcentur, scilicet herbis et lapidibus et animantibus, et quibusdam sonis certis ac vocibus, et figurationibus atque figmentis, ut a Porphyrio dictum Augustinus introducit in X de Civ. Dei. Ergo multo magis Daemones subduntur actioni caelestium corporum.
+
+@@ I q. 115 a. 5 s. c.
+Sed contra est quod Daemones sunt superiores ordine naturae quam corpora caelestia. Agens autem est superius patiente, ut Augustinus dicit XII super Gen. ad Litt. Ergo Daemones non subiiciuntur actioni corporum caelestium.
+
+@@ I q. 115 a. 5 co.
+Respondeo dicendum quod circa Daemones fuit triplex opinio. Prima Peripateticorum, qui posuerunt Daemones non esse; sed ea quae attribuuntur Daemonibus, secundum artem necromanticam, fiunt virtute caelestium corporum. Et hoc est quod Augustinus, X de Civ. Dei, introducit dictum a Porphyrio, quod fabricantur in terra ab hominibus potestates idoneae siderum variis effectibus exequendis. Sed haec positio est manifeste falsa. Experimento enim scitur multa per Daemones fieri, ad quae nullo modo virtus caelestium corporum sufficeret; puta quod arreptitii loquuntur lingua ignota, quod recitant versus et auctoritates quas nunquam sciverunt, quod necromantici faciunt statuas loqui et moveri, et similia. Ex quibus Platonici moti fuerunt ut ponerent Daemones esse animalia corpore aerea, animo passiva; ut ab Apuleio dictum Augustinus introducit VIII de Civ. Dei. Et haec est secunda opinio, secundum quam dici posset quod Daemones hoc modo subduntur corporibus caelestibus, sicut et de hominibus dictum est. Sed haec opinio ex superioribus patet esse falsa, dicimus enim Daemones esse substantias intellectuales corporibus non unitas. Unde patet quod non subduntur actioni caelestium corporum, nec per se nec per accidens, nec directe nec indirecte.
+
+@@ I q. 115 a. 5 ad 1
+Ad primum ergo dicendum quod hoc quod Daemones secundum certa augmenta lunae homines vexant, contingit propter duo. Primo quidem, ad hoc quod infament creaturam Dei, scilicet lunam, ut Hieronymus et Chrysostomus dicunt. Secundo quia, cum non possint operari nisi mediantibus naturalibus virtutibus, ut supra dictum est; in suis operibus considerant corporum aptitudines ad effectus intentos. Manifestum est autem quod cerebrum humidissimum est omnium partium corporis, ut Aristoteles dicit, et ideo maxime subiicitur operationi lunae, quae ex sua proprietate habet movere humorem. In cerebro autem perficiuntur vires animales, et ideo Daemones secundum certa augmenta lunae perturbant hominis phantasiam, quando considerant cerebrum ad hoc esse dispositum.
+
+@@ I q. 115 a. 5 ad 2
+Ad secundum dicendum quod Daemones advocati in certis constellationibus, propter duo veniunt. Primo quidem, ut homines in hunc errorem inducant, quod credant aliquod numen esse in stellis. Secundo, quia considerant secundum aliquas certas constellationes materiam corporalem magis esse dispositam ad effectus pro quibus advocantur.
+
+@@ I q. 115 a. 5 ad 3
+Ad tertium dicendum quod, sicut Augustinus dicit XXI de Civ. Dei, Daemones alliciuntur per varia genera lapidum, herbarum, lignorum, animalium, carminum, rituum, non ut animalia cibis, sed ut spiritus signis; inquantum scilicet haec eis exhibentur in signum divini honoris, cuius ipsi sunt cupidi.
+
+@@ I q. 115 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod corpora caelestia imponant necessitatem iis quae eorum actioni subduntur. Causa enim sufficienti posita, necesse est effectum poni. Sed corpora caelestia sunt sufficiens causa suorum effectuum. Cum igitur corpora caelestia, cum suis motibus et dispositionibus, ponantur sicut ex necessitate entia; videtur quod effectus eorum ex necessitate consequantur.
+
+@@ I q. 115 a. 6 arg. 2
+Praeterea, effectus agentis ex necessitate sequitur in materia, quando virtus agentis tanta fuerit quod possit sibi subiicere totaliter materiam. Sed tota materia inferiorum corporum subiicitur virtuti caelestium corporum, tanquam excellentiori. Ergo ex necessitate effectus caelestium corporum recipitur in materia corporali.
+
+@@ I q. 115 a. 6 arg. 3
+Praeterea, si effectus caelestis corporis non ex necessitate proveniat, hoc est propter aliquam causam impedientem. Sed quamlibet causam corpoream quae impedire posset effectum caelestis corporis, necesse est reduci in aliquod caeleste principium, cum caelestia corpora sint causa omnium quae hic fiunt. Ergo, cum et illud caeleste principium sit necessarium, sequitur quod necesse sit impediri effectum alterius corporis caelestis. Et sic omnia quae hic contingunt, ex necessitate eveniunt.
+
+@@ I q. 115 a. 6 s. c.
+Sed contra est quod philosophus dicit, in libro de Somn. et Vigil., quod neque eorum quae in corporibus sunt signorum caelestium, velut aquarum et ventorum, inconveniens est multa non evenire. Sic ergo non omnes effectus caelestium corporum ex necessitate eveniunt.
+
+@@ I q. 115 a. 6 co.
+Respondeo dicendum quod ista quaestio partim quidem absoluta est, secundum praemissa; partim autem difficultatem habet. Ostensum enim est quod, quamvis ex impressione corporum caelestium fiant aliquae inclinationes in natura corporali, voluntas tamen non ex necessitate sequitur has inclinationes. Et ideo nihil prohibet per voluntariam actionem impediri effectum caelestium corporum, non solum in ipso homine, sed etiam in aliis rebus ad quas hominum operatio se extendit. Sed nullum tale principium invenitur in rebus naturalibus, quod habeat libertatem sequendi vel non sequendi impressiones caelestes. Unde videtur quod in talibus, ad minus, omnia ex necessitate proveniant, secundum antiquam quorundam rationem, qui, supponentes omne quod est causam habere, et quod, posita causa, ex necessitate ponitur effectus, concludebant, quod omnia ex necessitate contingant. Quam quidem opinionem repellit Aristoteles in VI Metaphys., secundum duo quae ipsi supponunt. Primo enim, non est verum quod, posita quacumque causa, necesse sit effectum poni. Sunt enim quaedam causae quae ordinantur ad suos effectus non ex necessitate, sed ut in pluribus, quae quandoque deficiunt in minori parte. Sed quia huiusmodi causae non deficiunt in minori parte, nisi propter aliquam causam impedientem, videtur adhuc praedictum inconveniens non vitari, quia et ipsum impedimentum talis causae ex necessitate contingit. Et ideo, secundo, oportet dicere quod omne quod est per se, habet causam, quod autem est per accidens, non habet causam, quia non est vere ens, cum non sit vere unum. Album enim causam habet, similiter et musicum; sed album musicum non habet causam, quia non est vere ens, neque vere unum. Manifestum est autem quod causa impediens actionem alicuius causae ordinatae ad suum effectum ut in pluribus, concurrit ei interdum per accidens, unde talis concursus non habet causam, inquantum est per accidens. Et propter hoc, id quod ex tali concursu sequitur, non reducitur in aliquam causam praeexistentem, ex qua ex necessitate sequatur. Sicut quod aliquod corpus terrestre ignitum in superiori parte aeris generetur et deorsum cadat, habet causam aliquam virtutem caelestem, et similiter etiam quod in superficie terrae sit aliqua materia combustibilis, potest reduci in aliquod caeleste principium. Sed quod ignis cadens huic materiae occurrat et comburat eam, non habet causam aliquod caeleste corpus, sed est per accidens. Et sic patet quod non omnes effectus caelestium corporum sunt ex necessitate.
+
+@@ I q. 115 a. 6 ad 1
+Ad primum ergo dicendum quod corpora caelestia sunt causa inferiorum effectuum mediantibus causis particularibus inferioribus, quae deficere possunt in minori parte.
+
+@@ I q. 115 a. 6 ad 2
+Ad secundum dicendum quod virtus corporis caelestis non est infinita. Unde requirit determinatam dispositionem in materia ad inducendum suum effectum, et quantum ad distantiam loci, et quantum ad alias conditiones. Et ideo sicut distantia loci impedit effectum caelestis corporis (non enim sol eundem caloris effectum habet in Dacia, quem habet in Aethiopia); ita et grossities materiae, vel frigiditas aut caliditas, aut alia huiusmodi dispositio, impedire potest effectum corporis caelestis.
+
+@@ I q. 115 a. 6 ad 3
+Ad tertium dicendum quod licet causa impediens effectum alterius causae, reducatur in aliquod caeleste corpus sicut in causam; tamen concursus duarum causarum, cum sit per accidens, non reducitur in causam caelestem, ut dictum est.

@@ -1,0 +1,191 @@
+@@ I q. 103 pr.
+Postquam praemissum est de creatione rerum et distinctione earum, restat nunc tertio considerandum de rerum gubernatione. Et primo, in communi; secundo, in speciali de effectibus gubernationis. Circa primum quaeruntur octo. Primo, utrum mundus ab aliquo gubernetur. Secundo, quis sit finis gubernationis ipsius. Tertio, utrum gubernetur ab uno. Quarto, de effectibus gubernationis. Quinto, utrum omnia divinae gubernationi subsint. Sexto, utrum omnia immediate gubernentur a Deo. Septimo, utrum divina gubernatio cassetur in aliquo. Octavo, utrum aliquid divinae providentiae contranitatur.
+
+@@ I q. 103 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod mundus non gubernetur ab aliquo. Illorum enim est gubernari, quae moventur vel operantur propter finem. Sed res naturales, quae sunt magna pars mundi, non moventur aut operantur propter finem, quia non cognoscunt finem. Ergo mundus non gubernatur.
+
+@@ I q. 103 a. 1 arg. 2
+Praeterea, eorum est proprie gubernari, quae ad aliquid moventur. Sed mundus non videtur ad aliquid moveri, sed in se stabilitatem habet. Ergo non gubernatur.
+
+@@ I q. 103 a. 1 arg. 3
+Praeterea, id quod in se habet necessitatem qua determinatur ad unum, non indiget exteriori gubernante. Sed principaliores mundi partes quadam necessitate determinantur ad unum in suis actibus et motibus. Ergo mundus gubernatione non indiget.
+
+@@ I q. 103 a. 1 s. c.
+Sed contra est quod dicitur Sap. XIV, tu autem, pater, gubernas omnia providentia. Et Boetius dicit, in libro de Consol., o qui perpetua mundum ratione gubernas.
+
+@@ I q. 103 a. 1 co.
+Respondeo dicendum quod quidam antiqui philosophi gubernationem mundo subtraxerunt, dicentes omnia fortuito agi. Sed haec positio ostenditur esse impossibilis ex duobus. Primo quidem, ex eo quod apparet in ipsis rebus. Videmus enim in rebus naturalibus provenire quod melius est, aut semper aut in pluribus, quod non contingeret, nisi per aliquam providentiam res naturales dirigerentur ad finem boni, quod est gubernare. Unde ipse ordo certus rerum manifeste demonstrat gubernationem mundi, sicut si quis intraret domum bene ordinatam, ex ipsa domus ordinatione ordinatoris rationem perpenderet; ut, ab Aristotele dictum, Tullius introducit in libro de natura deorum. Secundo autem apparet idem ex consideratione divinae bonitatis, per quam res in esse productae sunt, ut ex supra dictis patet. Cum enim optimi sit optima producere, non convenit summae Dei bonitati quod res productas ad perfectum non perducat. Ultima autem perfectio uniuscuiusque est in consecutione finis. Unde ad divinam bonitatem pertinet ut, sicut produxit res in esse, ita etiam eas ad finem perducat. Quod est gubernare.
+
+@@ I q. 103 a. 1 ad 1
+Ad primum ergo dicendum quod aliquid movetur vel operatur propter finem dupliciter. Uno modo, sicut agens seipsum in finem, ut homo et aliae creaturae rationales, et talium est cognoscere rationem finis, et eorum quae sunt ad finem. Aliquid autem dicitur moveri vel operari propter finem, quasi ab alio actum vel directum in finem, sicut sagitta movetur ad signum directa a sagittante, qui cognoscit finem, non autem sagitta. Unde sicut motus sagittae ad determinatum finem demonstrat aperte quod sagitta dirigitur ab aliquo cognoscente; ita certus cursus naturalium rerum cognitione carentium, manifeste declarat mundum ratione aliqua gubernari.
+
+@@ I q. 103 a. 1 ad 2
+Ad secundum dicendum quod in omnibus rebus creatis est aliquid stabile, ad minus prima materia; et aliquid ad motum pertinens, ut sub motu etiam operationem comprehendamus. Et quantum ad utrumque, res indiget gubernatione, quia hoc ipsum quod in rebus est stabile, in nihilum decideret (quia ex nihilo est), nisi manu gubernatoris servaretur, ut infra patebit.
+
+@@ I q. 103 a. 1 ad 3
+Ad tertium dicendum quod necessitas naturalis inhaerens rebus quae determinantur ad unum, est impressio quaedam Dei dirigentis ad finem, sicut necessitas qua sagitta agitur ut ad certum signum tendat, est impressio sagittantis, et non sagittae. Sed in hoc differt, quia id quod creaturae a Deo recipiunt, est earum natura; quod autem ab homine rebus naturalibus imprimitur praeter earum naturam, ad violentiam pertinet. Unde sicut necessitas violentiae in motu sagittae demonstrat sagittantis directionem; ita necessitas naturalis creaturarum demonstrat divinae providentiae gubernationem.
+
+@@ I q. 103 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod finis gubernationis mundi non sit aliquid extra mundum existens. Illud enim est finis gubernationis rei, ad quod res gubernata perducitur. Sed illud ad quod res aliqua perducitur, est aliquod bonum in ipsa re, sicut infirmus perducitur ad sanitatem, quae est aliquod bonum in ipso. Ergo finis gubernationis rerum non est aliquod bonum extrinsecum, sed aliquod bonum in ipsis rebus existens.
+
+@@ I q. 103 a. 2 arg. 2
+Praeterea, philosophus dicit, I Ethic., quod finium quidam sunt operationes, quidam opera, idest operata. Sed nihil extrinsecum a toto universo potest esse operatum, operatio autem est in ipsis operantibus. Ergo nihil extrinsecum potest esse finis gubernationis rerum.
+
+@@ I q. 103 a. 2 arg. 3
+Praeterea, bonum multitudinis videtur esse ordo et pax, quae est tranquillitas ordinis. Ut Augustinus dicit XIX de Civ. Dei. Sed mundus in quadam rerum multitudine consistit. Ergo finis gubernationis mundi est pacificus ordo, qui est in ipsis rebus. Non ergo finis gubernationis rerum est quoddam bonum extrinsecum.
+
+@@ I q. 103 a. 2 s. c.
+Sed contra est quod dicitur Prov. XVI, universa propter se operatus est dominus. Ipse autem est extra totum ordinem universi. Ergo finis rerum est quoddam bonum extrinsecum.
+
+@@ I q. 103 a. 2 co.
+Respondeo dicendum quod, cum finis respondeat principio, non potest fieri ut, principio cognito, quid sit rerum finis ignoretur. Cum igitur principium rerum sit aliquid extrinsecum a toto universo, scilicet Deus, ut ex supra dictis patet; necesse est quod etiam finis rerum sit quoddam bonum extrinsecum. Et hoc ratione apparet. Manifestum est enim quod bonum habet rationem finis. Unde finis particularis alicuius rei est quoddam bonum particulare, finis autem universalis rerum omnium est quoddam bonum universale. Bonum autem universale est quod est per se et per suam essentiam bonum, quod est ipsa essentia bonitatis, bonum autem particulare est quod est participative bonum. Manifestum est autem quod in tota universitate creaturarum nullum est bonum quod non sit participative bonum. Unde illud bonum quod est finis totius universi, oportet quod sit extrinsecum a toto universo.
+
+@@ I q. 103 a. 2 ad 1
+Ad primum ergo dicendum quod bonum aliquod consequimur multipliciter, uno modo, sicut formam in nobis existentem, ut sanitatem aut scientiam; alio modo, ut aliquid per nos operatum, sicut aedificator consequitur finem faciendo domum; alio modo, sicut aliquod bonum habitum vel possessum, ut ille qui emit, consequitur finem possidendo agrum. Unde nihil prohibet illud ad quod perducitur universum, esse quoddam bonum extrinsecum.
+
+@@ I q. 103 a. 2 ad 2
+Ad secundum dicendum quod philosophus loquitur de finibus artium, quarum quaedam habent pro finibus operationes ipsas, sicut citharistae finis est citharizare; quaedam vero habent pro fine quoddam operatum, sicut aedificatoris finis non est aedificare, sed domus. Contingit autem aliquid extrinsecum esse finem non solum sicut operatum, sed etiam sicut possessum seu habitum, vel etiam sicut repraesentatum, sicut si dicamus quod Hercules est finis imaginis, quae fit ad eum repraesentandum. Sic igitur potest dici quod bonum extrinsecum a toto universo est finis gubernationis rerum sicut habitum et repraesentatum, quia ad hoc unaquaeque res tendit, ut participet ipsum, et assimiletur ei, quantum potest.
+
+@@ I q. 103 a. 2 ad 3
+Ad tertium dicendum quod finis quidem universi est aliquod bonum in ipso existens, scilicet ordo ipsius universi, hoc autem bonum non est ultimus finis, sed ordinatur ad bonum extrinsecum ut ad ultimum finem; sicut etiam ordo exercitus ordinatur ad ducem, ut dicitur in XII Metaphys.
+
+@@ I q. 103 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod mundus non gubernetur ab uno. De causa enim per effectus iudicamus. Sed in gubernatione rerum apparet quod res non uniformiter moventur et operantur, quaedam enim contingenter, quaedam vero ex necessitate, et secundum alias diversitates. Ergo mundus non gubernatur ab uno.
+
+@@ I q. 103 a. 3 arg. 2
+Praeterea, ea quae gubernantur ab uno, a se invicem non dissentiunt nisi propter imperitiam aut impotentiam gubernantis, quae a Deo sunt procul. Sed res creatae a se invicem dissentiunt, et contra se invicem pugnant; ut in contrariis apparet. Non ergo mundus gubernatur ab uno.
+
+@@ I q. 103 a. 3 arg. 3
+Praeterea, in natura semper invenitur quod melius est. Sed melius est simul esse duos quam unum, ut dicitur Eccle. IV. Ergo mundus non gubernatur ab uno, sed a pluribus.
+
+@@ I q. 103 a. 3 s. c.
+Sed contra est quod unum Deum et unum dominum confitemur; secundum illud apostoli I ad Cor. VIII, nobis est unus Deus, pater, et dominus unus. Quorum utrumque ad gubernationem pertinet, nam ad dominum pertinet gubernatio subditorum; et Dei nomen ex providentia sumitur, ut supra dictum est. Ergo mundus gubernatur ab uno.
+
+@@ I q. 103 a. 3 co.
+Respondeo dicendum quod necesse est dicere quod mundus ab uno gubernetur. Cum enim finis gubernationis mundi sit quod est essentialiter bonum, quod est optimum, necesse est quod mundi gubernatio sit optima. Optima autem gubernatio est quae fit per unum. Cuius ratio est, quia gubernatio nihil aliud est quam directio gubernatorum ad finem, qui est aliquod bonum. Unitas autem pertinet ad rationem bonitatis; ut Boetius probat, in III de Consol., per hoc quod. Sicut omnia desiderant bonum, ita desiderant unitatem, sine qua esse non possunt. Nam unumquodque intantum est, inquantum unum est, unde videmus quod res repugnant suae divisioni quantum possunt, et quod dissolutio uniuscuiusque rei provenit ex defectu illius rei. Et ideo id ad quod tendit intentio multitudinem gubernantis, est unitas sive pax. Unitatis autem causa per se est unum. Manifestum est enim quod plures multa unire et concordare non possunt, nisi ipsi aliquo modo uniantur. Illud autem quod est per se unum, potest convenientius et melius esse causa unitatis, quam multi uniti. Unde multitudo melius gubernatur per unum quam per plures. Relinquitur ergo quod gubernatio mundi, quae est optima, sit ab uno gubernante. Et hoc est quod philosophus dicit in XII Metaphys., entia nolunt disponi male, nec bonum pluralitas principatuum, unus ergo princeps.
+
+@@ I q. 103 a. 3 ad 1
+Ad primum ergo dicendum quod motus est actus mobilis a movente. Difformitas ergo motuum est ex diversitate mobilium, quam requirit perfectio universi, ut supra dictum est; non ex diversitate gubernantium.
+
+@@ I q. 103 a. 3 ad 2
+Ad secundum dicendum quod contraria, etsi dissentiant quantum ad fines proximos, conveniunt tamen quantum ad finem ultimum, prout concluduntur sub uno ordine universi.
+
+@@ I q. 103 a. 3 ad 3
+Ad tertium dicendum quod in particularibus bonis duo sunt meliora quam unum, sed ei quod est essentialiter bonum, non potest fieri aliqua additio bonitatis.
+
+@@ I q. 103 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod effectus gubernationis mundi sit unus tantum, et non plures. Effectus enim gubernationis esse videtur id quod per gubernationem in rebus gubernatis causatur. Hoc autem est unum, scilicet bonum ordinis; ut in exercitu patet. Ergo gubernationis mundi est unus effectus.
+
+@@ I q. 103 a. 4 arg. 2
+Praeterea, ab uno natum est unum tantum procedere. Sed mundus gubernatur ab uno, ut ostensum est. Ergo et gubernationis effectus est unus tantum.
+
+@@ I q. 103 a. 4 arg. 3
+Praeterea, si effectus gubernationis non est unus tantum propter unitatem gubernantis, oportet quod multiplicetur secundum multitudinem gubernatorum. Haec autem sunt nobis innumerabilia. Ergo gubernationis effectus non possunt comprehendi sub aliquo certo numero.
+
+@@ I q. 103 a. 4 s. c.
+Sed contra est quod Dionysius dicit, quod deitas providentia et bonitate perfecta omnia continet, et seipsa implet. Gubernatio autem ad providentiam pertinet. Ergo gubernationis divinae sunt aliqui determinati effectus.
+
+@@ I q. 103 a. 4 co.
+Respondeo dicendum quod effectus cuiuslibet actionis ex fine eius pensari potest, nam per operationem efficitur ut pertingatur ad finem. Finis autem gubernationis mundi est bonum essentiale, ad cuius participationem et assimilationem omnia tendunt. Effectus igitur gubernationis potest accipi tripliciter. Uno modo, ex parte ipsius finis, et sic est unus effectus gubernationis, scilicet assimilari summo bono. Alio modo potest considerari effectus gubernationis secundum ea quibus ad Dei assimilationem creatura perducitur. Et sic in generali sunt duo effectus gubernationis. Creatura enim assimilatur Deo quantum ad duo, scilicet quantum ad id quod Deus bonus est, inquantum creatura est bona; et quantum ad hoc quod Deus est aliis causa bonitatis, inquantum una creatura movet aliam ad bonitatem. Unde duo sunt effectus gubernationis, scilicet conservatio rerum in bono, et motio earum ad bonum. Tertio modo potest considerari effectus gubernationis in particulari, et sic sunt nobis innumerabiles.
+
+@@ I q. 103 a. 4 ad 1
+Ad primum ergo dicendum quod ordo universi includit in se et conservationem rerum diversarum a Deo institutarum, et motionem earum, quia secundum haec duo invenitur ordo in rebus, secundum scilicet quod una est melior alia, et secundum quod una ab alia movetur.
+
+@@ I q. 103 a. 4 ad 2
+Ad alia duo patet responsio per ea quae dicta sunt.
+
+@@ I q. 103 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod non omnia divinae gubernationi subdantur. Dicitur enim Eccle. IX, vidi sub sole nec velocium esse cursum, nec fortium bellum, nec sapientium panem, nec doctorum divitias, nec artificum gratiam, sed tempus casumque in omnibus. Quae autem gubernationi alicuius subsunt, non sunt casualia. Ergo ea quae sunt sub sole, non subduntur divinae gubernationi.
+
+@@ I q. 103 a. 5 arg. 2
+Praeterea, apostolus, I ad Cor. IX, dicit quod non est Deo cura de bobus. Sed unicuique est cura eorum quae gubernantur ab ipso. Non ergo omnia subduntur divinae gubernationi.
+
+@@ I q. 103 a. 5 arg. 3
+Praeterea, illud quod seipsum gubernare potest, non videtur alterius gubernatione indigere. Sed creatura rationalis seipsam gubernare potest, cum habeat dominium sui actus, et per se agat; et non solum agatur ab alio, quod videtur esse eorum quae gubernantur. Ergo non omnia subsunt divinae gubernationi.
+
+@@ I q. 103 a. 5 s. c.
+Sed contra est quod Augustinus dicit, V de Civ. Dei, quod Deus non solum caelum et terram, nec solum hominem et Angelum, sed nec exigui et contemptibilis animantis viscera, nec avis pennulam, nec herbae flosculum, nec arboris folium, sine suarum partium convenientia dereliquit. Omnia ergo eius gubernationi subduntur.
+
+@@ I q. 103 a. 5 co.
+Respondeo dicendum quod secundum eandem rationem competit Deo esse gubernatorem rerum, et causam earum, quia eiusdem est rem producere, et ei perfectionem dare, quod ad gubernantem pertinet. Deus autem est causa non quidem particularis unius generis rerum, sed universalis totius entis, ut supra ostensum est. Unde sicut nihil potest esse quod non sit a Deo creatum, ita nihil potest esse quod eius gubernationi non subdatur. Patet etiam hoc idem ex ratione finis. Intantum enim alicuius gubernatio se extendit, inquantum se extendere potest finis gubernationis. Finis autem divinae gubernationis est ipsa sua bonitas, ut supra ostensum est. Unde cum nihil esse possit quod non ordinetur in divinam bonitatem sicut in finem, ut ex supra dictis patet; impossibile est quod aliquod entium subtrahatur gubernationi divinae. Stulta igitur fuit opinio dicentium quod haec inferiora corruptibilia, vel etiam singularia, aut etiam res humanae non gubernantur a Deo. Ex quorum persona dicitur Ezech. IX, dereliquit dominus terram.
+
+@@ I q. 103 a. 5 ad 1
+Ad primum ergo dicendum quod sub sole dicuntur esse ea quae secundum motum solis generantur et corrumpuntur. In quibus omnibus casus invenitur; non ita quod omnia quae in eis fiunt, sint casualia; sed quia in quolibet eorum aliquid casuale inveniri potest. Et hoc ipsum quod aliquid casuale invenitur in huiusmodi rebus, demonstrat ea alicuius gubernationi esse subiecta. Nisi enim huiusmodi corruptibilia ab aliquo superiori gubernarentur, nihil intenderent, maxime quae non cognoscunt, et sic non eveniret in eis aliquid praeter intentionem, quod facit rationem casus. Unde ad ostendendum quod casualia secundum ordinem alicuius superioris causae proveniunt, non dicit simpliciter quod vidit casum esse in omnibus, sed dicit tempus et casum; quia scilicet secundum aliquem ordinem temporis, casuales defectus inveniuntur in his rebus.
+
+@@ I q. 103 a. 5 ad 2
+Ad secundum dicendum quod gubernatio est quaedam mutatio gubernatorum a gubernante. Omnis autem motus est actus mobilis a movente, ut dicitur in III Physic. Omnis autem actus proportionatur ei cuius est actus. Et sic oportet quod diversa mobilia diversimode moveantur, etiam secundum motionem unius motoris. Sic igitur secundum unam artem Dei gubernantis, res diversimode gubernantur, secundum earum diversitatem. Quaedam enim secundum suam naturam sunt per se agentia, tanquam habentia dominium sui actus, et ista gubernantur a Deo non solum per hoc quod moventur ab ipso Deo in eis interius operante, sed etiam per hoc quod ab eo inducuntur ad bonum et retrahuntur a malo per praecepta et prohibitiones, praemia et poenas. Hoc autem modo non gubernantur a Deo creaturae irrationales, quae tantum aguntur, et non agunt. Cum ergo apostolus dicit quod Deo non est cura de bobus, non totaliter subtrahit boves a cura gubernationis divinae; sed solum quantum ad modum qui proprie competit rationali creaturae.
+
+@@ I q. 103 a. 5 ad 3
+Ad tertium dicendum quod creatura rationalis gubernat seipsam per intellectum et voluntatem, quorum utrumque indiget regi et perfici ab intellectu et voluntate Dei. Et ideo supra gubernationem qua creatura rationalis gubernat seipsam tanquam domina sui actus, indiget gubernari a Deo.
+
+@@ I q. 103 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod omnia immediate gubernentur a Deo. Gregorius enim Nyssenus reprehendit opinionem Platonis, qui divisit providentiam in tria, primam quidem primi Dei, qui providet rebus caelestibus, et universalibus omnibus; secundam vero providentiam esse dixit secundorum deorum, qui caelum circumeunt, scilicet respectu eorum quae sunt in generatione et corruptione; tertiam vero providentiam dixit quorundam Daemonum, qui sunt custodes circa terram humanarum actionum. Ergo videtur quod omnia immediate a Deo gubernentur.
+
+@@ I q. 103 a. 6 arg. 2
+Praeterea, melius est aliquid fieri per unum quam per multa, si sit possibile, ut dicitur in VIII Physic. Sed Deus potest per seipsum absque mediis causis omnia gubernare. Ergo videtur quod omnia immediate gubernet.
+
+@@ I q. 103 a. 6 arg. 3
+Praeterea, nihil in Deo est deficiens et imperfectum. Sed ad defectum gubernatoris pertinere videtur quod mediantibus aliquibus gubernet, sicut rex terrenus, quia non sufficit ad omnia agenda, nec ubique est praesens in suo regno, propter hoc oportet quod habeat suae gubernationis ministros. Ergo Deus immediate omnia gubernat.
+
+@@ I q. 103 a. 6 s. c.
+Sed contra est quod Augustinus dicit, in III de Trin., quemadmodum corpora crassiora et inferiora per subtiliora et potentiora quodam ordine reguntur; ita omnia corpora per spiritum vitae rationalem, et spiritus vitae rationalis desertor atque peccator per spiritum vitae rationalem pium et iustum, et ille per ipsum Deum.
+
+@@ I q. 103 a. 6 co.
+Respondeo dicendum quod in gubernatione duo sunt consideranda, scilicet ratio gubernationis, quae est ipsa providentia; et executio. Quantum igitur ad rationem gubernationis pertinet, Deus immediate omnia gubernat, quantum autem pertinet ad executionem gubernationis, Deus gubernat quaedam mediantibus aliis. Cuius ratio est quia, cum Deus sit ipsa essentia bonitatis, unumquodque attribuendum est Deo secundum sui optimum. Optimum autem in omni genere vel ratione vel cognitione practica, qualis est ratio gubernationis, in hoc consistit, quod particularia cognoscantur, in quibus est actus, sicut optimus medicus est, non qui considerat sola universalia, sed qui potest etiam considerare minima particularium; et idem patet in ceteris. Unde oportet dicere quod Deus omnium etiam minimorum particularium rationem gubernationis habeat. Sed cum per gubernationem res quae gubernantur sint ad perfectionem perducendae; tanto erit melior gubernatio, quanto maior perfectio a gubernante rebus gubernatis communicatur. Maior autem perfectio est quod aliquid in se sit bonum, et etiam sit aliis causa bonitatis, quam si esset solummodo in se bonum. Et ideo sic Deus gubernat res, ut quasdam aliarum in gubernando causas instituat, sicut si aliquis magister discipulos suos non solum scientes faceret, sed etiam aliorum doctores.
+
+@@ I q. 103 a. 6 ad 1
+Ad primum ergo dicendum quod opinio Platonis reprehenditur, quia etiam quantum ad rationem gubernationis, posuit Deum non immediate omnia gubernare. Quod patet per hoc, quod divisit in tria providentiam, quae est ratio gubernationis.
+
+@@ I q. 103 a. 6 ad 2
+Ad secundum dicendum quod, si solus Deus gubernaret, subtraheretur perfectio causalis a rebus. Unde non totum fieret per unum, quod fit per multa.
+
+@@ I q. 103 a. 6 ad 3
+Ad tertium dicendum quod non solum pertinet ad imperfectionem regis terreni quod executores habeat suae gubernationis, sed etiam ad regis dignitatem, quia ex ordine ministrorum potestas regia praeclarior redditur.
+
+@@ I q. 103 a. 7 arg. 1
+Ad septimum sic proceditur. Videtur quod aliquid praeter ordinem divinae gubernationis contingere possit. Dicit enim Boetius, in III de Consol., quod Deus per bonum cuncta disponit. Si ergo nihil in rebus contingit praeter ordinem divinae gubernationis, sequeretur quod nihil esset malum in rebus.
+
+@@ I q. 103 a. 7 arg. 2
+Praeterea, nihil est casuale quod evenit secundum praeordinationem alicuius gubernantis. Si igitur nihil accidit in rebus praeter ordinem gubernationis divinae, sequitur quod nihil in rebus sit fortuitum et casuale.
+
+@@ I q. 103 a. 7 arg. 3
+Praeterea, ordo divinae gubernationis est certus et immutabilis, quia est secundum rationem aeternam. Si igitur nihil possit contingere in rebus praeter ordinem divinae gubernationis, sequitur quod omnia ex necessitate eveniant, et nihil sit in rebus contingens, quod est inconveniens. Potest igitur in rebus aliquid contingere praeter ordinem gubernationis divinae.
+
+@@ I q. 103 a. 7 s. c.
+Sed contra est quod dicitur Esther XIII, domine Deus, rex omnipotens, in ditione tua cuncta sunt posita, et non est qui possit resistere tuae voluntati.
+
+@@ I q. 103 a. 7 co.
+Respondeo dicendum quod praeter ordinem alicuius particularis causae, aliquis effectus evenire potest; non autem praeter ordinem causae universalis. Cuius ratio est, quia praeter ordinem particularis causae nihil provenit nisi ex aliqua alia causa impediente, quam quidem causam necesse est reducere in primam causam universalem, sicut indigestio contingit praeter ordinem virtutis nutritivae, ex aliquo impedimento, puta ex grossitie cibi, quam necesse est reducere in aliquam aliam causam, et sic usque ad causam primam universalem. Cum igitur Deus sit prima causa universalis non unius generis tantum, sed universaliter totius entis; impossibile est quod aliquid contingat praeter ordinem divinae gubernationis, sed ex hoc ipso quod aliquid ex una parte videtur exire ab ordine divinae providentiae qui consideratur secundum aliquam particularem causam, necesse est quod in eundem ordinem relabatur secundum aliam causam.
+
+@@ I q. 103 a. 7 ad 1
+Ad primum ergo dicendum quod nihil invenitur in mundo quod sit totaliter malum, quia malum semper fundatur in bono, ut supra ostensum est. Et ideo res aliqua dicitur mala, per hoc quod exit ab ordine alicuius particularis boni. Si autem totaliter exiret ab ordine gubernationis divinae, totaliter nihil esset.
+
+@@ I q. 103 a. 7 ad 2
+Ad secundum dicendum quod aliqua dicuntur esse casualia in rebus, per ordinem ad causas particulares, extra quarum ordinem fiunt. Sed quantum ad divinam providentiam pertinet, nihil fit casu in mundo, ut Augustinus dicit in libro octoginta trium quaest.
+
+@@ I q. 103 a. 7 ad 3
+Ad tertium dicendum quod dicuntur aliqui effectus contingentes, per comparationem ad proximas causas, quae in suis effectibus deficere possunt, non propter hoc quod aliquid fieri possit extra totum ordinem gubernationis divinae. Quia hoc ipsum quod aliquid contingit praeter ordinem causae proximae, est ex aliqua causa subiecta gubernationi divinae.
+
+@@ I q. 103 a. 8 arg. 1
+Ad octavum sic proceditur. Videtur quod aliquid possit reniti contra ordinem gubernationis divinae. Dicitur enim Isaiae III, lingua eorum et adinventiones eorum contra dominum.
+
+@@ I q. 103 a. 8 arg. 2
+Praeterea, nullus rex iuste punit eos qui eius ordinationi non repugnant. Si igitur nihil contraniteretur divinae ordinationi, nullus iuste puniretur a Deo.
+
+@@ I q. 103 a. 8 arg. 3
+Praeterea, quaelibet res est subiecta ordini divinae gubernationis. Sed una res ab alia impugnatur. Ergo aliqua sunt quae contranituntur divinae gubernationi.
+
+@@ I q. 103 a. 8 s. c.
+Sed contra est quod dicit Boetius, in III de Consol., non est aliquid quod summo huic bono vel velit vel possit obsistere. Est igitur summum bonum quod regit cuncta fortiter, suaviterque disponit; ut dicitur Sap. VIII, de divina sapientia.
+
+@@ I q. 103 a. 8 co.
+Respondeo dicendum quod ordo divinae providentiae dupliciter potest considerari, uno modo in generali, secundum scilicet quod progreditur a causa gubernativa totius; alio modo in speciali, secundum scilicet quod progreditur ex aliqua causa particulari, quae est executiva divinae gubernationis. Primo igitur modo, nihil contranititur ordini divinae gubernationis. Quod ex duobus patet. Primo quidem, ex hoc quod ordo divinae gubernationis totaliter in bonum tendit, et unaquaeque res in sua operatione et conatu non tendit nisi ad bonum, nullus enim respiciens ad malum operatur, ut Dionysius dicit. Alio modo apparet idem ex hoc quod, sicut supra dictum est, omnis inclinatio alicuius rei vel naturalis vel voluntaria, nihil est aliud quam quaedam impressio a primo movente, sicut inclinatio sagittae ad signum determinatum, nihil aliud est quam quaedam impressio a sagittante. Unde omnia quae agunt vel naturaliter vel voluntarie, quasi propria sponte perveniunt in id ad quod divinitus ordinantur. Et ideo dicitur Deus omnia disponere suaviter.
+
+@@ I q. 103 a. 8 ad 1
+Ad primum ergo dicendum quod dicuntur aliqui vel cogitare vel loqui vel agere contra Deum, non quia totaliter renitantur ordini divinae gubernationis, quia etiam peccantes intendunt aliquod bonum, sed quia contranituntur cuidam determinato bono, quod est eis conveniens secundum suam naturam aut statum. Et ideo puniuntur iuste a Deo.
+
+@@ I q. 103 a. 8 ad 2
+Et per hoc patet solutio ad secundum.
+
+@@ I q. 103 a. 8 ad 3
+Ad tertium dicendum quod ex hoc quod una res alteri contrapugnat, ostenditur quod aliquid reniti potest ordini qui est ex aliqua causa particulari, non autem ordini qui dependet a causa universali totius.

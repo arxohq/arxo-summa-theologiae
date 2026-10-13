@@ -1,0 +1,50 @@
+@@ II-II q. 135 pr.
+[44470] IIª-IIae, q. 135 pr. Deinde considerandum est de vitiis oppositis magnificentiae. Et circa hoc quaeruntur duo. Primo, utrum parvificentia sit vitium. Secundo, de vitio ei opposito.
+
+@@ II-II q. 135 a. 1 arg. 1
+[44471] IIª-IIae, q. 135 a. 1 arg. 1 Ad primum sic proceditur. Videtur quod parvificentia non sit vitium. Virtus enim, sicut est moderativa magnorum, ita etiam est moderativa parvorum, unde et liberales et magnifici aliqua parva faciunt. Sed magnificentia est virtus. Ergo similiter parvificentia magis est virtus quam vitium.
+
+@@ II-II q. 135 a. 1 arg. 2
+[44472] IIª-IIae, q. 135 a. 1 arg. 2 Praeterea, philosophus dicit, in IV Ethic., quod diligentia ratiocinii est parvifica. Sed diligentia ratiocinii videtur esse laudabilis, quia bonum hominis est secundum rationem esse, ut Dionysius dicit, IV cap. de Div. Nom. Ergo parvificentia non est vitium.
+
+@@ II-II q. 135 a. 1 arg. 3
+[44473] IIª-IIae, q. 135 a. 1 arg. 3 Praeterea, philosophus dicit, in IV Ethic., quod parvificus consumit pecuniam tristatus. Sed hoc pertinet ad avaritiam, sive ad illiberalitatem. Ergo parvificentia non est vitium ab aliis distinctum.
+
+@@ II-II q. 135 a. 1 s. c.
+[44474] IIª-IIae, q. 135 a. 1 s. c. Sed contra est quod philosophus, in II et IV Ethic., ponit parvificentiam speciale vitium magnificentiae oppositum.
+
+@@ II-II q. 135 a. 1 co.
+[44475] IIª-IIae, q. 135 a. 1 co. Respondeo dicendum quod, sicut supra dictum est, moralia speciem a fine sortiuntur. Unde et a fine ut pluries nominantur. Ex hoc ergo dicitur aliquis parvificus quod intendit ad aliquid parvum faciendum. Parvum autem et magnum, secundum philosophum, in praedicamentis, relative dicuntur. Unde cum dicitur quod parvificus intendit aliquid parvum faciendum, facere parvum intelligendum est in comparatione ad genus operis quod facit. In quo quidem parvum et magnum potest attendi dupliciter, uno modo, ex parte operis fiendi; alio modo, ex parte sumptus. Magnificus igitur principaliter intendit magnitudinem operis, secundario intendit magnitudinem sumptus, quam non vitat, ut faciat magnum opus, unde philosophus dicit, in IV Ethic., quod magnificus ab aequali sumptu opus facit magis magnificum. Parvificus autem e converso principaliter quidem intendit parvitatem sumptus, unde philosophus dicit, in IV Ethic., quod intendit qualiter minimum consumat, ex consequenti autem intendit parvitatem operis, quam scilicet non recusat, dummodo parvum sumptum faciat. Unde philosophus dicit, ibidem, quod parvificus, maxima consumens in parvo, quod scilicet non vult expendere, bonum perdit, scilicet magnifici operis. Sic ergo patet quod parvificus deficit a proportione quae debet esse secundum rationem inter sumptum et opus. Defectus autem ab eo quod est secundum rationem, causat rationem vitii. Unde manifestum est quod parvificentia vitium est.
+
+@@ II-II q. 135 a. 1 ad 1
+[44476] IIª-IIae, q. 135 a. 1 ad 1 Ad primum ergo dicendum quod virtus moderatur parva secundum regulam rationis, a qua deficit parvificus, ut dictum est. Non enim dicitur parvificus qui parva moderatur, sed qui in moderando magna vel parva deficit a regula rationis. Et ideo habet vitii rationem.
+
+@@ II-II q. 135 a. 1 ad 2
+[44477] IIª-IIae, q. 135 a. 1 ad 2 Ad secundum dicendum quod, sicut dicit philosophus, in II Rhet., timor facit consiliativos. Et ideo parvificus diligenter ratiociniis intendit, quia inordinate timet bonorum suorum consumptionem, etiam in minimis. Unde hoc non est laudabile, sed vitiosum et vituperabile, quia non dirigit affectum suum secundum rationem, sed potius rationis usum applicat ad inordinationem sui affectus.
+
+@@ II-II q. 135 a. 1 ad 3
+[44478] IIª-IIae, q. 135 a. 1 ad 3 Ad tertium dicendum quod sicut magnificus convenit cum liberali in hoc quod prompte et delectabiliter pecunias emittit, ita etiam parvificus convenit cum illiberali sive avaro in hoc quod cum tristitia et tarditate expensas facit. Differt autem in hoc quod illiberalitas attenditur circa communes sumptus, parvificentia autem circa magnos sumptus, quos difficilius est facere. Et ideo minus vitium est parvificentia quam illiberalitas. Unde philosophus dicit, in IV Ethic., quod quamvis parvificentia et oppositum vitium sint malitiae, non tamen opprobria inferunt, quia neque sunt nociva proximo, neque sunt valde turpes.
+
+@@ II-II q. 135 a. 2 arg. 1
+[44479] IIª-IIae, q. 135 a. 2 arg. 1 Ad secundum sic proceditur. Videtur quod parvificentiae nullum vitium opponatur. Parvo enim opponitur magnum. Sed magnificentia non est vitium, sed virtus. Ergo parvificentiae non opponitur vitium.
+
+@@ II-II q. 135 a. 2 arg. 2
+[44480] IIª-IIae, q. 135 a. 2 arg. 2 Praeterea, cum parvificentia sit vitium ex defectu, ut dictum est, videtur quod, si aliquod vitium esset parvificentiae oppositum, quod consisteret solum in superabundanti consumptione. Sed illi qui consumunt multa ubi pauca oporteret consumere, consumunt pauca ubi multa oporteret consumere, ut dicitur in IV Ethic., et sic habent aliquid de parvificentia. Non ergo est aliquod vitium parvificentiae oppositum.
+
+@@ II-II q. 135 a. 2 arg. 3
+[44481] IIª-IIae, q. 135 a. 2 arg. 3 Praeterea, moralia sortiuntur speciem ex fine, ut dictum est. Sed illi qui superflue consumunt, hoc faciunt causa ostentationis divitiarum, ut dicitur in IV Ethic. Hoc autem pertinet ad inanem gloriam, quae opponitur magnanimitati, ut dictum est. Ergo nullum vitium parvificentiae opponitur.
+
+@@ II-II q. 135 a. 2 s. c.
+[44482] IIª-IIae, q. 135 a. 2 s. c. Sed contra est auctoritas philosophi, qui, in II et IV Ethic., ponit magnificentiam medium duorum oppositorum vitiorum.
+
+@@ II-II q. 135 a. 2 co.
+[44483] IIª-IIae, q. 135 a. 2 co. Respondeo dicendum quod parvo opponitur magnum. Parvum autem et magnum, ut dictum est, relative dicuntur. Sicut autem contingit sumptum esse parvum per comparationem ad opus, ita etiam contingit sumptum esse magnum in comparatione ad opus, ut scilicet excedat proportionem quae esse debet sumptus ad opus secundum regulam rationis. Unde manifestum est quod vitio parvificentiae, qua aliquis deficit a proportione debita expensarum ad opus, intendens minus expendere quam dignitas operis requirat, opponitur vitium quo aliquis dictam proportionem excedit, ut scilicet plus expendat quam sit operi proportionatum. Et hoc vitium Graece quidem dicitur banausia, a furno dicta, quia videlicet ad modum ignis qui est in furno, omnia consumit, vel dicitur apirocalia, idest sine bono igne, quia ad modum ignis consumit non propter bonum. Unde Latine hoc vitium nominari potest consumptio.
+
+@@ II-II q. 135 a. 2 ad 1
+[44484] IIª-IIae, q. 135 a. 2 ad 1 Ad primum ergo dicendum quod magnificentia dicitur esse eo quod facit magnum opus, non autem ex eo quod in sumptu excedat proportionem operis. Hoc enim pertinet ad vitium quod opponitur parvificentiae.
+
+@@ II-II q. 135 a. 2 ad 2
+[44485] IIª-IIae, q. 135 a. 2 ad 2 Ad secundum dicendum quod idem vitium contrariatur virtuti quae est in medio, et contrario vitio. Sic igitur vitium consumptionis opponitur parvificentiae in eo quod excedit in sumptu operis dignitatem, expendens multa ubi pauca oporteret expendere. Opponitur autem magnificentiae ex parte operis magni, quod praecipue intendit magnificus, inquantum scilicet, ubi oportet multa expendere, nihil aut parum expendit.
+
+@@ II-II q. 135 a. 2 ad 3
+[44486] IIª-IIae, q. 135 a. 2 ad 3 Ad tertium dicendum quod consumptor ex ipsa specie actus opponitur parvifico, inquantum transcendit regulam rationis, a qua parvificus deficit. Nihil tamen prohibet quin hoc ad finem alterius vitii ordinetur, puta inanis gloria, vel cuiuscumque alterius.

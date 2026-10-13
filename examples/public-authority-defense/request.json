@@ -1,0 +1,3643 @@
+{
+  "schemaVersion": "law.core.evaluation-request/0.2",
+  "semanticVersion": "0.2.11",
+  "ir": {
+    "artifactHash": "sha256:b3723e483fa3a3a67d758539236b2a402b8b736108246da3a0bc015a13fe4e00",
+    "features": [
+      "core-executable"
+    ],
+    "imports": [],
+    "metadata": {
+      "localSources": {
+        "urn:la:aquinas:clir:duplex-effectus#ST_TEXT_Q40_A1": "sources/aquinas-duplex-effectus/q40-a1.la.txt",
+        "urn:la:aquinas:clir:duplex-effectus#ST_TEXT_Q64_A7": "sources/aquinas-duplex-effectus/q64-a7.la.txt"
+      }
+    },
+    "nodes": [
+      {
+        "contentHash": "sha256:aea5acd03dba7f7ef8eb95ea46f91a46b6e839078c07c3134a83961321315d8a",
+        "id": "urn:la:aquinas:clir:duplex-effectus#Actus",
+        "kind": "type_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the act of defence under examination"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "actus seipsum defendentis"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "предъявленное действие обороны"
+          }
+        ],
+        "name": "Actus",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "typeKind": "entity"
+      },
+      {
+        "contentHash": "sha256:610a625904724eb45f9f829d81bce4aa092d2ed6421003a94ecb9204166cc1d5",
+        "id": "urn:la:aquinas:clir:duplex-effectus#Bellum",
+        "kind": "type_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the war under examination"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "bellum examinandum"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "предъявленная война как предмет оценки"
+          }
+        ],
+        "name": "Bellum",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "typeKind": "entity"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_RESP"
+        ],
+        "contentHash": "sha256:fe9c272e1fa77f6979b2d6f240d08baee3e4c968b06ab51e3d8f9f9edc5c76ec",
+        "id": "urn:la:aquinas:clir:duplex-effectus#BellumIllicitumGerere",
+        "kind": "norm_template",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "a war that has become illicit forbids the prince to wage it"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "propter pravam intentionem bellum reddatur illicitum"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "война, ставшая недозволенной, запрещает государю её вести"
+          }
+        ],
+        "modality": "duty",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "payload": {
+          "bearer": {
+            "kind": "var",
+            "var": "v1"
+          },
+          "goal": {
+            "action": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v0"
+                }
+              ],
+              "function": "urn:la:aquinas:clir:duplex-effectus#gerit_bellum",
+              "kind": "call"
+            },
+            "kind": "forbearance",
+            "window": {
+              "end": {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Text"
+                },
+                "value": "infinity"
+              },
+              "endInclusive": false,
+              "kind": "interval",
+              "start": {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Date"
+                },
+                "value": "1270-01-01"
+              },
+              "startInclusive": true
+            }
+          },
+          "kind": "duty"
+        }
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_illicitum"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_a_principe"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_bellum"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:70fe7e9df95ff8428717c6c010a7c2b8261a2a7bc3d8d4cb567b1178158f645a",
+        "head": {
+          "id": "urn:la:aquinas:clir:duplex-effectus#BellumIllicitumGerere",
+          "kind": "norm_template_ref"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#BellumIllicitumVetitum",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "a war that has become illicit forbids the prince to wage it"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "propter pravam intentionem bellum reddatur illicitum"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "война, ставшая недозволенной, запрещает государю её вести"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#causa_iusta"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_recta"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#auctoritas_principis"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_bellum"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:eb6310d2489f6a375a76fbe25f92e4ec2ad5cbd6aa81cc87620297ff65e6359a",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_iustum"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#BellumIustumConstat",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the war is just when the prince's authority, a just cause and a right intention are present together"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "ad hoc quod aliquod bellum sit iustum, tria requiruntur"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "война справедлива, когда вместе даны власть государя, справедливая причина и правое намерение"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_RESP"
+        ],
+        "contentHash": "sha256:ed7167685c7e59c7326f2a090352e07bf7ecd6e6ead487a90f0d26886e4a8b32",
+        "id": "urn:la:aquinas:clir:duplex-effectus#BellumIustumGerere",
+        "kind": "norm_template",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "under the three conditions the prince has the liberty to wage war"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "ad hoc quod aliquod bellum sit iustum, tria requiruntur"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "при трёх условиях государь вправе вести войну"
+          }
+        ],
+        "modality": "liberty",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "payload": {
+          "action": {
+            "args": [
+              {
+                "kind": "var",
+                "var": "v1"
+              },
+              {
+                "kind": "var",
+                "var": "v0"
+              }
+            ],
+            "function": "urn:la:aquinas:clir:duplex-effectus#gerit_bellum",
+            "kind": "call"
+          },
+          "holder": {
+            "kind": "var",
+            "var": "v1"
+          },
+          "kind": "liberty",
+          "window": {
+            "end": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "infinity"
+            },
+            "endInclusive": false,
+            "kind": "interval",
+            "start": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Date"
+              },
+              "value": "1270-01-01"
+            },
+            "startInclusive": true
+          }
+        }
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_iustum"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_a_principe"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_bellum"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:eb78fdb023129594d9fac3c0506d8a84b35a3765a74e8c14fbd0b1611706fc8b",
+        "head": {
+          "id": "urn:la:aquinas:clir:duplex-effectus#BellumIustumGerere",
+          "kind": "norm_template_ref"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "under the three conditions the prince has the liberty to wage war"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "ad hoc quod aliquod bellum sit iustum, tria requiruntur"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "при трёх условиях государь вправе вести войну"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "contentHash": "sha256:30a1242110fe42e0d7e40036d057bda8dfd4f070bffac1313ae741655f84b5e4",
+        "id": "urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaProhibita",
+        "kind": "norm_template",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "illicit defence forbids defending oneself by this act"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "defensio illicita est"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "недозволенная оборона запрещает защищаться этим действием"
+          }
+        ],
+        "modality": "duty",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "payload": {
+          "bearer": {
+            "kind": "var",
+            "var": "v1"
+          },
+          "goal": {
+            "action": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v0"
+                }
+              ],
+              "function": "urn:la:aquinas:clir:duplex-effectus#se_defendit",
+              "kind": "call"
+            },
+            "kind": "forbearance",
+            "window": {
+              "end": {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Text"
+                },
+                "value": "infinity"
+              },
+              "endInclusive": false,
+              "kind": "interval",
+              "start": {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Date"
+                },
+                "value": "1270-01-01"
+              },
+              "startInclusive": true
+            }
+          },
+          "kind": "duty"
+        }
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:2375cd2bee215707398adeaf1bff049a226169b9e29a9415f6c0583d88ccbf54",
+        "head": {
+          "id": "urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaProhibita",
+          "kind": "norm_template_ref"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "illicit defence forbids defending oneself by this act"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "defensio illicita est"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "недозволенная оборона запрещает защищаться этим действием"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_conservationis_vitae"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#mors_est_medium"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_occisionis"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_moderata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:1915fa3c4d31842c106596da3540bf08d266eaf3ad3a64a525f67514ecd7409b",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_licita"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#DefensioLicitaPrivata",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "private defence is licit if the intention is to preserve life, the force is proportionate, and death is neither means nor end"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "actus ex hoc quod intenditur conservatio propriae vitae, non habet rationem illiciti, si moderate violentiam repellat"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "частная оборона дозволена, если намерение — сохранить жизнь, сила соразмерна, а смерть не средство и не цель"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "contentHash": "sha256:ce285f82d35cf4c97014e05517ff513cb2aa24dc82e47be931042c498f95006e",
+        "id": "urn:la:aquinas:clir:duplex-effectus#DefensioPropria",
+        "kind": "norm_template",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "licit defence opens the liberty to defend oneself"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "erit licita defensio"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "дозволенная оборона открывает свободу защищать себя"
+          }
+        ],
+        "modality": "liberty",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "payload": {
+          "action": {
+            "args": [
+              {
+                "kind": "var",
+                "var": "v1"
+              },
+              {
+                "kind": "var",
+                "var": "v0"
+              }
+            ],
+            "function": "urn:la:aquinas:clir:duplex-effectus#se_defendit",
+            "kind": "call"
+          },
+          "holder": {
+            "kind": "var",
+            "var": "v1"
+          },
+          "kind": "liberty",
+          "window": {
+            "end": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "infinity"
+            },
+            "endInclusive": false,
+            "kind": "interval",
+            "start": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Date"
+              },
+              "value": "1270-01-01"
+            },
+            "startInclusive": true
+          }
+        }
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_licita"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:175db23fdc83d5790249254dab2b3f61fe3c99ebafcc6ee47511e657dfdb8b0e",
+        "head": {
+          "id": "urn:la:aquinas:clir:duplex-effectus#DefensioPropria",
+          "kind": "norm_template_ref"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#DefensioPropriaAperitur",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "licit defence opens the liberty to defend oneself"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "erit licita defensio"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "дозволенная оборона открывает свободу защищать себя"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#privata_libido"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_moderata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#refert_ad_bonum_commune"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:7bf81ab33fcff83c8a8b25e2798895ec6589aa12e9b8721295cd8373a78fab9c",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_licita"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#DefensioPubliciMinistri",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "a public minister may strike intentionally when referring it to the common good"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "nisi ei qui habet publicam auctoritatem, qui intendens hominem occidere ad sui defensionem, refert hoc ad publicum bonum"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "носитель публичной власти может намеренно поражать, относя это к общему благу"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_moderata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:57689cc8e766e3c4386ab757192c4d258ef01ac7d7dde56dc4541036567eb579",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#ImmoderataViolentiaIllicita",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "exceeding the measure of blameless defence makes the act illicit"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "si aliquis ad defendendum propriam vitam utatur maiori violentia quam oporteat, erit illicitum"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "превышение меры безупречной защиты делает действие недозволенным"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:267f0a59816ca199c8aa2e81ffcfacd43422d50a87096f90b815510f8158e542",
+        "id": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "kind": "source_edition",
+        "labels": [
+          {
+            "language": "la",
+            "status": "official",
+            "text": "Textum Leoninum Romae 1895 editum; Corpus Thomisticum, II-II q. 40 a. 1"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "Editio Leonina в электронной передаче Corpus Thomisticum, II-II q. 40 a. 1"
+          }
+        ],
+        "language": "la",
+        "lifecycle": [
+          {
+            "extent": "1000-01-01",
+            "status": "adopted"
+          },
+          {
+            "extent": {
+              "axis": "legal_time",
+              "endInclusive": false,
+              "start": "1000-01-01",
+              "startInclusive": true
+            },
+            "status": "in_force"
+          }
+        ],
+        "materializationStatus": "PINNED_UNOFFICIAL_COPY",
+        "officiality": "unofficial",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "work": "urn:la:aquinas:clir:duplex-effectus#SUMMA_THEOLOGIAE_II_II_Q40_Q64"
+      },
+      {
+        "contentHash": "sha256:adcf3b99698e813368ea1388dc5e435a4813f9942892b5a7bdeccf22acc48d4e",
+        "id": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "kind": "source_edition",
+        "labels": [
+          {
+            "language": "la",
+            "status": "official",
+            "text": "Textum Leoninum Romae 1895 editum; Corpus Thomisticum, II-II q. 64 a. 7"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "Editio Leonina в электронной передаче Corpus Thomisticum, II-II q. 64 a. 7"
+          }
+        ],
+        "language": "la",
+        "lifecycle": [
+          {
+            "extent": "1000-01-01",
+            "status": "adopted"
+          },
+          {
+            "extent": {
+              "axis": "legal_time",
+              "endInclusive": false,
+              "start": "1000-01-01",
+              "startInclusive": true
+            },
+            "status": "in_force"
+          }
+        ],
+        "materializationStatus": "PINNED_UNOFFICIAL_COPY",
+        "officiality": "unofficial",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "work": "urn:la:aquinas:clir:duplex-effectus#SUMMA_THEOLOGIAE_II_II_Q40_Q64"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:6243b157c13cafe7350ca9d942697e9ff1fbb9afe33c865ad11b3c2fe0f1ffc3",
+        "head": {
+          "id": "urn:la:aquinas:clir:duplex-effectus#OccisioIntentaInDefensione",
+          "kind": "norm_template_ref"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "a private person in a situation of defence is forbidden to intend killing"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "illicitum est quod homo intendat occidere hominem ut seipsum defendat"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "частному лицу в ситуации обороны запрещено иметь целью убийство"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "contentHash": "sha256:076cda33d5cc25ea029fe92d1dd5cffb7f5c16abfd47034147341ef4418ac4be",
+        "id": "urn:la:aquinas:clir:duplex-effectus#OccisioIntentaInDefensione",
+        "kind": "norm_template",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "a private person in a situation of defence is forbidden to intend killing"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "illicitum est quod homo intendat occidere hominem ut seipsum defendat"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "частному лицу в ситуации обороны запрещено иметь целью убийство"
+          }
+        ],
+        "modality": "duty",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "payload": {
+          "bearer": {
+            "kind": "var",
+            "var": "v1"
+          },
+          "goal": {
+            "action": {
+              "args": [
+                {
+                  "kind": "var",
+                  "var": "v1"
+                },
+                {
+                  "kind": "var",
+                  "var": "v0"
+                }
+              ],
+              "function": "urn:la:aquinas:clir:duplex-effectus#intendit_occisionem",
+              "kind": "call"
+            },
+            "kind": "forbearance",
+            "window": {
+              "end": {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Text"
+                },
+                "value": "infinity"
+              },
+              "endInclusive": false,
+              "kind": "interval",
+              "start": {
+                "kind": "value",
+                "type": {
+                  "name": "urn:law:std#Date"
+                },
+                "value": "1270-01-01"
+              },
+              "startInclusive": true
+            }
+          },
+          "kind": "duty"
+        }
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_occisionis"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:2049483c112474df4381f7a4202e9fd15aa91ca159c6937734d0073bdd4f6228",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#occisio_illicita"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#OccisioIntentaPrivatoIllicita",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "a private person may not intend killing even in defence"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "illicitum est quod homo intendat occidere hominem ut seipsum defendat"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "частному лицу нельзя иметь целью убийство даже в обороне"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#occisio_illicita"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:84acf2e971f7f061f2b2d205ba25bd7fba578d46a5dd32c6d8b8525d91034489",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#OccisioRedditDefensionemIllicitam",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "illicit intended killing makes the defence illicit"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "defensio illicita est"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "намеренно недозволенное убийство делает оборону недозволенной"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#mors_est_medium"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:44069fba210a3d9c1f852a5a76ea6d376f93d95a52978e733e49d3695b54d9f3",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#occisio_illicita"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#OccisioUtMediumIllicita",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "if death is taken as a means, it is no longer praeter intentionem"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "morales actus recipiunt speciem secundum id quod intenditur, non autem ab eo quod est praeter intentionem"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "если смерть взята как средство, она уже не praeter intentionem"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:bacbd3fe4ec92b26829c8cb8181738854cc883f61a9f2a2c7105ca2f44fc4d47",
+        "id": "urn:la:aquinas:clir:duplex-effectus#Persona",
+        "kind": "type_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "person who acts or undergoes"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "persona agens vel patiens"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "лицо, действующее или претерпевающее"
+          }
+        ],
+        "name": "Persona",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "typeKind": "entity"
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#causa_iusta"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "negative",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_recta"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#auctoritas_principis"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_bellum"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:4d9f82af0bd505288414d33e3432c8c110d070f74562c087610d32807f8ac4cb",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_illicitum"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#PravaIntentioRedditBellumIllicitum",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "authority and a just cause do not save a war if the intention is vicious"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "potest autem contingere ut bellum sit declaratum auctoritate legitima et sit causa iusta, et tamen propter pravam intentionem bellum reddatur illicitum"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "власть и справедливая причина не спасают войну, если намерение порочно"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          }
+        ]
+      },
+      {
+        "anchors": [
+          "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP"
+        ],
+        "body": {
+          "items": [
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#privata_libido"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+              },
+              "kind": "status",
+              "status": "established"
+            },
+            {
+              "formula": {
+                "args": [
+                  {
+                    "kind": "var",
+                    "var": "v0"
+                  },
+                  {
+                    "kind": "var",
+                    "var": "v1"
+                  }
+                ],
+                "kind": "literal",
+                "polarity": "positive",
+                "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+              },
+              "kind": "status",
+              "status": "established"
+            }
+          ],
+          "kind": "and"
+        },
+        "contentHash": "sha256:778467ebfc4fbff0e757c01faadff3b1903cf131dc1c4f4e2d4e02145db813c6",
+        "head": {
+          "args": [
+            {
+              "kind": "var",
+              "var": "v0"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita"
+        },
+        "id": "urn:la:aquinas:clir:duplex-effectus#PrivataLibidoMinistriPeccat",
+        "interpretations": [],
+        "kind": "rule",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "a soldier or a minister of the judge sins if moved by private passion"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "quamvis et isti etiam peccent si privata libidine moveantur"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "воин или служитель судьи грешит, если движим частной страстью"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "scope": {
+          "kind": "boolean",
+          "value": true
+        },
+        "strength": "strict",
+        "variables": [
+          {
+            "id": "v0",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "v1",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:fd65b638cdd92ab5156e2debfc358952aa38696c61788ab64e161c498ea77881",
+        "id": "urn:la:aquinas:clir:duplex-effectus#Prudens",
+        "kind": "type_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "practical reason judging the measure of defence"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "prudens de moderamine tutelae"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "практический разум, судящий о мере защиты"
+          }
+        ],
+        "name": "Prudens",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "typeKind": "entity"
+      },
+      {
+        "contentHash": "sha256:81b463a9db3aa30ef6f2c5a17d819f3df9cff06cdfd591c6fbc5eba788d78df5",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_AD1",
+        "kind": "fragment",
+        "locator": "section/40-1/reply/1",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:39c8b38b64816e18549fc7e58250fb96e78138d46ede8186cbab251baabf4ac5",
+            "language": "la",
+            "status": "official",
+            "text": "Ad primum ergo dicendum quod, sicut Augustinus dicit, contra Faust., accipere gladium est eum sine superioris vel legitimae potestatis iussu vel concessu in sanguinem arripere. Qui vero gladio potestatis publica utitur vel iussu principis vel iudicis, si sit persona privata; vel auctoritate propria, si sit princeps publica potestate utens, non ipse accipit gladium, sed a superiori sibi commisso utitur. Unde eis non debetur poena."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:5c0594c0956e96aff9e80814ebc57872316ba5cf104b2df1f8980d2f0beb1d5b",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_AD2",
+        "kind": "fragment",
+        "locator": "section/40-1/reply/2",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:9fde41110fcdca220ca88381494f9fc7042ca1122d258424289a006829a76ce6",
+            "language": "la",
+            "status": "official",
+            "text": "Ad secundum dicendum quod huiusmodi praecepta, sicut Augustinus dicit, in libro de Sermone Domini in monte, semper sunt servanda in praeparatione animi, ut scilicet homo sit paratus non resistere, vel non se defendere, si opus fuerit. Sed interdum tamen est aliud agendum propter commune bonum, et etiam eorum cum quibus pugnatur."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:e30910a05cdb5ab1c99100af615fa5bbe610f0d3bd9e4df91ae8ede814e034df",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_AD3",
+        "kind": "fragment",
+        "locator": "section/40-1/reply/3",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:0d5d178bc140f0721a7fce866d5bbb20ffd669a7d0154539c44b265b7fb68a23",
+            "language": "la",
+            "status": "official",
+            "text": "Ad tertium dicendum quod etiam illi qui iusta bella gerunt pacem intendunt. Et ideo paci non opponuntur, nisi mali, qui pacem perturbant. Unde Augustinus dicit, ad Bonifacium, non enim pax quaeritur ut bellum exerceatur, sed bellum geritur ut pax acquiratur. Esto ergo bellando pacificus, ut eos quos expugnas ad pacis utilitatem vincendo perducas."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:bfd62df774b466b1f17b6065166bf4a8a58e5d7a7cfb961ae81cba651b02a825",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_ARG1",
+        "kind": "fragment",
+        "locator": "section/40-1/objection/1",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:2f125a507b5ad3a7ba6e5d29a975d028ffad47643700fe2982c0d8e9eaaa5883",
+            "language": "la",
+            "status": "official",
+            "text": "Ad primum sic proceditur. Videtur quod bellare sit semper peccatum. Poena enim non infligitur nisi pro peccato. Sed bellantibus Dominus denuntiat, omnis qui gladium acceperit gladio peribit, ut dicitur Matth. XXVI. Ergo omne bellum est illicitum."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:833f83c480829cc65520ec12a6b3e9812a2577cb949de34c534054c5458e01a3",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_ARG2",
+        "kind": "fragment",
+        "locator": "section/40-1/objection/2",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:c462ffeff947a9303c0247693dd80742f8a035aef260f8e6ec389cbe00876d8b",
+            "language": "la",
+            "status": "official",
+            "text": "Praeterea, quidquid est contrarium praecepto divino est peccatum. Sed bellare est contrarium praecepto divino, dicitur enim Matth. V, ego autem dico vobis non resistere malo; et Rom. XII, non vos defendentes, carissimi, sed date locum irae. Ergo bellare semper est peccatum."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:78b3588873e2bf192d402d6caa8545b7af97505f09558394be5b688ecf8ee3a4",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_ARG3",
+        "kind": "fragment",
+        "locator": "section/40-1/objection/3",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:47794aebc2a4cde5a9bf5d1c4dbb68d0f430c3159bf79bd54b627057d7e3bef0",
+            "language": "la",
+            "status": "official",
+            "text": "Praeterea, nihil nisi peccatum opponitur virtuti. Sed bellum opponitur paci. Ergo bellum semper est peccatum."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:79652877cf0ef7eea8cb7629c0a0591a5efbc1a6b81cbd5394b972920c64b72f",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_RESP",
+        "kind": "fragment",
+        "locator": "section/40-1/respondeo",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:d14444e8d9b81219684df6547fe4d5442a17e5d8e86a3af8c202e042ac4805a9",
+            "language": "la",
+            "status": "official",
+            "text": "Respondeo dicendum quod ad hoc quod aliquod bellum sit iustum, tria requiruntur. Primo quidem, auctoritas principis, cuius mandato bellum est gerendum. Non enim pertinet ad personam privatam bellum movere, quia potest ius suum in iudicio superioris prosequi. Sed quia cura reipublicae commissa est principibus, ad eos pertinet rem publicam civitatis vel regni seu provinciae sibi subditae tueri. Et sicut licite defendunt eam materiali gladio contra interiores perturbatores, dum malefactores puniunt, secundum illud apostoli, ad Rom. XIII, non sine causa gladium portat, vindex est enim iram Dei in eos qui male agunt; ita etiam gladio bellico ad eos pertinet rem publicam tueri ab exterioribus hostibus. Unde et principibus dicitur in Psalm., eripite pauperem, et egenum de manu peccatoris liberate. Unde Augustinus dicit, contra Faust., ordo naturalis mortalium paci accommodatus hoc poscit, ut suscipiendi belli auctoritas atque consilium penes principes sit. Secundo, requiritur causa iusta, ut scilicet illi qui impugnantur propter aliquam culpam impugnationem mereantur. Unde Augustinus dicit, in libro quaest., iusta bella definiri solent quae ulciscuntur iniurias, si gens vel civitas plectenda est quae vel vindicare neglexerit quod a suis improbe factum est, vel reddere quod per iniuriam ablatum est. Tertio, requiritur ut sit intentio bellantium recta, qua scilicet intenditur vel ut bonum promoveatur, vel ut malum vitetur. Unde Augustinus dicit, in libro de verbis Dom., apud veros Dei cultores etiam illa bella peccata non sunt quae non cupiditate aut crudelitate, sed pacis studio geruntur, ut mali coerceantur et boni subleventur. Potest autem contingere ut bellum sit declaratum auctoritate legitima et sit causa iusta, et tamen propter pravam intentionem bellum reddatur illicitum. Unde Augustinus dicit, contra Faust., nocendi cupiditas, ulciscendi crudelitas, implacatus et implacabilis animus, feritas rebellandi, libido dominandi, et si qua sunt similia, haec sunt quae in bellis iure culpantur."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:d51f62e255252dda6d9e41d8e581c5bbe5fc4362d1dd77a0efb1a95bce6077e9",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q40_A1_SC",
+        "kind": "fragment",
+        "locator": "section/40-1/sed-contra",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:388ac094644b0826dc6ecd04365f557f6d124713f724a44de87ec4c33da7252d",
+            "language": "la",
+            "status": "official",
+            "text": "Sed contra est quod dicitur Luc. III, milites interrogabant Ioannem, et quid faciemus nos? Et ille respondit, neminem concutiatis, neque calumniam faciatis, et contenti estote stipendiis vestris. Quos tamen in officio militari detinuit. Non autem detineret qui eos in officio peccati detineret. Ergo bellare non est peccatum."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:8a17993eaff949ee6e10b29357bee51b01eacaf3a0c5252c7b0a7687cc758e02",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_AD1",
+        "kind": "fragment",
+        "locator": "section/64-7/reply/1",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:6dbdb9d644ce2a0cf2c918fbda87ab54083a6274b52b6c808e811f9f14c8d6bf",
+            "language": "la",
+            "status": "official",
+            "text": "Ad primum ergo dicendum quod auctoritas Augustini est intelligenda in eo casu quo quis intendat occidere hominem ut seipsum a morte liberet."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:f0fc12acc6cd57cfb67cbe9e4ab02a6e0cc1d6fd8cc174a5006a43b67073fbb9",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_AD2",
+        "kind": "fragment",
+        "locator": "section/64-7/reply/2",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:8e3c7f6b715c640d50cbc2377d1cb3a242a0b0313efc8f168564c352169a1c0c",
+            "language": "la",
+            "status": "official",
+            "text": "Et per hoc patet responsio ad secundum. In quo etiam casu locum habet auctoritas inducta in secundam rationem. Et ideo signanter dicit, pro his rebus, in quo designatur intentio."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:71ba477e045df257e509fc7469cafcdffa151d299e5c4c26285577b0ce757a43",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_AD3",
+        "kind": "fragment",
+        "locator": "section/64-7/reply/3",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:d8e69432eb5a25d50381ae0471d37b03a92f23bc7084886ee21f9eb4b9b20029",
+            "language": "la",
+            "status": "official",
+            "text": "Ad tertium dicendum quod irregularitas consequitur actum homicidii etiam si sit sine peccato, sicut patet in iudice qui iuste hominem condemnat ad mortem. Et ideo clericus, si etiam se defendendo occidat aliquem, irregularis est, quamvis non intendat occidere, sed seipsum defendere."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:8f25620836a31c280e041f6807428eebaef59792331fffbf9f18888a3b503d42",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_ARG1",
+        "kind": "fragment",
+        "locator": "section/64-7/objection/1",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:1c2916f3d50fb513f5b3b4d334daf44c6f785f107323f833ec91f124d8a5d254",
+            "language": "la",
+            "status": "official",
+            "text": "Ad septimum sic proceditur. Videtur quod non liceat alicui occidere hominem se defendendo. Dicit enim Augustinus, ad Publicolam, de occidendis hominibus, ne ab eis quisquam occidatur, non mihi placet consilium, nisi forte sit miles, aut publica functione teneatur, ut non pro se hoc faciat, sed pro aliis, accepta legitima potestate, si eius congruat personae. Sed ille qui se defendendo hominem occidit, occidit ne ipse occidatur. Ergo hoc non licet."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:33ee8d1a1b6b6504a08beb73c001b88c1248111d72ab71a58e40e9eb894cca96",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_ARG2",
+        "kind": "fragment",
+        "locator": "section/64-7/objection/2",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:c4c0f36dfad2278b23b88102a062a31eaaac4ab2305e0712cd8735483474372a",
+            "language": "la",
+            "status": "official",
+            "text": "Praeterea, in I de Libero Arbitrio dicitur, quomodo apud divinam providentiam a peccato immunes erunt qui pro his rebus quas contemni oportet, homines occiderint? Has autem res dicit esse quas inviti amittere possumus. Inter quas primum locum tenet vita corporalis. Ergo pro conservatione vitae corporalis non licet hominem occidere."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:16cd10e1a395b491c5e2d8d967d72c53cf2fb0df4dd40ddbac3fd8874e2106f1",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_ARG3",
+        "kind": "fragment",
+        "locator": "section/64-7/objection/3",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:c5b5e726ee691ce87c0c57e79ea459df9981094b19a480a6a753261a3fcbf237",
+            "language": "la",
+            "status": "official",
+            "text": "Praeterea, Nicolaus Papa dicit, et habetur in decretis, de clericis pro quibus consuluisti, scilicet qui se defendendo paganum occiderunt, si post satisfactionem ad pristinum statum redire, vel ad altiorem gradum possunt conscendere, scito nos in nullum homicidium consensum praebere, nec sub qualibet occasione hominem a clericis occidi posse. Sed clerici et laici tenentur ad observantiam praeceptorum moralium. Ergo nec laicis licet hominem occidere se defendendo."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:9a590aae80727e5fb10c47dd72f2cfe99cfe0f03cc9fa54c731d62a4ce14d667",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP",
+        "kind": "fragment",
+        "locator": "section/64-7/respondeo",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:705800a5a0f9d6b183e41331310f1d8c6d57f25289332712d183217f19958bcc",
+            "language": "la",
+            "status": "official",
+            "text": "Respondeo dicendum quod nihil prohibet unius actus esse duos effectus, quorum alter solum sit in intentione, alius vero sit praeter intentionem. Morales autem actus recipiunt speciem secundum id quod intenditur, non autem ab eo quod est praeter intentionem, cum sit per accidens, ut ex supra dictis patet. Ex actu igitur alicuius seipsum defendentis duplex effectus sequi potest, unus quidem conservatio propriae vitae; alius autem occisio invadentis. Actus igitur huiusmodi ex hoc quod intenditur conservatio propriae vitae, non habet rationem illiciti, cum hoc sit cuilibet naturale quod se conservet in esse quantum potest. Potest tamen aliquis actus ex bona intentione proveniens illicitus reddi si non sit proportionatus fini. Et ideo si aliquis ad defendendum propriam vitam utatur maiori violentia quam oporteat, erit illicitum. Si vero moderate violentiam repellat, erit licita defensio, nam secundum iura, vim vi repellere licet cum moderamine inculpatae tutelae. Nec est necessarium ad salutem ut homo praetermittat actum moderatae tutelae ad evitandum occisionem alterius, quia plus tenetur homo vitae suae providere quam vitae alienae. Sed quia occidere hominem non licet nisi publica auctoritate propter bonum commune, ut ex supra dictis patet; illicitum est quod homo intendat occidere hominem ut seipsum defendat, nisi ei qui habet publicam auctoritatem, qui, intendens hominem occidere ad sui defensionem, refert hoc ad publicum bonum, ut patet in milite pugnante contra hostes, et in ministro iudicis pugnante contra latrones. Quamvis et isti etiam peccent si privata libidine moveantur."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:f27590def0b3ea62be13e5b1b080a1920536884c34cfa9bb83bb417510acb26f",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "fragmentKind": "paragraph",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_SC",
+        "kind": "fragment",
+        "locator": "section/64-7/sed-contra",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "texts": [
+          {
+            "contentHash": "sha256:fc258d70988ea7266a059e7092b493d5912e17f7ba33c87edb3f85a5f64f622c",
+            "language": "la",
+            "status": "official",
+            "text": "Sed contra est quod Exod. XXII dicitur, si effringens fur domum inventus fuerit, et accepto vulnere mortuus fuerit, percussor non erit reus sanguinis. Sed multo magis licet defendere vitam suam quam domum. Ergo etiam si aliquis occidat hominem pro conservatione vitae suae, non erit reus homicidii."
+          }
+        ]
+      },
+      {
+        "contentHash": "sha256:56a3c56c6c44006d96d00fa1adc442ff15c00d5ce2cef4363bf7d95fa12a1b6f",
+        "documentHash": "sha256:96fd2667ea3e35f32daab10afe74b9eebaa9ab2b9e79dee1c3aab8f1d82aa5ee",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q40_A1",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_TEXT_Q40_A1",
+        "kind": "publication",
+        "mediaType": "text/plain; charset=utf-8",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "retrievedAt": "2026-09-18T18:00:00Z",
+        "uri": "https://www.corpusthomisticum.org/sth3040.html"
+      },
+      {
+        "contentHash": "sha256:0e2fc00a673c40c7f01547a8dd8032388509dc937375063ee3e7a23f7e457bd4",
+        "documentHash": "sha256:626bb08d5247c1d9eb1c9f5503b0ac148a0dd388fa523f6b8608dcd80b36c80d",
+        "edition": "urn:la:aquinas:clir:duplex-effectus#LEONINA_CT_Q64_A7",
+        "id": "urn:la:aquinas:clir:duplex-effectus#ST_TEXT_Q64_A7",
+        "kind": "publication",
+        "mediaType": "text/plain; charset=utf-8",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "retrievedAt": "2026-09-18T18:00:00Z",
+        "uri": "https://www.corpusthomisticum.org/sth3064.html"
+      },
+      {
+        "contentHash": "sha256:0a9f31c8000abc1fdc7e429727436d45cd142b792dee5ea8cd116d71db0c1148",
+        "id": "urn:la:aquinas:clir:duplex-effectus#SUMMA_THEOLOGIAE_II_II_Q40_Q64",
+        "jurisdiction": {
+          "kind": "value",
+          "type": {
+            "name": "urn:law:std#Text"
+          },
+          "value": "none"
+        },
+        "kind": "source_work",
+        "labels": [
+          {
+            "language": "la",
+            "status": "official",
+            "text": "Sancti Thomae de Aquino, Summa theologiae II-II, quaestio 40 articulus 1 et quaestio 64 articulus 7"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "Фома Аквинский, Сумма теологии II-II, вопрос 40 статья 1 и вопрос 64 статья 7"
+          }
+        ],
+        "number": "Summa theologiae II-II, q. 40 a. 1 et q. 64 a. 7",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "sourceKind": "urn:la:aquinas:clir:duplex-effectus#doctrine"
+      },
+      {
+        "contentHash": "sha256:c0162562d529f15b5b447c21321e14bdb301d2ef4e13e6339201bce9cf0bc8c6",
+        "id": "urn:la:aquinas:clir:duplex-effectus#auctoritas_principis",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the authority of the prince charged with the care of the republic is present"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "auctoritas principis adest"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "налицо власть государя, которому поручена забота о республике"
+          }
+        ],
+        "name": "auctoritas_principis",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#auctoritas_principis/arg/b",
+            "name": "b",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:5491ccb1233c835f4d2674f5aca75fa888a506b5d5e68e9a05b0263551e5a36a",
+        "id": "urn:la:aquinas:clir:duplex-effectus#bellum_a_principe",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the war is waged by command of this prince"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "bellum mandato huius principis geritur"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "война ведётся по повелению этого государя"
+          }
+        ],
+        "name": "bellum_a_principe",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#bellum_a_principe/arg/b",
+            "name": "b",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#bellum_a_principe/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:08dddc48c66299dfae3e1665bc5fd62c9443e8ab0105f2d96c3d3602620df71b",
+        "id": "urn:la:aquinas:clir:duplex-effectus#bellum_illicitum",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the war is illicit"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "bellum illicitum redditur"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "война недозволена"
+          }
+        ],
+        "name": "bellum_illicitum",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#bellum_illicitum/arg/b",
+            "name": "b",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:6ca96781cc5099732b1d95ff31df3d10a44894cb5480562d92b0ce94256ecc60",
+        "id": "urn:la:aquinas:clir:duplex-effectus#bellum_iustum",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the war is just"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "bellum iustum est"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "война справедлива"
+          }
+        ],
+        "name": "bellum_iustum",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#bellum_iustum/arg/b",
+            "name": "b",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:2c5d926beacfd398860808c5ceb1342f243dc8721b0aa7ff4ed3e5dfb5a427e2",
+        "id": "urn:la:aquinas:clir:duplex-effectus#causa_iusta",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "a just cause is present: the adversary deserves the attack by his fault"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "causa iusta adest"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "налицо справедливая причина: противник заслужил нападение виной"
+          }
+        ],
+        "name": "causa_iusta",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#causa_iusta/arg/b",
+            "name": "b",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:8802e43efbf4929efdf7d712b44416c9964335f8ca9ef914e5d5e281fc951fea",
+        "id": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the defence is illicit"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "defensio illicita est"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "оборона недозволена"
+          }
+        ],
+        "name": "defensio_illicita",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:3e50d95a2296825100196ceccf7e744f411b6475991363a11a6d80d9d3ad4c66",
+        "id": "urn:la:aquinas:clir:duplex-effectus#defensio_licita",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the defence is licit"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "erit licita defensio"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "оборона дозволена"
+          }
+        ],
+        "name": "defensio_licita",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#defensio_licita/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:96115dfb595eef0ec81c20c0a248f7d9ac05c1e6605a995500b7def508656361",
+        "id": "urn:la:aquinas:clir:duplex-effectus#defensor",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "this person is the defender in the act"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "hic seipsum defendit"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "это лицо является обороняющимся в данном действии"
+          }
+        ],
+        "name": "defensor",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#defensor/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#defensor/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:8782d6e890e0fa555e0064860efd7e69e99c110789cb355275cedfbd4325e622",
+        "id": "urn:la:aquinas:clir:duplex-effectus#gerit_bellum",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "wages this war"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "bellum gerit"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "ведёт эту войну"
+          }
+        ],
+        "name": "gerit_bellum",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#gerit_bellum/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#gerit_bellum/arg/b",
+            "name": "b",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:a67afa4c9aeeb42b05d9c2f189352eaf9794e978a28c9c0efb6a23f98188d6c6",
+        "id": "urn:la:aquinas:clir:duplex-effectus#intendit_occisionem",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "intends the killing of a man in this defence"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "intendit occidere hominem ut seipsum defendat"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "имеет целью убийство человека в этой обороне"
+          }
+        ],
+        "name": "intendit_occisionem",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#intendit_occisionem/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#intendit_occisionem/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:a5b7f9af796cb33934ec92cba9a94b7722a0fde069e89a6480733456220dbef4",
+        "id": "urn:la:aquinas:clir:duplex-effectus#intentio_conservationis_vitae",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the intention is the preservation of one's own life"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "intenditur conservatio propriae vitae"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "намерение направлено на сохранение собственной жизни"
+          }
+        ],
+        "name": "intentio_conservationis_vitae",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#intentio_conservationis_vitae/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:fb9828dd4696f0e547993bba3b8b1f3ff94296a0eb8ecaf48ee8a8bb3ab86e60",
+        "id": "urn:la:aquinas:clir:duplex-effectus#intentio_occisionis",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the intention is the killing of a man"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "intenditur occisio hominis"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "намерение направлено на убийство человека"
+          }
+        ],
+        "name": "intentio_occisionis",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#intentio_occisionis/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:4430a610e137b79452158164d1b5295f36601c58704822a6de79cecb7b52dca9",
+        "id": "urn:la:aquinas:clir:duplex-effectus#intentio_recta",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the intention of those who wage war is right: to advance the good or to avoid evil"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "intentio bellantium recta est"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "намерение воюющих правое: продвинуть благо или избежать зла"
+          }
+        ],
+        "name": "intentio_recta",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#intentio_recta/arg/b",
+            "name": "b",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:cb6314dc2e9c551bef8dd1090ac98ac25a8e9779e829783495a2054fce07fa18",
+        "id": "urn:la:aquinas:clir:duplex-effectus#mors_est_medium",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the death of the attacker is taken as a means of preserving life"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "occisio invadentis assumitur ut medium conservationis"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "смерть нападающего взята как средство сохранения жизни"
+          }
+        ],
+        "name": "mors_est_medium",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#mors_est_medium/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:c8c1742952a47974c706e7c76dfbbc8b017d8887ce7b069d1636ab9452e8dc63",
+        "id": "urn:la:aquinas:clir:duplex-effectus#occisio_illicita",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "intended killing in defence is illicit"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "illicitum est quod homo intendat occidere hominem ut seipsum defendat"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "намеренное убийство в обороне недозволено"
+          }
+        ],
+        "name": "occisio_illicita",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#occisio_illicita/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "institutional",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:5d2962d81ba76b729b4c7e6baade570cb08191b2ac188ad2173beaf6306dbaf4",
+        "id": "urn:la:aquinas:clir:duplex-effectus#presented_actus",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "an act of defence is presented on the file"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "actus defensionis in causa exhibitus est"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "действие обороны предъявлено делом"
+          }
+        ],
+        "name": "presented_actus",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#presented_actus/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:d278dd7da2f887c1bae624ca2c7dea89a2a069754fd9a0915db2f4af923aefcb",
+        "id": "urn:la:aquinas:clir:duplex-effectus#presented_bellum",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "a war is presented on the file"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "bellum in causa exhibitum est"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "война предъявлена делом"
+          }
+        ],
+        "name": "presented_bellum",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#presented_bellum/arg/b",
+            "name": "b",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Bellum"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:5c8293b61ab5193bc7f93513b8710020dfbd85e8fa58c1ddd46cedf986d2c8e7",
+        "id": "urn:la:aquinas:clir:duplex-effectus#privata_libido",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the act is moved by private passion"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "privata libidine movetur"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "действие движимо частной страстью"
+          }
+        ],
+        "name": "privata_libido",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#privata_libido/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:c9d49a871938f849ef9dbf6b54fec53e837b401774cd392417da573e0c161437",
+        "id": "urn:la:aquinas:clir:duplex-effectus#publicus_minister",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the person holds public authority"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "publicam auctoritatem habet"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "лицо несёт публичную власть"
+          }
+        ],
+        "name": "publicus_minister",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#publicus_minister/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:bdf05592a9fdc6b5f518197fa9b91633b488bddc444c75e85a5465668750ddf8",
+        "id": "urn:la:aquinas:clir:duplex-effectus#refert_ad_bonum_commune",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the striking is referred to the common good"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "occisionem ad publicum bonum refert"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "поражение отнесено к общему благу"
+          }
+        ],
+        "name": "refert_ad_bonum_commune",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#refert_ad_bonum_commune/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:3bc86ca6abe64edfc3663000baf3430b1031ead2650f2356bbc53460e107e656",
+        "id": "urn:la:aquinas:clir:duplex-effectus#se_defendit",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "defends himself by this act"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "seipsum defendit"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "защищает себя данным действием"
+          }
+        ],
+        "name": "se_defendit",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#se_defendit/arg/p",
+            "name": "p",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Persona"
+            }
+          },
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#se_defendit/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:b762a176d0577f8775b8d461af9f7fc8e45f0ac187129510cdfd69bc7480a6ac",
+        "id": "urn:la:aquinas:clir:duplex-effectus#vis_illata",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "violence has already been inflicted on the defender"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "vis illata est"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "на обороняющегося уже наложено насилие"
+          }
+        ],
+        "name": "vis_illata",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#vis_illata/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "empirical",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "contentHash": "sha256:59f2b0482d46b797cb9852affb7844edf8fd97ad4478a6f373b561b0ec3b779a",
+        "id": "urn:la:aquinas:clir:duplex-effectus#vis_moderata",
+        "kind": "symbol_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the force is proportionate to blameless defence; practical judgment is required"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "moderate violentiam repellit; vim vi cum moderamine inculpatae tutelae"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "сила соразмерна безупречной защите; требуется практическое суждение"
+          }
+        ],
+        "name": "vis_moderata",
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "parameters": [
+          {
+            "id": "urn:la:aquinas:clir:duplex-effectus#vis_moderata/arg/a",
+            "name": "a",
+            "type": {
+              "name": "urn:la:aquinas:clir:duplex-effectus#Actus"
+            }
+          }
+        ],
+        "relationKind": "judgment",
+        "symbolKind": "relation",
+        "visibility": "public"
+      },
+      {
+        "authority": {
+          "id": "urn:la:aquinas:clir:duplex-effectus#Prudens",
+          "kind": "const_ref"
+        },
+        "capability": "judgment:Prudens",
+        "contentHash": "sha256:f911af0221c4ab8f9ec7088b99106a0ca95633ce478cdeb1d2454f7b53ba90df",
+        "effect": "judgment",
+        "id": "urn:la:aquinas:clir:duplex-effectus#vis_moderata/external",
+        "kind": "external_decl",
+        "labels": [
+          {
+            "language": "en",
+            "status": "unofficial",
+            "text": "the force is proportionate to blameless defence; practical judgment is required"
+          },
+          {
+            "language": "la",
+            "status": "official",
+            "text": "moderate violentiam repellit; vim vi cum moderamine inculpatae tutelae"
+          },
+          {
+            "language": "ru",
+            "status": "unofficial",
+            "text": "сила соразмерна безупречной защите; требуется практическое суждение"
+          }
+        ],
+        "package": "urn:la:aquinas:clir:duplex-effectus",
+        "symbol": "urn:la:aquinas:clir:duplex-effectus#vis_moderata"
+      }
+    ],
+    "package": {
+      "name": "la.aquinas.duplex_effectus",
+      "namespace": "urn:la:aquinas:clir:duplex-effectus",
+      "semanticHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+      "version": "0.1.0"
+    },
+    "schemaVersion": "law.core.ir/0.7",
+    "semanticHash": "sha256:f95c4b7f3c6e946f2a1fddb20d28ac5557ebdd939886209471489b5ba4466c04",
+    "semanticVersion": "0.2.11",
+    "strata": [],
+    "theoryHash": "sha256:b3622e8cde65392e0c5914b5d28ff581a8db06732a1657ad7befb2105d0f9efc"
+  },
+  "case": {
+    "assertions": [
+      {
+        "contentHash": "sha256:6df933c32251c593fe17a5c584c05ab0c955754f5ef47613302df126f080ca34",
+        "evidence": [],
+        "id": "urn:law:examples:aquinas:moral-cases#presented",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+        },
+        "origin": "case_input",
+        "package": "urn:law:examples:aquinas:moral-cases"
+      },
+      {
+        "contentHash": "sha256:61ed6fe6279e0c8068dc43d53375010e59e216202c03a44bf0cdf495765c04ff",
+        "evidence": [],
+        "id": "urn:law:examples:aquinas:moral-cases#defensor",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:example:duplex:persona:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+        },
+        "origin": "case_input",
+        "package": "urn:law:examples:aquinas:moral-cases"
+      },
+      {
+        "contentHash": "sha256:82a8f79f2612d6f515509cd1e8432fbd0b2cbc6623684a971789220b41e0f75d",
+        "evidence": [],
+        "id": "urn:law:examples:aquinas:moral-cases#vis",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+        },
+        "origin": "case_input",
+        "package": "urn:law:examples:aquinas:moral-cases"
+      },
+      {
+        "contentHash": "sha256:bdbbc70b16a478338752a328299fc8dbae214ef1d1703c610606406ffac20dc9",
+        "evidence": [],
+        "id": "urn:law:examples:aquinas:moral-cases#moderamen",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_moderata"
+        },
+        "origin": "adjudicated",
+        "package": "urn:law:examples:aquinas:moral-cases"
+      },
+      {
+        "contentHash": "sha256:5616edecb5c0ffc04076d5716bc9c2b47e85078ba7c952151e34865915877830",
+        "evidence": [],
+        "id": "urn:law:examples:aquinas:moral-cases#minister",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:example:duplex:persona:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+        },
+        "origin": "case_input",
+        "package": "urn:law:examples:aquinas:moral-cases"
+      },
+      {
+        "contentHash": "sha256:194978d9b131a01e8d190d325375bfe362b7b0d4880c536bcee3cac0e7cbde96",
+        "evidence": [],
+        "id": "urn:law:examples:aquinas:moral-cases#intentio",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_occisionis"
+        },
+        "origin": "case_input",
+        "package": "urn:law:examples:aquinas:moral-cases"
+      },
+      {
+        "contentHash": "sha256:bfb3ad585dafec8a5daea67e4a4ac81e293104837e842a9cb737c833dfc35b83",
+        "evidence": [],
+        "id": "urn:law:examples:aquinas:moral-cases#bonum",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#refert_ad_bonum_commune"
+        },
+        "origin": "case_input",
+        "package": "urn:law:examples:aquinas:moral-cases"
+      },
+      {
+        "contentHash": "sha256:9e63146abac33ad4a29c33e57da05605d9ada2def2deab66fb57534cffb7e3b2",
+        "evidence": [],
+        "id": "urn:law:examples:aquinas:moral-cases#non-libido",
+        "kind": "assertion",
+        "literal": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:miles",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#privata_libido"
+        },
+        "origin": "case_input",
+        "package": "urn:law:examples:aquinas:moral-cases"
+      }
+    ],
+    "context": {
+      "decisionTime": "1270-06-01T12:00:00Z",
+      "knowledgeTime": "1270-06-01T12:00:00Z",
+      "legalTime": "1270-06-01",
+      "timezone": "UTC"
+    },
+    "options": {}
+  },
+  "query": {
+    "queryId": "miles-defensio-licita",
+    "kind": "truth",
+    "literal": {
+      "kind": "literal",
+      "polarity": "positive",
+      "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_licita",
+      "args": [
+        {
+          "kind": "entity_ref",
+          "id": "urn:example:duplex:actus:miles"
+        }
+      ]
+    }
+  }
+}

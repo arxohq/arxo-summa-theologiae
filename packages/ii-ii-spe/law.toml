@@ -1,0 +1,34 @@
+[package]
+name = "la.aquinas.summa.ii_ii_spe"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-ii-ii-spe"
+
+[metadata]
+act = "la-summa-ii-ii-spe"
+title = "Фома Аквинский, Summa theologiae II-II, вопросы 17–22: надежда"
+primarySource = "SUMMA_THEOLOGIAE_II_II_17_22"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.ii_ii_spe#authored"
+regression = false
+suites = [
+    "tests/01-hopeisvirtue-affirmat.lawtest",
+    "tests/01b-hopeisvirtue-negata.lawtest",
+    "tests/02-hopeinwill-affirmat.lawtest",
+    "tests/02b-hopeinwill-negata.lawtest",
+    "tests/03-fearofgodgift-affirmat.lawtest",
+    "tests/03b-fearofgodgift-negata.lawtest",
+    "tests/04-presumptionvice-affirmat.lawtest",
+    "tests/04b-presumptionvice-negata.lawtest"
+]
+world = ["la.aquinas.summa.ii_ii_spe"]
+
+[authoring]
+local_imports = "explicit"

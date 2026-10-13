@@ -1,0 +1,206 @@
+@@ I-II q. 35 pr.
+Deinde considerandum est de dolore et tristitia. Et circa hoc, primo considerandum est de tristitia, seu dolore, secundum se; secundo, de causis eius; tertio, de effectibus ipsius; quarto, de remediis eius; quinto, de bonitate vel malitia eius. Circa primum quaeruntur octo. Primo, utrum dolor sit passio animae. Secundo, utrum tristitia sit idem quod dolor. Tertio, utrum tristitia, seu dolor, sit contraria delectationi. Quarto, utrum omnis tristitia omni delectationi contrarietur. Quinto, utrum delectationi contemplationis sit aliqua tristitia contraria. Sexto, utrum magis fugienda sit tristitia, quam delectatio appetenda. Septimo, utrum dolor exterior sit maior quam dolor interior. Octavo, de speciebus tristitiae.
+
+@@ I-II q. 35 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod dolor non sit passio animae. Nulla enim passio animae est in corpore. Sed dolor potest esse in corpore, dicit enim Augustinus, in libro de vera Relig., quod dolor qui dicitur corporis, est corruptio repentina salutis eius rei, quam, male utendo, anima corruptioni obnoxiavit. Ergo dolor non est passio animae.
+
+@@ I-II q. 35 a. 1 arg. 2
+Praeterea, omnis passio animae pertinet ad vim appetitivam. Sed dolor non pertinet ad vim appetitivam, sed magis ad apprehensivam, dicit enim Augustinus, in libro de natura boni, quod dolorem in corpore facit sensus resistens corpori potentiori. Ergo dolor non est passio animae.
+
+@@ I-II q. 35 a. 1 arg. 3
+Praeterea, omnis passio animae pertinet ad appetitum animalem. Sed dolor non pertinet ad appetitum animalem, sed magis ad appetitum naturalem, dicit enim Augustinus, VIII super Gen. ad Litt., nisi aliquod bonum remansisset in natura, nullius boni amissi esset dolor in poena. Ergo dolor non est passio animae.
+
+@@ I-II q. 35 a. 1 s. c.
+Sed contra est quod Augustinus, XIV de Civ. Dei, ponit dolorem inter passiones animae, inducens illud Virgilii, hinc metuunt, cupiunt, gaudentque dolentque.
+
+@@ I-II q. 35 a. 1 co.
+Respondeo dicendum quod, sicut ad delectationem duo requiruntur, scilicet coniunctio boni, et perceptio huiusmodi coniunctionis; ita etiam ad dolorem duo requiruntur, scilicet coniunctio alicuius mali (quod ea ratione est malum, quia privat aliquod bonum); et perceptio huiusmodi coniunctionis. Quidquid autem coniungitur, si non habeat, respectu eius cui coniungitur, rationem boni vel mali, non potest causare delectationem vel dolorem. Ex quo patet quod aliquid sub ratione boni vel mali, est obiectum delectationis et doloris. Bonum autem et malum, inquantum huiusmodi, sunt obiecta appetitus. Unde patet quod delectatio et dolor ad appetitum pertinent. Omnis autem motus appetitivus, seu inclinatio consequens apprehensionem, pertinet ad appetitum intellectivum vel sensitivum, nam inclinatio appetitus naturalis non consequitur apprehensionem ipsius appetentis, sed alterius, ut in primo dictum est. Cum igitur delectatio et dolor praesupponant in eodem subiecto sensum vel apprehensionem aliquam, manifestum est quod dolor, sicut et delectatio, est in appetitu intellectivo vel sensitivo. Omnis autem motus appetitus sensitivi dicitur passio, ut supra dictum est. Et praecipue illi qui in defectum sonant. Unde dolor, secundum quod est in appetitu sensitivo, propriissime dicitur passio animae, sicut molestiae corporales proprie passiones corporis dicuntur. Unde et Augustinus, XIV de Civ. Dei, dolorem specialiter aegritudinem nominat.
+
+@@ I-II q. 35 a. 1 ad 1
+Ad primum ergo dicendum quod dolor dicitur esse corporis, quia causa doloris est in corpore, puta cum patimur aliquod nocivum corpori. Sed motus doloris semper est in anima, nam corpus non potest dolere nisi dolente anima, ut Augustinus dicit.
+
+@@ I-II q. 35 a. 1 ad 2
+Ad secundum dicendum quod dolor dicitur esse sensus, non quia sit actus sensitivae virtutis, sed quia requiritur ad dolorem corporalem, sicut ad delectationem.
+
+@@ I-II q. 35 a. 1 ad 3
+Ad tertium dicendum quod dolor de amissione boni demonstrat bonitatem naturae, non quia dolor sit actus naturalis appetitus, sed quia natura aliquid appetit ut bonum, quod cum removeri sentitur, sequitur doloris passio in appetitu sensitivo.
+
+@@ I-II q. 35 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod tristitia non sit dolor. Dicit enim Augustinus, XIV de Civ. Dei, quod dolor in corporibus dicitur. Tristitia autem dicitur magis in anima. Ergo tristitia non est dolor.
+
+@@ I-II q. 35 a. 2 arg. 2
+Praeterea, dolor non est nisi de praesenti malo. Sed tristitia potest esse de praeterito et de futuro, sicut poenitentia est tristitia de praeterito, et anxietas de futuro. Ergo tristitia omnino a dolore differt.
+
+@@ I-II q. 35 a. 2 arg. 3
+Praeterea, dolor non videtur consequi nisi sensum tactus. Sed tristitia potest consequi ex omnibus sensibus. Ergo tristitia non est dolor, sed se habet in pluribus.
+
+@@ I-II q. 35 a. 2 s. c.
+Sed contra est quod apostolus dicit, ad Rom. IX, tristitia est mihi magna, et continuus dolor cordi meo, pro eodem utens tristitia et dolore.
+
+@@ I-II q. 35 a. 2 co.
+Respondeo dicendum quod delectatio et dolor ex duplici apprehensione causari possunt, scilicet ex apprehensione exterioris sensus, et ex apprehensione interiori sive intellectus sive imaginationis. Interior autem apprehensio ad plura se extendit quam exterior, eo quod quaecumque cadunt sub exteriori apprehensione, cadunt sub interiori, sed non e converso. Sola igitur illa delectatio quae ex interiori apprehensione causatur, gaudium nominatur, ut supra dictum est. Et similiter ille solus dolor qui ex apprehensione interiori causatur, nominatur tristitia. Et sicut illa delectatio quae ex exteriori apprehensione causatur, delectatio quidem nominatur, non autem gaudium; ita ille dolor qui ex exteriori apprehensione causatur, nominatur quidem dolor, non autem tristitia. Sic igitur tristitia est quaedam species doloris, sicut gaudium delectationis.
+
+@@ I-II q. 35 a. 2 ad 1
+Ad primum ergo dicendum quod Augustinus loquitur ibi quantum ad usum vocabuli, quia dolor magis usitatur in corporalibus doloribus, qui sunt magis noti, quam in doloribus spiritualibus.
+
+@@ I-II q. 35 a. 2 ad 2
+Ad secundum dicendum quod sensus exterior non percipit nisi praesens, vis autem cognitiva interior potest percipere praesens, praeteritum et futurum. Et ideo tristitia potest esse de praesenti, praeterito et futuro, dolor autem corporalis, qui sequitur apprehensionem sensus exterioris, non potest esse nisi de praesenti.
+
+@@ I-II q. 35 a. 2 ad 3
+Ad tertium dicendum quod sensibilia tactus sunt dolorosa, non solum inquantum sunt improportionata virtuti apprehensivae, sed etiam inquantum contrariantur naturae. Aliorum vero sensuum sensibilia possunt quidem esse improportionata virtuti apprehensivae, non tamen contrariantur naturae, nisi in ordine ad sensibilia tactus. Unde solus homo, qui est animal perfectum in cognitione, delectatur in sensibilibus aliorum sensuum secundum se ipsa, alia vero animalia non delectantur in eis nisi secundum quod referuntur ad sensibilia tactus, ut dicitur in III Ethic. Et ideo de sensibilibus aliorum sensuum non dicitur esse dolor, secundum quod contrariatur delectationi naturali, sed magis tristitia, quae contrariatur gaudio animali. Sic igitur si dolor accipiatur pro corporali dolore, quod usitatius est, dolor ex opposito dividitur contra tristitiam, secundum distinctionem apprehensionis interioris et exterioris; licet, quantum ad obiecta, delectatio ad plura se extendat quam dolor corporalis. Si vero dolor accipiatur communiter, sic dolor est genus tristitiae, ut dictum est.
+
+@@ I-II q. 35 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod dolor delectationi non contrarietur. Unum enim contrariorum non est causa alterius. Sed tristitia potest esse causa delectationis, dicitur enim Matth. V, beati qui lugent, quoniam ipsi consolabuntur. Ergo non sunt contraria.
+
+@@ I-II q. 35 a. 3 arg. 2
+Praeterea, unum contrariorum non denominat aliud. Sed in quibusdam ipse dolor vel tristitia est delectabilis, sicut Augustinus dicit, in III Confess., quod dolor in spectaculis delectat. Et IV Confess., dicit quod fletus amara res est, et tamen quandoque delectat. Ergo dolor non contrariatur delectationi.
+
+@@ I-II q. 35 a. 3 arg. 3
+Praeterea, unum contrariorum non est materia alterius, quia contraria simul esse non possunt. Sed dolor potest esse materia delectationis, dicit enim Augustinus, in libro de poenitentia, semper poenitens doleat, et de dolore gaudeat. Et philosophus dicit, in IX Ethic., quod e converso malus dolet de eo quod delectatus est. Ergo delectatio et dolor non sunt contraria.
+
+@@ I-II q. 35 a. 3 s. c.
+Sed contra est quod Augustinus dicit, XIV de Civ. Dei, quod laetitia est voluntas in eorum consensione quae volumus, tristitia autem est voluntas in dissensione ab his quae nolumus. Sed consentire et dissentire sunt contraria. Ergo laetitia et tristitia sunt contraria.
+
+@@ I-II q. 35 a. 3 co.
+Respondeo dicendum quod, sicut philosophus dicit X Metaphys., contrarietas est differentia secundum formam. Forma autem, seu species, passionis et motus sumitur ex obiecto vel termino. Unde, cum obiecta delectationis et tristitiae, seu doloris, sint contraria, scilicet bonum praesens et malum praesens, sequitur quod dolor et delectatio sint contraria.
+
+@@ I-II q. 35 a. 3 ad 1
+Ad primum ergo dicendum quod nihil prohibet unum contrariorum esse causam alterius per accidens. Sic autem tristitia potest esse causa delectationis. Uno quidem modo, inquantum tristitia de absentia alicuius rei, vel de praesentia contrarii, vehementius quaerit id in quo delectetur, sicut sitiens vehementius quaerit delectationem potus, ut remedium contra tristitiam quam patitur. Alio modo, inquantum ex magno desiderio delectationis alicuius, non recusat aliquis tristitias perferre, ut ad illam delectationem perveniat. Et utroque modo luctus praesens ad consolationem futurae vitae perducit. Quia ex hoc ipso quod homo luget pro peccatis, vel pro dilatione gloriae, meretur consolationem aeternam. Similiter etiam meretur eam aliquis ex hoc quod, ad ipsam consequendam, non refugit labores et angustias propter ipsam sustinere.
+
+@@ I-II q. 35 a. 3 ad 2
+Ad secundum dicendum quod dolor ipse potest esse delectabilis per accidens, inquantum scilicet habet adiunctam admirationem, ut in spectaculis; vel inquantum facit recordationem rei amatae, et facit percipere amorem eius, de cuius absentia doletur. Unde, cum amor sit delectabilis, et dolor et omnia quae ex amore consequuntur, inquantum in eis sentitur amor, sunt delectabilia. Et propter hoc etiam dolores in spectaculis possunt esse delectabiles, inquantum in eis sentitur aliquis amor conceptus ad illos qui in spectaculis commemorantur.
+
+@@ I-II q. 35 a. 3 ad 3
+Ad tertium dicendum quod voluntas et ratio supra suos actus reflectuntur, inquantum ipsi actus voluntatis et rationis accipiuntur sub ratione boni vel mali. Et hoc modo tristitia potest esse materia delectationis, vel e converso, non per se, sed per accidens, inquantum scilicet utrumque accipitur in ratione boni vel mali.
+
+@@ I-II q. 35 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod omnis tristitia omni delectationi contrarietur. Sicut enim albedo et nigredo sunt contrariae species coloris, ita delectatio et tristitia sunt contrariae species animae passionum. Sed albedo et nigredo universaliter sibi opponuntur. Ergo etiam delectatio et tristitia.
+
+@@ I-II q. 35 a. 4 arg. 2
+Praeterea, medicinae per contraria fiunt. Sed quaelibet delectatio est medicina contra quamlibet tristitiam, ut patet per philosophum, in VII Ethic. Ergo quaelibet delectatio cuilibet tristitiae contrariatur.
+
+@@ I-II q. 35 a. 4 arg. 3
+Praeterea, contraria sunt quae se invicem impediunt. Sed quaelibet tristitia impedit quamlibet delectationem, ut patet per illud quod dicitur X Ethic. Ergo quaelibet tristitia cuilibet delectationi contrariatur.
+
+@@ I-II q. 35 a. 4 s. c.
+Sed contra, contrariorum non est eadem causa. Sed ab eodem habitu procedit quod aliquis gaudeat de uno, et tristetur de opposito, ex caritate enim contingit gaudere cum gaudentibus, et flere cum flentibus, ut dicitur Rom. XII. Ergo non omnis tristitia omni delectationi contrariatur.
+
+@@ I-II q. 35 a. 4 co.
+Respondeo dicendum quod, sicut dicitur in X Metaphys., contrarietas est differentia secundum formam. Forma autem est et generalis, et specialis. Unde contingit esse aliqua contraria secundum formam generis, sicut virtus et vitium; et secundum formam speciei, sicut iustitia et iniustitia. Est autem considerandum quod quaedam specificantur secundum formas absolutas, sicut substantiae et qualitates, quaedam vero specificantur per comparationem ad aliquid extra, sicut passiones et motus recipiunt speciem ex terminis sive ex obiectis. In his ergo quorum species considerantur secundum formas absolutas, contingit quidem species quae continentur sub contrariis generibus, non esse contrarias secundum rationem speciei, non tamen contingit quod habeant aliquam affinitatem vel convenientiam ad invicem. Intemperantia enim et iustitia, quae sunt in contrariis generibus, virtute scilicet et vitio, non contrariantur ad invicem secundum rationem propriae speciei, nec tamen habent aliquam affinitatem vel convenientiam ad invicem. Sed in illis quorum species sumuntur secundum habitudinem ad aliquid extrinsecum, contingit quod species contrariorum generum non solum non sunt contrariae ad invicem, sed etiam habent quandam convenientiam et affinitatem ad invicem, eo quod eodem modo se habere ad contraria, contrarietatem inducit, sicut accedere ad album et accedere ad nigrum habent rationem contrarietatis; sed contrario modo se habere ad contraria, habet rationem similitudinis, sicut recedere ab albo et accedere ad nigrum. Et hoc maxime apparet in contradictione, quae est principium oppositionis, nam in affirmatione et negatione eiusdem consistit oppositio, sicut album et non album; in affirmatione autem unius oppositorum et negatione alterius, attenditur convenientia et similitudo, ut si dicam nigrum et non album. Tristitia autem et delectatio, cum sint passiones, specificantur ex obiectis. Et quidem secundum genus suum, contrarietatem habent, nam unum pertinet ad prosecutionem, aliud vero ad fugam, quae se habent in appetitu sicut affirmatio et negatio in ratione, ut dicitur in VI Ethic. Et ideo tristia et delectatio quae sunt de eodem, habent oppositionem ad invicem secundum speciem. Tristitia vero et delectatio de diversis, si quidem illa diversa non sint opposita, sed disparata, non habent oppositionem ad invicem secundum rationem speciei, sed sunt etiam disparatae, sicut tristari de morte amici, et delectari in contemplatione. Si vero illa diversa sint contraria, tunc delectatio et tristitia non solum non habent contrarietatem secundum rationem speciei, sed etiam habent convenientiam et affinitatem, sicut gaudere de bono, et tristari de malo.
+
+@@ I-II q. 35 a. 4 ad 1
+Ad primum ergo dicendum quod albedo et nigredo non habent speciem ex habitudine ad aliquid exterius, sicut delectatio et tristitia. Unde non est eadem ratio.
+
+@@ I-II q. 35 a. 4 ad 2
+Ad secundum dicendum quod genus sumitur ex materia, ut patet in VIII Metaphys. In accidentibus autem loco materiae est subiectum. Dictum est autem quod delectatio et tristitia contrariantur secundum genus. Et ideo in qualibet tristitia est contraria dispositio subiecti dispositioni quae est in qualibet delectatione, nam in qualibet delectatione appetitus se habet ut acceptans id quod habet; in qualibet autem tristitia se habet ut fugiens. Et ideo ex parte subiecti quaelibet delectatio est medicina contra quamlibet tristitiam, et quaelibet tristitia est impeditiva cuiuslibet delectationis, praecipue tamen quando delectatio tristitiae contrariatur etiam secundum speciem.
+
+@@ I-II q. 35 a. 4 ad 3
+Unde patet solutio ad tertium. Vel aliter dicendum quod, etsi non omnis tristitia contrarietur omni delectationi secundum speciem, tamen quantum ad effectum contrariantur, nam ex uno confortatur natura animalis, ex alio vero quodammodo molestatur.
+
+@@ I-II q. 35 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod delectationi contemplationis sit aliqua tristitia contraria. Dicit enim apostolus, II ad Cor. VII, quae secundum Deum est tristitia, poenitentiam in salutem stabilem operatur. Sed respicere ad Deum pertinet ad superiorem rationem, cuius est contemplationi vacare, secundum Augustinum, in XII de Trin. Ergo delectationi contemplationis opponitur tristitia.
+
+@@ I-II q. 35 a. 5 arg. 2
+Praeterea, contrariorum contrarii sunt effectus. Si ergo unum contrariorum contemplatum est causa delectationis, aliud erit causa tristitiae. Et sic delectationi contemplationis erit tristitia contraria.
+
+@@ I-II q. 35 a. 5 arg. 3
+Praeterea, sicut obiectum delectationis est bonum, ita obiectum tristitiae est malum. Sed contemplatio potest habere mali rationem, dicit enim philosophus, in XII Metaphys., quod quaedam inconveniens est meditari. Ergo contemplationis delectationi potest esse contraria tristitia.
+
+@@ I-II q. 35 a. 5 arg. 4
+Praeterea, operatio quaelibet, secundum quod non est impedita, est causa delectationis, ut dicitur in VII et X Ethic. Sed operatio contemplationis potest multipliciter impediri, vel ut totaliter non sit, vel ut cum difficultate sit. Ergo in contemplatione potest esse tristitia delectationi contraria.
+
+@@ I-II q. 35 a. 5 arg. 5
+Praeterea, carnis afflictio est causa tristitiae. Sed sicut dicitur Eccle. ult., frequens meditatio carnis est afflictio. Ergo contemplatio habet tristitiam delectationi contrariam.
+
+@@ I-II q. 35 a. 5 s. c.
+Sed contra est quod dicitur Sap. VIII, non habet amaritudinem conversatio illius scilicet sapientiae, nec taedium convictus eius; sed laetitiam et gaudium. Conversatio autem et convictus sapientiae est per contemplationem. Ergo nulla tristitia est quae sit contraria delectationi contemplationis.
+
+@@ I-II q. 35 a. 5 co.
+Respondeo dicendum quod delectatio contemplationis potest intelligi dupliciter. Uno modo, ita quod contemplatio sit delectationis causa, et non obiectum. Et tunc delectatio non est de ipsa contemplatione, sed de re contemplata. Contingit autem contemplari aliquid nocivum et contristans, sicut et aliquid conveniens et delectans. Unde si sic delectatio contemplationis accipiatur, nihil prohibet delectationi contemplationis esse tristitiam contrariam. Alio modo potest dici delectatio contemplationis, quia contemplatio est eius obiectum et causa, puta cum aliquis delectatur de hoc ipso quod contemplatur. Et sic, ut dicit Gregorius Nyssenus, ei delectationi quae est secundum contemplationem, non opponitur aliqua tristitia. Et hoc idem philosophus dicit, in I Topic. et in X Ethic. Sed hoc est intelligendum, per se loquendo. Cuius ratio est, quia tristitia per se contrariatur delectationi quae est de contrario obiecto, sicut delectationi quae est de calore, contrariatur tristitia quae est de frigore. Obiecto autem contemplationis nihil est contrarium, contrariorum enim rationes, secundum quod sunt apprehensae, non sunt contrariae, sed unum contrarium est ratio cognoscendi aliud. Unde delectationi quae est in contemplando, non potest, per se loquendo, esse aliqua tristitia contraria. Sed nec etiam habet tristitiam annexam, sicut corporales delectationes, quae sunt ut medicinae quaedam contra aliquas molestias, sicut aliquis delectatur in potu ex hoc quod anxiatur siti, quando autem iam tota sitis est repulsa, etiam cessat delectatio potus. Delectatio enim contemplationis non causatur ex hoc quod excluditur aliqua molestia, sed ex hoc quod est secundum seipsam delectabilis, non est enim generatio, sed operatio quaedam perfecta, ut dictum est. Per accidens autem admiscetur tristitia delectationi apprehensionis. Et hoc dupliciter, uno modo, ex parte organi; alio modo, ex impedimento apprehensionis. Ex parte quidem organi, admiscetur tristitia vel dolor apprehensioni, directe quidem in viribus apprehensivis sensitivae partis, quae habent organum corporale, vel ex sensibili, quod est contrarium debitae complexioni organi, sicut gustus rei amarae et olfactus rei foetidae; vel ex continuitate sensibilis convenientis, quod per assiduitatem facit superexcrescentiam naturalis habitus, ut supra dictum est, et sic redditur apprehensio sensibilis quae prius erat delectabilis, taediosa. Sed haec duo directe in contemplatione mentis locum non habent, quia mens non habet organum corporale. Unde dictum est in auctoritate inducta, quod non habet contemplatio mentis nec amaritudinem nec taedium. Sed quia mens humana utitur in contemplando viribus apprehensivis sensitivis, in quarum actibus accidit lassitudo; ideo indirecte admiscetur aliqua afflictio vel dolor contemplationi. Sed neutro modo tristitia contemplationi per accidens adiuncta, contrariatur delectationi eius. Nam tristitia quae est de impedimento contemplationis, non contrariatur delectationi contemplationis, sed magis habet affinitatem et convenientiam cum ipsa, ut ex supradictis patet. Tristitia vero vel afflictio quae est de lassitudine corporali, non ad idem genus refertur, unde est penitus disparata. Et sic manifestum est quod delectationi quae est de ipsa contemplatione, nulla tristitia contrariatur; nec adiungitur ei aliqua tristitia nisi per accidens.
+
+@@ I-II q. 35 a. 5 ad 1
+Ad primum ergo dicendum quod illa tristitia quae est secundum Deum, non est de ipsa contemplatione mentis, sed est de aliquo quod mens contemplatur, scilicet de peccato, quod mens considerat ut contrarium dilectioni divinae.
+
+@@ I-II q. 35 a. 5 ad 2
+Ad secundum dicendum quod ea quae sunt contraria in rerum natura, secundum quod sunt in mente, non habent contrarietatem. Non enim rationes contrariorum sunt contrariae, sed magis unum contrarium est ratio cognoscendi aliud. Propter quod est una scientia contrariorum.
+
+@@ I-II q. 35 a. 5 ad 3
+Ad tertium dicendum quod contemplatio, secundum se, nunquam habet rationem mali, cum contemplatio nihil aliud sit quam consideratio veri, quod est bonum intellectus, sed per accidens tantum, inquantum scilicet contemplatio vilioris impedit contemplationem melioris; vel ex parte rei contemplatae, ad quam inordinatae appetitus afficitur.
+
+@@ I-II q. 35 a. 5 ad 4
+Ad quartum dicendum quod tristitia quae est de impedimento contemplationis, non contrariatur delectationi contemplationis, sed est ei affinis, ut dictum est.
+
+@@ I-II q. 35 a. 5 ad 5
+Ad quintum dicendum quod afflictio carnis per accidens et indirecte se habet ad contemplationem mentis, ut dictum est.
+
+@@ I-II q. 35 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod magis sit fugienda tristitia, quam delectatio appetenda. Dicit enim Augustinus, in libro octoginta trium quaest., nemo est qui non magis dolorem fugiat, quam appetat voluptatem. Illud autem in quo communiter omnia consentiunt, videtur esse naturale. Ergo naturale est et conveniens quod plus tristitia fugiatur, quam delectatio appetatur.
+
+@@ I-II q. 35 a. 6 arg. 2
+Praeterea, actio contrarii facit ad velocitatem et intensionem motus, aqua enim calida citius et fortius congelatur, ut dicit philosophus, in libro Meteor. Sed fuga tristitiae est ex contrarietate contristantis, appetitus autem delectationis non est ex aliqua contrarietate, sed magis procedit ex convenientia delectantis. Ergo maior est fuga tristitiae quam appetitus delectationis.
+
+@@ I-II q. 35 a. 6 arg. 3
+Praeterea, quanto aliquis secundum rationem fortiori passioni repugnat, tanto laudabilior est et virtuosior, quia virtus est circa difficile et bonum, ut dicitur in II Ethic. Sed fortis, qui resistit motui quo fugitur dolor, est virtuosior quam temperatus, qui resistit motui quo appetitur delectatio, dicit enim philosophus, in II Rhetoric., quod fortes et iusti maxime honorantur. Ergo vehementior est motus quo fugitur tristitia, quam motus quo appetitur delectatio.
+
+@@ I-II q. 35 a. 6 s. c.
+Sed contra, bonum est fortius quam malum, ut patet per Dionysium, IV cap. de Div. Nom. Sed delectatio est appetibilis propter bonum, quod est eius obiectum, fuga autem tristitiae est propter malum. Ergo fortior est appetitus delectationis quam fuga tristitiae.
+
+@@ I-II q. 35 a. 6 co.
+Respondeo dicendum quod, per se loquendo, appetitus delectationis est fortior quam fuga tristitiae. Cuius ratio est, quia causa delectationis est bonum conveniens, causa autem doloris sive tristitiae est aliquod malum repugnans. Contingit autem aliquod bonum esse conveniens absque omni dissonantia, non autem potest esse aliquod malum totaliter, absque omni convenientia, repugnans. Unde delectatio potest esse integra et perfecta, tristitia autem est semper secundum partem. Unde naturaliter maior est appetitus delectationis quam fuga tristitiae. Alia vero ratio est, quia bonum, quod est obiectum delectationis, propter seipsum appetitur, malum autem, quod est obiectum tristitiae, est fugiendum inquantum est privatio boni. Quod autem est per se, potius est illo quod est per aliud. Cuius etiam signum apparet in motibus naturalibus. Nam omnis motus naturalis intensior est in fine, cum appropinquat ad terminum suae naturae convenientem, quam in principio, cum recedit a termino suae naturae non convenienti, quasi natura magis tendat in id quod est sibi conveniens, quam fugiat id quod est sibi repugnans. Unde et inclinatio appetitivae virtutis, per se loquendo, vehementius tendit in delectationem quam fugiat tristitiam. Sed per accidens contingit quod tristitiam aliquis magis fugit, quam delectationem appetat. Et hoc tripliciter. Primo quidem, ex parte apprehensionis. Quia, ut Augustinus dicit, X de Trin., amor magis sentitur, cum eum prodit indigentia. Ex indigentia autem amati procedit tristitia, quae est ex amissione alicuius boni amati, vel ex incursu alicuius mali contrarii. Delectatio autem non habet indigentiam boni amati, sed quiescit in eo iam adepto. Cum igitur amor sit causa delectationis et tristitiae, tanto magis fugitur tristitia, quanto magis sentitur amor ex eo quod contrariatur amori. Secundo, ex parte causae contristantis, vel dolorem inferentis, quae repugnat bono magis amato quam sit bonum illud in quo delectamur. Magis enim amamus consistentiam corporis naturalem, quam delectationem cibi. Et ideo timore doloris qui provenit ex flagellis vel aliis huiusmodi, quae contrariantur bonae consistentiae corporis, dimittimus delectationem ciborum vel aliorum huiusmodi. Tertio, ex parte effectus, inquantum scilicet tristitia impedit non unam tantum delectationem, sed omnes.
+
+@@ I-II q. 35 a. 6 ad 1
+Ad primum ergo dicendum quod illud quod Augustinus dicit, quod dolor magis fugitur quam voluptas appetatur, est verum per accidens, et non per se. Et hoc patet ex eo quod subdit, quandoquidem videmus etiam immanissimas bestias a maximis voluptatibus absterreri dolorum metu, qui contrariatur vitae, quae maxime amatur.
+
+@@ I-II q. 35 a. 6 ad 2
+Ad secundum dicendum quod aliter est in motu qui est ab interiori, et aliter in motu qui est ab exteriori. Motus enim qui est ab interiori, magis tendit in id quod est conveniens, quam recedat a contrario, sicut supra dictum est de motu naturali. Sed motus qui est ab extrinseco, intenditur ex ipsa contrarietate, quia unumquodque suo modo nititur ad resistendum contrario, sicut ad conservationem sui ipsius. Unde motus violentus intenditur in principio, et remittitur in fine. Motus autem appetitivae partis est ab intrinseco, cum sit ab anima ad res. Et ideo, per se loquendo, magis appetitur delectatio quam fugiatur tristitia. Sed motus sensitivae partis est ab exteriori, quasi a rebus ad animam. Unde magis sentitur quod est magis contrarium. Et sic etiam per accidens, inquantum sensus requiritur ad delectationem et tristitiam, magis fugitur tristitia quam delectatio appetatur.
+
+@@ I-II q. 35 a. 6 ad 3
+Ad tertium dicendum quod fortis non laudatur ex eo quod secundum rationem non vincitur a dolore vel tristitia quacumque, sed ea quae consistit in periculis mortis. Quae quidem tristitia magis fugitur quam appetatur delectatio ciborum vel venereorum, circa quam est temperantia, sicut vita magis amatur quam cibus vel coitus. Sed temperatus magis laudatur ex hoc quod non prosequitur delectationes tactus, quam ex hoc quod non fugit tristitias contrarias, ut patet in III Ethic.
+
+@@ I-II q. 35 a. 7 arg. 1
+Ad septimum sic proceditur. Videtur quod dolor exterior sit maior quam dolor cordis interior. Dolor enim exterior causatur ex causa repugnante bonae consistentiae corporis, in quo est vita, dolor autem interior causatur ex aliqua imaginatione mali. Cum ergo vita magis ametur quam imaginatum bonum, videtur, secundum praedicta, quod dolor exterior sit maior quam dolor interior.
+
+@@ I-II q. 35 a. 7 arg. 2
+Praeterea, res magis movet quam rei similitudo. Sed dolor exterior provenit ex reali coniunctione alicuius contrarii, dolor autem interior ex similitudine contrarii apprehensa. Ergo maior est dolor exterior quam dolor interior.
+
+@@ I-II q. 35 a. 7 arg. 3
+Praeterea, causa ex effectu cognoscitur. Sed dolor exterior habet fortiores effectus, facilius enim homo moritur propter dolores exteriores quam propter dolorem interiorem. Ergo exterior dolor est maior, et magis fugitur, quam dolor interior.
+
+@@ I-II q. 35 a. 7 s. c.
+Sed contra est quod dicitur Eccli. XXV, omnis plaga tristitia cordis est, et omnis malitia nequitia mulieris. Ergo, sicut nequitia mulieris alias nequitias superat, ut ibi intenditur; ita tristitia cordis omnem plagam exteriorem excedit.
+
+@@ I-II q. 35 a. 7 co.
+Respondeo dicendum quod dolor interior et exterior in uno conveniunt, et in duobus differunt. Conveniunt quidem in hoc, quod uterque est motus appetitivae virtutis, ut supra dictum est. Differunt autem secundum illa duo quae ad tristitiam et delectationem requiruntur, scilicet secundum causam, quae est bonum vel malum coniunctum; et secundum apprehensionem. Causa enim doloris exterioris est malum coniunctum quod repugnat corpori, causa autem interioris doloris est malum coniunctum quod repugnat appetitui. Dolor etiam exterior sequitur apprehensionem sensus, et specialiter tactus, dolor autem interior sequitur apprehensionem interiorem, imaginationis scilicet vel etiam rationis. Si ergo comparatur causa interioris doloris ad causam exterioris, una per se pertinet ad appetitum, cuius est uterque dolor, alia vero per aliud. Nam dolor interior est ex hoc quod aliquid repugnat ipsi appetitui, exterior autem dolor, ex hoc quod repugnat appetitui quia repugnat corpori. Semper autem quod est per se, prius est eo quod est per aliud. Unde ex parte ista, dolor interior praeeminet dolori exteriori. Similiter etiam ex parte apprehensionis. Nam apprehensio rationis et imaginationis altior est quam apprehensio sensu tactus. Unde simpliciter et per se loquendo, dolor interior potior est quam dolor exterior. Cuius signum est, quod etiam dolores exteriores aliquis voluntarie suscipit, ut evitet interiorem dolorem. Et inquantum non repugnat dolor exterior interiori appetitui, fit quodammodo delectabilis et iucundus interiori gaudio. Quandoque tamen dolor exterior est cum interiori dolore, et tunc dolor augetur. Non solum enim interior dolor est maior quam exterior, sed etiam universalior. Quidquid enim est repugnans corpori, potest esse repugnans interiori appetitui; et quidquid apprehenditur sensu, potest apprehendi imaginatione et ratione; sed non convertitur. Et ideo signanter in auctoritate adducta dicitur, omnis plaga tristitia cordis est, quia etiam dolores exteriorum plagarum sub interiori cordis tristitia comprehenduntur.
+
+@@ I-II q. 35 a. 7 ad 1
+Ad primum ergo dicendum quod dolor interior potest etiam esse de his quae contrariantur vitae. Et sic comparatio doloris interioris ad exteriorem non est accipienda secundum diversa mala quae sunt causa doloris, sed secundum diversam comparationem huius causae doloris ad appetitum.
+
+@@ I-II q. 35 a. 7 ad 2
+Ad secundum dicendum quod tristitia interior non procedit ex similitudine rei apprehensa, sicut ex causa, non enim homo tristatur interius de ipsa similitudine apprehensa, sed de re cuius est similitudo. Quae quidem res tanto perfectius apprehenditur per aliquam similitudinem, quanto similitudo est magis immaterialis et abstracta. Et ideo dolor interior, per se loquendo, est maior, tanquam de maiori malo existens; propter hoc quod interiori apprehensione magis cognoscitur malum.
+
+@@ I-II q. 35 a. 7 ad 3
+Ad tertium dicendum quod immutationes corporales magis causantur ex dolore exteriori, tum quia causa doloris exterioris est corrumpens coniunctum corporaliter, quod exigit apprehensio tactus. Tum etiam quia sensus exterior est magis corporalis quam sensus interior, sicut et appetitus sensitivus quam intellectivus. Et propter hoc, ut supra dictum est, ex motu appetitus sensitivi magis corpus immutatur. Et similiter ex dolore exteriori, magis quam ex dolore interiori.
+
+@@ I-II q. 35 a. 8 arg. 1
+Ad octavum sic proceditur. Videtur quod Damascenus inconvenienter quatuor tristitiae species assignet, quae sunt acedia, achthos (vel anxietas secundum Gregorium Nyssenum), misericordia et invidia. Tristitia enim delectationi opponitur. Sed delectationis non assignantur aliquae species. Ergo nec tristitiae species debent assignari.
+
+@@ I-II q. 35 a. 8 arg. 2
+Praeterea, poenitentia est quaedam species tristitiae. Similiter etiam Nemesis et zelus, ut dicit philosophus, II Rhetoric. Quae quidem sub his speciebus non comprehenduntur. Ergo insufficiens est eius praedicta divisio.
+
+@@ I-II q. 35 a. 8 arg. 3
+Praeterea, omnis divisio debet esse per opposita. Sed praedicta non habent oppositionem ad invicem. Nam secundum Gregorium acedia est tristitia vocem amputans; anxietas vero est tristitia aggravans; invidia vero est tristitia in alienis bonis; misericordia autem est tristitia in alienis malis. Contingit autem aliquem tristari et de alienis malis, et de alienis bonis et simul cum hoc interius aggravari, et exterius vocem amittere. Ergo praedicta divisio non est conveniens.
+
+@@ I-II q. 35 a. 8 s. c.
+Sed contra est auctoritas utriusque, scilicet Gregorii Nysseni et Damasceni.
+
+@@ I-II q. 35 a. 8 co.
+Respondeo dicendum quod ad rationem speciei pertinet quod se habeat ex additione ad genus. Sed generi potest aliquid addi dupliciter. Uno modo, quod per se ad ipsum pertinet, et virtute continetur in ipso, sicut rationale additur animali. Et talis additio facit veras species alicuius generis, ut per philosophum patet, in VII et VIII Metaphys. Aliquid vero additur generi quasi aliquid extraneum a ratione ipsius, sicut si album animali addatur, vel aliquid huiusmodi. Et talis additio non facit veras species generis, secundum quod communiter loquimur de genere et speciebus. Interdum tamen dicitur aliquid esse species alicuius generis propter hoc quod habet aliquid extraneum ad quod applicatur generis ratio, sicut carbo et flamma dicuntur esse species ignis, propter applicationem naturae ignis ad materiam alienam. Et simili modo loquendi dicuntur astrologia et perspectiva species mathematicae, inquantum principia mathematica applicantur ad materiam naturalem. Et hoc modo loquendi assignantur hic species tristitiae, per applicationem rationis tristitiae ad aliquid extraneum. Quod quidem extraneum accipi potest vel ex parte causae, obiecti; vel ex parte effectus. Proprium enim obiectum tristitiae est proprium malum. Unde extraneum obiectum tristitiae accipi potest vel secundum alterum tantum, quia scilicet est malum, sed non proprium, et sic est misericordia, quae est tristitia de alieno malo, inquantum tamen aestimatur ut proprium. Vel quantum ad utrumque, quia neque est de proprio, neque de malo, sed de bono alieno, inquantum tamen bonum alienum aestimatur ut proprium malum, et sic est invidia. Proprius autem effectus tristitiae consistit in quadam fuga appetitus. Unde extraneum circa effectum tristitiae, potest accipi quantum ad alterum tantum, quia scilicet tollitur fuga, et sic est anxietas quae sic aggravat animum, ut non appareat aliquod refugium, unde alio nomine dicitur angustia. Si vero intantum procedat talis aggravatio, ut etiam exteriora membra immobilitet ab opere, quod pertinet ad acediam; sic erit extraneum quantum ad utrumque, quia nec est fuga, nec est in appetitu. Ideo autem specialiter acedia dicitur vocem amputare, quia vox inter omnes exteriores motus magis exprimit interiorem conceptum et affectum, non solum in hominibus, sed etiam in aliis animalibus, ut dicitur in I Polit.
+
+@@ I-II q. 35 a. 8 ad 1
+Ad primum ergo dicendum quod delectatio causatur ex bono, quod uno modo dicitur. Et ideo delectationis non assignantur tot species sicut tristitiae, quae causatur ex malo, quod multifariam contingit, ut dicit Dionysius, IV cap. de Div. Nom.
+
+@@ I-II q. 35 a. 8 ad 2
+Ad secundum dicendum quod poenitentia est de malo proprio, quod per se est obiectum tristitiae. Unde non pertinet ad has species. Zelus vero et Nemesis sub invidia continentur, ut infra patebit.
+
+@@ I-II q. 35 a. 8 ad 3
+Ad tertium dicendum quod divisio ista non sumitur secundum oppositiones specierum, sed secundum diversitatem extraneorum ad quae trahitur ratio tristitiae, ut dictum est.

@@ -1,0 +1,33 @@
+// Словарь трактата II-II qq. 123-140.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_fortitudine version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-fortitudine";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation fear_presented(s: Subject) kind empirical {
+    label la unofficial "fear_presented";
+    label ru unofficial "fear_presented";
+}
+pub relation fortitude_presented(s: Subject) kind empirical {
+    label la unofficial "fortitude_presented";
+    label ru unofficial "fortitude_presented";
+}
+pub relation magnanimity_presented(s: Subject) kind empirical {
+    label la unofficial "magnanimity_presented";
+    label ru unofficial "magnanimity_presented";
+}
+pub relation martyrdom_presented(s: Subject) kind empirical {
+    label la unofficial "martyrdom_presented";
+    label ru unofficial "martyrdom_presented";
+}

@@ -1,0 +1,32 @@
+[package]
+name = "la.aquinas.summa.i_de_angelis"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-de-angelis"
+
+[metadata]
+act = "la-summa-i-de-angelis"
+title = "Фома Аквинский, Summa theologiae I, вопросы 50–64: ангелы"
+primarySource = "SUMMA_THEOLOGIAE_I_50_64"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_de_angelis#authored"
+regression = false
+suites = [
+    "tests/01-angelisincorporeal-affirmat.lawtest",
+    "tests/01b-angelisincorporeal-negata.lawtest",
+    "tests/02-angelunderstands-affirmat.lawtest",
+    "tests/02b-angelunderstands-negata.lawtest",
+    "tests/03-devilsinned-affirmat.lawtest",
+    "tests/03b-devilsinned-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_de_angelis"]
+
+[authoring]
+local_imports = "explicit"

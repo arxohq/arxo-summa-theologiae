@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:cb9960c922b821b721a92ca12dc9c18c26a98441c5bbeb46b562022efcc63a97",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:364653df6b95e8c2510c0da2c5305b1c4b674f3154d9b7c7c43aff5d56829cc7",
+    "name": "la.aquinas.summa.ii_ii_caritate",
+    "namespace": "urn:la:aquinas:clir:summa-ii-ii-caritate",
+    "sourceHash": "sha256:279e16b7c95554ab895542aac1c0240db9c15841318a45544c4c60434a916a5b",
+    "version": "0.1.0"
+  }
+}

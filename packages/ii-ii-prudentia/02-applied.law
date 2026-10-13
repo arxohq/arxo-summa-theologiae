@@ -1,0 +1,55 @@
+// Прикладной канон respondeo II-II qq. 47-56.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_prudentia version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-prudentia";
+
+use self::{
+    ST_II_II_Q47_A1_RESP,
+    ST_II_II_Q49_A1_RESP,
+    ST_II_II_Q53_A1_RESP,
+    Subject,
+    imprudence_presented,
+    presented,
+    prudence_presented,
+};
+
+pub relation prudence_is_virtue(s: Subject) kind institutional {
+    label la official "prudentia est virtus";
+    label ru unofficial "благоразумие есть добродетель";
+}
+
+@source(ST_II_II_Q47_A1_RESP)
+rule PrudenceIsVirtue(s: Subject) strict {
+    label la official "prudentia est virtus";
+    label ru unofficial "благоразумие есть добродетель";
+    when presented(s) and prudence_presented(s);
+    then prudence_is_virtue(s);
+}
+
+pub relation memory_belongs_prudence(s: Subject) kind institutional {
+    label la official "memoria pertinet ad prudentiam";
+    label ru unofficial "память принадлежит благоразумию";
+}
+
+@source(ST_II_II_Q49_A1_RESP)
+rule IntegralParts(s: Subject) strict {
+    label la official "memoria pertinet ad prudentiam";
+    label ru unofficial "память принадлежит благоразумию";
+    when presented(s) and prudence_presented(s);
+    then memory_belongs_prudence(s);
+}
+
+pub relation imprudence_is_vice(s: Subject) kind institutional {
+    label la official "imprudentia est vitium";
+    label ru unofficial "неблагоразумие есть порок";
+}
+
+@source(ST_II_II_Q53_A1_RESP)
+rule ImprudenceVice(s: Subject) strict {
+    label la official "imprudentia est vitium";
+    label ru unofficial "неблагоразумие есть порок";
+    when presented(s) and imprudence_presented(s);
+    then imprudence_is_vice(s);
+}
+

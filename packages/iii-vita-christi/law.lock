@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:4587aac7c27696350d9ba58825aedd87389a5b207412dac55a6024371efc875e",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:79c09f7d5e4cddead78c72b10e1fdcd999e596acf9fad010f2c80c3b78587027",
+    "name": "la.aquinas.summa.iii_vita_christi",
+    "namespace": "urn:la:aquinas:clir:summa-iii-vita-christi",
+    "sourceHash": "sha256:8dbae8be2bc21efe21166fc986974cd818b4d371c1b54c15ed1f34944e30c26c",
+    "version": "0.1.0"
+  }
+}

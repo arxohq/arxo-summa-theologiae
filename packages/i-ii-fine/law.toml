@@ -1,0 +1,38 @@
+[package]
+name = "la.aquinas.summa.i_ii_fine"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-ii-fine"
+
+[metadata]
+act = "la-summa-i-ii-fine"
+title = "Фома Аквинский, Summa theologiae I-II, вопросы 1–5: последняя цель"
+primarySource = "SUMMA_THEOLOGIAE_I_II_1_5"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_ii_fine#authored"
+regression = false
+suites = [
+    "tests/01-manactsforend-affirmat.lawtest",
+    "tests/01b-manactsforend-negata.lawtest",
+    "tests/02-happinessislastend-affirmat.lawtest",
+    "tests/02b-happinessislastend-negata.lawtest",
+    "tests/03-happinessnotinwealth-affirmat.lawtest",
+    "tests/03b-happinessnotinwealth-negata.lawtest",
+    "tests/04-perfecthappinessisvision-affirmat.lawtest",
+    "tests/04b-perfecthappinessisvision-negata.lawtest",
+    "tests/05-delightrequired-affirmat.lawtest",
+    "tests/05b-delightrequired-negata.lawtest",
+    "tests/06-mancanattainhappiness-affirmat.lawtest",
+    "tests/06b-mancanattainhappiness-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_ii_fine"]
+
+[authoring]
+local_imports = "explicit"

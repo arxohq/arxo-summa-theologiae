@@ -1,0 +1,98 @@
+@@ I-II q. 104 pr.
+Consequenter considerandum est de praeceptis iudicialibus. Et primo, considerandum est de ipsis in communi; secundo, de rationibus eorum. Circa primum quaeruntur quatuor. Primo, quae sint iudicialia praecepta. Secundo, utrum sint figuralia. Tertio, de duratione eorum. Quarto, de distinctione eorum.
+
+@@ I-II q. 104 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod ratio praeceptorum iudicialium non consistat in hoc quod sunt ordinantia ad proximum. Iudicialia enim praecepta a iudicio dicuntur. Sed multa sunt alia quibus homo ad proximum ordinatur, quae non pertinent ad ordinem iudiciorum. Non ergo praecepta iudicialia dicuntur quibus homo ordinatur ad proximum.
+
+@@ I-II q. 104 a. 1 arg. 2
+Praeterea, praecepta iudicialia a moralibus distinguuntur, ut supra dictum est. Sed multa praecepta moralia sunt quibus homo ordinatur ad proximum, sicut patet in septem praeceptis secundae tabulae. Non ergo praecepta iudicialia dicuntur ex hoc quod ad proximum ordinant.
+
+@@ I-II q. 104 a. 1 arg. 3
+Praeterea, sicut se habent praecepta caeremonialia ad Deum, ita se habent iudicialia praecepta ad proximum, ut supra dictum est. Sed inter praecepta caeremonialia sunt quaedam quae pertinent ad seipsum, sicut observantiae ciborum et vestimentorum, de quibus supra dictum est. Ergo praecepta iudicialia non ex hoc dicuntur quod ordinent hominem ad proximum.
+
+@@ I-II q. 104 a. 1 s. c.
+Sed contra est quod dicitur Ezech. XVIII, inter cetera bona opera viri iusti, si iudicium verum fecerit inter virum et virum. Sed iudicialia praecepta a iudicio dicuntur. Ergo praecepta iudicialia videntur dici illa quae pertinent ad ordinationem hominum ad invicem.
+
+@@ I-II q. 104 a. 1 co.
+Respondeo dicendum quod, sicut ex supradictis patet, praeceptorum cuiuscumque legis quaedam habent vim obligandi ex ipso dictamine rationis, quia naturalis ratio dictat hoc esse debitum fieri vel vitari. Et huiusmodi praecepta dicuntur moralia, eo quod a ratione dicuntur mores humani. Alia vero praecepta sunt quae non habent vim obligandi ex ipso dictamine rationis, quia scilicet in se considerata non habent absolute rationem debiti vel indebiti; sed habent vim obligandi ex aliqua institutione divina vel humana. Et huiusmodi sunt determinationes quaedam moralium praeceptorum. Si igitur determinentur moralia praecepta per institutionem divinam in his per quae ordinatur homo ad Deum, talia dicentur praecepta caeremonialia. Si autem in his quae pertinent ad ordinationem hominum ad invicem, talia dicentur praecepta iudicialia. In duobus ergo consistit ratio iudicialium praeceptorum, scilicet ut pertineant ad ordinationem hominum ad invicem; et ut non habeant vim obligandi ex sola ratione, sed ex institutione.
+
+@@ I-II q. 104 a. 1 ad 1
+Ad primum ergo dicendum quod iudicia exercentur officio aliquorum principum, qui habent potestatem iudicandi. Ad principem autem pertinet non solum ordinare de his quae veniunt in litigium, sed etiam de voluntariis contractibus qui inter homines fiunt, et de omnibus pertinentibus ad populi communitatem et regimen. Unde praecepta iudicialia non solum sunt illa quae pertinent ad lites iudiciorum; sed etiam quaecumque pertinent ad ordinationem hominum ad invicem, quae subest ordinationi principis tanquam supremi iudicis.
+
+@@ I-II q. 104 a. 1 ad 2
+Ad secundum dicendum quod ratio illa procedit de illis praeceptis ordinantibus ad proximum, quae habent vim obligandi ex solo dictamine rationis.
+
+@@ I-II q. 104 a. 1 ad 3
+Ad tertium dicendum quod etiam in his quae ordinant ad Deum, quaedam sunt moralia, quae ipsa ratio fide informata dictat, sicut Deum esse amandum et colendum. Quaedam vero sunt caeremonialia, quae non habent vim obligationis nisi ex institutione divina. Ad Deum autem pertinent non solum sacrificia oblata Deo, sed etiam quaecumque pertinent ad idoneitatem offerentium et Deum colentium. Homines enim ordinantur in Deum sicut in finem, et ideo ad cultum Dei pertinet, et per consequens ad caeremonialia praecepta, quod homo habeat quandam idoneitatem respectu cultus divini. Sed homo non ordinatur ad proximum sicut in finem, ut oporteat eum disponi in seipso in ordine ad proximum, haec enim est comparatio servorum ad dominos, qui id quod sunt, dominorum sunt, secundum philosophum, in I Polit. Et ideo non sunt aliqua praecepta iudicialia ordinantia hominem in seipso, sed omnia talia sunt moralia, quia ratio, quae est principium moralium, se habet in homine respectu eorum quae ad ipsum pertinent, sicut princeps vel iudex in civitate. Sciendum tamen quod, quia ordo hominis ad proximum magis subiacet rationi quam ordo hominis ad Deum, plura praecepta moralia inveniuntur per quae ordinatur homo ad proximum, quam per quae ordinatur ad Deum. Et propter hoc etiam oportuit plura esse caeremonialia in lege quam iudicialia.
+
+@@ I-II q. 104 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod praecepta iudicialia non figurent aliquid. Hoc enim videtur esse proprium caeremonialium praeceptorum, quod sint in figuram alicuius rei instituta. Si igitur etiam praecepta iudicialia aliquid figurent, non erit differentia inter iudicialia et caeremonialia praecepta.
+
+@@ I-II q. 104 a. 2 arg. 2
+Praeterea, sicuti illi populo Iudaeorum data sunt quaedam iudicialia praecepta, ita etiam aliis populis gentilium. Sed iudicialia praecepta aliorum populorum non figurant aliquid, sed ordinant quid fieri debeat. Ergo videtur quod neque praecepta iudicialia veteris legis aliquid figurarent.
+
+@@ I-II q. 104 a. 2 arg. 3
+Praeterea, ea quae ad cultum divinum pertinent, figuris quibusdam tradi oportuit, quia ea quae Dei sunt, supra nostram rationem sunt, ut supra dictum est. Sed ea quae sunt proximorum, non excedunt nostram rationem. Ergo per iudicialia, quae ad proximum nos ordinant, non oportuit aliquid figurari.
+
+@@ I-II q. 104 a. 2 s. c.
+Sed contra est quod Exod. XXI iudicialia praecepta allegorice et moraliter exponuntur.
+
+@@ I-II q. 104 a. 2 co.
+Respondeo dicendum quod dupliciter contingit aliquod praeceptum esse figurale. Uno modo, primo et per se, quia scilicet principaliter est institutum ad aliquid figurandum. Et hoc modo praecepta caeremonialia sunt figuralia, ad hoc enim sunt instituta, ut aliquid figurent pertinens ad cultum Dei et ad mysterium Christi. Quaedam vero praecepta sunt figuralia non primo et per se, sed ex consequenti. Et hoc modo praecepta iudicialia veteris legis sunt figuralia. Non enim sunt instituta ad aliquid figurandum; sed ad ordinandum statum illius populi secundum iustitiam et aequitatem. Sed ex consequenti aliquid figurabant, inquantum scilicet totus status illius populi, qui per huiusmodi praecepta disponebatur, figuralis erat; secundum illud I ad Cor. X, omnia in figuram contingebant illis.
+
+@@ I-II q. 104 a. 2 ad 1
+Ad primum ergo dicendum quod praecepta caeremonialia alio modo sunt figuralia quam iudicialia, ut dictum est.
+
+@@ I-II q. 104 a. 2 ad 2
+Ad secundum dicendum quod populus Iudaeorum ad hoc electus erat a Deo, quod ex eo Christus nasceretur. Et ideo oportuit totum illius populi statum esse propheticum et figuralem, ut Augustinus dicit, contra Faustum. Et propter hoc etiam iudicialia illi populo tradita, magis sunt figuralia quam iudicialia aliis populis tradita. Sicut etiam bella et gesta illius populi exponuntur mystice; non autem bella vel gesta Assyriorum vel Romanorum, quamvis longe clariora secundum homines.
+
+@@ I-II q. 104 a. 2 ad 3
+Ad tertium dicendum quod ordo ad proximum in populo illo, secundum se consideratus, pervius erat rationi. Sed secundum quod referebatur ad cultum Dei, superabat rationem. Et ex hac parte erat figuralis.
+
+@@ I-II q. 104 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod praecepta iudicialia veteris legis perpetuam obligationem habeant. Praecepta enim iudicialia pertinent ad virtutem iustitiae, nam iudicium dicitur iustitiae executio. Iustitia autem est perpetua et immortalis, ut dicitur Sap. I. Ergo obligatio praeceptorum iudicialium est perpetua.
+
+@@ I-II q. 104 a. 3 arg. 2
+Praeterea, institutio divina est stabilior quam institutio humana. Sed praecepta iudicialia humanarum legum habent perpetuam obligationem. Ergo multo magis praecepta iudicialia legis divinae.
+
+@@ I-II q. 104 a. 3 arg. 3
+Praeterea, apostolus dicit, ad Heb. VII, quod reprobatio fit praecedentis mandati propter infirmitatem ipsius et inutilitatem. Quod quidem verum est de mandato caeremoniali quod non poterat facere perfectum iuxta conscientiam servientem solummodo in cibis et in potibus et variis Baptismatibus et iustitiis carnis, ut apostolus dicit, ad Heb. IX. Sed praecepta iudicialia utilia erant et efficacia ad id ad quod ordinabantur, scilicet ad iustitiam et aequitatem inter homines constituendam. Ergo praecepta iudicialia veteris legis non reprobantur, sed adhuc efficaciam habent.
+
+@@ I-II q. 104 a. 3 s. c.
+Sed contra est quod apostolus dicit, ad Heb. VII, quod translato sacerdotio, necesse est ut legis translatio fiat. Sed sacerdotium est translatum ab Aaron ad Christum. Ergo etiam et tota lex est translata. Non ergo iudicialia praecepta adhuc obligationem habent.
+
+@@ I-II q. 104 a. 3 co.
+Respondeo dicendum quod iudicialia praecepta non habuerunt perpetuam obligationem, sed sunt evacuata per adventum Christi, aliter tamen quam caeremonialia. Nam caeremonialia adeo sunt evacuata ut non solum sint mortua, sed etiam mortifera observantibus post Christum, maxime post Evangelium divulgatum. Praecepta autem iudicialia sunt quidem mortua, quia non habent vim obligandi, non tamen sunt mortifera. Quia si quis princeps ordinaret in regno suo illa iudicialia observari, non peccaret, nisi forte hoc modo observarentur, vel observari mandarentur, tanquam habentia vim obligandi ex veteris legis institutione. Talis enim intentio observandi esset mortifera. Et huius differentiae ratio potest accipi ex praemissis. Dictum est enim quod praecepta caeremonialia sunt figuralia primo et per se, tanquam instituta principaliter ad figurandum Christi mysteria ut futura. Et ideo ipsa observatio eorum praeiudicat fidei veritati, secundum quam confitemur illa mysteria iam esse completa. Praecepta autem iudicialia non sunt instituta ad figurandum, sed ad disponendum statum illius populi, qui ordinabatur ad Christum. Et ideo, mutato statu illius populi, Christo iam veniente, iudicialia praecepta obligationem amiserunt, lex enim fuit paedagogus ducens ad Christum, ut dicitur ad Gal. III. Quia tamen huiusmodi iudicialia praecepta non ordinantur ad figurandum, sed ad aliquid fiendum, ipsa eorum observatio absolute non praeiudicat fidei veritati. Sed intentio observandi tanquam ex obligatione legis, praeiudicat veritati fidei, quia per hoc haberetur quod status prioris populi adhuc duraret, et quod Christus nondum venisset.
+
+@@ I-II q. 104 a. 3 ad 1
+Ad primum ergo dicendum quod iustitia quidem perpetuo est observanda. Sed determinatio eorum quae sunt iusta secundum institutionem humanam vel divinam, oportet quod varietur secundum diversum hominum statum.
+
+@@ I-II q. 104 a. 3 ad 2
+Ad secundum dicendum quod praecepta iudicialia ab hominibus instituta habent perpetuam obligationem, manente illo statu regiminis. Sed si civitas vel gens ad aliud regimen deveniat, oportet leges mutari. Non enim eaedem leges conveniunt in democratia, quae est potestas populi, et in oligarchia, quae est potestas divitum; ut patet per philosophum, in sua politica. Et ideo etiam, mutato statu illius populi, oportuit praecepta iudicialia mutari.
+
+@@ I-II q. 104 a. 3 ad 3
+Ad tertium dicendum quod illa praecepta iudicialia disponebant populum ad iustitiam et aequitatem secundum quod conveniebat illi statui. Sed post Christum, statum illius populi oportuit mutari, ut iam in Christo non esset discretio gentilis et Iudaei, sicut antea erat. Et propter hoc oportuit etiam praecepta iudicialia mutari.
+
+@@ I-II q. 104 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod praecepta iudicialia non possint habere aliquam certam divisionem. Praecepta enim iudicialia ordinant homines ad invicem. Sed ea quae inter homines ordinari oportet, in usum eorum venientia, non cadunt sub certa distinctione, cum sint infinita. Ergo praecepta iudicialia non possunt habere certam distinctionem.
+
+@@ I-II q. 104 a. 4 arg. 2
+Praeterea, praecepta iudicialia sunt determinationes moralium. Sed moralia praecepta non videntur habere aliquam distinctionem, nisi secundum quod reducuntur ad praecepta Decalogi. Ergo praecepta iudicialia non habent aliquam certam distinctionem.
+
+@@ I-II q. 104 a. 4 arg. 3
+Praeterea, praecepta caeremonialia quia certam distinctionem habent, eorum distinctio in lege innuitur, dum quaedam vocantur sacrificia, quaedam observantiae. Sed nulla distinctio innuitur in lege praeceptorum iudicialium. Ergo videtur quod non habeant certam distinctionem.
+
+@@ I-II q. 104 a. 4 s. c.
+Sed contra, ubi est ordo, oportet quod sit distinctio. Sed ratio ordinis maxime pertinet ad praecepta iudicialia, per quae populus ille ordinabatur. Ergo maxime debent habere distinctionem certam.
+
+@@ I-II q. 104 a. 4 co.
+Respondeo dicendum quod, cum lex sit quasi quaedam ars humanae vitae instituendae vel ordinandae, sicut in unaquaque arte est certa distinctio regularum artis, ita oportet in qualibet lege esse certam distinctionem praeceptorum, aliter enim ipsa confusio utilitatem legis auferret. Et ideo dicendum est quod praecepta iudicialia veteris legis, per quae homines ad invicem ordinabantur, distinctionem habent secundum distinctionem ordinationis humanae. Quadruplex autem ordo in aliquo populo inveniri potest, unus quidem, principum populi ad subditos; alius autem, subditorum ad invicem; tertius autem, eorum qui sunt de populo ad extraneos; quartus autem, ad domesticos, sicut patris ad filium, uxoris ad virum, et domini ad servum. Et secundum istos quatuor ordines distingui possunt praecepta iudicialia veteris legis. Dantur enim quaedam praecepta de institutione principum et officio eorum, et de reverentia eis exhibenda, et haec est una pars iudicialium praeceptorum. Dantur etiam quaedam praecepta pertinentia ad concives ad invicem, puta circa emptiones et venditiones, et iudicia et poenas. Et haec est secunda pars iudicialium praeceptorum. Dantur etiam quaedam praecepta pertinentia ad extraneos, puta de bellis contra hostes, et de susceptione peregrinorum et advenarum. Et haec est tertia pars iudicialium praeceptorum. Dantur etiam in lege quaedam praecepta pertinentia ad domesticam conversationem, sicut de servis, et uxoribus, et filiis. Et haec est quarta pars iudicialium praeceptorum.
+
+@@ I-II q. 104 a. 4 ad 1
+Ad primum ergo dicendum quod ea quae pertinent ad ordinationem hominum ad invicem, sunt quidem numero infinita; sed tamen reduci possunt ad aliqua certa, secundum differentiam ordinationis humanae, ut dictum est.
+
+@@ I-II q. 104 a. 4 ad 2
+Ad secundum dicendum quod praecepta Decalogi sunt prima in genere moralium, ut supra dictum est, et ideo convenienter alia praecepta moralia secundum ea distinguuntur. Sed praecepta iudicialia et caeremonialia habent aliam rationem obligationis non quidem ex ratione naturali sed ex sola institutione. Et ideo distinctionis eorum est alia ratio.
+
+@@ I-II q. 104 a. 4 ad 3
+Ad tertium dicendum quod ex ipsis rebus quae per praecepta iudicialia ordinantur in lege, innuit lex distinctionem iudicialium praeceptorum.

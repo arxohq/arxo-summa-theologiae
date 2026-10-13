@@ -1,0 +1,406 @@
+[
+  {
+    "name": "traveller-defense",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/01-viator-contra-latronem.lawcase",
+      "query": "cases/moral-cases/queries/viator-defensio-licita.json"
+    },
+    "expected": {
+      "truth": "TRUE_ONLY"
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "TRUE_ONLY",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:4ead7ecc606e7e1a65793f9b23e3d515e5333645e0d4e58b6454746e58ba7d99"
+  },
+  {
+    "name": "traveller-positions",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/01-viator-contra-latronem.lawcase",
+      "query": "cases/moral-cases/queries/viator-positions.json"
+    },
+    "expected": {
+      "positions": [
+        [
+          "DefensioPropria",
+          "ACTIVE"
+        ],
+        [
+          "OccisioIntentaInDefensione",
+          "ACTIVE"
+        ]
+      ]
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": null,
+    "judgmentRequests": 0,
+    "resultHash": "sha256:aa1367c08cd94bedd9b60bc54db36d844d1cc2552f52a884c59712e8faad335b"
+  },
+  {
+    "name": "defense-awaits-judgment",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/05-viator-sine-moderamine.lawcase",
+      "query": "cases/moral-cases/queries/viator-defensio-licita.json"
+    },
+    "expected": {
+      "truth": "NEITHER",
+      "status": "REQUIRES_JUDGMENT"
+    },
+    "evaluationStatus": "REQUIRES_JUDGMENT",
+    "truthStatus": "NEITHER",
+    "judgmentRequests": 1,
+    "resultHash": "sha256:72c4cc1f05eb85449d40b76adadac74187509a74719a016bdc7d08f2ae59037a"
+  },
+  {
+    "name": "pending-defense-positions",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/05-viator-sine-moderamine.lawcase",
+      "query": "cases/moral-cases/queries/viator-positions.json"
+    },
+    "expected": {
+      "positions": [
+        [
+          "OccisioIntentaInDefensione",
+          "ACTIVE"
+        ]
+      ]
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": null,
+    "judgmentRequests": 0,
+    "resultHash": "sha256:8e57bf49c12b2544986c9491ff64b370bc05edf2a3b3ac5da2577d5adf643d7b"
+  },
+  {
+    "name": "excessive-defense",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/02-familia-nocte.lawcase",
+      "query": "cases/moral-cases/queries/familia-defensio-illicita.json"
+    },
+    "expected": {
+      "truth": "TRUE_ONLY"
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "TRUE_ONLY",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:0ea3a592e2d78c868ec7cb85e37cc095e76c7184c7e11b3223b2fc29ab9d6cb6"
+  },
+  {
+    "name": "why-defense-is-not-established",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/02-familia-nocte.lawcase",
+      "query": "cases/moral-cases/queries/familia-pochemu-ne-licita.json"
+    },
+    "expected": {
+      "truth": "NEITHER"
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "NEITHER",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:bed724e315c15d20cd993267e9f595b4505818bebd4002da8c30f3470594d0d4"
+  },
+  {
+    "name": "excessive-defense-positions",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/02-familia-nocte.lawcase",
+      "query": "cases/moral-cases/queries/familia-positions.json"
+    },
+    "expected": {
+      "positions": [
+        [
+          "DefensioIllicitaProhibita",
+          "ACTIVE"
+        ],
+        [
+          "OccisioIntentaInDefensione",
+          "ACTIVE"
+        ]
+      ]
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": null,
+    "judgmentRequests": 0,
+    "resultHash": "sha256:777c5886233096431e168dd1e120ddcce35612c20fd1af99476f3700bc011c30"
+  },
+  {
+    "name": "public-authority-defense",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/03-miles-contra-hostes.lawcase",
+      "query": "cases/moral-cases/queries/miles-defensio-licita.json"
+    },
+    "expected": {
+      "truth": "TRUE_ONLY"
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "TRUE_ONLY",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:6f4f08e761eea28ed27d641bfa550ba447d7969af1c20ca1a9a2cd262f821722"
+  },
+  {
+    "name": "public-authority-positions",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/03-miles-contra-hostes.lawcase",
+      "query": "cases/moral-cases/queries/miles-positions.json"
+    },
+    "expected": {
+      "positions": [
+        [
+          "DefensioPropria",
+          "ACTIVE"
+        ]
+      ]
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": null,
+    "judgmentRequests": 0,
+    "resultHash": "sha256:9facfbffde14f47620f504efc70999575470ca6e3a159ce4e6063471da12bd9b"
+  },
+  {
+    "name": "war-with-wrong-intention",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/04-princeps-cupiditas.lawcase",
+      "query": "cases/moral-cases/queries/princeps-bellum-illicitum.json"
+    },
+    "expected": {
+      "truth": "TRUE_ONLY"
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "TRUE_ONLY",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:ebb6c497868cd1539172f8d4ca93b78c36ae305f1ba342703e9eb1e43b0ed989"
+  },
+  {
+    "name": "war-not-established",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/04-princeps-cupiditas.lawcase",
+      "query": "cases/moral-cases/queries/princeps-bellum-iustum.json"
+    },
+    "expected": {
+      "truth": "NEITHER"
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "NEITHER",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:955222609880dfc0a5560ccf30cc0689097dcc079759f821d9fb5143b0a478ed"
+  },
+  {
+    "name": "wrong-intention-positions",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/04-princeps-cupiditas.lawcase",
+      "query": "cases/moral-cases/queries/princeps-bellum-positions.json"
+    },
+    "expected": {
+      "positions": [
+        [
+          "BellumIllicitumGerere",
+          "ACTIVE"
+        ]
+      ]
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": null,
+    "judgmentRequests": 0,
+    "resultHash": "sha256:2d541a98ac8b251c3714baefa1c06a76c3531035c3693f8d716f192af2209907"
+  },
+  {
+    "name": "just-war",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/06-princeps-bellum-iustum.lawcase",
+      "query": "cases/moral-cases/queries/princeps-bellum-iustum.json"
+    },
+    "expected": {
+      "truth": "TRUE_ONLY"
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "TRUE_ONLY",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:ae2e55ab01c33355c0186de6194a66ae9bedc3b7dbaa1a1541a3615aaed50b2f"
+  },
+  {
+    "name": "just-war-not-illicit",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/06-princeps-bellum-iustum.lawcase",
+      "query": "cases/moral-cases/queries/princeps-bellum-illicitum.json"
+    },
+    "expected": {
+      "truth": "NEITHER"
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "NEITHER",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:25cb0abd836e4e6f93e3fa34c009d8157cc03c32938755dc0a94cc2b9b059093"
+  },
+  {
+    "name": "just-war-positions",
+    "slug": "duplex-effectus",
+    "spec": "la.aquinas.duplex_effectus@0.1.0",
+    "source": {
+      "case": "cases/moral-cases/cases/06-princeps-bellum-iustum.lawcase",
+      "query": "cases/moral-cases/queries/princeps-bellum-positions.json"
+    },
+    "expected": {
+      "positions": [
+        [
+          "BellumIustumGerere",
+          "ACTIVE"
+        ]
+      ]
+    },
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": null,
+    "judgmentRequests": 0,
+    "resultHash": "sha256:4278307cdaa411f55a1b4aa77d295e346b40f8f2d40a1c5ae481c8597ac5d4ef"
+  },
+  {
+    "name": "law-definition",
+    "slug": "law",
+    "spec": "la.aquinas.summa_theologiae_law@0.1.0",
+    "source": {
+      "suite": "packages/law/tests/catalog/st-q90-a4-resp.lawtest",
+      "title": "CATALOG-IS_LAW/SUFFICIENT",
+      "expectations": [
+        {
+          "field": "truth_status",
+          "op": "eq",
+          "value": "TRUE_ONLY"
+        }
+      ]
+    },
+    "expected": null,
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "TRUE_ONLY",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:7da0f873a6e1471c95bb8e472fc1418fcd82689b396a247aaf38d1474e16f6bf"
+  },
+  {
+    "name": "law-argument",
+    "slug": "law",
+    "spec": "la.aquinas.summa_theologiae_law@0.1.0",
+    "source": {
+      "suite": "packages/law/tests/catalog/st-q90-a1-arg1.lawtest",
+      "title": "CATALOG-Q90A1OBIECTIO1",
+      "expectations": [
+        {
+          "field": "truth_status",
+          "op": "eq",
+          "value": "TRUE_ONLY"
+        }
+      ]
+    },
+    "expected": null,
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "TRUE_ONLY",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:16d100b01ea1c42e6a20289d2642bcf65601adbb44daddfb8a29bde73c1e67e3"
+  },
+  {
+    "name": "natural-law",
+    "slug": "law",
+    "spec": "la.aquinas.summa_theologiae_law@0.1.0",
+    "source": {
+      "suite": "packages/law/tests/catalog/st-q91-a2-resp.lawtest",
+      "title": "CATALOG-NATURAL_LAW/RULE",
+      "expectations": [
+        {
+          "field": "truth_status",
+          "op": "eq",
+          "value": "TRUE_ONLY"
+        }
+      ]
+    },
+    "expected": null,
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "TRUE_ONLY",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:24b07e9a09165e11e0148597d1344a8aaad2ac79d089466b990c9011e639c475"
+  },
+  {
+    "name": "theological-head-applies",
+    "slug": "i-de-deo",
+    "spec": "la.aquinas.summa.i_de_deo@0.1.0",
+    "source": {
+      "suite": "packages/i-de-deo/tests/01-godexists-affirmat.lawtest",
+      "title": "urn:query:i-de-deo-godexists-affirmat",
+      "expectations": [
+        {
+          "field": "result_kind",
+          "op": "eq",
+          "value": "PROPOSITION"
+        },
+        {
+          "field": "truth_status",
+          "op": "eq",
+          "value": "TRUE_ONLY"
+        },
+        {
+          "field": "evaluation_status",
+          "op": "eq",
+          "value": "COMPUTED"
+        }
+      ]
+    },
+    "expected": null,
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "TRUE_ONLY",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:5f67b9ef58a133390e8fc147c414e5f3c7a43bbc91643f265ed5a6d59b812dc2"
+  },
+  {
+    "name": "theological-head-not-established",
+    "slug": "i-de-deo",
+    "spec": "la.aquinas.summa.i_de_deo@0.1.0",
+    "source": {
+      "suite": "packages/i-de-deo/tests/01b-godexists-negata.lawtest",
+      "title": "urn:query:i-de-deo-godexists-negata",
+      "expectations": [
+        {
+          "field": "result_kind",
+          "op": "eq",
+          "value": "PROPOSITION"
+        },
+        {
+          "field": "truth_status",
+          "op": "eq",
+          "value": "NEITHER"
+        },
+        {
+          "field": "evaluation_status",
+          "op": "eq",
+          "value": "COMPUTED"
+        }
+      ]
+    },
+    "expected": null,
+    "evaluationStatus": "COMPUTED",
+    "truthStatus": "NEITHER",
+    "judgmentRequests": 0,
+    "resultHash": "sha256:5dfe2b0be37d0b277aa9a1be75f958791c87b16509f9485db840c3887f123494"
+  }
+]

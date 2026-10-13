@@ -1,0 +1,188 @@
+@@ II-II q. 17 pr.
+Consequenter post fidem considerandum est de spe. Et primo, de ipsa spe; secundo, de dono timoris; tertio, de vitiis oppositis; quarto, de praeceptis ad hoc pertinentibus. Circa primum occurrit primo consideratio de ipsa spe; secundo, de subiecto eius. Circa primum quaeruntur octo. Primo, utrum spes sit virtus. Secundo, utrum obiectum eius sit beatitudo aeterna. Tertio, utrum unus homo possit sperare beatitudinem alterius per virtutem spei. Quarto, utrum homo licite possit sperare in homine. Quinto, utrum spes sit virtus theologica. Sexto, de distinctione eius ab aliis virtutibus theologicis. Septimo, de ordine eius ad fidem. Octavo, de ordine eius ad caritatem.
+
+@@ II-II q. 17 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod spes non sit virtus. Virtute enim nullus male utitur; ut dicit Augustinus, in libro de Lib. Arb. Sed spe aliquis male utitur, quia circa passionem spei contingit esse medium et extrema, sicut et circa alias passiones. Ergo spes non est virtus.
+
+@@ II-II q. 17 a. 1 arg. 2
+Praeterea, nulla virtus procedit ex meritis, quia virtutem Deus in nobis sine nobis operatur, ut Augustinus dicit. Sed spes est ex gratia et meritis proveniens; ut Magister dicit, XXVI dist. III Lib. Sent. Ergo spes non est virtus.
+
+@@ II-II q. 17 a. 1 arg. 3
+Praeterea, virtus est dispositio perfecti; ut dicitur in VII Physic. Spes autem est dispositio imperfecti, scilicet eius qui non habet id quod sperat. Ergo spes non est virtus.
+
+@@ II-II q. 17 a. 1 s. c.
+Sed contra est quod Gregorius, in I Moral., dicit quod per tres filias Iob significantur hae tres virtutes, fides, spes, caritas. Ergo spes est virtus.
+
+@@ II-II q. 17 a. 1 co.
+Respondeo dicendum quod, secundum philosophum, in II Ethic., virtus uniuscuiusque rei est quae bonum facit habentem et opus eius bonum reddit. Oportet igitur, ubicumque invenitur aliquis actus hominis bonus, quod respondeat alicui virtuti humanae. In omnibus autem regulatis et mensuratis bonum consideratur per hoc quod aliquid propriam regulam attingit, sicut dicimus vestem esse bonam quae nec excedit nec deficit a debita mensura. Humanorum autem actuum, sicut supra dictum est, duplex est mensura, una quidem proxima et homogenea, scilicet ratio; alia autem est suprema et excedens, scilicet Deus. Et ideo omnis actus humanus attingens ad rationem aut ad ipsum Deum est bonus. Actus autem spei de qua nunc loquimur attingit ad Deum. Ut enim supra dictum est, cum de passione spei ageretur, obiectum spei est bonum futurum arduum possibile haberi. Possibile autem est aliquid nobis dupliciter, uno modo, per nos ipsos; alio modo, per alios; ut patet in III Ethic. Inquantum igitur speramus aliquid ut possibile nobis per divinum auxilium, spes nostra attingit ad ipsum Deum, cuius auxilio innititur. Et ideo patet quod spes est virtus, cum faciat actum hominis bonum et debitam regulam attingentem.
+
+@@ II-II q. 17 a. 1 ad 1
+Ad primum ergo dicendum quod in passionibus accipitur medium virtutis per hoc quod attingitur ratio recta, et in hoc etiam consistit ratio virtutis. Unde etiam et in spe bonum virtutis accipitur secundum quod homo attingit sperando regulam debitam, scilicet Deum. Et ideo spe attingente Deum nullus potest male uti, sicut nec virtute morali attingente rationem, quia hoc ipsum quod est attingere est bonus usus virtutis. Quamvis spes de qua nunc loquimur non sit passio, sed habitus mentis, ut infra patebit.
+
+@@ II-II q. 17 a. 1 ad 2
+Ad secundum dicendum quod spes dicitur ex meritis provenire quantum ad ipsam rem expectatam, prout aliquis sperat se beatitudinem adepturum ex gratia et meritis. Vel quantum ad actum spei formatae. Ipse autem habitus spei, per quam aliquis expectat beatitudinem, non causatur ex meritis, sed pure ex gratia.
+
+@@ II-II q. 17 a. 1 ad 3
+Ad tertium dicendum quod ille qui sperat est quidem imperfectus secundum considerationem ad id quod sperat obtinere, quod nondum habet, sed est perfectus quantum ad hoc quod iam attingit propriam regulam, scilicet Deum, cuius auxilio innititur.
+
+@@ II-II q. 17 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod beatitudo aeterna non sit obiectum proprium spei. Illud enim homo non sperat quod omnem animi sui motum excedit, cum spei actus sit quidam animi motus. Sed beatitudo aeterna excedit omnem humani animi motum, dicit enim apostolus, I ad Cor. II, quod in cor hominis non ascendit. Ergo beatitudo non est proprium obiectum spei.
+
+@@ II-II q. 17 a. 2 arg. 2
+Praeterea, petitio est spei interpretativa, dicitur enim in Psalm., revela domino viam tuam et spera in eo, et ipse faciet. Sed homo petit a Deo licite non solum beatitudinem aeternam, sed etiam bona praesentis vitae tam spiritualia quam temporalia, et etiam liberationem a malis, quae in beatitudine aeterna non erunt, ut patet in oratione dominica, Matth. VI. Ergo beatitudo aeterna non est proprium obiectum spei.
+
+@@ II-II q. 17 a. 2 arg. 3
+Praeterea, spei obiectum est arduum. Sed in comparatione ad hominem multa alia sunt ardua quam beatitudo aeterna. Ergo beatitudo aeterna non est proprium obiectum spei.
+
+@@ II-II q. 17 a. 2 s. c.
+Sed contra est quod apostolus dicit, ad Heb. VI, habemus spem incedentem, idest incedere facientem, ad interiora velaminis, idest ad beatitudinem caelestem; ut Glossa ibidem exponit. Ergo obiectum spei est beatitudo aeterna.
+
+@@ II-II q. 17 a. 2 co.
+Respondeo dicendum quod, sicut dictum est, spes de qua loquimur attingit Deum innitens eius auxilio ad consequendum bonum speratum. Oportet autem effectum esse causae proportionatum. Et ideo bonum quod proprie et principaliter a Deo sperare debemus est bonum infinitum, quod proportionatur virtuti Dei adiuvantis, nam infinitae virtutis est proprium ad infinitum bonum perducere. Hoc autem bonum est vita aeterna, quae in fruitione ipsius Dei consistit, non enim minus aliquid ab eo sperandum est quam sit ipse, cum non sit minor eius bonitas, per quam bona creaturae communicat, quam eius essentia. Et ideo proprium et principale obiectum spei est beatitudo aeterna.
+
+@@ II-II q. 17 a. 2 ad 1
+Ad primum ergo dicendum quod beatitudo aeterna perfecte quidem in cor hominis non ascendit, ut scilicet cognosci possit ab homine viatore quae et qualis sit, sed secundum communem rationem, scilicet boni perfecti, cadere potest in apprehensione hominis. Et hoc modo motus spei in ipsam consurgit. Unde et signanter apostolus dicit quod spes incedit usque ad interiora velaminis, quia id quod speramus est nobis adhuc velatum.
+
+@@ II-II q. 17 a. 2 ad 2
+Ad secundum dicendum quod quaecumque alia bona non debemus a Deo petere nisi in ordine ad beatitudinem aeternam. Unde et spes principaliter quidem respicit beatitudinem aeternam; alia vero quae petuntur a Deo respicit secundario, in ordine ad beatitudinem aeternam. Sicut etiam fides respicit principaliter Deum, et secundario respicit ea quae ad Deum ordinantur, ut supra dictum est.
+
+@@ II-II q. 17 a. 2 ad 3
+Ad tertium dicendum quod homini qui anhelat ad aliquid magnum, parvum videtur omne aliud quod est eo minus. Et ideo homini speranti beatitudinem aeternam, habito respectu ad istam spem, nihil aliud est arduum. Sed habito respectu ad facultatem sperantis, possunt etiam quaedam alia ei esse ardua. Et secundum hoc eorum potest esse spes in ordine ad principale obiectum.
+
+@@ II-II q. 17 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod aliquis possit sperare alteri beatitudinem aeternam. Dicit enim apostolus, Philipp. I, confidens hoc ipsum, quia qui coepit in vobis opus bonum perficiet usque in diem Christi Iesu. Perfectio aut illius diei erit beatitudo aeterna. Ergo aliquis potest alteri sperare beatitudinem aeternam.
+
+@@ II-II q. 17 a. 3 arg. 2
+Praeterea, ea quae a Deo petimus speramus obtinere ab eo. Sed a Deo petimus quod alios ad beatitudinem aeternam perducat, secundum illud Iac. ult., orate pro invicem ut salvemini. Ergo possumus aliis sperare beatitudinem aeternam.
+
+@@ II-II q. 17 a. 3 arg. 3
+Praeterea, spes et desperatio sunt de eodem. Sed aliquis potest desperare de beatitudine aeterna alicuius, alioquin frustra diceret Augustinus, in libro de Verb. Dom., de nemine esse desperandum dum vivit. Ergo etiam potest aliquis sperare alteri vitam aeternam.
+
+@@ II-II q. 17 a. 3 s. c.
+Sed contra est quod Augustinus dicit, in Enchirid., quod spes non est nisi rerum ad eum pertinentium qui earum spem gerere perhibetur.
+
+@@ II-II q. 17 a. 3 co.
+Respondeo dicendum quod spes potest esse alicuius dupliciter. Uno quidem modo, absolute, et sic est solum boni ardui ad se pertinentis. Alio modo, ex praesuppositione alterius, et sic potest esse etiam eorum quae ad alium pertinent. Ad cuius evidentiam sciendum est quod amor et spes in hoc differunt quod amor importat quandam unionem amantis ad amatum; spes autem importat quendam motum sive protensionem appetitus in aliquod bonum arduum. Unio autem est aliquorum distinctorum, et ideo amor directe potest respicere alium, quem sibi aliquis unit per amorem, habens eum sicut seipsum. Motus autem semper est ad proprium terminum proportionatum mobili, et ideo spes directe respicit proprium bonum, non autem id quod ad alium pertinet. Sed praesupposita unione amoris ad alterum, iam aliquis potest desiderare et sperare aliquid alteri sicut sibi. Et secundum hoc aliquis potest sperare alteri vitam aeternam, inquantum est ei unitus per amorem. Et sicut est eadem virtus caritatis qua quis diligit Deum, seipsum et proximum, ita etiam est eadem virtus spei qua quis sperat sibi ipsi et alii.
+
+@@ II-II q. 17 a. 3 ad arg.
+Et per hoc patet responsio ad obiecta.
+
+@@ II-II q. 17 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod aliquis possit licite sperare in homine. Spei enim obiectum est beatitudo aeterna. Sed ad beatitudinem aeternam consequendam adiuvamur patrociniis sanctorum, dicit enim Gregorius, in I Dial., quod praedestinatio iuvatur precibus sanctorum. Ergo aliquis potest in homine sperare.
+
+@@ II-II q. 17 a. 4 arg. 2
+Praeterea, si non potest aliquis sperare in homine, non esset reputandum alicui in vitium quod in eo aliquis sperare non possit. Sed hoc de quibusdam in vitium dicitur, ut patet Ierem. IX, unusquisque a proximo suo se custodiat, et in omni fratre suo non habeat fiduciam. Ergo licite potest aliquis sperare in homine.
+
+@@ II-II q. 17 a. 4 arg. 3
+Praeterea, petitio est interpretativa spei, sicut dictum est. Sed licite potest homo aliquid petere ab homine. Ergo licite potest sperare de eo.
+
+@@ II-II q. 17 a. 4 s. c.
+Sed contra est quod dicitur Ierem. XVII, maledictus homo qui confidit in homine.
+
+@@ II-II q. 17 a. 4 co.
+Respondeo dicendum quod spes, sicut dictum est, duo respicit, scilicet bonum quod obtinere intendit; et auxilium per quod illud bonum obtinetur. Bonum autem quod quis sperat obtinendum habet rationem causae finalis; auxilium autem per quod quis sperat illud bonum obtinere habet rationem causae efficientis. In genere autem utriusque causae invenitur principale et secundarium. Principalis enim finis est finis ultimus; secundarius autem finis est bonum quod est ad finem. Similiter principalis causa agens est primum agens; secundaria vero causa efficiens est agens secundarium instrumentale. Spes autem respicit beatitudinem aeternam sicut finem ultimum; divinum autem auxilium sicut primam causam inducentem ad beatitudinem. Sicut igitur non licet sperare aliquod bonum praeter beatitudinem sicut ultimum finem, sed solum sicut id quod est ad finem beatitudinis ordinatum; ita etiam non licet sperare de aliquo homine, vel de aliqua creatura, sicut de prima causa movente in beatitudinem; licet autem sperare de aliquo homine, vel de aliqua creatura, sicut de agente secundario et instrumentali, per quod aliquis adiuvatur ad quaecumque bona consequenda in beatitudinem ordinata. Et hoc modo ad sanctos convertimur; et ab hominibus aliqua petimus; et vituperantur illi de quibus aliquis confidere non potest ad auxilium ferendum.
+
+@@ II-II q. 17 a. 4 ad arg.
+Et per hoc patet responsio ad obiecta.
+
+@@ II-II q. 17 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod spes non sit virtus theologica. Virtus enim theologica est quae habet Deum pro obiecto. Sed spes non habet solum Deum pro obiecto, sed etiam alia bona quae a Deo obtinere speramus. Ergo spes non est virtus theologica.
+
+@@ II-II q. 17 a. 5 arg. 2
+Praeterea, virtus theologica non consistit in medio duorum vitiorum, ut supra habitum est. Sed spes consistit in medio praesumptionis et desperationis. Ergo spes non est virtus theologica.
+
+@@ II-II q. 17 a. 5 arg. 3
+Praeterea, expectatio pertinet ad longanimitatem, quae est pars fortitudinis. Cum ergo spes sit quaedam expectatio, videtur quod spes non sit virtus theologica, sed moralis.
+
+@@ II-II q. 17 a. 5 arg. 4
+Praeterea, obiectum spei est arduum. Sed tendere in arduum pertinet ad magnanimitatem, quae est virtus moralis. Ergo spes est virtus moralis, et non theologica.
+
+@@ II-II q. 17 a. 5 s. c.
+Sed contra est quod, I ad Cor. XIII, connumeratur fidei et caritati quae sunt virtutes theologicae.
+
+@@ II-II q. 17 a. 5 co.
+Respondeo dicendum quod, cum differentiae specificae per se dividant genus, oportet attendere unde habeat spes rationem virtutis, ad hoc quod sciamus sub qua differentia virtutis collocetur. Dictum est autem supra quod spes habet rationem virtutis ex hoc quod attingit supremam regulam humanorum actuum; quam attingit et sicut primam causam efficientem, inquantum eius auxilio innititur; et sicut ultimam causam finalem, inquantum in eius fruitione beatitudinem expectat. Et sic patet quod spei, inquantum est virtus, principale obiectum est Deus. Cum igitur in hoc consistat ratio virtutis theologicae quod Deum habeat pro obiecto, sicut supra dictum est, manifestum est quod spes est virtus theologica.
+
+@@ II-II q. 17 a. 5 ad 1
+Ad primum ergo dicendum quod quaecumque alia spes adipisci expectat, sperat in ordine ad Deum sicut ad ultimum finem et sicut ad primam causam efficientem, ut dictum est.
+
+@@ II-II q. 17 a. 5 ad 2
+Ad secundum dicendum quod medium accipitur in regulatis et mensuratis secundum quod regula vel mensura attingitur; secundum autem quod exceditur regula, est superfluum; secundum autem defectum a regula, est diminutum. In ipsa autem regula vel mensura non est accipere medium et extrema. Virtus autem moralis est circa ea quae regulantur ratione sicut circa proprium obiectum, et ideo per se convenit ei esse in medio ex parte proprii obiecti. Sed virtus theologica est circa ipsam regulam primam, non regulatam alia regula, sicut circa proprium obiectum. Et ideo per se, et secundum proprium obiectum, non convenit virtuti theologicae esse in medio. Sed potest sibi competere per accidens, ratione eius quod ordinatur ad principale obiectum. Sicut fides non potest habere medium et extrema in hoc quod innitatur primae veritati, cui nullus potest nimis inniti, sed ex parte eorum quae credit, potest habere medium et extrema, sicut unum verum est medium inter duo falsa. Et similiter spes non habet medium et extrema ex parte principalis obiecti, quia divino auxilio nullus potest nimis inniti, sed quantum ad ea quae confidit aliquis se adepturum, potest ibi esse medium et extrema, inquantum vel praesumit ea quae sunt supra suam proportionem, vel desperat de his quae sunt sibi proportionata.
+
+@@ II-II q. 17 a. 5 ad 3
+Ad tertium dicendum quod expectatio quae ponitur in definitione spei non importat dilationem, sicut expectatio quae pertinet ad longanimitatem, sed importat respectum ad auxilium divinum, sive illud quod speratur differatur, sive non differatur.
+
+@@ II-II q. 17 a. 5 ad 4
+Ad quartum dicendum quod magnanimitas tendit in arduum sperans aliquid quod est suae potestatis. Unde proprie respicit operationem aliquorum magnorum. Sed spes, secundum quod est virtus theologica, respicit arduum alterius auxilio assequendum, ut dictum est.
+
+@@ II-II q. 17 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod spes non sit virtus distincta ab aliis theologicis. Habitus enim distinguuntur secundum obiecta, ut supra dictum est. Sed idem est obiectum spei et aliarum virtutum theologicarum. Ergo spes non distinguitur ab aliis virtutibus theologicis.
+
+@@ II-II q. 17 a. 6 arg. 2
+Praeterea, in symbolo fidei, in quo fidem profitemur, dicitur, expecto resurrectionem mortuorum et vitam futuri saeculi. Sed expectatio futurae beatitudinis pertinet ad spem, ut supra dictum est. Ergo spes a fide non distinguitur.
+
+@@ II-II q. 17 a. 6 arg. 3
+Praeterea, per spem homo tendit in Deum. Sed hoc proprie pertinet ad caritatem. Ergo spes a caritate non distinguitur.
+
+@@ II-II q. 17 a. 6 s. c.
+Sed contra, ubi non est distinctio ibi non est numerus. Sed spes connumeratur aliis virtutibus theologicis, dicit enim Gregorius, in I Moral., esse tres virtutes, fidem, spem et caritatem. Ergo spes est virtus distincta ab aliis theologicis.
+
+@@ II-II q. 17 a. 6 co.
+Respondeo dicendum quod virtus aliqua dicitur theologica ex hoc quod habet Deum pro obiecto cui inhaeret. Potest autem aliquis alicui rei inhaerere dupliciter, uno modo, propter seipsum; alio modo, inquantum ex eo ad aliud devenitur. Caritas igitur facit hominem Deo inhaerere propter seipsum, mentem hominis uniens Deo per affectum amoris. Spes autem et fides faciunt hominem inhaerere Deo sicut cuidam principio ex quo aliqua nobis proveniunt. De Deo autem provenit nobis et cognitio veritatis et adeptio perfectae bonitatis. Fides ergo facit hominem Deo inhaerere inquantum est nobis principium cognoscendi veritatem, credimus enim ea vera esse quae nobis a Deo dicuntur. Spes autem facit Deo adhaerere prout est nobis principium perfectae bonitatis, inquantum scilicet per spem divino auxilio innitimur ad beatitudinem obtinendam.
+
+@@ II-II q. 17 a. 6 ad 1
+Ad primum ergo dicendum quod Deus secundum aliam et aliam rationem est obiectum harum virtutum, ut dictum est. Ad distinctionem autem habituum sufficit diversa ratio obiecti, ut supra habitum est.
+
+@@ II-II q. 17 a. 6 ad 2
+Ad secundum dicendum quod expectatio ponitur in symbolo fidei non quia sit actus proprius fidei, sed inquantum actus spei praesupponit fidem, ut dicetur, et sic actus fidei manifestantur per actus spei.
+
+@@ II-II q. 17 a. 6 ad 3
+Ad tertium dicendum quod spes facit tendere in Deum sicut in quoddam bonum finale adipiscendum, et sicut in quoddam adiutorium efficax ad subveniendum. Sed caritas proprie facit tendere in Deum uniendo affectum hominis Deo, ut scilicet homo non sibi vivat sed Deo.
+
+@@ II-II q. 17 a. 7 arg. 1
+Ad septimum sic proceditur. Videtur quod spes praecedat fidem. Quia super illud Psalm., spera in domino, et fac bonitatem, dicit Glossa, spes est introitus fidei, initium salutis. Sed salus est per fidem, per quam iustificamur. Ergo spes praecedit fidem.
+
+@@ II-II q. 17 a. 7 arg. 2
+Praeterea, illud quod ponitur in definitione alicuius debet esse prius et magis notum. Sed spes ponitur in definitione fidei, ut patet Heb. XI, fides est substantia rerum sperandarum. Ergo spes est prior fide.
+
+@@ II-II q. 17 a. 7 arg. 3
+Praeterea, spes praecedit actum meritorium, dicit enim apostolus, I ad Cor. IX, quod qui arat debet arare in spe fructus percipiendi. Sed actus fidei est meritorius. Ergo spes praecedit fidem.
+
+@@ II-II q. 17 a. 7 s. c.
+Sed contra est quod Matth. I dicitur, Abraham genuit Isaac, idest fides spem, sicut dicit Glossa.
+
+@@ II-II q. 17 a. 7 co.
+Respondeo dicendum quod fides absolute praecedit spem. Obiectum enim spei est bonum futurum arduum possibile haberi. Ad hoc ergo quod aliquis speret, requiritur quod obiectum spei proponatur ei ut possibile. Sed obiectum spei est uno modo beatitudo aeterna, et alio modo divinum auxilium, ut ex dictis patet. Et utrumque eorum proponitur nobis per fidem, per quam nobis innotescit quod ad vitam aeternam possumus pervenire, et quod ad hoc paratum est nobis divinum auxilium, secundum illud Heb. XI, accedentem ad Deum oportet credere quia est, et quia inquirentibus se remunerator est. Unde manifestum est quod fides praecedit spem.
+
+@@ II-II q. 17 a. 7 ad 1
+Ad primum ergo dicendum quod, sicut Glossa ibidem subdit, spes dicitur introitus fidei, idest rei creditae, quia per spem intratur ad videndum illud quod creditur. Vel potest dici quod est introitus fidei quia per eam homo intrat ad hoc quod stabiliatur et perficiatur in fide.
+
+@@ II-II q. 17 a. 7 ad 2
+Ad secundum dicendum quod in definitione fidei ponitur res speranda quia proprium obiectum fidei est non apparens secundum seipsum. Unde fuit necessarium ut quadam circumlocutione designaretur per id quod consequitur ad fidem.
+
+@@ II-II q. 17 a. 7 ad 3
+Ad tertium dicendum quod non omnis actus meritorius habet spem praecedentem, sed sufficit si habeat concomitantem vel consequentem.
+
+@@ II-II q. 17 a. 8 arg. 1
+Ad octavum sic proceditur. Videtur quod caritas sit prior spe. Dicit enim Ambrosius, super illud Luc. XVII, si habueritis fidem sicut granum sinapis, etc., ex fide est caritas, ex caritate spes. Sed fides est prior caritate. Ergo caritas est prior spe.
+
+@@ II-II q. 17 a. 8 arg. 2
+Praeterea, Augustinus dicit, XIV de Civ. Dei, quod boni motus atque affectus ex amore et sancta caritate veniunt. Sed sperare, secundum quod est actus spei, est quidam bonus animi motus. Ergo derivatur a caritate.
+
+@@ II-II q. 17 a. 8 arg. 3
+Praeterea, Magister dicit, XXVI dist. III Lib. Sent., quod spes ex meritis provenit, quae praecedunt non solum rem speratam, sed etiam spem, quam natura praeit caritas. Caritas ergo est prior spe.
+
+@@ II-II q. 17 a. 8 s. c.
+Sed contra est quod apostolus dicit, I ad Tim. I, finis praecepti caritas est de corde puro et conscientia bona, Glossa, idest spe. Ergo spes est prior caritate.
+
+@@ II-II q. 17 a. 8 co.
+Respondeo dicendum quod duplex est ordo. Unus quidem secundum viam generationis et materiae, secundum quem imperfectum prius est perfecto. Alius autem ordo est perfectionis et formae, secundum quem perfectum naturaliter prius est imperfecto. Secundum igitur primum ordinem spes est prior caritate. Quod sic patet. Quia spes, et omnis appetitivus motus, ex amore derivatur, ut supra habitum est, cum de passionibus ageretur. Amor autem quidam est perfectus, quidam imperfectus. Perfectus quidem amor est quo aliquis secundum se amatur, ut puta cui aliquis vult bonum, sicut homo amat amicum. Imperfectus amor est quo quis amat aliquid non secundum ipsum, sed ut illud bonum sibi ipsi proveniat, sicut homo amat rem quam concupiscit. Primus autem amor Dei pertinet ad caritatem, quae inhaeret Deo secundum seipsum, sed spes pertinet ad secundum amorem, quia ille qui sperat aliquid sibi obtinere intendit. Et ideo in via generationis spes est prior caritate. Sicut enim aliquis introducitur ad amandum Deum per hoc quod, timens ab ipso puniri, cessat a peccato, ut Augustinus dicit, super primam canonicam Ioan.; ita etiam et spes introducit ad caritatem, inquantum aliquis, sperans remunerari a Deo, accenditur ad amandum Deum et servandum praecepta eius. Sed secundum ordinem perfectionis caritas naturaliter prior est. Et ideo, adveniente caritate, spes perfectior redditur, quia de amicis maxime speramus. Et hoc modo dicit Ambrosius quod spes est ex caritate.
+
+@@ II-II q. 17 a. 8 ad 1
+Unde patet responsio ad primum.
+
+@@ II-II q. 17 a. 8 ad 2
+Ad secundum dicendum quod spes, et omnis motus appetitivus, ex amore provenit aliquo, quo scilicet aliquis amat bonum expectatum. Sed non omnis spes provenit a caritate, sed solum motus spei formatae, qua scilicet aliquis sperat bonum a Deo ut ab amico.
+
+@@ II-II q. 17 a. 8 ad 3
+Ad tertium dicendum quod Magister loquitur de spe formata, quam naturaliter praecedit caritas, et merita ex caritate causata.

@@ -1,0 +1,17 @@
+{
+  "format": "law.package-info/0.1",
+  "purpose": "Применение respondeo Фомы Аквинского II-II q. 64 a. 7 (принцип двойного эффекта и самооборона) и q. 40 a. 1 (три условия справедливой войны) к предъявленному действию или войне. Перечень запросов — analysis/questions.json и QUESTIONS.md.",
+  "limitations": [
+    "Граф возражений, sed contra и ответов ad не исполняется: он уже построен в пакете la.aquinas.summa_theologiae_law; здесь применяется только формулировка respondeo.",
+    "Соразмерность силы (moderamen inculpatae tutelae) не вычисляется: артикул численного порога не содержит и отдаёт признак практическому суждению §47.3.",
+    "Irregularitas клирика после человекоубийства, даже безгрешного, не моделируется: каноническое последствие вне среза моральной квалификации акта.",
+    "Тела доказательств возражений остаются в закреплённых байтах; пакет не передоказывает теорему, а применяет принятую формулировку к делу."
+  ],
+  "examples": [
+    "tests/01-defensio-licita.lawtest",
+    "tests/05-moderamen-awaits-judgment.lawtest",
+    "tests/06-bellum-iustum.lawtest",
+    "examples/moral-cases/check.py",
+    "examples/moral-cases/queries/viator-defensio-licita.json"
+  ]
+}

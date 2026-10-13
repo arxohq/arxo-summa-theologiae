@@ -1,0 +1,107 @@
+@@ I q. 97 pr.
+Deinde considerandum est de his quae pertinent ad statum primi hominis secundum corpus. Et primo, quantum ad conservationem individui; secundo, quantum ad conservationem speciei. Circa primum quaeruntur quatuor. Primo, utrum homo in statu innocentiae esset immortalis. Secundo, utrum esset impassibilis. Tertio, utrum indigeret cibis. Quarto, utrum per lignum vitae immortalitatem consequeretur.
+
+@@ I q. 97 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod homo in statu innocentiae non erat immortalis. Mortale enim ponitur in definitione hominis. Sed remota definitione, aufertur definitum. Ergo si homo erat, non poterat esse immortalis.
+
+@@ I q. 97 a. 1 arg. 2
+Praeterea, corruptibile et incorruptibile genere differunt, ut dicitur in X Metaphys. Sed eorum quae differunt genere, non est transmutatio in invicem. Si ergo primus homo fuit incorruptibilis, non posset homo in statu isto esse corruptibilis.
+
+@@ I q. 97 a. 1 arg. 3
+Praeterea, si homo in statu innocentiae fuit immortalis, aut hoc habuit per naturam, aut per gratiam. Sed non per naturam, quia, cum natura eadem maneat secundum speciem, nunc quoque esset immortalis. Similiter nec per gratiam, quia primus homo gratiam per poenitentiam recuperavit, secundum illud Sap. X, eduxit illum a delicto suo; ergo immortalitatem recuperasset; quod patet esse falsum. Non ergo homo erat immortalis in statu innocentiae.
+
+@@ I q. 97 a. 1 arg. 4
+Praeterea, immortalitas promittitur homini in praemium; secundum illud Apoc. XXI, mors ultra non erit. Sed homo non fuit conditus in statu praemii, sed ut praemium mereretur. Ergo homo in statu innocentiae non fuit immortalis.
+
+@@ I q. 97 a. 1 s. c.
+Sed contra est quod dicitur ad Rom. V, quod per peccatum intravit mors in mundum. Ergo ante peccatum homo erat immortalis.
+
+@@ I q. 97 a. 1 co.
+Respondeo dicendum quod aliquid potest dici incorruptibile tripliciter. Uno modo, ex parte materiae, eo scilicet quod vel non habet materiam, sicut Angelus; vel habet materiam quae non est in potentia nisi ad unam formam, sicut corpus caeleste. Et hoc dicitur secundum naturam incorruptibile. Alio modo dicitur aliquid incorruptibile ex parte formae, quia scilicet rei corruptibili per naturam, inhaeret aliqua dispositio per quam totaliter a corruptione prohibetur. Et hoc dicitur incorruptibile secundum gloriam, quia, ut dicit Augustinus in epistola ad Dioscorum, tam potenti natura Deus fecit animam, ut ex eius beatitudine redundet in corpus plenitudo sanitatis, idest incorruptionis vigor. Tertio modo dicitur aliquid incorruptibile ex parte causae efficientis. Et hoc modo homo in statu innocentiae fuisset incorruptibilis et immortalis. Quia, ut Augustinus dicit in libro de quaest. Vet. et Nov. Test., Deus hominem fecit, qui quandiu non peccaret, immortalitate vigeret, ut ipse sibi auctor esset aut ad vitam aut ad mortem. Non enim corpus eius erat indissolubile per aliquem immortalitatis vigorem in eo existentem; sed inerat animae vis quaedam supernaturaliter divinitus data, per quam poterat corpus ab omni corruptione praeservare, quandiu ipsa Deo subiecta mansisset. Quod rationabiliter factum est. Quia enim anima rationalis excedit proportionem corporalis materiae, ut supra dictum est. Conveniens fuit ut in principio ei virtus daretur, per quam corpus conservare posset supra naturam corporalis materiae.
+
+@@ I q. 97 a. 1 ad 1
+Ad primum ergo et secundum dicendum quod rationes illae procedunt de incorruptibili et immortali per naturam.
+
+@@ I q. 97 a. 1 ad 3
+Ad tertium dicendum quod vis illa praeservandi corpus a corruptione, non erat animae humanae naturalis, sed per donum gratiae. Et quamvis gratiam recuperaverit ad remissionem culpae et meritum gloriae, non tamen ad amissae immortalitatis effectum. Hoc enim reservabatur Christo, per quem naturae defectus in melius reparandus erat, ut infra dicetur.
+
+@@ I q. 97 a. 1 ad 4
+Ad quartum dicendum quod differt immortalitas gloriae, quae promittitur in praemium, ab immortalitate quae fuit homini collata in statu innocentiae.
+
+@@ I q. 97 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod homo in statu innocentiae fuisset passibilis. Sentire enim est pati quoddam. Sed homo in statu innocentiae fuisset sensibilis. Ergo fuisset passibilis.
+
+@@ I q. 97 a. 2 arg. 2
+Praeterea, somnus passio quaedam est. Sed homo in statu innocentiae dormivisset; secundum illud Gen. II, immisit Deus soporem in Adam. Ergo fuisset passibilis.
+
+@@ I q. 97 a. 2 arg. 3
+Praeterea, ibidem subditur quod tulit unam de costis eius. Ergo fuisset passibilis etiam per abscissionem partis.
+
+@@ I q. 97 a. 2 arg. 4
+Praeterea, corpus hominis molle fuit. Sed molle naturaliter passivum est a duro. Ergo si corpori primi hominis obvium fuisset aliquod corpus durum, ab eo passum fuisset. Et sic primus homo fuit passibilis.
+
+@@ I q. 97 a. 2 s. c.
+Sed contra est quia, si fuit passibilis, fuit etiam corruptibilis, quia passio, magis facta, abiicit a substantia.
+
+@@ I q. 97 a. 2 co.
+Respondeo dicendum quod passio dupliciter dicitur. Uno modo, proprie, et sic pati dicitur quod a sua naturali dispositione removetur. Passio enim est effectus actionis, in rebus autem naturalibus contraria agunt et patiuntur ad invicem, quorum unum removet alterum a sua naturali dispositione. Alio modo, dicitur passio communiter, secundum quamcumque mutationem, etiam si pertineat ad perfectionem naturae; sicut intelligere vel sentire dicitur pati quoddam. Hoc igitur secundo modo, homo in statu innocentiae passibilis erat, et patiebatur, et secundum animam et secundum corpus. Primo autem modo dicta passione, erat impassibilis et secundum animam et secundum corpus, sicut et immortalis, poterat enim passionem prohibere, sicut et mortem, si absque peccato perstitisset.
+
+@@ I q. 97 a. 2 ad 1
+Et per hoc patet responsio ad duo prima. Nam sentire et dormire non removent hominem a naturali dispositione, sed ad bonum naturae ordinantur.
+
+@@ I q. 97 a. 2 ad 3
+Ad tertium dicendum quod, sicut supra dictum est, costa illa fuit in Adam, inquantum erat principium humani generis; sicut semen est in homine, inquantum est principium per generationem. Sicut igitur decisio seminis non est cum passione quae removeat hominem a naturali dispositione, ita etiam est dicendum de separatione illius costae.
+
+@@ I q. 97 a. 2 ad 4
+Ad quartum dicendum quod corpus hominis in statu innocentiae poterat praeservari ne pateretur laesionem ab aliquo duro, partim quidem per propriam rationem, per quam poterat nociva vitare; partim etiam per divinam providentiam, quae sic ipsum tuebatur, ut nihil ei occurreret ex improviso, a quo laederetur.
+
+@@ I q. 97 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod homo in statu innocentiae non indigebat cibis. Cibus enim necessarius est homini ad restaurationem deperditi. Sed in corpore Adae, ut videtur, nulla fiebat deperditio, quia incorruptibile erat. Ergo non erat ei cibus necessarius.
+
+@@ I q. 97 a. 3 arg. 2
+Praeterea, cibus est necessarius ad nutriendum. Sed nutritio non est sine passione. Cum ergo corpus hominis esset impassibile, non erat ei cibus necessarius, ut videtur.
+
+@@ I q. 97 a. 3 arg. 3
+Praeterea, cibus dicitur esse nobis necessarius ad vitae conservationem. Sed Adam aliter vitam poterat conservare, quia si non peccaret, non moreretur. Ergo cibus non erat ei necessarius.
+
+@@ I q. 97 a. 3 arg. 4
+Praeterea, ad sumptionem cibi sequitur emissio superfluitatum, quae habent quandam turpitudinem non convenientem dignitati primi status. Ergo videtur quod homo in primo statu cibis non uteretur.
+
+@@ I q. 97 a. 3 s. c.
+Sed contra est quod dicitur Gen. II, de omni ligno quod est in Paradiso, comedetis.
+
+@@ I q. 97 a. 3 co.
+Respondeo dicendum quod homo in statu innocentiae habuit vitam animalem cibis indigentem; post resurrectionem vero habebit vitam spiritualem cibis non indigentem. Ad cuius evidentiam, considerandum est quod anima rationalis et anima est et spiritus. Dicitur autem esse anima secundum illud quod est sibi commune et aliis animabus, quod est vitam corpori dare, unde dicitur Gen. II, factus est homo in animam viventem, idest vitam corpori dantem. Sed spiritus dicitur secundum illud quod est proprium sibi et non aliis animabus, quod scilicet habeat virtutem intellectivam immaterialem. In primo igitur statu anima rationalis communicabat corpori id quod competit ei inquantum est anima, et ideo corpus illud dicebatur animale, inquantum scilicet habebat vitam ab anima. Primum autem principium vitae in istis inferioribus, ut dicitur in libro de anima, est anima vegetabilis, cuius opera sunt alimento uti et generare et augeri. Et ideo haec opera homini in primo statu competebant. In ultimo vero statu post resurrectionem, anima communicabit quodammodo corpori ea quae sunt sibi propria inquantum est spiritus, immortalitatem quidem, quantum ad omnes; impassibilitatem vero et gloriam et virtutem, quantum ad bonos, quorum corpora spiritualia dicentur. Unde post resurrectionem homines cibis non indigebunt, sed in statu innocentiae eis indigebant.
+
+@@ I q. 97 a. 3 ad 1
+Ad primum ergo dicendum quod, sicut dicit Augustinus in libro de quaest. Vet. et Nov. Test., quomodo immortale corpus habebat, quod cibo sustentabatur? Immortale enim non eget esca neque potu. Dictum est enim supra quod immortalitas primi status erat secundum vim quandam supernaturalem in anima residentem; non autem secundum aliquam dispositionem corpori inhaerentem. Unde per actionem caloris aliquid de humido illius corporis poterat deperdi; et ne totaliter consumeretur, necesse erat per assumptionem cibi homini subveniri.
+
+@@ I q. 97 a. 3 ad 2
+Ad secundum dicendum quod in nutritione est quaedam passio et alteratio, scilicet ex parte alimenti, quod convertitur in substantiam eius quod alitur. Unde ex hoc non potest concludi quod corpus hominis fuerit passibile, sed quod cibus assumptus erat passibilis. Quamvis etiam talis passio esset ad perfectionem naturae.
+
+@@ I q. 97 a. 3 ad 3
+Ad tertium dicendum quod, si homo sibi non subveniret de cibo, peccaret; sicut peccavit sumendo vetitum cibum. Simul enim sibi praeceptum fuit ut a ligno scientiae boni et mali abstineret, et ut de omni alio ligno Paradisi vesceretur.
+
+@@ I q. 97 a. 3 ad 4
+Ad quartum dicendum quod quidam dicunt quod homo in statu innocentiae non assumpsisset de cibo nisi quantum fuisset ei necessarium, unde non fuisset ibi superfluitatum emissio. Sed hoc irrationabile videtur, quod in cibo assumpto non esset aliqua faeculentia, quae non esset apta ut converteretur in hominis nutrimentum. Unde oportebat superfluitates emitti. Tamen fuisset divinitus provisum ut nulla ex hoc indecentia esset.
+
+@@ I q. 97 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod lignum vitae non poterat esse causa immortalitatis. Nihil enim potest agere ultra suam speciem, effectus enim non excedit causam. Sed lignum vitae erat corruptibile, alioquin non potuisset in nutrimentum assumi, quia alimentum convertitur in substantiam nutriti, ut dictum est. Ergo lignum vitae incorruptibilitatem seu immortalitatem conferre non poterat.
+
+@@ I q. 97 a. 4 arg. 2
+Praeterea, effectus qui causantur a virtutibus plantarum et aliarum naturalium rerum, sunt naturales. Si ergo lignum vitae immortalitatem causasset, fuisset illa immortalitas naturalis.
+
+@@ I q. 97 a. 4 arg. 3
+Praeterea, hoc videtur redire in fabulas antiquorum, qui dixerunt quod dii qui comedebant de quodam cibo, facti sunt immortales, quos irridet philosophus in III Metaphys.
+
+@@ I q. 97 a. 4 s. c. 1
+Sed contra est quod dicitur Gen. III, ne forte mittat manum suam et sumat de ligno vitae, et comedat et vivat in aeternum.
+
+@@ I q. 97 a. 4 s. c. 2
+Praeterea, Augustinus in libro de quaest. Vet. et Nov. Test., dicit, gustus arboris vitae corruptionem corporis inhibebat, denique etiam post peccatum potuit insolubilis manere, si permissum esset illi edere de arbore vitae.
+
+@@ I q. 97 a. 4 co.
+Respondeo dicendum quod lignum vitae quodammodo immortalitatem causabat, non autem simpliciter. Ad cuius evidentiam, considerandum est quod duo remedia ad conservationem vitae habebat homo in primo statu, contra duos defectus. Primus enim defectus est deperditio humidi per actionem caloris naturalis, qui est animae instrumentum. Et contra hunc defectum subveniebatur homini per esum aliorum lignorum Paradisi, sicut et nunc subvenitur nobis, per cibos quos sumimus. Secundus autem defectus est quia, ut philosophus dicit I de Generat., illud quod generatur ex aliquo extraneo, adiunctum ei quod prius erat humido praeexistenti, imminuit virtutem activam speciei, sicut aqua adiuncta vino, primo quidem convertitur in saporem vini, sed secundum quod magis et magis additur, diminuit vini fortitudinem, et tandem vinum fit aquosum. Sic igitur videmus quod in principio virtus activa speciei est adeo fortis, quod potest convertere de alimento non solum quod sufficit ad restaurationem deperditi, sed etiam quod sufficit ad augmentum. Postmodum vero quod aggeneratur non sufficit ad augmentum, sed solum ad restaurationem deperditi. Tandem vero, in statu senectutis, nec ad hoc sufficit, unde sequitur decrementum, et finaliter naturalis dissolutio corporis. Et contra hunc defectum subveniebatur homini per lignum vitae, habebat enim virtutem fortificandi virtutem speciei contra debilitatem provenientem ex admixtione extranei. Unde Augustinus dicit, in XIV de Civ. Dei, quod cibus aderat homini ne esuriret, potus ne sitiret, et lignum vitae ne senectus eum dissolveret. Et in libro de quaest. Vet. et Nov. Test., dicit quod vitae arbor medicinae modo corruptionem hominum prohibebat. Non tamen simpliciter immortalitatem causabat. Quia neque virtus quae inerat animae ad conservandum corpus, causabatur ex ligno vitae, neque etiam poterat immortalitatis dispositionem corpori praestare, ut nunquam dissolvi posset. Quod ex hoc patet, quia virtus cuiuscumque corporis est finita. Unde non poterat virtus ligni vitae ad hoc se extendere ut daret corpori virtutem Durandi tempore infinito, sed usque ad determinatum tempus. Manifestum est enim quod, quanto aliqua virtus est maior, tanto imprimit durabiliorem effectum. Unde cum virtus ligni vitae esset finita, semel sumptum praeservabat a corruptione usque ad determinatum tempus; quo finito, vel homo translatus fuisset ad spiritualem vitam, vel indiguisset iterum sumere de ligno vitae.
+
+@@ I q. 97 a. 4 ad 1
+Et per hoc patet responsio ab obiecta. Nam primae rationes concludunt quod non causabat incorruptibilitatem simpliciter. Aliae vero concludunt quod causabat incorruptibilitatem impediendo corruptionem, secundum modum praedictum.

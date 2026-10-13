@@ -1,0 +1,104 @@
+@@ I-II q. 110 pr.
+Deinde considerandum est de gratia Dei quantum ad eius essentiam. Et circa hoc quaeruntur quatuor. Primo, utrum gratia ponat aliquid in anima. Secundo, utrum gratia sit qualitas. Tertio, utrum gratia differat a virtute infusa. Quarto, de subiecto gratiae.
+
+@@ I-II q. 110 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod gratia non ponat aliquid in anima. Sicut enim homo dicitur habere gratiam Dei, ita etiam gratiam hominis, unde dicitur Gen. XXXIX, quod dominus dedit Ioseph gratiam in conspectu principis carceris. Sed per hoc quod homo dicitur habere gratiam hominis, nihil ponitur in eo qui gratiam alterius habet; sed in eo cuius gratiam habet, ponitur acceptatio quaedam. Ergo per hoc quod homo dicitur gratiam Dei habere, nihil ponitur in anima, sed solum significatur acceptatio divina.
+
+@@ I-II q. 110 a. 1 arg. 2
+Praeterea, sicut anima vivificat corpus, ita Deus vivificat animam, unde dicitur Deut. XXX, ipse est vita tua. Sed anima vivificat corpus immediate. Ergo etiam nihil cadit medium inter Deum et animam. Non ergo gratia ponit aliquid creatum in anima.
+
+@@ I-II q. 110 a. 1 arg. 3
+Praeterea, ad Rom. I, super illud, gratia vobis et pax, dicit Glossa. Gratia, idest remissio peccatorum, sed remissio peccatorum non ponit in anima aliquid, sed solum in Deo, non imputando peccatum; secundum illud Psalmi XXXI, beatus vir cui non imputavit dominus peccatum. Ergo nec gratia ponit aliquid in anima.
+
+@@ I-II q. 110 a. 1 s. c.
+Sed contra, lux ponit aliquid in illuminato. Sed gratia est quaedam lux animae, unde Augustinus dicit, in libro de natura et gratia, praevaricatorem legis digne lux deserit veritatis, qua desertus utique fit caecus. Ergo gratia ponit aliquid in anima.
+
+@@ I-II q. 110 a. 1 co.
+Respondeo dicendum quod secundum communem modum loquendi, gratia tripliciter accipi consuevit. Uno modo, pro dilectione alicuius, sicut consuevimus dicere quod iste miles habet gratiam regis, idest, rex habet eum gratum. Secundo sumitur pro aliquo dono gratis dato, sicut consuevimus dicere, hanc gratiam facio tibi. Tertio modo sumitur pro recompensatione beneficii gratis dati, secundum quod dicimur agere gratias beneficiorum. Quorum trium secundum dependet ex primo, ex amore enim quo aliquis alium gratum habet, procedit quod aliquid ei gratis impendat. Ex secundo autem procedit tertium, quia ex beneficiis gratis exhibitis gratiarum actio consurgit. Quantum igitur ad duo ultima, manifestum est quod gratia aliquid ponit in eo qui gratiam accipit, primo quidem, ipsum donum gratis datum; secundo, huius doni recognitionem. Sed quantum ad primum, est differentia attendenda circa gratiam Dei et gratiam hominis. Quia enim bonum creaturae provenit ex voluntate divina, ideo ex dilectione Dei qua vult creaturae bonum, profluit aliquod bonum in creatura. Voluntas autem hominis movetur ex bono praeexistente in rebus, et inde est quod dilectio hominis non causat totaliter rei bonitatem, sed praesupponit ipsam vel in parte vel in toto. Patet igitur quod quamlibet Dei dilectionem sequitur aliquod bonum in creatura causatum quandoque, non tamen dilectioni aeternae coaeternum. Et secundum huiusmodi boni differentiam, differens consideratur dilectio Dei ad creaturam. Una quidem communis, secundum quam diligit omnia quae sunt, ut dicitur Sap. XI; secundum quam esse naturale rebus creatis largitur. Alia autem est dilectio specialis, secundum quam trahit creaturam rationalem supra conditionem naturae, ad participationem divini boni. Et secundum hanc dilectionem dicitur aliquem diligere simpliciter, quia secundum hanc dilectionem vult Deus simpliciter creaturae bonum aeternum, quod est ipse. Sic igitur per hoc quod dicitur homo gratiam Dei habere, significatur quiddam supernaturale in homine a Deo proveniens. Quandoque tamen gratia Dei dicitur ipsa aeterna Dei dilectio, secundum quod dicitur etiam gratia praedestinationis, inquantum Deus gratuito, et non ex meritis, aliquos praedestinavit sive elegit; dicitur enim ad Ephes. I, praedestinavit nos in adoptionem filiorum, in laudem gloriae gratiae suae.
+
+@@ I-II q. 110 a. 1 ad 1
+Ad primum ergo dicendum quod etiam in hoc quod dicitur aliquis habere gratiam hominis, intelligitur in aliquo esse aliquid quod sit homini gratum, sicut et in hoc quod dicitur aliquis gratiam Dei habere; sed differenter. Nam illud quod est homini gratum in alio homine, praesupponitur eius dilectioni, causatur autem ex dilectione divina quod est in homine Deo gratum, ut dictum est.
+
+@@ I-II q. 110 a. 1 ad 2
+Ad secundum dicendum quod Deus est vita animae per modum causae efficientis, sed anima est vita corporis per modum causae formalis inter formam autem et materiam non cadit aliquod medium, quia forma per seipsam informat materiam vel subiectum. Sed agens informat subiectum non per suam substantiam, sed per formam quam in materia causat.
+
+@@ I-II q. 110 a. 1 ad 3
+Ad tertium dicendum quod Augustinus dicit, in libro Retract., ubi dixi gratiam esse remissionem peccatorum, pacem vero in reconciliatione Dei, non sic accipiendum est ac si pax ipsa et reconciliatio non pertineant ad gratiam generalem; sed quod specialiter nomine gratiae remissionem significaverit peccatorum. Non ergo sola remissio peccatorum ad gratiam pertinet, sed etiam multa alia Dei dona. Et etiam remissio peccatorum non fit sine aliquo effectu divinitus in nobis causato, ut infra patebit.
+
+@@ I-II q. 110 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod gratia non sit qualitas animae. Nulla enim qualitas agit in suum subiectum, quia actio qualitatis non est absque actione subiecti, et sic oporteret quod subiectum ageret in seipsum. Sed gratia agit in animam, iustificando ipsam. Ergo gratia non est qualitas.
+
+@@ I-II q. 110 a. 2 arg. 2
+Praeterea, substantia est nobilior qualitate. Sed gratia est nobilior quam natura animae, multa enim possumus per gratiam ad quae natura non sufficit, ut supra dictum est. Ergo gratia non est qualitas.
+
+@@ I-II q. 110 a. 2 arg. 3
+Praeterea, nulla qualitas remanet postquam desinit esse in subiecto. Sed gratia remanet. Non enim corrumpitur, quia sic in nihilum redigeretur, sicut ex nihilo creatur, unde et dicitur nova creatura, ad Gal. ult. Ergo gratia non est qualitas.
+
+@@ I-II q. 110 a. 2 s. c.
+Sed contra est quod, super illud Psalmi CIII, ut exhilaret faciem in oleo, dicit Glossa quod gratia est nitor animae, sanctum concilians amorem. Sed nitor animae est quaedam qualitas, sicut et pulchritudo corporis. Ergo gratia est quaedam qualitas.
+
+@@ I-II q. 110 a. 2 co.
+Respondeo dicendum quod, sicut iam dictum est, in eo qui dicitur gratiam Dei habere, significatur esse quidam effectus gratuitae Dei voluntatis. Dictum est autem supra quod dupliciter ex gratuita Dei voluntate homo adiuvatur. Uno modo, inquantum anima hominis movetur a Deo ad aliquid cognoscendum vel volendum vel agendum. Et hoc modo ipse gratuitus effectus in homine non est qualitas, sed motus quidam animae, actus enim moventis in moto est motus, ut dicitur in III Physic. Alio modo adiuvatur homo ex gratuita Dei voluntate, secundum quod aliquod habituale donum a Deo animae infunditur. Et hoc ideo, quia non est conveniens quod Deus minus provideat his quos diligit ad supernaturale bonum habendum, quam creaturis quas diligit ad bonum naturale habendum. Creaturis autem naturalibus sic providet ut non solum moveat eas ad actus naturales, sed etiam largiatur eis formas et virtutes quasdam, quae sunt principia actuum, ut secundum seipsas inclinentur ad huiusmodi motus. Et sic motus quibus a Deo moventur, fiunt creaturis connaturales et faciles; secundum illud Sap. VIII, et disponit omnia suaviter. Multo igitur magis illis quos movet ad consequendum bonum supernaturale aeternum, infundit aliquas formas seu qualitates supernaturales, secundum quas suaviter et prompte ab ipso moveantur ad bonum aeternum consequendum. Et sic donum gratiae qualitas quaedam est.
+
+@@ I-II q. 110 a. 2 ad 1
+Ad primum ergo dicendum quod gratia, secundum quod est qualitas, dicitur agere in animam non per modum causae efficientis, sed per modum causae formalis, sicut albedo facit album, et iustitia iustum.
+
+@@ I-II q. 110 a. 2 ad 2
+Ad secundum dicendum quod omnis substantia vel est ipsa natura rei cuius est substantia, vel est pars naturae, secundum quem modum materia vel forma substantia dicitur. Et quia gratia est supra naturam humanam, non potest esse quod sit substantia aut forma substantialis, sed est forma accidentalis ipsius animae. Id enim quod substantialiter est in Deo, accidentaliter fit in anima participante divinam bonitatem, ut de scientia patet. Secundum hoc ergo, quia anima imperfecte participat divinam bonitatem, ipsa participatio divinae bonitatis quae est gratia, imperfectiori modo habet esse in anima quam anima in seipsa subsistat. Est tamen nobilior quam natura animae, inquantum est expressio vel participatio divinae bonitatis, non autem quantum ad modum essendi.
+
+@@ I-II q. 110 a. 2 ad 3
+Ad tertium dicendum quod, sicut dicit Boetius, accidentis esse est inesse. Unde omne accidens non dicitur ens quasi ipsum esse habeat, sed quia eo aliquid est, unde et magis dicitur esse entis quam ens, ut dicitur in VII Metaphys. Et quia eius est fieri vel corrumpi cuius est esse, ideo, proprie loquendo, nullum accidens neque fit neque corrumpitur, sed dicitur fieri vel corrumpi, secundum quod subiectum incipit vel desinit esse in actu secundum illud accidens. Et secundum hoc etiam gratia dicitur creari, ex eo quod homines secundum ipsam creantur, idest in novo esse constituuntur, ex nihilo, idest non ex meritis; secundum illud ad Ephes. II, creati in Christo Iesu in operibus bonis.
+
+@@ I-II q. 110 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod gratia sit idem quod virtus. Dicit enim Augustinus quod gratia operans est fides quae per dilectionem operatur; ut habetur in libro de spiritu et littera. Sed fides quae per dilectionem operatur, est virtus. Ergo gratia est virtus.
+
+@@ I-II q. 110 a. 3 arg. 2
+Praeterea, cuicumque convenit definitio, et definitum. Sed definitiones de virtute datae sive a sanctis sive a philosophis, conveniunt gratiae, ipsa enim bonum facit habentem et opus eius bonum reddit; ipsa etiam est bona qualitas mentis qua recte vivitur, et cetera. Ergo gratia est virtus.
+
+@@ I-II q. 110 a. 3 arg. 3
+Praeterea, gratia est qualitas quaedam. Sed manifestum est quod non est in quarta specie qualitatis, quae est forma et circa aliquid constans figura, quia non pertinet ad corpus. Neque etiam in tertia est, quia non est passio vel passibilis qualitas, quae est in parte animae sensitiva, ut probatur in VII Physic.; ipsa autem gratia principaliter est in mente. Neque iterum est in secunda specie, quae est potentia vel impotentia naturalis, quia gratia est supra naturam; et non se habet ad bonum et malum, sicut potentia naturalis. Ergo relinquitur quod sit in prima specie, quae est habitus vel dispositio. Habitus autem mentis sunt virtutes, quia etiam ipsa scientia quodammodo est virtus, ut supra dictum est. Ergo gratia est idem quod virtus.
+
+@@ I-II q. 110 a. 3 s. c.
+Sed contra, si gratia est virtus, maxime videtur quod sit aliqua trium theologicarum virtutum. Sed gratia non est fides vel spes, quia haec possunt esse sine gratia gratum faciente. Neque etiam caritas, quia gratia praevenit caritatem, ut Augustinus dicit, in libro de Praedest. sanctorum. Ergo gratia non est virtus.
+
+@@ I-II q. 110 a. 3 co.
+Respondeo dicendum quod quidam posuerunt idem esse gratiam et virtutem secundum essentiam, sed differre solum secundum rationem, ut gratia dicatur secundum quod facit hominem Deo gratum, vel secundum quod gratis datur; virtus autem, secundum quod perficit ad bene operandum. Et hoc videtur sensisse Magister, in II Sent. Sed si quis recte consideret rationem virtutis, hoc stare non potest. Quia ut philosophus dicit, in VII Physic., virtus est quaedam dispositio perfecti, dico autem perfectum, quod est dispositum secundum naturam. Ex quo patet quod virtus uniuscuiusque rei dicitur in ordine ad aliquam naturam praeexistentem, quando scilicet unumquodque sic est dispositum, secundum quod congruit suae naturae. Manifestum est autem quod virtutes acquisitae per actus humanos, de quibus supra dictum est, sunt dispositiones quibus homo convenienter disponitur in ordine ad naturam qua homo est. Virtutes autem infusae disponunt hominem altiori modo, et ad altiorem finem, unde etiam oportet quod in ordine ad aliquam altiorem naturam. Hoc autem est in ordine ad naturam divinam participatam; secundum quod dicitur II Petr. I, maxima et pretiosa nobis promissa donavit, ut per haec efficiamini divinae consortes naturae. Et secundum acceptionem huius naturae, dicimur regenerari in filios Dei. Sicut igitur lumen naturale rationis est aliquid praeter virtutes acquisitas, quae dicuntur in ordine ad ipsum lumen naturale; ita etiam ipsum lumen gratiae, quod est participatio divinae naturae, est aliquid praeter virtutes infusas, quae a lumine illo derivantur, et ad illud lumen ordinantur. Unde et apostolus dicit, ad Ephes. V, eratis aliquando tenebrae, nunc autem lux in domino, ut filii lucis ambulate. Sicut enim virtutes acquisitae perficiunt hominem ad ambulandum congruenter lumini naturali rationis; ita virtutes infusae perficiunt hominem ad ambulandum congruenter lumini gratiae.
+
+@@ I-II q. 110 a. 3 ad 1
+Ad primum ergo dicendum quod Augustinus nominat fidem per dilectionem operantem gratiam, quia actus fidei per dilectionem operantis est primus actus in quo gratia gratum faciens manifestatur.
+
+@@ I-II q. 110 a. 3 ad 2
+Ad secundum dicendum quod bonum positum in definitione virtutis, dicitur secundum convenientiam ad aliquam naturam praeexistentem, vel essentialem vel participatam. Sic autem bonum non attribuitur gratiae, sed sicut radici bonitatis in homine, ut dictum est.
+
+@@ I-II q. 110 a. 3 ad 3
+Ad tertium dicendum quod gratia reducitur ad primam speciem qualitatis. Nec tamen est idem quod virtus, sed habitudo quaedam quae praesupponitur virtutibus infusis, sicut earum principium et radix.
+
+@@ I-II q. 110 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod gratia non sit in essentia animae sicut in subiecto, sed in aliqua potentiarum. Dicit enim Augustinus, in Hypognost., quod gratia comparatur ad voluntatem, sive ad liberum arbitrium, sicut sessor ad equum. Sed voluntas, sive liberum arbitrium, est potentia quaedam, ut in primo dictum est. Ergo gratia est in potentia animae sicut in subiecto.
+
+@@ I-II q. 110 a. 4 arg. 2
+Praeterea, ex gratia incipiunt merita hominis, ut Augustinus dicit. Sed meritum consistit in actu, qui ex aliqua potentia procedit. Ergo videtur quod gratia sit perfectio alicuius potentiae animae.
+
+@@ I-II q. 110 a. 4 arg. 3
+Praeterea, si essentia animae sit proprium subiectum gratiae, oportet quod anima inquantum habet essentiam, sit capax gratiae. Sed hoc est falsum, quia sic sequeretur quod omnis anima esset gratiae capax. Non ergo essentia animae est proprium subiectum gratiae.
+
+@@ I-II q. 110 a. 4 arg. 4
+Praeterea, essentia animae est prior potentiis eius. Prius autem potest intelligi sine posteriori. Ergo sequetur quod gratia possit intelligi in anima, nulla parte vel potentia animae intellecta, scilicet neque voluntate neque intellectu neque aliquo huiusmodi. Quod est inconveniens.
+
+@@ I-II q. 110 a. 4 s. c.
+Sed contra est quod per gratiam regeneramur in filios Dei. Sed generatio per prius terminatur ad essentiam quam ad potentias. Ergo gratia per prius est in essentia animae quam in potentiis.
+
+@@ I-II q. 110 a. 4 co.
+Respondeo dicendum quod ista quaestio ex praecedenti dependet. Si enim gratia sit idem quod virtus, necesse est quod sit in potentia animae sicut in subiecto, nam potentia animae est proprium subiectum virtutis, ut supra dictum est. Si autem gratia differt a virtute, non potest dici quod potentia animae sit gratiae subiectum, quia omnis perfectio potentiae animae habet rationem virtutis, ut supra dictum est. Unde relinquitur quod gratia, sicut est prius virtute, ita habeat subiectum prius potentiis animae, ita scilicet quod sit in essentia animae. Sicut enim per potentiam intellectivam homo participat cognitionem divinam per virtutem fidei; et secundum potentiam voluntatis amorem divinum, per virtutem caritatis; ita etiam per naturam animae participat, secundum quandam similitudinem, naturam divinam, per quandam regenerationem sive recreationem.
+
+@@ I-II q. 110 a. 4 ad 1
+Ad primum ergo dicendum quod, sicut ab essentia animae effluunt eius potentiae, quae sunt operum principia; ita etiam ab ipsa gratia effluunt virtutes in potentias animae, per quas potentiae moventur ad actus. Et secundum hoc gratia comparatur ad voluntatem ut movens ad motum, quae est comparatio sessoris ad equum, non autem sicut accidens ad subiectum.
+
+@@ I-II q. 110 a. 4 ad 2
+Et per hoc etiam patet solutio ad secundum. Est enim gratia principium meritorii operis mediantibus virtutibus, sicut essentia animae est principium operum vitae mediantibus potentiis.
+
+@@ I-II q. 110 a. 4 ad 3
+Ad tertium dicendum quod anima est subiectum gratiae secundum quod est in specie intellectualis vel rationalis naturae. Non autem constituitur anima in specie per aliquam potentiam, cum potentiae sint proprietates naturales animae speciem consequentes. Et ideo anima secundum suam essentiam differt specie ab aliis animabus, scilicet brutorum animalium et plantarum. Et propter hoc, non sequitur, si essentia animae humanae sit subiectum gratiae, quod quaelibet anima possit esse gratiae subiectum, hoc enim convenit essentiae animae inquantum est talis speciei.
+
+@@ I-II q. 110 a. 4 ad 4
+Ad quartum dicendum quod, cum potentiae animae sint naturales proprietates speciem consequentes, anima non potest sine his esse. Dato autem quod sine his esset, adhuc tamen anima diceretur secundum speciem suam intellectualis vel rationalis, non quia actu haberet has potentias; sed propter speciem talis essentiae ex qua natae sunt huiusmodi potentiae effluere.

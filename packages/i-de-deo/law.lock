@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:126c3b31cbfc520b5f3c754655a8ab4eaa739e33a92a33304edac808daa077d0",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:23bd3c66e1a79bfeeea35d14d313d1da59ce9753d4a399d5ec9eb2723e127331",
+    "name": "la.aquinas.summa.i_de_deo",
+    "namespace": "urn:la:aquinas:clir:summa-i-de-deo",
+    "sourceHash": "sha256:70423db88c12833b5835c34d5b8e490744b2d24c2b15cb730f7fc238c2819dd5",
+    "version": "0.1.0"
+  }
+}

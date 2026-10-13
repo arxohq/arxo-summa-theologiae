@@ -1,0 +1,40 @@
+language "law.core" version "0.2";
+package la.aquinas.summa_theologiae_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-theologiae-law";
+
+// Порождённые сценарии-свидетельства каталога вопросов (DECISION-0190):
+// мир выполняет посылки правила, запрос спрашивает его вывод.
+// Собраны corpus/tools/questions_catalog/build_catalog.py по CLIR пакета;
+// правка руками — только вместе с каталогом.
+
+// действующий писаный закон prima facie сохраняет силу
+test "CATALOG-WRITTENLAWPRIMAFACIECONTINUES" {
+    given {
+        context { decision_time @2026-08-25T12:00:00Z; knowledge_time @2026-08-25T12:00:00Z; legal_time @2026-08-25; timezone "Asia/Almaty"; }
+        assert "cat-0": operative_law(entity_ref("urn:law:catalog:writtenlawprimafaciecontinues:v0")) { origin case_input; }
+    }
+    evaluate truth(written_law_continues_in_force(entity_ref("urn:law:catalog:writtenlawprimafaciecontinues:v0")));
+    expect truth_status == TRUE_ONLY;
+}
+
+// обычай является лучшим толкователем закона
+test "CATALOG-CUSTOMINTERPRETSLAW" {
+    given {
+        context { decision_time @2026-08-25T12:00:00Z; knowledge_time @2026-08-25T12:00:00Z; legal_time @2026-08-25; timezone "Asia/Almaty"; }
+        assert "cat-0": custom_concerns_law(entity_ref("urn:law:catalog:custominterpretslaw:v0"), entity_ref("urn:law:catalog:custominterpretslaw:v1")) { origin case_input; }
+        assert "cat-1": custom_has_force_of_law(entity_ref("urn:law:catalog:custominterpretslaw:v0")) { origin case_input; }
+    }
+    evaluate truth(custom_interprets_law(entity_ref("urn:law:catalog:custominterpretslaw:v0"), entity_ref("urn:law:catalog:custominterpretslaw:v1")));
+    expect truth_status == TRUE_ONLY;
+}
+
+// обычай, имеющий силу закона, отменяет противоречащий закон
+test "CATALOG-CUSTOMABROGATESCONTRARYLAW" {
+    given {
+        context { decision_time @2026-08-25T12:00:00Z; knowledge_time @2026-08-25T12:00:00Z; legal_time @2026-08-25; timezone "Asia/Almaty"; }
+        assert "cat-0": custom_contrary_to_law(entity_ref("urn:law:catalog:customabrogatescontrarylaw:v0"), entity_ref("urn:law:catalog:customabrogatescontrarylaw:v1")) { origin case_input; }
+        assert "cat-1": custom_has_force_of_law(entity_ref("urn:law:catalog:customabrogatescontrarylaw:v0")) { origin case_input; }
+    }
+    evaluate truth(custom_abrogates_law(entity_ref("urn:law:catalog:customabrogatescontrarylaw:v0"), entity_ref("urn:law:catalog:customabrogatescontrarylaw:v1")));
+    expect truth_status == TRUE_ONLY;
+}

@@ -1,0 +1,38 @@
+[package]
+name = "la.aquinas.summa.i_ii_old_new_law"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-ii-old-new-law"
+
+[metadata]
+act = "la-summa-i-ii-old-new-law"
+title = "Фома Аквинский, Summa theologiae I-II, вопросы 98–108: ветхий и новый закон"
+primarySource = "SUMMA_THEOLOGIAE_I_II_98_108"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_ii_old_new_law#authored"
+regression = false
+suites = [
+    "tests/01-vetus-bona.lawtest",
+    "tests/02-vetus-imperfecta.lawtest",
+    "tests/03-natura-omnes.lawtest",
+    "tests/04-addita-israel.lawtest",
+    "tests/04b-addita-gentes-negata.lawtest",
+    "tests/05-caerimoniae-cessant.lawtest",
+    "tests/06-nova-indita.lawtest",
+    "tests/07-nova-iustificat.lawtest",
+    "tests/08-littera-non-iustificat.lawtest",
+    "tests/09-unus-finis.lawtest",
+    "tests/10-lex-libertatis.lawtest",
+    "tests/11-moralia-natura.lawtest",
+]
+world = ["la.aquinas.summa.i_ii_old_new_law"]
+
+[authoring]
+local_imports = "explicit"

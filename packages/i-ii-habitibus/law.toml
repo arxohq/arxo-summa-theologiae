@@ -1,0 +1,36 @@
+[package]
+name = "la.aquinas.summa.i_ii_habitibus"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-ii-habitibus"
+
+[metadata]
+act = "la-summa-i-ii-habitibus"
+title = "Фома Аквинский, Summa theologiae I-II, вопросы 49–70: навыки и добродетели"
+primarySource = "SUMMA_THEOLOGIAE_I_II_49_70"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_ii_habitibus#authored"
+regression = false
+suites = [
+    "tests/01-habitisquality-affirmat.lawtest",
+    "tests/01b-habitisquality-negata.lawtest",
+    "tests/02-habitsdistinguishedbyobjects-affirmat.lawtest",
+    "tests/02b-habitsdistinguishedbyobjects-negata.lawtest",
+    "tests/03-virtueishabit-affirmat.lawtest",
+    "tests/03b-virtueishabit-negata.lawtest",
+    "tests/04-theologicalvirtues-affirmat.lawtest",
+    "tests/04b-theologicalvirtues-negata.lawtest",
+    "tests/05-virtuecause-affirmat.lawtest",
+    "tests/05b-virtuecause-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_ii_habitibus"]
+
+[authoring]
+local_imports = "explicit"

@@ -1,0 +1,104 @@
+@@ II-II q. 73 pr.
+Deinde considerandum est de detractione. Et circa hoc quaeruntur quatuor. Primo, quid sit detractio. Secundo, utrum sit peccatum mortale. Tertio, de comparatione eius ad alia peccata. Quarto, utrum peccet aliquis audiendo detractionem.
+
+@@ II-II q. 73 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod detractio non sit denigratio alienae famae per occulta verba, ut a quibusdam definitur. Occultum enim et manifestum sunt circumstantiae non constituentes speciem peccati, accidit enim peccato quod a multis sciatur vel a paucis. Sed illud quod non constituit speciem peccati non pertinet ad rationem ipsius, nec debet poni in eius definitione. Ergo ad rationem detractionis non pertinet quod fiat per occulta verba.
+
+@@ II-II q. 73 a. 1 arg. 2
+Praeterea, ad rationem famae pertinet publica notitia. Si igitur per detractionem denigretur fama alicuius, non poterit hoc fieri per verba occulta, sed per verba in manifesto dicta.
+
+@@ II-II q. 73 a. 1 arg. 3
+Praeterea, ille detrahit qui aliquid subtrahit vel diminuit de eo quod est. Sed quandoque denigratur fama alicuius etiam si nihil subtrahatur de veritate, puta cum aliquis vera crimina alicuius pandit. Ergo non omnis denigratio famae est detractio.
+
+@@ II-II q. 73 a. 1 s. c.
+Sed contra est quod dicitur Eccle. X, si mordeat serpens in silentio, nihil eo minus habet qui occulte detrahit. Ergo occulte mordere famam alicuius est detrahere.
+
+@@ II-II q. 73 a. 1 co.
+Respondeo dicendum quod sicut facto aliquis alteri nocet dupliciter, manifeste quidem sicut in rapina vel quacumque violentia illata, occulte autem sicut in furto et dolosa percussione; ita etiam verbo aliquis dupliciter aliquem laedit, uno modo, in manifesto, et hoc fit per contumeliam, ut supra dictum est; alio modo, occulte, et hoc fit per detractionem. Ex hoc autem quod aliquis manifeste verba contra alium profert, videtur eum parvipendere, unde ex hoc ipso exhonoratur, et ideo contumelia detrimentum affert honori eius in quem profertur. Sed qui verba contra aliquem profert in occulto, videtur eum vereri magis quam parvipendere, unde non directe infert detrimentum honori, sed famae; inquantum, huiusmodi verba occulte proferens, quantum in ipso est, eos qui audiunt facit malam opinionem habere de eo contra quem loquitur. Hoc enim intendere videtur, et ad hoc conatur detrahens, ut eius verbis credatur. Unde patet quod detractio differt a contumelia dupliciter. Uno modo, quantum ad modum proponendi verba, quia scilicet contumeliosus manifeste contra aliquem loquitur, detractor autem occulte. Alio modo, quantum ad finem intentum, sive quantum ad nocumentum illatum, quia scilicet contumeliosus derogat honori, detractor famae.
+
+@@ II-II q. 73 a. 1 ad 1
+Ad primum ergo dicendum quod in involuntariis commutationibus, ad quas reducuntur omnia nocumenta proximo illata verbo vel facto, diversificat rationem peccati occultum et manifestum, quia alia est ratio involuntarii per violentiam, et per ignorantiam, ut supra dictum est.
+
+@@ II-II q. 73 a. 1 ad 2
+Ad secundum dicendum quod verba detractionis dicuntur occulta non simpliciter, sed per comparationem ad eum de quo dicuntur, quia eo absente et ignorante, dicuntur. Sed contumeliosus in faciem contra hominem loquitur. Unde si aliquis de alio male loquatur coram multis, eo absente, detractio est, si autem eo solo praesente, contumelia est. Quamvis etiam si uni soli aliquis de absente malum dicat, corrumpit famam eius, non in toto, sed in parte.
+
+@@ II-II q. 73 a. 1 ad 3
+Ad tertium dicendum quod aliquis dicitur detrahere non quia diminuat de veritate, sed quia diminuit famam eius. Quod quidem quandoque fit directe, quandoque indirecte. Directe quidem, quadrupliciter, uno modo, quando falsum imponit alteri; secundo, quando peccatum adauget suis verbis; tertio, quando occultum revelat; quarto, quando id quod est bonum dicit mala intentione factum. Indirecte autem, vel negando bonum alterius; vel malitiose reticendo.
+
+@@ II-II q. 73 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod detractio non sit peccatum mortale. Nullus enim actus virtutis est peccatum mortale. Sed revelare peccatum occultum, quod, sicut dictum est, ad detractionem pertinet, est actus virtutis, vel caritatis, dum aliquis fratris peccatum denuntiat eius emendationem intendens; vel etiam est actus iustitiae, dum aliquis fratrem accusat. Ergo detractio non est peccatum mortale.
+
+@@ II-II q. 73 a. 2 arg. 2
+Praeterea, super illud Prov. XXIV, cum detractoribus non commiscearis, dicit Glossa, hoc specialiter vitio periclitatur totum genus humanum. Sed nullum peccatum mortale in toto humano genere invenitur, quia multi abstinent a peccato mortali, peccata autem venialia sunt quae in omnibus inveniuntur. Ergo detractio est peccatum veniale.
+
+@@ II-II q. 73 a. 2 arg. 3
+Praeterea, Augustinus, in homilia de igne Purg., inter peccata minuta ponit, quando cum omni facilitate vel temeritate maledicimus, quod pertinet ad detractionem. Ergo detractio est peccatum veniale.
+
+@@ II-II q. 73 a. 2 s. c.
+Sed contra est quod Rom. I dicitur, detractores, Deo odibiles, quod ideo additur, ut dicit Glossa, ne leve putetur propter hoc quod consistit in verbis.
+
+@@ II-II q. 73 a. 2 co.
+Respondeo dicendum quod, sicut supra dictum est, peccata verborum maxime sunt ex intentione dicentis diiudicanda. Detractio autem, secundum suam rationem, ordinatur ad denigrandam famam alicuius. Unde ille, per se loquendo, detrahit qui ad hoc de aliquo obloquitur, eo absente, ut eius famam denigret. Auferre autem alicui famam valde grave est, quia inter res temporales videtur fama esse pretiosior, per cuius defectum homo impeditur a multis bene agendis. Propter quod dicitur Eccli. XLI, curam habe de bono nomine, hoc enim magis permanebit tibi quam mille thesauri magni et pretiosi. Et ideo detractio, per se loquendo, est peccatum mortale. Contingit tamen quandoque quod aliquis dicit aliqua verba per quae diminuitur fama alicuius, non hoc intendens, sed aliquid aliud hoc autem non est detrahere per se et formaliter loquendo, sed solum materialiter et quasi per accidens. Et si quidem verba per quae fama alterius diminuitur proferat aliquis propter aliquod bonum vel necessarium, debitis circumstantiis observatis, non est peccatum, nec potest dici detractio. Si autem proferat ex animi levitate, vel propter aliquid non necessarium, non est peccatum mortale, nisi forte verbum quod dicitur sit adeo grave quod notabiliter famam alicuius laedat, et praecipue in his quae pertinent ad honestatem vitae; quia hoc ex ipso genere verborum habet rationem peccati mortalis. Et tenetur aliquis ad restitutionem famae, sicut ad restitutionem cuiuslibet rei subtractae, eo modo quo supra dictum est, cum de restitutione ageretur.
+
+@@ II-II q. 73 a. 2 ad 1
+Ad primum ergo dicendum quod revelare peccatum occultum alicuius propter eius emendationem denuntiando, vel propter bonum publicae iustitiae accusando, non est detrahere, ut dictum est.
+
+@@ II-II q. 73 a. 2 ad 2
+Ad secundum dicendum quod Glossa illa non dicit quod detractio in toto genere humano inveniatur, sed addit, paene. Tum quia stultorum infinitus est numerus, et pauci sunt qui ambulant per viam salutis. Tum etiam quia pauci vel nulli sunt qui non aliquando ex animi levitate aliquid dicunt unde in aliquo, vel leviter, alterius fama minoratur, quia, ut dicitur Iac. III, si quis in verbo non offendit, hic perfectus est vir.
+
+@@ II-II q. 73 a. 2 ad 3
+Ad tertium dicendum quod Augustinus loquitur in casu illo quo aliquis dicit aliquod leve malum de alio non ex intentione nocendi, sed ex animi levitate vel ex lapsu linguae.
+
+@@ II-II q. 73 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod detractio sit gravius omnibus peccatis quae in proximum committuntur. Quia super illud Psalm., pro eo ut me diligerent, detrahebant mihi, dicit Glossa, plus nocent in membris detrahentes Christo, quia animas crediturorum interficiunt, quam qui eius carnem, mox resurrecturam, peremerunt. Ex quo videtur quod detractio sit gravius peccatum quam homicidium, quanto gravius est occidere animam quam occidere corpus. Sed homicidium est gravius inter cetera peccata quae in proximum committuntur. Ergo detractio est simpliciter inter omnia gravior.
+
+@@ II-II q. 73 a. 3 arg. 2
+Praeterea, detractio videtur esse gravius peccatum quam contumelia quia contumeliam potest homo repellere, non autem detractionem latentem. Sed contumelia videtur esse maius peccatum quam adulterium, per hoc quod adulterium unit duos in unam carnem, contumelia autem unitos in multa dividit. Ergo detractio est maius peccatum quam adulterium, quod tamen, inter alia peccata quae sunt in proximum, magnam gravitatem habet.
+
+@@ II-II q. 73 a. 3 arg. 3
+Praeterea, contumelia oritur ex ira, detractio autem ex invidia, ut patet per Gregorium, XXXI Moral. Sed invidia est maius peccatum quam ira. Ergo et detractio est maius peccatum quam contumelia. Et sic idem quod prius.
+
+@@ II-II q. 73 a. 3 arg. 4
+Praeterea, tanto aliquod peccatum est gravius quanto graviorem defectum inducit. Sed detractio inducit gravissimum defectum, scilicet excaecationem mentis, dicit enim Gregorius, quid aliud detrahentes faciunt nisi quod in pulverem sufflant et in oculos suos terram excitant, ut unde plus detractionis perflant, inde minus veritatis videant? Ergo detractio est gravissimum peccatum inter ea quae committuntur in proximum.
+
+@@ II-II q. 73 a. 3 s. c.
+Sed contra, gravius est peccare facto quam verbo. Sed detractio est peccatum verbi, adulterium autem et homicidium et furtum sunt peccata in factis. Ergo detractio non est gravius ceteris peccatis quae sunt in proximum.
+
+@@ II-II q. 73 a. 3 co.
+Respondeo dicendum quod peccata quae committuntur in proximum sunt pensanda per se quidem secundum nocumenta quae proximo inferuntur, quia ex hoc habent rationem culpae. Tanto autem est maius nocumentum quanto maius bonum demitur. Cum autem sit triplex bonum hominis, scilicet bonum animae et bonum corporis et bonum exteriorum rerum, bonum animae, quod est maximum, non potest alicui ab alio tolli nisi occasionaliter, puta per malam persuasionem, quae necessitatem non infert, sed alia duo bona, scilicet corporis et exteriorum rerum, possunt ab alio violenter auferri. Sed quia bonum corporis praeeminet bono exteriorum rerum, graviora sunt peccata quibus infertur nocumentum corpori quam ea quibus infertur nocumentum exterioribus rebus. Unde inter cetera peccata quae sunt in proximum, homicidium gravius est, per quod tollitur vita proximi iam actu existens, consequenter autem adulterium, quod est contra debitum ordinem generationis humanae, per quam est introitus ad vitam. Consequenter autem sunt exteriora bona. Inter quae, fama praeeminet divitiis, eo quod propinquior est spiritualibus bonis, unde dicitur Prov. XXII, melius est nomen bonum quam divitiae multae. Et ideo detractio, secundum suum genus, est maius peccatum quam furtum, minus tamen quam homicidium vel adulterium. Potest tamen esse alius ordo propter circumstantias aggravantes vel diminuentes. Per accidens autem gravitas peccati attenditur ex parte peccantis, qui gravius peccat si ex deliberatione peccet quam si peccet ex infirmitate vel incautela. Et secundum hoc peccata locutionis habent aliquam levitatem, inquantum de facili ex lapsu linguae proveniunt, absque magna praemeditatione.
+
+@@ II-II q. 73 a. 3 ad 1
+Ad primum ergo dicendum quod illi qui detrahunt Christo impedientes fidem membrorum ipsius, derogant divinitati eius, cui fides innititur. Unde non est simplex detractio, sed blasphemia.
+
+@@ II-II q. 73 a. 3 ad 2
+Ad secundum dicendum quod gravius peccatum est contumelia quam detractio, inquantum habet maiorem contemptum proximi, sicut et rapina est gravius peccatum quam furtum, ut supra dictum est. Contumelia tamen non est gravius peccatum quam adulterium, non enim gravitas adulterii pensatur ex coniunctione corporum, sed ex deordinatione generationis humanae. Contumeliosus autem non sufficienter causat inimicitiam in alio, sed occasionaliter tantum dividit unitos, inquantum scilicet per hoc quod mala alterius promit, alios, quantum in se est, ab eius amicitia separat, licet ad hoc per eius verba non cogantur. Sic etiam et detractor occasionaliter est homicida, inquantum scilicet per sua verba dat alteri occasionem ut proximum odiat vel contemnat. Propter quod in epistola Clementis dicitur detractores esse homicidas, scilicet occasionaliter, quia qui odit fratrem suum, homicida est, ut dicitur I Ioan. III.
+
+@@ II-II q. 73 a. 3 ad 3
+Ad tertium dicendum quod quia ira quaerit in manifesto vindictam inferre, ut philosophus dicit, in II Rhet., ideo detractio, quae est in occulto, non est filia irae, sicut contumelia; sed magis invidiae, quae nititur qualitercumque minuere gloriam proximi. Nec tamen sequitur propter hoc quod detractio sit gravior quam contumelia, quia ex minori vitio potest oriri maius peccatum, sicut ex ira nascitur homicidium et blasphemia. Origo enim peccatorum attenditur secundum inclinationem ad finem, quod est ex parte conversionis, gravitas autem peccati magis attenditur ex parte aversionis.
+
+@@ II-II q. 73 a. 3 ad 4
+Ad quartum dicendum quod quia homo laetatur in sententia oris sui, ut dicitur Prov. XV, inde est quod ille qui detrahit incipit magis amare et credere quod dicit; et per consequens proximum magis odire; et sic magis recedere a cognitione veritatis. Iste tamen effectus potest sequi etiam ex aliis peccatis quae pertinent ad odium proximi.
+
+@@ II-II q. 73 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod audiens qui tolerat detrahentem non graviter peccet. Non enim aliquis magis tenetur alteri quam sibi ipsi. Sed laudabile est si patienter homo suos detractores toleret, dicit enim Gregorius, super Ezech. Homil. IX, linguas detrahentium, sicut nostro studio non debemus excitare, ne ipsi pereant; ita per suam malitiam excitatas debemus aequanimiter tolerare, ut nobis meritum crescat. Ergo non peccat aliquis si detractionibus aliorum non resistat.
+
+@@ II-II q. 73 a. 4 arg. 2
+Praeterea, Eccli. IV dicitur, non contradicas verbo veritatis ullo modo. Sed quandoque aliquis detrahit verba veritatis dicendo, ut supra dictum est. Ergo videtur quod non semper teneatur homo detractionibus resistere.
+
+@@ II-II q. 73 a. 4 arg. 3
+Praeterea, nullus debet impedire id quod est in utilitatem aliorum. Sed detractio frequenter est in utilitatem eorum contra quos detrahitur, dicit enim pius Papa, nonnunquam detractio adversus bonos excitatur, ut quos vel domestica adulatio vel aliorum favor in altum extulerat, detractio humiliet. Ergo aliquis non debet detractiones impedire.
+
+@@ II-II q. 73 a. 4 s. c.
+Sed contra est quod Hieronymus dicit, cave ne linguam aut aures habeas prurientes, aut aliis detrahas, aut alios audias detrahentes.
+
+@@ II-II q. 73 a. 4 co.
+Respondeo dicendum quod, secundum apostolum, ad Rom. I, digni sunt morte non solum qui peccata faciunt, sed etiam qui facientibus peccata consentiunt. Quod quidem contingit dupliciter. Uno modo, directe, quando scilicet quis inducit alium ad peccatum, vel ei placet peccatum. Alio modo, indirecte, quando scilicet non resistit, cum resistere possit, et hoc contingit quandoque non quia peccatum placeat, sed propter aliquem humanum timorem. Dicendum est ergo quod si aliquis detractiones audiat absque resistentia, videtur detractori consentire, unde fit particeps peccati eius. Et si quidem inducat eum ad detrahendum, vel saltem placeat ei detractio, propter odium eius cui detrahitur, non minus peccat quam detrahens, et quandoque magis. Unde Bernardus dicit, detrahere, aut detrahentem audire, quid horum damnabilius sit, non facile dixerim. Si vero non placeat ei peccatum, sed ex timore vel negligentia vel etiam verecundia quadam omittat repellere detrahentem, peccat quidem, sed multo minus quam detrahens, et plerumque venialiter. Quandoque etiam hoc potest esse peccatum mortale, vel propter hoc quod alicui ex officio incumbit detrahentem corrigere; vel propter aliquod periculum consequens; vel propter radicem, qua timor humanus quandoque potest esse peccatum mortale, ut supra habitum est.
+
+@@ II-II q. 73 a. 4 ad 1
+Ad primum ergo dicendum quod detractiones suas nullus audit, quia scilicet mala quae dicuntur de aliquo eo audiente, non sunt detractiones, proprie loquendo, sed contumeliae, ut dictum est. Possunt tamen ad notitiam alicuius detractiones contra ipsum factae aliorum relationibus pervenire. Et tunc sui arbitrii est detrimentum suae famae pati, nisi hoc vergat in periculum aliorum, ut supra dictum est. Et ideo in hoc potest commendari eius patientia quod patienter proprias detractiones sustinet. Non autem est sui arbitrii quod patiatur detrimentum famae alterius. Et ideo in culpam ei vertitur si non resistit, cum possit resistere, eadem ratione qua tenetur aliquis sublevare asinum alterius iacentem sub onere, ut praecipitur Deut. XXII.
+
+@@ II-II q. 73 a. 4 ad 2
+Ad secundum dicendum quod non semper debet aliquis resistere detractori arguendo eum de falsitate, maxime si quis sciat verum esse quod dicitur. Sed debet eum verbis redarguere de hoc quod peccat fratri detrahendo, vel saltem ostendere quod ei detractio displiceat per tristitiam faciei; quia, ut dicitur Prov. XXV, ventus Aquilo dissipat pluvias, et facies tristis linguam detrahentem.
+
+@@ II-II q. 73 a. 4 ad 3
+Ad tertium dicendum quod utilitas quae ex detractione provenit non est ex intentione detrahentis, sed ex Dei ordinatione, qui ex quolibet malo elicit bonum. Et ideo nihilo minus est detractoribus resistendum, sicut et raptoribus vel oppressoribus aliorum, quamvis ex hoc oppressis vel spoliatis per patientiam meritum crescat.

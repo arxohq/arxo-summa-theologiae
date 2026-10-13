@@ -1,0 +1,19 @@
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_homine version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-homine";
+
+test "urn:query:i-de-homine-soulisnotbody-negata" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "p": presented(entity_ref("urn:case:st:i_de_homine:s")) { origin case_input; }
+    }
+    evaluate truth(soul_not_body(entity_ref("urn:case:st:i_de_homine:s")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}

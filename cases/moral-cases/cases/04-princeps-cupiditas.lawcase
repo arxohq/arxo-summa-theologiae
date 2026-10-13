@@ -1,0 +1,20 @@
+language "law.core" version "0.2";
+package examples.aquinas.moral_cases version "0.1.0";
+namespace "urn:law:examples:aquinas:moral-cases";
+
+// Государь объявил войну при власти и справедливой причине, но намерение —
+// жажда господства, не мир. Фома: война становится недозволенной.
+case PrincepsCupiditas {
+    context {
+        legal_time @1270-06-01;
+        knowledge_time @1270-06-01T12:00:00Z;
+        decision_time @1270-06-01T12:00:00Z;
+        timezone "UTC";
+    }
+
+    assert "presented": la.aquinas.duplex_effectus::presented_bellum(entity_ref("urn:example:duplex:bellum:cupiditas")) { origin case_input; }
+    assert "princeps": la.aquinas.duplex_effectus::bellum_a_principe(entity_ref("urn:example:duplex:bellum:cupiditas"), entity_ref("urn:example:duplex:persona:princeps")) { origin case_input; }
+    assert "auctoritas": la.aquinas.duplex_effectus::auctoritas_principis(entity_ref("urn:example:duplex:bellum:cupiditas")) { origin case_input; }
+    assert "causa": la.aquinas.duplex_effectus::causa_iusta(entity_ref("urn:example:duplex:bellum:cupiditas")) { origin case_input; }
+    assert "prava": not la.aquinas.duplex_effectus::intentio_recta(entity_ref("urn:example:duplex:bellum:cupiditas")) { origin case_input; }
+}

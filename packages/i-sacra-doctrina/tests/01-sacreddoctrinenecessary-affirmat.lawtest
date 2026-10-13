@@ -1,0 +1,20 @@
+language "law.core" version "0.2";
+package la.aquinas.summa.i_sacra_doctrina version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-sacra-doctrina";
+
+test "urn:query:i-sacra-doctrina-sacreddoctrinenecessary-affirmat" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "p": presented(entity_ref("urn:case:st:i_sacra_doctrina:s")) { origin case_input; }
+        assert "f": revelation_considered(entity_ref("urn:case:st:i_sacra_doctrina:s")) { origin case_input; }
+    }
+    evaluate truth(doctrine_necessary(entity_ref("urn:case:st:i_sacra_doctrina:s")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}

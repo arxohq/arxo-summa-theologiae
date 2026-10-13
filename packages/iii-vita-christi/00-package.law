@@ -1,0 +1,33 @@
+// Словарь трактата III qq. 27-59.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.iii_vita_christi version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-iii-vita-christi";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation christ_presented(s: Subject) kind empirical {
+    label la unofficial "christ_presented";
+    label ru unofficial "christ_presented";
+}
+pub relation mary_presented(s: Subject) kind empirical {
+    label la unofficial "mary_presented";
+    label ru unofficial "mary_presented";
+}
+pub relation passion_considered(s: Subject) kind empirical {
+    label la unofficial "passion_considered";
+    label ru unofficial "passion_considered";
+}
+pub relation resurrection_considered(s: Subject) kind empirical {
+    label la unofficial "resurrection_considered";
+    label ru unofficial "resurrection_considered";
+}

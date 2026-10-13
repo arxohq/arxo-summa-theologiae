@@ -1,0 +1,5 @@
+// Consumer dependency binding only; no subject rules.
+language "law.core" version "0.2";
+package examples.aquinas.moral_cases version "0.1.0";
+namespace "urn:law:examples:aquinas:moral-cases";
+import la.aquinas.duplex_effectus version "0.1.0";

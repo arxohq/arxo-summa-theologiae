@@ -1,0 +1,22 @@
+language "law.core" version "0.2";
+package la.aquinas.summa_theologiae_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-theologiae-law";
+
+// Порождённые сценарии-свидетельства каталога вопросов (DECISION-0190):
+// мир выполняет посылки правила, запрос спрашивает его вывод.
+// Собраны corpus/tools/questions_catalog/build_catalog.py по CLIR пакета;
+// правка руками — только вместе с каталогом.
+
+// человеческий закон
+test "CATALOG-HUMAN_LAW/RULE" {
+    given {
+        context { decision_time @2026-08-25T12:00:00Z; knowledge_time @2026-08-25T12:00:00Z; legal_time @2026-08-25; timezone "Asia/Almaty"; }
+        assert "cat-0": issued_by_caretaker_of_community(entity_ref("urn:law:catalog:human-law-rule:v0")) { origin case_input; }
+        assert "cat-1": ordinance_of_reason(entity_ref("urn:law:catalog:human-law-rule:v0")) { origin case_input; }
+        assert "cat-2": promulgated(entity_ref("urn:law:catalog:human-law-rule:v0")) { origin case_input; }
+        assert "cat-3": ordered_to_common_good(entity_ref("urn:law:catalog:human-law-rule:v0")) { origin case_input; }
+        assert "cat-4": human_particular_determination(entity_ref("urn:law:catalog:human-law-rule:v0")) { origin case_input; }
+    }
+    evaluate truth(human_law(entity_ref("urn:law:catalog:human-law-rule:v0")));
+    expect truth_status == TRUE_ONLY;
+}

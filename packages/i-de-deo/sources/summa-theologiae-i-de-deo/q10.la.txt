@@ -1,0 +1,179 @@
+@@ I q. 10 pr.
+Deinde quaeritur de aeternitate. Et circa hoc quaeruntur sex. Primo, quid sit aeternitas. Secundo, utrum Deus sit aeternus. Tertio, utrum esse aeternum sit proprium Dei. Quarto, utrum aeternitas differat a tempore. Quinto, de differentia aevi et temporis. Sexto, utrum sit unum aevum tantum, sicut est unum tempus et una aeternitas.
+
+@@ I q. 10 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod non sit conveniens definitio aeternitatis, quam Boetius ponit V de consolatione, dicens quod aeternitas est interminabilis vitae tota simul et perfecta possessio. Interminabile enim negative dicitur. Sed negatio non est de ratione nisi eorum quae sunt deficientia, quod aeternitati non competit. Ergo in definitione aeternitatis non debet poni interminabile.
+
+@@ I q. 10 a. 1 arg. 2
+Praeterea, aeternitas durationem quandam significat. Duratio autem magis respicit esse quam vitam. Ergo non debuit poni in definitione aeternitatis vita, sed magis esse.
+
+@@ I q. 10 a. 1 arg. 3
+Praeterea, totum dicitur quod habet partes. Hoc autem aeternitati non convenit, cum sit simplex. Ergo inconvenienter dicitur tota.
+
+@@ I q. 10 a. 1 arg. 4
+Praeterea, plures dies non possunt esse simul, nec plura tempora. Sed in aeternitate pluraliter dicuntur dies et tempora, dicitur enim Micheae V, egressus eius ab initio, a diebus aeternitatis; et ad Rom., XVI cap., secundum revelationem mysterii temporibus aeternis taciti. Ergo aeternitas non est tota simul.
+
+@@ I q. 10 a. 1 arg. 5
+Praeterea, totum et perfectum sunt idem. Posito igitur quod sit tota, superflue additur quod sit perfecta.
+
+@@ I q. 10 a. 1 arg. 6
+Praeterea, possessio ad durationem non pertinet. Aeternitas autem quaedam duratio est. Ergo aeternitas non est possessio.
+
+@@ I q. 10 a. 1 co.
+Respondeo dicendum quod, sicut in cognitionem simplicium oportet nos venire per composita, ita in cognitionem aeternitatis oportet nos venire per tempus; quod nihil aliud est quam numerus motus secundum prius et posterius. Cum enim in quolibet motu sit successio, et una pars post alteram, ex hoc quod numeramus prius et posterius in motu, apprehendimus tempus; quod nihil aliud est quam numerus prioris et posterioris in motu. In eo autem quod caret motu, et semper eodem modo se habet, non est accipere prius et posterius. Sicut igitur ratio temporis consistit in numeratione prioris et posterioris in motu, ita in apprehensione uniformitatis eius quod est omnino extra motum, consistit ratio aeternitatis. Item, ea dicuntur tempore mensurari, quae principium et finem habent in tempore, ut dicitur in IV Physic., et hoc ideo, quia in omni eo quod movetur est accipere aliquod principium et aliquem finem. Quod vero est omnino immutabile, sicut nec successionem, ita nec principium aut finem habere potest. Sic ergo ex duobus notificatur aeternitas. Primo, ex hoc quod id quod est in aeternitate, est interminabile, idest principio et fine carens (ut terminus ad utrumque referatur). Secundo, per hoc quod ipsa aeternitas successione caret, tota simul existens.
+
+@@ I q. 10 a. 1 ad 1
+Ad primum ergo dicendum quod simplicia consueverunt per negationem definiri, sicut punctus est cuius pars non est. Quod non ideo est, quod negatio sit de essentia eorum, sed quia intellectus noster, qui primo apprehendit composita, in cognitionem simplicium pervenire non potest, nisi per remotionem compositionis.
+
+@@ I q. 10 a. 1 ad 2
+Ad secundum dicendum quod illud quod est vere aeternum, non solum est ens, sed vivens, et ipsum vivere se extendit quodammodo ad operationem, non autem esse. Protensio autem durationis videtur attendi secundum operationem, magis quam secundum esse, unde et tempus est numerus motus.
+
+@@ I q. 10 a. 1 ad 3
+Ad tertium dicendum quod aeternitas dicitur tota, non quia habet partes, sed inquantum nihil ei deest.
+
+@@ I q. 10 a. 1 ad 4
+Ad quartum dicendum quod, sicut Deus, cum sit incorporeus, nominibus rerum corporalium metaphorice in Scripturis nominatur, sic aeternitas, tota simul existens, nominibus temporalibus successivis.
+
+@@ I q. 10 a. 1 ad 5
+Ad quintum dicendum quod in tempore est duo considerare, scilicet ipsum tempus, quod est successivum; et nunc temporis, quod est imperfectum. Dicit ergo tota simul, ad removendum tempus, et perfecta, ad excludendum nunc temporis.
+
+@@ I q. 10 a. 1 ad 6
+Ad sextum dicendum quod illud quod possidetur, firmiter et quiete habetur. Ad designandam ergo immutabilitatem et indeficientiam aeternitatis, usus est nomine possessionis.
+
+@@ I q. 10 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod Deus non sit aeternus. Nihil enim factum potest dici de Deo. Sed aeternitas est aliquid factum, dicit enim Boetius quod nunc fluens facit tempus, nunc stans facit aeternitatem; et Augustinus dicit, in libro octoginta trium quaest., quod Deus est auctor aeternitatis. Ergo Deus non est aeternus.
+
+@@ I q. 10 a. 2 arg. 2
+Praeterea, quod est ante aeternitatem et post aeternitatem, non mensuratur aeternitate. Sed Deus est ante aeternitatem, ut dicitur in libro de causis, et post aeternitatem; dicitur enim Exod. XV, quod dominus regnabit in aeternum et ultra. Ergo esse aeternum non convenit Deo.
+
+@@ I q. 10 a. 2 arg. 3
+Praeterea, aeternitas mensura quaedam est. Sed Deo non convenit esse mensuratum. Ergo non competit ei esse aeternum.
+
+@@ I q. 10 a. 2 arg. 4
+Praeterea, in aeternitate non est praesens, praeteritum vel futurum cum sit tota simul, ut dictum est. Sed de Deo dicuntur in Scripturis verba praesentis temporis, praeteriti vel futuri. Ergo Deus non est aeternus.
+
+@@ I q. 10 a. 2 s. c.
+Sed contra est quod dicit Athanasius, aeternus pater, aeternus filius, aeternus spiritus sanctus.
+
+@@ I q. 10 a. 2 co.
+Respondeo dicendum quod ratio aeternitatis consequitur immutabilitatem, sicut ratio temporis consequitur motum, ut ex dictis patet. Unde, cum Deus sit maxime immutabilis, sibi maxime competit esse aeternum. Nec solum est aeternus, sed est sua aeternitas, cum tamen nulla alia res sit sua duratio, quia non est suum esse. Deus autem est suum esse uniforme, unde, sicut est sua essentia, ita est sua aeternitas.
+
+@@ I q. 10 a. 2 ad 1
+Ad primum ergo dicendum quod nunc stans dicitur facere aeternitatem, secundum nostram apprehensionem. Sicut enim causatur in nobis apprehensio temporis, eo quod apprehendimus fluxum ipsius nunc, ita causatur in nobis apprehensio aeternitatis, inquantum apprehendimus nunc stans. Quod autem dicit Augustinus, quod Deus est auctor aeternitatis, intelligitur de aeternitate participata, eo enim modo communicat Deus suam aeternitatem aliquibus, quo et suam immutabilitatem.
+
+@@ I q. 10 a. 2 ad 2
+Et per hoc patet solutio ad secundum. Nam Deus dicitur esse ante aeternitatem, prout participatur a substantiis immaterialibus. Unde et ibidem dicitur, quod intelligentia parificatur aeternitati. Quod autem dicitur in Exodo, dominus regnabit in aeternum et ultra sciendum quod aeternum accipitur ibi pro saeculo, sicut habet alia translatio. Sic igitur dicitur quod regnabit ultra aeternum, quia durat ultra quodcumque saeculum, idest ultra quamcumque durationem datam, nihil est enim aliud saeculum quam periodus cuiuslibet rei, ut dicitur in libro I de caelo. Vel dicitur etiam ultra aeternum regnare, quia, si etiam aliquid aliud semper esset (ut motus caeli secundum quosdam philosophos), tamen Deus ultra regnat, inquantum eius regnum est totum simul.
+
+@@ I q. 10 a. 2 ad 3
+Ad tertium dicendum quod aeternitas non est aliud quam ipse Deus. Unde non dicitur Deus aeternus, quasi sit aliquo modo mensuratus, sed accipitur ibi ratio mensurae secundum apprehensionem nostram tantum.
+
+@@ I q. 10 a. 2 ad 4
+Ad quartum dicendum quod verba diversorum temporum attribuuntur Deo, inquantum eius aeternitas omnia tempora includit, non quod ipse varietur per praesens, praeteritum et futurum.
+
+@@ I q. 10 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod esse aeternum non sit soli Deo proprium. Dicitur enim Danielis XII, quod qui ad iustitiam erudiunt plurimos, erunt quasi stellae in perpetuas aeternitates. Non autem essent plures aeternitates, si solus Deus esset aeternus. Non igitur solus Deus est aeternus.
+
+@@ I q. 10 a. 3 arg. 2
+Praeterea, Matth. XXV dicitur, ite, maledicti, in ignem aeternum. Non igitur solus Deus est aeternus.
+
+@@ I q. 10 a. 3 arg. 3
+Praeterea, omne necessarium est aeternum. Sed multa sunt necessaria; sicut omnia principia demonstrationis, et omnes propositiones demonstrativae. Ergo non solus Deus est aeternus.
+
+@@ I q. 10 a. 3 s. c.
+Sed contra est quod dicit Hieronymus, ad Marcellam, Deus solus est qui exordium non habet. Quidquid autem exordium habet, non est aeternum. Solus ergo Deus est aeternus.
+
+@@ I q. 10 a. 3 co.
+Respondeo dicendum quod aeternitas vere et proprie in solo Deo est. Quia aeternitas immutabilitatem consequitur, ut ex dictis patet. Solus autem Deus est omnino immutabilis, ut est superius ostensum. Secundum tamen quod aliqua ab ipso immutabilitatem percipiunt, secundum hoc aliqua eius aeternitatem participant. Quaedam ergo quantum ad hoc immutabilitatem sortiuntur a Deo, quod nunquam esse desinunt, et secundum hoc dicitur Eccle. I de terra, quod in aeternum stat. Quaedam etiam aeterna in Scripturis dicuntur propter diuturnitatem durationis, licet corruptibilia sint, sicut in Psalmo dicuntur montes aeterni; et Deuter. XXXIII etiam dicitur, de pomis collium aeternorum. Quaedam autem amplius participant de ratione aeternitatis, inquantum habent intransmutabilitatem vel secundum esse, vel ulterius secundum operationem, sicut Angeli et beati, qui verbo fruuntur, quia quantum ad illam visionem verbi, non sunt in sanctis volubiles cogitationes, ut dicit Augustinus, XV de Trin. Unde et videntes Deum dicuntur habere vitam aeternam, secundum illud Ioann. XVII, haec est vita aeterna, ut cognoscant et cetera.
+
+@@ I q. 10 a. 3 ad 1
+Ad primum ergo dicendum quod dicuntur multae aeternitates, secundum quod sunt multi participantes aeternitatem ex ipsa Dei contemplatione.
+
+@@ I q. 10 a. 3 ad 2
+Ad secundum dicendum quod ignis Inferni dicitur aeternus propter interminabilitatem tantum. Est tamen in poenis eorum transmutatio, secundum illud Iob XXIV, ad nimium calorem transibunt ab aquis nivium. Unde in Inferno non est vera aeternitas, sed magis tempus; secundum illud Psalmi, erit tempus eorum in saecula.
+
+@@ I q. 10 a. 3 ad 3
+Ad tertium dicendum quod necessarium significat quendam modum veritatis. Verum autem, secundum philosophum, VI Metaphys., est in intellectu. Secundum hoc igitur vera et necessaria sunt aeterna, quia sunt in intellectu aeterno, qui est intellectus divinus solus. Unde non sequitur quod aliquid extra Deum sit aeternum.
+
+@@ I q. 10 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod aeternitas non sit aliud a tempore. Impossibile est enim duas esse mensuras durationis simul, nisi una sit pars alterius, non enim sunt simul duo dies vel duae horae; sed dies et hora sunt simul, quia hora est pars diei. Sed aeternitas et tempus sunt simul, quorum utrumque mensuram quandam durationis importat. Cum igitur aeternitas non sit pars temporis, quia aeternitas excedit tempus et includit ipsum; videtur quod tempus sit pars aeternitatis, et non aliud ab aeternitate.
+
+@@ I q. 10 a. 4 arg. 2
+Praeterea, secundum philosophum in IV Physic., nunc temporis manet idem in toto tempore. Sed hoc videtur constituere rationem aeternitatis, quod sit idem indivisibiliter se habens in toto decursu temporis. Ergo aeternitas est nunc temporis. Sed nunc temporis non est aliud secundum substantiam a tempore. Ergo aeternitas non est aliud secundum substantiam a tempore.
+
+@@ I q. 10 a. 4 arg. 3
+Praeterea, sicut mensura primi motus est mensura omnium motuum, ut dicitur in IV Physic., ita videtur quod mensura primi esse sit mensura omnis esse. Sed aeternitas est mensura primi esse, quod est esse divinum. Ergo aeternitas est mensura omnis esse. Sed esse rerum corruptibilium mensuratur tempore. Ergo tempus vel est aeternitas, vel aliquid aeternitatis.
+
+@@ I q. 10 a. 4 s. c.
+Sed contra est quod aeternitas est tota simul, in tempore autem est prius et posterius. Ergo tempus et aeternitas non sunt idem.
+
+@@ I q. 10 a. 4 co.
+Respondeo dicendum quod manifestum est tempus et aeternitatem non esse idem. Sed huius diversitatis rationem quidam assignaverunt ex hoc quod aeternitas caret principio et fine, tempus autem habet principium et finem. Sed haec est differentia per accidens, et non per se. Quia dato quod tempus semper fuerit et semper futurum sit, secundum positionem eorum qui motum caeli ponunt sempiternum, adhuc remanebit differentia inter aeternitatem et tempus, ut dicit Boetius in libro de Consolat., ex hoc quod aeternitas est tota simul, quod tempori non convenit, quia aeternitas est mensura esse permanentis, tempus vero est mensura motus. Si tamen praedicta differentia attendatur quantum ad mensurata, et non quantum ad mensuras, sic habet aliquam rationem, quia solum illud mensuratur tempore, quod habet principium et finem in tempore, ut dicitur in IV Physic. Unde si motus caeli semper duraret, tempus non mensuraret ipsum secundum suam totam durationem, cum infinitum non sit mensurabile; sed mensuraret quamlibet circulationem, quae habet principium et finem in tempore. Potest tamen et aliam rationem habere ex parte istarum mensurarum, si accipiatur finis et principium in potentia. Quia etiam dato quod tempus semper duret, tamen possibile est signare in tempore et principium et finem, accipiendo aliquas partes ipsius, sicut dicimus principium et finem diei vel anni, quod non contingit in aeternitate. Sed tamen istae differentiae consequuntur eam quae est per se et primo, differentiam, per hoc quod aeternitas est tota simul, non autem tempus.
+
+@@ I q. 10 a. 4 ad 1
+Ad primum ergo dicendum quod ratio illa procederet, si tempus et aeternitas essent mensurae unius generis, quod patet esse falsum, ex his quorum est tempus et aeternitas mensura.
+
+@@ I q. 10 a. 4 ad 2
+Ad secundum dicendum quod nunc temporis est idem subiecto in toto tempore, sed differens ratione, eo quod, sicut tempus respondet motui, ita nunc temporis respondet mobili; mobile autem est idem subiecto in toto decursu temporis, sed differens ratione, inquantum est hic et ibi. Et ista alternatio est motus. Similiter fluxus ipsius nunc, secundum quod alternatur ratione, est tempus. Aeternitas autem manet eadem et subiecto et ratione. Unde aeternitas non est idem quod nunc temporis.
+
+@@ I q. 10 a. 4 ad 3
+Ad tertium dicendum quod, sicut aeternitas est propria mensura ipsius esse, ita tempus est propria mensura motus. Unde secundum quod aliquod esse recedit a permanentia essendi et subditur transmutationi, secundum hoc recedit ab aeternitate et subditur tempori. Esse ergo rerum corruptibilium, quia est transmutabile, non mensuratur aeternitate, sed tempore. Tempus enim mensurat non solum quae transmutantur in actu, sed quae sunt transmutabilia. Unde non solum mensurat motum, sed etiam quietem; quae est eius quod natum est moveri, et non movetur.
+
+@@ I q. 10 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod aevum non sit aliud a tempore. Dicit enim Augustinus, VIII super Gen. ad Litt., quod Deus movet creaturam spiritualem per tempus. Sed aevum dicitur esse mensura spiritualium substantiarum. Ergo tempus non differt ab aevo.
+
+@@ I q. 10 a. 5 arg. 2
+Praeterea, de ratione temporis est quod habeat prius et posterius, de ratione vero aeternitatis est quod sit tota simul, ut dictum est. Sed aevum non est aeternitas, dicitur enim Eccli. I, quod sapientia aeterna est ante aevum. Ergo non est totum simul, sed habet prius et posterius, et ita est tempus.
+
+@@ I q. 10 a. 5 arg. 3
+Praeterea, si in aevo non est prius et posterius, sequitur quod in aeviternis non differat esse vel fuisse vel futurum esse. Cum igitur sit impossibile aeviterna non fuisse, sequitur quod impossibile sit ea non futura esse. Quod falsum est, cum Deus possit ea reducere in nihilum.
+
+@@ I q. 10 a. 5 arg. 4
+Praeterea, cum duratio aeviternorum sit infinita ex parte post, si aevum sit totum simul, sequitur quod aliquod creatum sit infinitum in actu, quod est impossibile. Non igitur aevum differt a tempore.
+
+@@ I q. 10 a. 5 s. c.
+Sed contra est quod dicit Boetius, qui tempus ab aevo ire iubes.
+
+@@ I q. 10 a. 5 co.
+Respondeo dicendum quod aevum differt a tempore et ab aeternitate, sicut medium existens inter illa. Sed horum differentiam aliqui sic assignant, dicentes quod aeternitas principio et fine caret; aevum habet principium, sed non finem; tempus autem habet principium et finem. Sed haec differentia est per accidens, sicut supra dictum est, quia si etiam semper aeviterna fuissent et semper futura essent, ut aliqui ponunt; vel etiam si quandoque deficerent, quod Deo possibile esset, adhuc aevum distingueretur ab aeternitate et tempore. Alii vero assignant differentiam inter haec tria, per hoc quod aeternitas non habet prius et posterius; tempus autem habet prius et posterius cum innovatione et veteratione; aevum habet prius et posterius sine innovatione et veteratione. Sed haec positio implicat contradictoria. Quod quidem manifeste apparet, si innovatio et veteratio referantur ad ipsam mensuram. Cum enim prius et posterius durationis non possint esse simul, si aevum habet prius et posterius, oportet quod, priore parte aevi recedente, posterior de novo adveniat, et sic erit innovatio in ipso aevo, sicut in tempore. Si vero referantur ad mensurata, adhuc sequitur inconveniens. Ex hoc enim res temporalis inveteratur tempore, quod habet esse transmutabile, et ex transmutabilitate mensurati, est prius et posterius in mensura, ut patet ex IV Physic. Si igitur ipsum aeviternum non sit inveterabile nec innovabile, hoc erit quia esse eius est intransmutabile. Mensura ergo eius non habebit prius et posterius. Est ergo dicendum quod, cum aeternitas sit mensura esse permanentis, secundum quod aliquid recedit a permanentia essendi, secundum hoc recedit ab aeternitate. Quaedam autem sic recedunt a permanentia essendi, quod esse eorum est subiectum transmutationis, vel in transmutatione consistit, et huiusmodi mensurantur tempore; sicut omnis motus, et etiam esse omnium corruptibilium. Quaedam vero recedunt minus a permanentia essendi, quia esse eorum nec in transmutatione consistit, nec est subiectum transmutationis, tamen habent transmutationem adiunctam, vel in actu vel in potentia. Sicut patet in corporibus caelestibus, quorum esse substantiale est intransmutabile; tamen esse intransmutabile habent cum transmutabilitate secundum locum. Et similiter patet de Angelis, quod habent esse intransmutabile cum transmutabilitate secundum electionem, quantum ad eorum naturam pertinet; et cum transmutabilitate intelligentiarum et affectionum, et locorum suo modo. Et ideo huiusmodi mensurantur aevo, quod est medium inter aeternitatem et tempus. Esse autem quod mensurat aeternitas, nec est mutabile, nec mutabilitati adiunctum. Sic ergo tempus habet prius et posterius, aevum autem non habet in se prius et posterius, sed ei coniungi possunt, aeternitas autem non habet prius neque posterius, neque ea compatitur.
+
+@@ I q. 10 a. 5 ad 1
+Ad primum ergo dicendum quod creaturae spirituales, quantum ad affectiones et intelligentias, in quibus est successio, mensurantur tempore. Unde et Augustinus ibidem dicit quod per tempus moveri, est per affectiones moveri. Quantum vero ad eorum esse naturale, mensurantur aevo. Sed quantum ad visionem gloriae, participant aeternitatem.
+
+@@ I q. 10 a. 5 ad 2
+Ad secundum dicendum quod aevum est totum simul, non tamen est aeternitas, quia compatitur secum prius et posterius.
+
+@@ I q. 10 a. 5 ad 3
+Ad tertium dicendum quod in ipso esse Angeli in se considerato, non est differentia praeteriti et futuri, sed solum secundum adiunctas mutationes. Sed quod dicimus Angelum esse vel fuisse vel futurum esse, differt secundum acceptionem intellectus nostri, qui accipit esse Angeli per comparationem ad diversas partes temporis. Et cum dicit Angelum esse vel fuisse, supponit aliquid cum quo eius oppositum non subditur divinae potentiae, cum vero dicit futurum esse, nondum supponit aliquid. Unde, cum esse et non esse Angeli subsit divinae potentiae, absolute considerando, potest Deus facere quod esse Angeli non sit futurum, tamen non potest facere quod non sit dum est, vel quod non fuerit postquam fuit.
+
+@@ I q. 10 a. 5 ad 4
+Ad quartum dicendum quod duratio aevi est infinita, quia non finitur tempore. Sic autem esse aliquod creatum infinitum, quod non finiatur quodam alio, non est inconveniens.
+
+@@ I q. 10 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod non sit tantum unum aevum. Dicitur enim in apocryphis Esdrae, maiestas et potestas aevorum est apud te, domine.
+
+@@ I q. 10 a. 6 arg. 2
+Praeterea, diversorum generum diversae sunt mensurae. Sed quaedam aeviterna sunt in genere corporalium, scilicet corpora caelestia, quaedam vero sunt spirituales substantiae, scilicet Angeli. Non ergo est unum aevum tantum.
+
+@@ I q. 10 a. 6 arg. 3
+Praeterea, cum aevum sit nomen durationis, quorum est unum aevum, est una duratio. Sed non omnium aeviternorum est una duratio, quia quaedam post alia esse incipiunt, ut maxime patet in animabus humanis. Non est ergo unum aevum tantum.
+
+@@ I q. 10 a. 6 arg. 4
+Praeterea, ea quae non dependent ab invicem, non videntur habere unam mensuram durationis, propter hoc enim omnium temporalium videtur esse unum tempus, quia omnium motuum quodammodo causa est primus motus, qui prius tempore mensuratur. Sed aeviterna non dependent ab invicem, quia unus Angelus non est causa alterius. Non ergo est unum aevum tantum.
+
+@@ I q. 10 a. 6 s. c.
+Sed contra, aevum est simplicius tempore, et propinquius se habens ad aeternitatem. Sed tempus est unum tantum. Ergo multo magis aevum.
+
+@@ I q. 10 a. 6 co.
+Respondeo dicendum quod circa hoc est duplex opinio, quidam enim dicunt quod est unum aevum tantum; quidam quod multa. Quid autem horum verius sit, oportet considerare ex causa unitatis temporis, in cognitionem enim spiritualium per corporalia devenimus. Dicunt autem quidam esse unum tempus omnium temporalium, propter hoc quod est unus numerus omnium numeratorum, cum tempus sit numerus, secundum philosophum. Sed hoc non sufficit, quia tempus non est numerus ut abstractus extra numeratum, sed ut in numerato existens, alioquin non esset continuus; quia decem ulnae panni continuitatem habent, non ex numero, sed ex numerato. Numerus autem in numerato existens non est idem omnium, sed diversus diversorum. Unde alii assignant causam unitatis temporis ex unitate aeternitatis, quae est principium omnis durationis. Et sic, omnes durationes sunt unum, si consideretur earum principium, sunt vero multae, si consideretur diversitas eorum quae recipiunt durationem ex influxu primi principii. Alii vero assignant causam unitatis temporis ex parte materiae primae, quae est primum subiectum motus, cuius mensura est tempus. Sed neutra assignatio sufficiens videtur, quia ea quae sunt unum principio vel subiecto, et maxime remoto, non sunt unum simpliciter sed secundum quid. Est ergo ratio unitatis temporis, unitas primi motus, secundum quem, cum sit simplicissimus, omnes alii mensurantur, ut dicitur in X Metaphys. Sic ergo tempus ad illum motum comparatur non solum ut mensura ad mensuratum, sed etiam ut accidens ad subiectum; et sic ab eo recipit unitatem. Ad alios autem motus comparatur solum ut mensura ad mensuratum. Unde secundum eorum multitudinem non multiplicatur, quia una mensura separata multa mensurari possunt. Hoc igitur habito, sciendum quod de substantiis spiritualibus duplex fuit opinio. Quidam enim dixerunt quod omnes processerunt a Deo in quadam aequalitate, ut Origenes dixit; vel etiam multae earum, ut quidam posuerunt. Alii vero dixerunt quod omnes substantiae spirituales processerunt a Deo quodam gradu et ordine et hoc videtur sentire Dionysius, qui dicit, cap. X Cael. Hier., quod inter substantias spirituales sunt primae, mediae et ultimae, etiam in uno ordine Angelorum. Secundum igitur primam opinionem, necesse est dicere quod sunt plura aeva, secundum quod sunt plura aeviterna prima aequalia. Secundum autem secundam opinionem, oportet dicere quod sit unum aevum tantum, quia, cum unumquodque mensuretur simplicissimo sui generis, ut dicitur in X Metaphys., oportet quod esse omnium aeviternorum mensuretur esse primi aeviterni, quod tanto est simplicius, quanto prius. Et quia secunda opinio verior est, ut infra ostendetur, concedimus ad praesens unum esse aevum tantum.
+
+@@ I q. 10 a. 6 ad 1
+Ad primum ergo dicendum quod aevum aliquando accipitur pro saeculo, quod est periodus durationis alicuius rei, et sic dicuntur multa aeva, sicut multa saecula.
+
+@@ I q. 10 a. 6 ad 2
+Ad secundum dicendum quod, licet corpora caelestia et spiritualia differant in genere naturae, tamen conveniunt in hoc, quod habent esse intransmutabile. Et sic mensurantur aevo.
+
+@@ I q. 10 a. 6 ad 3
+Ad tertium dicendum quod nec omnia temporalia simul incipiunt, et tamen omnium est unum tempus, propter primum quod mensuratur tempore. Et sic omnia aeviterna habent unum aevum propter primum, etiam si non omnia simul incipiant.
+
+@@ I q. 10 a. 6 ad 4
+Ad quartum dicendum quod ad hoc quod aliqua mensurentur per aliquod unum, non requiritur quod illud unum sit causa omnium eorum; sed quod sit simplicius.

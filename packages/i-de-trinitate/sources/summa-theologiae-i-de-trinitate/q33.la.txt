@@ -1,0 +1,116 @@
+@@ I q. 33 pr.
+Consequenter considerandum est de personis in speciali. Et primo de persona patris. Circa quam quaeruntur quatuor. Primo, utrum patri competat esse principium. Secundo, utrum persona patris proprie significetur hoc nomine pater. Tertio, utrum per prius dicatur in divinis pater secundum quod sumitur personaliter, quam secundum quod sumitur essentialiter. Quarto, utrum sit proprium patri esse ingenitum.
+
+@@ I q. 33 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod pater non possit dici principium filii vel spiritus sancti. Principium enim et causa idem sunt, secundum philosophum. Sed non dicimus patrem esse causam filii. Ergo non debet dici quod sit eius principium.
+
+@@ I q. 33 a. 1 arg. 2
+Praeterea, principium dicitur respectu principiati. Si igitur pater est principium filii, sequitur filium esse principiatum, et per consequens esse creatum. Quod videtur esse erroneum.
+
+@@ I q. 33 a. 1 arg. 3
+Praeterea, nomen principii a prioritate sumitur. Sed in divinis non est prius et posterius, ut Athanasius dicit. Ergo in divinis non debemus uti nomine principii.
+
+@@ I q. 33 a. 1 s. c.
+Sed contra est quod dicit Augustinus, in IV de Trin., pater est principium totius deitatis.
+
+@@ I q. 33 a. 1 co.
+Respondeo dicendum quod hoc nomen principium nihil aliud significat quam id a quo aliquid procedit, omne enim a quo aliquid procedit quocumque modo, dicimus esse principium; et e converso. Cum ergo pater sit a quo procedit alius, sequitur quod pater est principium.
+
+@@ I q. 33 a. 1 ad 1
+Ad primum ergo dicendum quod Graeci utuntur in divinis indifferenter nomine causae, sicut et nomine principii, sed Latini doctores non utuntur nomine causae, sed solum nomine principii. Cuius ratio est, quia principium communius est quam causa, sicut causa communius quam elementum, primus enim terminus, vel etiam prima pars rei dicitur principium, sed non causa. Quanto autem aliquod nomen est communius, tanto convenientius assumitur in divinis, ut supra dictum est, quia nomina, quanto magis specialia sunt, tanto magis determinant modum convenientem creaturae. Unde hoc nomen causa videtur importare diversitatem substantiae, et dependentiam alicuius ab altero; quam non importat nomen principii. In omnibus enim causae generibus, semper invenitur distantia inter causam et id cuius est causa, secundum aliquam perfectionem aut virtutem. Sed nomine principii utimur etiam in his quae nullam huiusmodi differentiam habent, sed solum secundum quendam ordinem, sicut cum dicimus punctum esse principium lineae, vel etiam cum dicimus primam partem lineae esse principium lineae.
+
+@@ I q. 33 a. 1 ad 2
+Ad secundum dicendum quod apud Graecos invenitur de filio vel spiritu sancto dici quod principientur. Sed hoc non est in usu doctorum nostrorum. Quia licet attribuamus patri aliquid auctoritatis ratione principii, nihil tamen ad subiectionem vel minorationem quocumque modo pertinens, attribuimus filio vel spiritui sancto, ut vitetur omnis erroris occasio. Secundum quem modum Hilarius dicit, IX de Trin., donantis auctoritate pater maior est; sed minor non est filius, cui unum esse donatur.
+
+@@ I q. 33 a. 1 ad 3
+Ad tertium dicendum quod, licet hoc nomen principium, quantum ad id a quo imponitur ad significandum, videatur a prioritate sumptum; non tamen significat prioritatem, sed originem. Non enim idem est quod significat nomen, et a quo nomen imponitur, ut supra dictum est.
+
+@@ I q. 33 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod hoc nomen pater non sit proprie nomen divinae personae. Hoc enim nomen pater significat relationem. Persona autem est substantia individua. Non ergo hoc nomen pater est proprie nomen significativum personae.
+
+@@ I q. 33 a. 2 arg. 2
+Praeterea, generans communius est quam pater, nam omnis pater est generans, sed non e converso. Sed nomen communius magis proprie dicitur in divinis, ut dictum est. Ergo magis proprium nomen est personae divinae generans et genitor, quam pater.
+
+@@ I q. 33 a. 2 arg. 3
+Praeterea, nihil quod secundum metaphoram dicitur, potest esse nomen proprium alicuius. Sed verbum metaphorice apud nos dicitur genitum vel proles, et per consequens ille cuius est verbum, metaphorice dicitur pater. Non ergo principium verbi in divinis potest proprie dici pater.
+
+@@ I q. 33 a. 2 arg. 4
+Praeterea, omne quod proprie dicitur in divinis, per prius dicitur de Deo quam de creaturis. Sed generatio per prius videtur dici de creaturis quam de Deo, verior enim ibi videtur esse generatio, ubi aliquid procedit ab alio distinctum non secundum relationem tantum, sed etiam secundum essentiam. Ergo nomen patris, quod a generatione sumitur, non videtur esse proprium alicuius divinae personae.
+
+@@ I q. 33 a. 2 s. c.
+Sed contra est quod dicitur in Psalmo, ipse invocabit me, pater meus es tu.
+
+@@ I q. 33 a. 2 co.
+Respondeo dicendum quod nomen proprium cuiuslibet personae significat id per quod illa persona distinguitur ab omnibus aliis. Sicut enim de ratione hominis est anima et corpus, ita de intellectu huius hominis est haec anima et hoc corpus, ut dicitur in VII Metaphys.; his autem hic homo ab omnibus aliis distinguitur. Id autem per quod distinguitur persona patris ab omnibus aliis, est paternitas. Unde proprium nomen personae patris est hoc nomen pater, quod significat paternitatem.
+
+@@ I q. 33 a. 2 ad 1
+Ad primum ergo dicendum quod apud nos relatio non est subsistens persona, et ideo hoc nomen pater, apud nos, non significat personam, sed relationem personae. Non autem est ita in divinis, ut quidam falso opinati sunt, nam relatio quam significat hoc nomen pater, est subsistens persona. Unde supra dictum est quod hoc nomen persona in divinis significat relationem ut subsistentem in divina natura.
+
+@@ I q. 33 a. 2 ad 2
+Ad secundum dicendum quod, secundum philosophum, in II de anima, denominatio rei maxime debet fieri a perfectione et fine. Generatio autem significat ut in fieri, sed paternitas significat complementum generationis. Et ideo potius est nomen divinae personae pater, quam generans vel genitor.
+
+@@ I q. 33 a. 2 ad 3
+Ad tertium dicendum quod verbum non est aliquid subsistens in natura humana, unde non proprie potest dici genitum vel filius. Sed verbum divinum est aliquid subsistens in natura divina, unde proprie, et non metaphorice, dicitur filius, et eius principium, pater.
+
+@@ I q. 33 a. 2 ad 4
+Ad quartum dicendum quod nomen generationis et paternitatis, sicut et alia nomina quae proprie dicuntur in divinis, per prius dicuntur de Deo quam de creaturis, quantum ad rem significatam, licet non quantum ad modum significandi. Unde et apostolus dicit, ad Ephes. III, flecto genua mea ad patrem domini nostri Iesu Christi, ex quo omnis paternitas in caelo et in terra nominatur. Quod sic apparet. Manifestum est enim quod generatio accipit speciem a termino, qui est forma generati. Et quanto haec fuerit propinquior formae generantis, tanto verior et perfectior est generatio; sicut generatio univoca est perfectior quam non univoca, nam de ratione generantis est, quod generet sibi simile secundum formam. Unde hoc ipsum quod in generatione divina est eadem numero forma generantis et geniti, in rebus autem creatis non est eadem numero, sed specie tantum, ostendit quod generatio, et per consequens paternitas, per prius sit in Deo quam in creaturis. Unde hoc ipsum quod in divinis est distinctio geniti a generante secundum relationem tantum, ad veritatem divinae generationis et paternitatis pertinet.
+
+@@ I q. 33 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod hoc nomen pater non dicatur in divinis per prius secundum quod personaliter sumitur. Commune enim, secundum intellectum, est prius proprio. Sed hoc nomen pater, secundum quod personaliter sumitur, est proprium personae patris, secundum vero quod sumitur essentialiter est commune toti Trinitati, nam toti Trinitati dicimus pater noster. Ergo per prius dicitur pater essentialiter sumptum, quam personaliter.
+
+@@ I q. 33 a. 3 arg. 2
+Praeterea, in his quae sunt eiusdem rationis, non est praedicatio per prius et posterius. Sed paternitas et filiatio secundum unam rationem videntur dici secundum quod persona divina est pater filii, et secundum quod tota Trinitas est pater noster vel creaturae, cum, secundum Basilium, accipere sit commune creaturae et filio. Ergo non per prius dicitur pater in divinis secundum quod sumitur essentialiter, quam secundum quod sumitur personaliter.
+
+@@ I q. 33 a. 3 arg. 3
+Praeterea, inter ea quae non dicuntur secundum rationem unam, non potest esse comparatio. Sed filius comparatur creaturae in ratione filiationis vel generationis, secundum illud Coloss. I, qui est imago Dei invisibilis, primogenitus omnis creaturae. Ergo non per prius dicitur in divinis paternitas personaliter sumpta, quam essentialiter; sed secundum rationem eandem.
+
+@@ I q. 33 a. 3 s. c.
+Sed contra est quod aeternum prius est temporali. Ab aeterno autem Deus est pater filii, ex tempore autem pater est creaturae. Ergo per prius dicitur paternitas in Deo respectu filii, quam respectu creaturae.
+
+@@ I q. 33 a. 3 co.
+Respondeo dicendum quod per prius dicitur nomen de illo in quo salvatur tota ratio nominis perfecte, quam de illo in quo salvatur secundum aliquid, de hoc enim dicitur quasi per similitudinem ad id in quo perfecte salvatur, quia omnia imperfecta sumuntur a perfectis. Et inde est quod hoc nomen leo per prius dicitur de animali in quo tota ratio leonis salvatur, quod proprie dicitur leo, quam de aliquo homine in quo invenitur aliquid de ratione leonis, ut puta audacia vel fortitudo, vel aliquid huiusmodi, de hoc enim per similitudinem dicitur. Manifestum est autem ex praemissis quod perfecta ratio paternitatis et filiationis invenitur in Deo patre et Deo filio, quia patris et filii una est natura et gloria. Sed in creatura filiatio invenitur respectu Dei, non secundum perfectam rationem, cum non sit una natura creatoris et creaturae; sed secundum aliqualem similitudinem. Quae quanto perfectior fuerit, tanto propinquius acceditur ad veram filiationis rationem. Dicitur enim Deus alicuius creaturae pater, propter similitudinem vestigii tantum, utpote irrationalium creaturarum; secundum illud Iob XXXVIII, quis est pluviae pater? Aut quis genuit stillas roris? Alicuius vero creaturae, scilicet rationalis, secundum similitudinem imaginis; secundum illud Deut. XXXII, nonne ipse est pater tuus, qui possedit et fecit et creavit te? Aliquorum vero est pater secundum similitudinem gratiae, qui etiam dicuntur filii adoptivi, secundum quod ordinantur ad haereditatem aeternae gloriae per munus gratiae acceptum; secundum illud Rom. VIII, ipse spiritus reddit testimonium spiritui nostro, quod sumus filii Dei; si autem filii, et haeredes. Aliquorum vero secundum similitudinem gloriae, prout iam gloriae haereditatem possident; secundum illud Rom. V, gloriamur in spe gloriae filiorum Dei. Sic igitur patet quod per prius paternitas dicitur in divinis secundum quod importatur respectus personae ad personam, quam secundum quod importatur respectus Dei ad creaturam.
+
+@@ I q. 33 a. 3 ad 1
+Ad primum ergo dicendum quod communia absolute dicta, secundum ordinem intellectus nostri, sunt priora quam propria, quia includuntur in intellectu propriorum, sed non e converso; in intellectu enim personae patris intelligitur Deus, sed non convertitur. Sed communia quae important respectum ad creaturam, per posterius dicuntur quam propria quae important respectus personales, quia persona procedens in divinis, procedit ut principium productionis creaturarum. Sicut enim verbum conceptum in mente artificis, per prius intelligitur procedere ab artifice quam artificiatum, quod producitur ad similitudinem verbi concepti in mente; ita per prius procedit filius a patre quam creatura, de qua nomen filiationis dicitur secundum quod aliquid participat de similitudine filii; ut patet per illud quod dicitur Rom. VIII, quos praescivit, et praedestinavit fieri conformes imaginis filii eius.
+
+@@ I q. 33 a. 3 ad 2
+Ad secundum dicendum quod accipere dicitur esse commune creaturae et filio, non secundum univocationem, sed secundum similitudinem quandam remotam, ratione cuius dicitur primogenitus creaturae. Unde in auctoritate inducta subditur, ut sit ipse primogenitus in multis fratribus, postquam dixerat conformes fieri aliquos imaginis filii Dei. Sed filius Dei naturaliter habet quoddam singulare prae aliis, scilicet habere per naturam id quod accipit; ut idem Basilius dicit. Et secundum hoc dicitur unigenitus, ut patet Ioan. I, unigenitus, qui est in sinu patris, ipse nobis enarravit.
+
+@@ I q. 33 a. 3 ad 3
+Et per hoc patet solutio ad tertium.
+
+@@ I q. 33 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod esse ingenitum non sit patri proprium. Omnis enim proprietas ponit aliquid in eo cuius est proprietas. Sed ingenitus nihil ponit in patre, sed removet tantum. Ergo non significat proprietatem patris.
+
+@@ I q. 33 a. 4 arg. 2
+Praeterea, ingenitum aut dicitur privative, aut negative. Si negative, tunc quidquid non est genitum, potest dici ingenitum. Sed spiritus sanctus non est genitus, neque etiam essentia divina. Ergo ingenitum etiam eis convenit, et sic non est proprium patri. Si autem privative sumatur, cum omnis privatio significet imperfectionem in privato, sequitur quod persona patris sit imperfecta. Quod est impossibile.
+
+@@ I q. 33 a. 4 arg. 3
+Praeterea, ingenitus in divinis non significat relationem, quia non dicitur relative, significat ergo substantiam. Ingenitus igitur et genitus secundum substantiam differunt. Filius autem, qui est genitus, non differt a patre secundum substantiam. Pater ergo non debet dici ingenitus.
+
+@@ I q. 33 a. 4 arg. 4
+Praeterea, proprium est quod uni soli convenit. Sed cum sint plures ab alio procedentes in divinis, nihil videtur prohibere quin etiam sint plures ab alio non existentes. Non igitur est proprium patri esse ingenitum.
+
+@@ I q. 33 a. 4 arg. 5
+Praeterea, sicut pater est principium personae genitae, ita et personae procedentis. Si ergo propter oppositionem quam habet ad personam genitam, proprium patris ponitur esse quod sit ingenitus; etiam proprium eius debet poni quod sit improcessibilis.
+
+@@ I q. 33 a. 4 s. c.
+Sed contra est quod dicit Hilarius, IV de Trin.: est unus ab uno, scilicet ab ingenito genitus, proprietate videlicet in unoquoque et innascibilitatis et originis.
+
+@@ I q. 33 a. 4 co.
+Respondeo dicendum quod, sicut in creaturis invenitur principium primum et principium secundum, ita in personis divinis, in quibus non est prius et posterius, invenitur principium non de principio, quod est pater, et principium a principio, quod est filius. In rebus autem creatis aliquod principium primum innotescit dupliciter, uno quidem modo, inquantum est principium primum per hoc quod habet relationem ad ea quae ab ipso sunt; alio modo, inquantum est primum principium per hoc quod non est ab alio. Sic igitur et pater innotescit quidem paternitate et communi spiratione, per respectum ad personas ab eo procedentes, inquantum autem est principium non de principio, innotescit per hoc, quod non est ab alio, quod pertinet ad proprietatem innascibilitatis, quam significat hoc nomen ingenitus.
+
+@@ I q. 33 a. 4 ad 1
+Ad primum ergo dicendum quod quidam dicunt quod innascibilitas, quam significat hoc nomen ingenitus, secundum quod est proprietas patris, non dicitur tantum negative; sed importat vel utrumque simul, scilicet quod pater a nullo est, et quod est principium aliorum; vel importat universalem auctoritatem; vel etiam fontalem plenitudinem. Sed hoc non videtur verum. Quia sic innascibilitas non esset alia proprietas a paternitate et spiratione, sed includeret eas, sicut includitur proprium in communi, nam fontalitas et auctoritas nihil aliud significant in divinis quam principium originis. Et ideo dicendum est, secundum Augustinum, V de Trin., quod ingenitus negationem generationis passivae importat, dicit enim quod tantum valet quod dicitur ingenitus, quantum valet quod dicitur non filius. Nec propter hoc sequitur quod ingenitus non debeat poni propria notio patris, quia prima et simplicia per negationes notificantur; sicut dicimus punctum esse cuius pars non est.
+
+@@ I q. 33 a. 4 ad 2
+Ad secundum dicendum quod ingenitum quandoque sumitur negative tantum. Et secundum hoc Hieronymus dicit spiritum sanctum esse ingenitum, idest non genitum. Alio modo potest dici ingenitum aliquo modo privative, non tamen aliquam imperfectionem importat. Multipliciter enim dicitur privatio. Uno modo, quando aliquid non habet quod natum est haberi ab alio, etiamsi ipsum non sit natum habere illud, sicut si lapis dicatur res mortua, quia caret vita, quam quaedam res natae sunt habere. Alio modo dicitur privatio, quando aliquid non habet quod natum est haberi ab aliquo sui generis; sicut si talpa dicatur caeca. Tertio modo, quando ipsum non habet quod natum est habere, et hoc modo privatio imperfectionem importat. Sic autem ingenitum non dicitur privative de patre, sed secundo modo, prout scilicet aliquod suppositum divinae naturae non est genitum, cuius tamen naturae aliquod suppositum est genitum. Sed secundum hanc rationem, etiam de spiritu sancto potest dici ingenitum. Unde ad hoc quod sit proprium soli patri, oportet ulterius in nomine ingeniti intelligere, quod conveniat alicui personae divinae quae sit principium alterius personae; ut sic intelligatur importare negationem in genere principii personaliter dicti in divinis. Vel, ut intelligatur in nomine ingeniti, quod omnino non sit ab alio, et non solum quod non sit ab alio per generationem. Sic enim nec spiritui sancto convenit esse ingenitum, qui est ab alio per processionem ut persona subsistens, nec etiam divinae essentiae, de qua potest dici quod est in filio vel in spiritu sancto ab alio, scilicet a patre.
+
+@@ I q. 33 a. 4 ad 3
+Ad tertium dicendum quod, secundum Damascenum, ingenitum uno modo significat idem quod increatum, et sic secundum substantiam dicitur; per hoc enim differt substantia creata ab increata. Alio modo significat id quod non est genitum. Et sic relative dicitur, eo modo quo negatio reducitur ad genus affirmationis, sicut non homo ad genus substantiae, et non album ad genus qualitatis. Unde, cum genitum in divinis relationem importet, ingenitum etiam ad relationem pertinet. Et sic non sequitur quod pater ingenitus distinguatur a filio genito secundum substantiam; sed solum secundum relationem, inquantum scilicet relatio filii negatur de patre.
+
+@@ I q. 33 a. 4 ad 4
+Ad quartum dicendum quod, sicut in quolibet genere oportet ponere unum primum, ita in divina natura oportet ponere unum principium quod non sit ab alio, quod ingenitum dicitur. Ponere igitur duos innascibiles, est ponere duos deos, et duas naturas divinas. Unde Hilarius dicit, in libro de synodis, cum unus Deus sit, duo innascibiles esse non possunt. Et hoc praecipue quia, si essent duo innascibiles, unus eorum non esset ab alio, et sic non distinguerentur oppositione relativa oporteret igitur quod distinguerentur diversitate naturae.
+
+@@ I q. 33 a. 4 ad 5
+Ad quintum dicendum quod proprietas patris prout non est ab alio, potius significatur per remotionem nativitatis filii, quam per remotionem processionis spiritus sancti. Tum quia processio spiritus sancti non habet nomen speciale, ut supra dictum est. Tum quia etiam ordine naturae praesupponit generationem filii. Unde, remoto a patre quod non sit genitus, cum tamen sit principium generationis, sequitur consequenter quod non sit procedens processione spiritus sancti, quia spiritus sanctus non est generationis principium, sed a genito procedens.

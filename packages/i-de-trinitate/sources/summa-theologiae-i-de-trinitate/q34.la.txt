@@ -1,0 +1,104 @@
+@@ I q. 34 pr.
+Deinde considerandum est de persona filii. Attribuuntur autem tria nomina filio, scilicet filius, verbum et imago. Sed ratio filii ex ratione patris consideratur. Unde restat considerandum de verbo et imagine. Circa verbum quaeruntur tria. Primo, utrum verbum dicatur essentialiter in divinis, vel personaliter. Secundo, utrum sit proprium nomen filii. Tertio, utrum in nomine verbi importetur respectus ad creaturas.
+
+@@ I q. 34 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod verbum in divinis non sit nomen personale. Nomina enim personalia proprie dicuntur in divinis, ut pater et filius. Sed verbum metaphorice dicitur in divinis, ut Origenes dicit, super Ioannem. Ergo verbum non est personale in divinis.
+
+@@ I q. 34 a. 1 arg. 2
+Praeterea, secundum Augustinum, in libro de Trin., verbum est notitia cum amore. Et secundum Anselmum, in Monol., dicere summo spiritui nihil aliud est quam cogitando intueri. Sed notitia et cogitatio et intuitus in divinis essentialiter dicuntur. Ergo verbum non dicitur personaliter in divinis.
+
+@@ I q. 34 a. 1 arg. 3
+Praeterea, de ratione verbi est quod dicatur. Sed, secundum Anselmum, sicut pater est intelligens, et filius est intelligens, et spiritus sanctus est intelligens; ita pater est dicens, filius est dicens, et spiritus sanctus est dicens. Et similiter quilibet eorum dicitur. Ergo nomen verbi essentialiter dicitur in divinis, et non personaliter.
+
+@@ I q. 34 a. 1 arg. 4
+Praeterea, nulla persona divina est facta. Sed verbum Dei est aliquid factum, dicitur enim in Psalmo CXLVIII, ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum eius. Ergo verbum non est nomen personale in divinis.
+
+@@ I q. 34 a. 1 s. c.
+Sed contra est quod dicit Augustinus, in VII de Trin., sicut filius refertur ad patrem, ita et verbum ad id cuius est verbum. Sed filius est nomen personale, quia relative dicitur. Ergo et verbum.
+
+@@ I q. 34 a. 1 co.
+Respondeo dicendum quod nomen verbi in divinis, si proprie sumatur, est nomen personale, et nullo modo essentiale. Ad cuius evidentiam, sciendum est quod verbum tripliciter quidem in nobis proprie dicitur, quarto autem modo, dicitur improprie sive figurative. Manifestius autem et communius in nobis dicitur verbum quod voce profertur. Quod quidem ab interiori procedit quantum ad duo quae in verbo exteriori inveniuntur, scilicet vox ipsa, et significatio vocis. Vox enim significat intellectus conceptum, secundum philosophum, in libro I Periherm., et iterum vox ex imaginatione procedit, ut in libro de anima dicitur. Vox autem quae non est significativa, verbum dici non potest. Ex hoc ergo dicitur verbum vox exterior, quia significat interiorem mentis conceptum. Sic igitur primo et principaliter interior mentis conceptus verbum dicitur, secundario vero, ipsa vox interioris conceptus significativa, tertio vero, ipsa imaginatio vocis verbum dicitur. Et hos tres modos verbi ponit Damascenus, in I libro, cap. XIII, dicens quod verbum dicitur naturalis intellectus motus, secundum quem movetur et intelligit et cogitat, velut lux et splendor, quantum ad primum, rursus verbum est quod non verbo profertur, sed in corde pronuntiatur, quantum ad tertium, rursus etiam verbum est Angelus, idest nuntius, intelligentiae, quantum ad secundum. Dicitur autem figurative quarto modo verbum, id quod verbo significatur vel efficitur, sicut consuevimus dicere, hoc est verbum quod dixi tibi, vel quod mandavit rex, demonstrato aliquo facto quod verbo significatum est vel simpliciter enuntiantis, vel etiam imperantis. Dicitur autem proprie verbum in Deo, secundum quod verbum significat conceptum intellectus. Unde Augustinus dicit, in XV de Trin., quisquis potest intelligere verbum, non solum antequam sonet, verum etiam antequam sonorum eius imagines cogitatione involvantur, iam potest videre aliquam verbi illius similitudinem, de quo dictum est, in principio erat verbum. Ipse autem conceptus cordis de ratione sua habet quod ab alio procedat, scilicet a notitia concipientis. Unde verbum, secundum quod proprie dicitur in divinis, significat aliquid ab alio procedens, quod pertinet ad rationem nominum personalium in divinis, eo quod personae divinae distinguuntur secundum originem, ut dictum est. Unde oportet quod nomen verbi, secundum quod proprie in divinis accipitur, non sumatur essentialiter, sed personaliter tantum.
+
+@@ I q. 34 a. 1 ad 1
+Ad primum ergo dicendum quod Ariani, quorum fons Origenes invenitur, posuerunt filium alium a patre esse in diversitate substantiae. Unde conati sunt, cum filius Dei verbum dicitur, astruere non esse proprie dictum; ne, sub ratione verbi procedentis, cogerentur fateri filium Dei non esse extra substantiam patris; nam verbum interius sic a dicente procedit, quod in ipso manet. Sed necesse est, si ponitur verbum Dei metaphorice dictum, quod ponatur verbum Dei proprie dictum. Non enim potest aliquid metaphorice verbum dici, nisi ratione manifestationis, quia vel manifestat sicut verbum, vel est verbo manifestatum. Si autem est manifestatum verbo, oportet ponere verbum quo manifestetur. Si autem dicitur verbum quia exterius manifestat, ea quae exterius manifestant, non dicuntur verba nisi inquantum significant interiorem mentis conceptum, quem aliquis etiam per exteriora signa manifestat. Etsi ergo verbum aliquando dicatur metaphorice in divinis, tamen oportet ponere verbum proprie dictum, quod personaliter dicatur.
+
+@@ I q. 34 a. 1 ad 2
+Ad secundum dicendum quod nihil eorum quae ad intellectum pertinent, personaliter dicitur in divinis, nisi solum verbum, solum enim verbum significat aliquid ab alio emanans. Id enim quod intellectus in concipiendo format, est verbum. Intellectus autem ipse, secundum quod est per speciem intelligibilem in actu, consideratur absolute. Et similiter intelligere, quod ita se habet ad intellectum in actu, sicut esse ad ens in actu, non enim intelligere significat actionem ab intelligente exeuntem, sed in intelligente manentem. Cum ergo dicitur quod verbum est notitia, non accipitur notitia pro actu intellectus cognoscentis, vel pro aliquo eius habitu, sed pro eo quod intellectus concipit cognoscendo. Unde et Augustinus dicit quod verbum est sapientia genita, quod nihil aliud est quam ipsa conceptio sapientis, quae etiam pari modo notitia genita dici potest. Et per eundem modum potest intelligi quod dicere Deo sit cogitando intueri, inquantum scilicet intuitu cogitationis divinae concipitur verbum Dei. Cogitationis tamen nomen Dei verbo proprie non convenit, dicit enim Augustinus, XV de Trin., ita dicitur illud verbum Dei, ut cogitatio non dicatur; ne aliquid esse quasi volubile credatur in Deo, quod nunc accipiat formam ut verbum sit, eamque dimittere possit, atque informiter quodammodo volutari. Cogitatio enim proprie in inquisitione veritatis consistit, quae in Deo locum non habet. Cum vero intellectus iam ad formam veritatis pertingit, non cogitat, sed perfecte veritatem contemplatur. Unde Anselmus improprie accipit cogitationem pro contemplatione.
+
+@@ I q. 34 a. 1 ad 3
+Ad tertium dicendum quod, sicut, proprie loquendo, verbum dicitur personaliter in divinis et non essentialiter, ita et dicere. Unde, sicut verbum non est commune patri et filio et spiritui sancto, ita non est verum quod pater et filius et spiritus sanctus sint unus dicens. Unde Augustinus dicit, VII de Trin., dicens illo coaeterno verbo non singulus intelligitur in divinis. Sed dici convenit cuilibet personae, dicitur enim non solum verbum sed res quae verbo intelligitur vel significatur. Sic ergo uni soli personae in divinis convenit dici eo modo quo dicitur verbum, eo vero modo quo dicitur res in verbo intellecta, cuilibet personae convenit dici. Pater enim, intelligendo se et filium et spiritum sanctum, et omnia alia quae eius scientia continentur, concipit verbum, ut sic tota Trinitas verbo dicatur, et etiam omnis creatura; sicut intellectus hominis verbo quod concipit intelligendo lapidem, lapidem dicit. Anselmus vero improprie accepit dicere pro intelligere. Quae tamen differunt. Nam intelligere importat solam habitudinem intelligentis ad rem intellectam; in qua nulla ratio originis importatur, sed solum informatio quaedam in intellectu nostro, prout intellectus noster fit in actu per formam rei intellectae. In Deo autem importat omnimodam identitatem, quia in Deo est omnino idem intellectus et intellectum, ut supra ostensum est. Sed dicere importat principaliter habitudinem ad verbum conceptum nihil enim est aliud dicere quam proferre verbum. Sed mediante verbo importat habitudinem ad rem intellectam, quae in verbo prolato manifestatur intelligenti. Et sic sola persona quae profert verbum, est dicens in divinis, cum tamen singula personarum sit intelligens et intellecta, et per consequens verbo dicta.
+
+@@ I q. 34 a. 1 ad 4
+Ad quartum dicendum quod verbum sumitur ibi figurative, prout significatum vel effectus verbi dicitur verbum. Sic enim creaturae dicuntur facere verbum Dei, inquantum exequuntur effectum aliquem, ad quem ordinantur ex verbo concepto divinae sapientiae, sicut aliquis dicitur facere verbum regis, dum facit opus ad quod ex verbo regis instigatur.
+
+@@ I q. 34 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod verbum non sit proprium nomen filii. Filius enim est persona subsistens in divinis. Sed verbum non significat rem subsistentem, ut in nobis patet. Ergo verbum non potest esse proprium nomen personae filii.
+
+@@ I q. 34 a. 2 arg. 2
+Praeterea, verbum prolatione quadam procedit a dicente. Si ergo filius est proprie verbum, non procedit a patre nisi per modum prolationis. Quod est haeresis Valentini, ut patet per Augustinum, in libro de haeresibus.
+
+@@ I q. 34 a. 2 arg. 3
+Praeterea, omne nomen proprium alicuius personae significat proprietatem aliquam eius. Si igitur verbum sit proprium nomen filii, significabit aliquam proprietatem eius. Et sic erunt plures proprietates in divinis quam supra enumeratae sunt.
+
+@@ I q. 34 a. 2 arg. 4
+Praeterea, quicumque intelligit, intelligendo concipit verbum. Sed filius intelligit. Ergo filii est aliquod verbum. Et sic non est proprium filii esse verbum.
+
+@@ I q. 34 a. 2 arg. 5
+Praeterea, Hebr. I dicitur de filio, portans omnia verbo virtutis suae, ex quo Basilius accipit quod spiritus sanctus sit verbum filii. Non est ergo proprium filii esse verbum.
+
+@@ I q. 34 a. 2 s. c.
+Sed contra est quod Augustinus dicit, VI de Trin., verbum solus filius accipitur.
+
+@@ I q. 34 a. 2 co.
+Respondeo dicendum quod verbum proprie dictum in divinis personaliter accipitur, et est proprium nomen personae filii. Significat enim quandam emanationem intellectus, persona autem quae procedit in divinis secundum emanationem intellectus, dicitur filius, et huiusmodi processio dicitur generatio, ut supra ostensum est. Unde relinquitur quod solus filius proprie dicatur verbum in divinis.
+
+@@ I q. 34 a. 2 ad 1
+Ad primum ergo dicendum quod in nobis non est idem esse et intelligere, unde illud quod habet in nobis esse intelligibile, non pertinet ad naturam nostram. Sed esse Dei est ipsum eius intelligere, unde verbum Dei non est aliquod accidens in ipso, vel aliquis effectus eius; sed pertinet ad ipsam naturam eius. Et ideo oportet quod sit aliquid subsistens, quia quidquid est in natura Dei, subsistit. Et ideo Damascenus dicit quod verbum Dei est substantiale, et in hypostasi ens, reliqua vero verba, scilicet nostra, virtutes sunt animae.
+
+@@ I q. 34 a. 2 ad 2
+Ad secundum dicendum quod non propter hoc error Valentini est damnatus, quia filium dixit prolatione natum, ut Ariani calumniabantur, sicut Hilarius refert, VI de Trin., sed propter varium modum prolationis quem posuit, sicut patet per Augustinum in libro de haeresibus.
+
+@@ I q. 34 a. 2 ad 3
+Ad tertium dicendum quod in nomine verbi eadem proprietas importatur quae in nomine filii, unde dicit Augustinus, eo dicitur verbum, quo filius. Ipsa enim nativitas filii, quae est proprietas personalis eius, diversis nominibus significatur, quae filio attribuuntur ad exprimendum diversimode perfectionem eius. Nam ut ostendatur connaturalis patri, dicitur filius; ut ostendatur coaeternus, dicitur splendor; ut ostendatur omnino similis, dicitur imago; ut ostendatur immaterialiter genitus, dicitur verbum. Non autem potuit unum nomen inveniri, per quod omnia ista designarentur.
+
+@@ I q. 34 a. 2 ad 4
+Ad quartum dicendum quod eo modo convenit filio esse intelligentem, quo convenit ei esse Deum, cum intelligere essentialiter dicatur in divinis, ut dictum est. Est autem filius Deus genitus, non autem generans Deus. Unde est quidem intelligens, non ut producens verbum, sed ut verbum procedens; prout scilicet in Deo verbum procedens secundum rem non differt ab intellectu divino, sed relatione sola distinguitur a principio verbi.
+
+@@ I q. 34 a. 2 ad 5
+Ad quintum dicendum quod, cum de filio dicitur, portans omnia verbo virtutis suae, verbum figurate accipitur pro effectu verbi. Unde Glossa ibi dicit quod verbum sumitur pro imperio; inquantum scilicet ex effectu virtutis verbi est quod res conserventur in esse, sicut ex effectu virtutis verbi est quod res producantur in esse. Quod vero Basilius interpretatur verbum pro spiritu sancto, improprie et figurate locutus est, prout verbum alicuius dici potest omne illud quod est manifestativum eius, ut sic ea ratione dicatur spiritus sanctus verbum filii, quia manifestat filium.
+
+@@ I q. 34 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod in nomine verbi non importetur respectus ad creaturam. Omne enim nomen connotans effectum in creatura, essentialiter in divinis dicitur. Sed verbum non dicitur essentialiter, sed personaliter, ut dictum est. Ergo verbum non importat respectum ad creaturam.
+
+@@ I q. 34 a. 3 arg. 2
+Praeterea, quae important respectum ad creaturas, dicuntur de Deo ex tempore, ut dominus et creator. Sed verbum dicitur de Deo ab aeterno. Ergo non importat respectum ad creaturam.
+
+@@ I q. 34 a. 3 arg. 3
+Praeterea, verbum importat respectum ad id a quo procedit. Si ergo importat respectum ad creaturam, sequitur quod procedat a creatura.
+
+@@ I q. 34 a. 3 arg. 4
+Praeterea, ideae sunt plures secundum diversos respectus ad creaturas. Si igitur verbum importat respectum ad creaturas, sequitur quod in Deo non sit unum verbum tantum, sed plura.
+
+@@ I q. 34 a. 3 arg. 5
+Praeterea, si verbum importat respectum ad creaturam, hoc non est nisi inquantum creaturae cognoscuntur a Deo. Sed Deus non solum cognoscit entia, sed etiam non entia. Ergo in verbo importabitur respectus ad non entia, quod videtur falsum.
+
+@@ I q. 34 a. 3 s. c.
+Sed contra est quod dicit Augustinus, in libro octoginta trium quaest., quod in nomine verbi significatur non solum respectus ad patrem, sed etiam ad illa quae per verbum facta sunt operativa potentia.
+
+@@ I q. 34 a. 3 co.
+Respondeo dicendum quod in verbo importatur respectus ad creaturam. Deus enim, cognoscendo se, cognoscit omnem creaturam. Verbum autem in mente conceptum, est repraesentativum omnis eius quod actu intelligitur. Unde in nobis sunt diversa verba, secundum diversa quae intelligimus. Sed quia Deus uno actu et se et omnia intelligit, unicum verbum eius est expressivum non solum patris, sed etiam creaturarum. Et sicut Dei scientia Dei quidem est cognoscitiva tantum, creaturarum autem cognoscitiva et factiva; ita verbum Dei eius quod in Deo patre est, est expressivum tantum, creaturarum vero est expressivum et operativum. Et propter hoc dicitur in Psalmo XXXII, dixit, et facta sunt; quia in verbo importatur ratio factiva eorum quae Deus facit.
+
+@@ I q. 34 a. 3 ad 1
+Ad primum ergo dicendum quod in nomine personae includitur etiam natura oblique, nam persona est rationalis naturae individua substantia. In nomine igitur personae divinae, quantum ad relationem personalem, non importatur respectus ad creaturam, sed importatur in eo quod pertinet ad naturam. Nihil tamen prohibet, inquantum includitur in significatione eius essentia, quod importetur respectus ad creaturam, sicut enim proprium est filio quod sit filius, ita proprium est ei quod sit genitus Deus, vel genitus creator. Et per hunc modum importatur relatio ad creaturam in nomine verbi.
+
+@@ I q. 34 a. 3 ad 2
+Ad secundum dicendum quod, cum relationes consequantur actiones, quaedam nomina important relationem Dei ad creaturam, quae consequitur actionem Dei in exteriorem effectum transeuntem, sicut creare et gubernare, et talia dicuntur de Deo ex tempore. Quaedam vero relationem quae consequitur actionem non transeuntem in exteriorem effectum, sed manentem in agente, ut scire et velle, et talia non dicuntur de Deo ex tempore. Et huiusmodi relatio ad creaturam importatur in nomine verbi. Nec est verum quod nomina importantia relationem Dei ad creaturas, omnia dicantur ex tempore, sed sola illa nomina quae important relationem consequentem actionem Dei in exteriorem effectum transeuntem, ex tempore dicuntur.
+
+@@ I q. 34 a. 3 ad 3
+Ad tertium dicendum quod creaturae non cognoscuntur a Deo per scientiam a creaturis acceptam, sed per essentiam suam. Unde non oportet quod a creaturis procedat verbum, licet verbum sit expressivum creaturarum.
+
+@@ I q. 34 a. 3 ad 4
+Ad quartum dicendum quod nomen ideae principaliter est impositum ad significandum respectum ad creaturam, et ideo pluraliter dicitur in divinis, neque est personale. Sed nomen verbi principaliter impositum est ad significandam relationem ad dicentem, et ex consequenti ad creaturas, inquantum Deus, intelligendo se, intelligit omnem creaturam. Et propter hoc in divinis est unicum tantum verbum, et personaliter dictum.
+
+@@ I q. 34 a. 3 ad 5
+Ad quintum dicendum quod eo modo quo scientia Dei est non entium, et verbum Dei est non entium, quia non est aliquid minus in verbo Dei quam in scientia Dei, ut Augustinus dicit. Sed tamen verbum est entium ut expressivum et factivum, non entium autem, ut expressivum et manifestativum.

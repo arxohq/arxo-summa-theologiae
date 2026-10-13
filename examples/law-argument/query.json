@@ -1,0 +1,10 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:clir:summa-theologiae-law#q90_a1_thesis"
+  },
+  "queryId": "urn:la:aquinas:clir:summa-theologiae-law#test/CATALOG-Q90A1OBIECTIO1/query/0"
+}

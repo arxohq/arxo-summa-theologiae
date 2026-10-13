@@ -1,0 +1,25 @@
+// Словарь трактата II-II qq. 1-16.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_fide version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-fide";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation faith_presented(s: Subject) kind empirical {
+    label la unofficial "faith_presented";
+    label ru unofficial "faith_presented";
+}
+pub relation unbelief_presented(s: Subject) kind empirical {
+    label la unofficial "unbelief_presented";
+    label ru unofficial "unbelief_presented";
+}

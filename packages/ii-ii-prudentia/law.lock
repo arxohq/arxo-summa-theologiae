@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:e7de89b582c19c88e53dc8fd81ad08f20c1bd3ba938a4d6ea463cd536f684cb2",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:eeae9c87e99914c83f40c5b5ecdbc89e52b4e737530459eef609025b234d60cf",
+    "name": "la.aquinas.summa.ii_ii_prudentia",
+    "namespace": "urn:la:aquinas:clir:summa-ii-ii-prudentia",
+    "sourceHash": "sha256:247cb3e3519f875acc24a0ae70e01e384a2e04b284ca2f2157f306d0ae3eb50d",
+    "version": "0.1.0"
+  }
+}

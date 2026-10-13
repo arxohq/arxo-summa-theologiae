@@ -1,0 +1,21 @@
+language "law.core" version "0.2";
+package la.aquinas.duplex_effectus version "0.1.0";
+namespace "urn:la:aquinas:clir:duplex-effectus";
+
+test "urn:query:duplex-10-privata-libido" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "a0": presented_actus(entity_ref("urn:case:duplex:actus:libido")) { origin case_input; }
+        assert "a1": defensor(entity_ref("urn:case:duplex:actus:libido"), entity_ref("urn:case:duplex:persona:miles")) { origin case_input; }
+        assert "a2": publicus_minister(entity_ref("urn:case:duplex:persona:miles")) { origin case_input; }
+        assert "a3": privata_libido(entity_ref("urn:case:duplex:actus:libido")) { origin case_input; }
+    }
+    evaluate truth(defensio_illicita(entity_ref("urn:case:duplex:actus:libido")));
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}

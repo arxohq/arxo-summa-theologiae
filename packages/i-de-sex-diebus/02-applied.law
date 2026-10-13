@@ -1,0 +1,55 @@
+// Прикладной канон respondeo I qq. 65-74.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_sex_diebus version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-sex-diebus";
+
+use self::{
+    ST_I_Q65_A1_RESP,
+    ST_I_Q66_A1_RESP,
+    ST_I_Q74_A1_RESP,
+    Subject,
+    creation_considered,
+    creature_presented,
+    presented,
+};
+
+pub relation bodies_from_god(s: Subject) kind institutional {
+    label la official "creatura corporalis est a Deo";
+    label ru unofficial "телесная тварь — от Бога";
+}
+
+@source(ST_I_Q65_A1_RESP)
+rule CorporealCreationFromGod(s: Subject) strict {
+    label la official "creatura corporalis est a Deo";
+    label ru unofficial "телесная тварь — от Бога";
+    when presented(s) and creature_presented(s);
+    then bodies_from_god(s);
+}
+
+pub relation formless_matter(s: Subject) kind institutional {
+    label la official "informitas materiae praecessit formationem";
+    label ru unofficial "бесформенность материи предшествовала образованию";
+}
+
+@source(ST_I_Q66_A1_RESP)
+rule FormlessMatter(s: Subject) strict {
+    label la official "informitas materiae praecessit formationem";
+    label ru unofficial "бесформенность материи предшествовала образованию";
+    when presented(s) and creation_considered(s);
+    then formless_matter(s);
+}
+
+pub relation seventh_day_rest(s: Subject) kind institutional {
+    label la official "Deus die septimo requievit";
+    label ru unofficial "Бог в седьмой день почил";
+}
+
+@source(ST_I_Q74_A1_RESP)
+rule SeventhDay(s: Subject) strict {
+    label la official "Deus die septimo requievit";
+    label ru unofficial "Бог в седьмой день почил";
+    when presented(s) and creation_considered(s);
+    then seventh_day_rest(s);
+}
+

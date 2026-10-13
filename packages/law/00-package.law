@@ -1,0 +1,70 @@
+// Общий словарь трактата. Четыре файла `*-argumenta.law` порождаются только
+// из заголовков и текста Corpus Thomisticum: `arg. N` -> возражение,
+// `s. c.` -> принятый лист-факт, `co.` -> respondeo, `ad N` -> подрыв ровно
+// одноимённого возражения. `sed contra` намеренно НЕ является правилом:
+// §274.3 не позволяет атаковать принятый факт §73. Это явно заявленная
+// граница профиля, а не молчаливое усиление авторитета.
+//
+// «Bonum commune» не вычисляется по скрытому критерию. Это суждение §47.3,
+// которое должно быть предъявлено компетентным практическим разумом.
+
+language "law.core" version "0.2";
+package la.aquinas.summa_theologiae_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-theologiae-law";
+
+entity Law {
+    label la official "lex examinanda";
+    label ru unofficial "проверяемое установление как кандидат в закон";
+}
+entity Vice {
+    label la official "vitium humanum";
+    label ru unofficial "человеческий порок";
+}
+entity Custom {
+    label la official "consuetudo communitatis";
+    label ru unofficial "обычай сообщества";
+}
+entity Community {
+    label la official "communitas";
+    label ru unofficial "сообщество";
+}
+entity Authority {
+    label la official "auctoritas prudentiae practicae";
+    label ru unofficial "авторитет практического суждения";
+}
+
+const ThomisticPrudence: Authority = entity_ref("urn:la:aquinas:summa-theologiae-law#ThomisticPrudence") {
+    label la official "iudicium prudentis de bono communi";
+    label ru unofficial "практическое суждение о направленности к общему благу";
+}
+
+record CommonGoodAssessment {
+    candidate: Law;
+    label la official "quaestio utrum ordinatio ad bonum commune dirigatur";
+    label ru unofficial "запрос о том, направлено ли установление к общему благу";
+}
+
+external judgment relation ordered_to_common_good(l: Law) {
+    authority ThomisticPrudence;
+    request_schema CommonGoodAssessment;
+    label la official "ordinatio ad bonum commune dirigitur";
+    label ru unofficial "установление направлено к общему благу; требуется практическое суждение";
+}
+
+relation ordinance_of_reason(l: Law) kind empirical {
+    label la official "ordinatio rationis est";
+    label ru unofficial "установление является распоряжением разума";
+}
+relation issued_by_caretaker_of_community(l: Law) kind empirical {
+    label la official "ab eo qui curam communitatis habet lata est";
+    label ru unofficial "установление исходит от того, кто несёт попечение о сообществе";
+}
+relation promulgated(l: Law) kind empirical {
+    label la official "promulgata est";
+    label ru unofficial "установление обнародовано";
+}
+relation operative_law(l: Law) kind empirical {
+    label la official "lex in operatione posita est";
+    label ru unofficial "закон действует в рассматриваемом случае";
+}
+

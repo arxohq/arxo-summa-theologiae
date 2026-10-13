@@ -1,0 +1,32 @@
+[package]
+name = "la.aquinas.summa.i_de_gubernatione"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-de-gubernatione"
+
+[metadata]
+act = "la-summa-i-de-gubernatione"
+title = "Фома Аквинский, Summa theologiae I, вопросы 103–119: управление миром"
+primarySource = "SUMMA_THEOLOGIAE_I_103_119"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_de_gubernatione#authored"
+regression = false
+suites = [
+    "tests/01-worldisgoverned-affirmat.lawtest",
+    "tests/01b-worldisgoverned-negata.lawtest",
+    "tests/02-creaturesneedconservation-affirmat.lawtest",
+    "tests/02b-creaturesneedconservation-negata.lawtest",
+    "tests/03-godoperatesinnature-affirmat.lawtest",
+    "tests/03b-godoperatesinnature-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_de_gubernatione"]
+
+[authoring]
+local_imports = "explicit"

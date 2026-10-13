@@ -1,0 +1,15 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [
+      {
+        "id": "urn:law:catalog:is-law-sufficient:v0",
+        "kind": "entity_ref"
+      }
+    ],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:clir:summa-theologiae-law#is_law"
+  },
+  "queryId": "urn:la:aquinas:clir:summa-theologiae-law#test/CATALOG-IS_LAW%2FSUFFICIENT/query/0"
+}

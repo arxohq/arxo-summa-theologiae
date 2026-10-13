@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:5b8401bec203551885bf086d443911e750755717780226299a5760ce3ce1bf6f",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:cb1680f06c94119d2b54496ec6d6c1bf18e2945c00428e1c5497bbb22fee816a",
+    "name": "la.aquinas.summa.i_de_creatione",
+    "namespace": "urn:la:aquinas:clir:summa-i-de-creatione",
+    "sourceHash": "sha256:595e31c59b608d54f43d7f016a9d5963c9d50a8c2b0abac004ce2c7d0da67e0a",
+    "version": "0.1.0"
+  }
+}

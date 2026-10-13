@@ -1,0 +1,33 @@
+// Словарь трактата III qq. 60-90.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.iii_sacramentis version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-iii-sacramentis";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation baptism_presented(s: Subject) kind empirical {
+    label la unofficial "baptism_presented";
+    label ru unofficial "baptism_presented";
+}
+pub relation eucharist_presented(s: Subject) kind empirical {
+    label la unofficial "eucharist_presented";
+    label ru unofficial "eucharist_presented";
+}
+pub relation penance_presented(s: Subject) kind empirical {
+    label la unofficial "penance_presented";
+    label ru unofficial "penance_presented";
+}
+pub relation sacrament_presented(s: Subject) kind empirical {
+    label la unofficial "sacrament_presented";
+    label ru unofficial "sacrament_presented";
+}

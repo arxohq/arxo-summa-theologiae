@@ -1,0 +1,36 @@
+[package]
+name = "la.aquinas.summa.ii_ii_iustitia"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-ii-ii-iustitia"
+
+[metadata]
+act = "la-summa-ii-ii-iustitia"
+title = "Фома Аквинский, Summa theologiae II-II, вопросы 57–122: справедливость"
+primarySource = "SUMMA_THEOLOGIAE_II_II_57_122"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.ii_ii_iustitia#authored"
+regression = false
+suites = [
+    "tests/01-rightisobjectofjustice-affirmat.lawtest",
+    "tests/01b-rightisobjectofjustice-negata.lawtest",
+    "tests/02-justiceisvirtue-affirmat.lawtest",
+    "tests/02b-justiceisvirtue-negata.lawtest",
+    "tests/03-commutativeanddistributive-affirmat.lawtest",
+    "tests/03b-commutativeanddistributive-negata.lawtest",
+    "tests/04-killingcanbesin-affirmat.lawtest",
+    "tests/04b-killingcanbesin-negata.lawtest",
+    "tests/05-theftissin-affirmat.lawtest",
+    "tests/05b-theftissin-negata.lawtest"
+]
+world = ["la.aquinas.summa.ii_ii_iustitia"]
+
+[authoring]
+local_imports = "explicit"

@@ -1,0 +1,27 @@
+{
+  "$comment": "Completeness is measured by author-numbered articuli of I qq. 1-1.",
+  "editions": [
+    {
+      "document": "q1.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "1-1": "@@ I q. 1 a. 1 arg. 1",
+        "1-2": "@@ I q. 1 a. 2 arg. 1",
+        "1-3": "@@ I q. 1 a. 3 arg. 1",
+        "1-4": "@@ I q. 1 a. 4 arg. 1",
+        "1-5": "@@ I q. 1 a. 5 arg. 1",
+        "1-6": "@@ I q. 1 a. 6 arg. 1",
+        "1-7": "@@ I q. 1 a. 7 arg. 1",
+        "1-8": "@@ I q. 1 a. 8 arg. 1",
+        "1-9": "@@ I q. 1 a. 9 arg. 1",
+        "1-10": "@@ I q. 1 a. 10 arg. 1"
+      },
+      "boundaries": [
+        "@@ I q. 1 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    }
+  ]
+}

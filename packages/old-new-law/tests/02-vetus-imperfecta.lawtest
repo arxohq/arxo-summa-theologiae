@@ -1,0 +1,20 @@
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_old_new_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-old-new-law";
+
+test "urn:query:old-new-02-vetus-imperfecta" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "a0": presented_law(entity_ref("urn:case:st:law:vetus")) { origin case_input; }
+        assert "a1": is_old_law(entity_ref("urn:case:st:law:vetus")) { origin case_input; }
+    }
+    evaluate truth(old_law_imperfect(entity_ref("urn:case:st:law:vetus")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}

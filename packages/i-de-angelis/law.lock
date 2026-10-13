@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:ed3c0f4e911728f1b8372affb98161b911c82500a2cac4c5da00ce2fb44cac2b",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:d0eba4f224899205c67670923a307be297107e198fbf4f4794f155a02e5b4472",
+    "name": "la.aquinas.summa.i_de_angelis",
+    "namespace": "urn:la:aquinas:clir:summa-i-de-angelis",
+    "sourceHash": "sha256:e7ab580b053c5ead53cb393a126f8344917e83a72ba64f294802fbed23026ff3",
+    "version": "0.1.0"
+  }
+}

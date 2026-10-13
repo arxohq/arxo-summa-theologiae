@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:7295e4dea16702d992ba6188698b810059d92b82c562e8b10e21d8f9b98a88e8",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:260c9cb21bd9b8341a026386e26d3bb2217f7845f763f9869c75484b650f8b9a",
+    "name": "la.aquinas.summa.ii_ii_fide",
+    "namespace": "urn:la:aquinas:clir:summa-ii-ii-fide",
+    "sourceHash": "sha256:6f37fca3d4a544a9eca42f7c539d41743cc5e24ad6d1c168bcafb77691f0eb8d",
+    "version": "0.1.0"
+  }
+}

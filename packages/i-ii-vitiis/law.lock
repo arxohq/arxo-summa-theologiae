@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:490dc8237b22e46a647ef81bc0eba986be77ec74f41803eb8eb86ae84d9c782d",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:36cb38196450bc0e173f089bdca9436c5bc6941f9bce7ced7820bbdc9beda7cf",
+    "name": "la.aquinas.summa.i_ii_vitiis",
+    "namespace": "urn:la:aquinas:clir:summa-i-ii-vitiis",
+    "sourceHash": "sha256:ffa83c1509851595fa3b7356ed05fe905343fd2eb5e05384b2099018e1d325e6",
+    "version": "0.1.0"
+  }
+}

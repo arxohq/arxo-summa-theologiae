@@ -1,0 +1,308 @@
+@@ I-II q. 90 pr.
+Consequenter considerandum est de principiis exterioribus actuum. Principium autem exterius ad malum inclinans est Diabolus, de cuius tentatione in primo dictum est. Principium autem exterius movens ad bonum est Deus, qui et nos instruit per legem, et iuvat per gratiam. Unde primo, de lege; secundo, de gratia dicendum est. Circa legem autem, primo oportet considerare de ipsa lege in communi; secundo, de partibus eius. Circa legem autem in communi tria occurrunt consideranda, primo quidem, de essentia ipsius; secundo, de differentia legum; tertio, de effectibus legis. Circa primum quaeruntur quatuor. Primo, utrum lex sit aliquid rationis. Secundo, de fine legis. Tertio, de causa eius. Quarto, de promulgatione ipsius.
+
+@@ I-II q. 90 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod lex non sit aliquid rationis. Dicit enim apostolus, ad Rom. VII, video aliam legem in membris meis, et cetera. Sed nihil quod est rationis, est in membris, quia ratio non utitur organo corporali. Ergo lex non est aliquid rationis.
+
+@@ I-II q. 90 a. 1 arg. 2
+Praeterea, in ratione non est nisi potentia, habitus et actus. Sed lex non est ipsa potentia rationis. Similiter etiam non est aliquis habitus rationis, quia habitus rationis sunt virtutes intellectuales, de quibus supra dictum est. Nec etiam est actus rationis, quia cessante rationis actu, lex cessaret, puta in dormientibus. Ergo lex non est aliquid rationis.
+
+@@ I-II q. 90 a. 1 arg. 3
+Praeterea, lex movet eos qui subiiciuntur legi, ad recte agendum. Sed movere ad agendum proprie pertinet ad voluntatem, ut patet ex praemissis. Ergo lex non pertinet ad rationem, sed magis ad voluntatem, secundum quod etiam iurisperitus dicit, quod placuit principi, legis habet vigorem.
+
+@@ I-II q. 90 a. 1 s. c.
+Sed contra est quod ad legem pertinet praecipere et prohibere. Sed imperare est rationis, ut supra habitum est. Ergo lex est aliquid rationis.
+
+@@ I-II q. 90 a. 1 co.
+Respondeo dicendum quod lex quaedam regula est et mensura actuum, secundum quam inducitur aliquis ad agendum, vel ab agendo retrahitur, dicitur enim lex a ligando, quia obligat ad agendum. Regula autem et mensura humanorum actuum est ratio, quae est primum principium actuum humanorum, ut ex praedictis patet, rationis enim est ordinare ad finem, qui est primum principium in agendis, secundum philosophum. In unoquoque autem genere id quod est principium, est mensura et regula illius generis, sicut unitas in genere numeri, et motus primus in genere motuum. Unde relinquitur quod lex sit aliquid pertinens ad rationem.
+
+@@ I-II q. 90 a. 1 ad 1
+Ad primum ergo dicendum quod, cum lex sit regula quaedam et mensura, dicitur dupliciter esse in aliquo. Uno modo, sicut in mensurante et regulante. Et quia hoc est proprium rationis, ideo per hunc modum lex est in ratione sola. Alio modo, sicut in regulato et mensurato. Et sic lex est in omnibus quae inclinantur in aliquid ex aliqua lege, ita quod quaelibet inclinatio proveniens ex aliqua lege, potest dici lex, non essentialiter, sed quasi participative. Et hoc modo inclinatio ipsa membrorum ad concupiscendum lex membrorum vocatur.
+
+@@ I-II q. 90 a. 1 ad 2
+Ad secundum dicendum quod, sicut in actibus exterioribus est considerare operationem et operatum, puta aedificationem et aedificatum; ita in operibus rationis est considerare ipsum actum rationis, qui est intelligere et ratiocinari, et aliquid per huiusmodi actum constitutum. Quod quidem in speculativa ratione primo quidem est definitio; secundo, enunciatio; tertio vero, syllogismus vel argumentatio. Et quia ratio etiam practica utitur quodam syllogismo in operabilibus, ut supra habitum est, secundum quod philosophus docet in VII Ethic.; ideo est invenire aliquid in ratione practica quod ita se habeat ad operationes, sicut se habet propositio in ratione speculativa ad conclusiones. Et huiusmodi propositiones universales rationis practicae ordinatae ad actiones, habent rationem legis. Quae quidem propositiones aliquando actualiter considerantur, aliquando vero habitualiter a ratione tenentur.
+
+@@ I-II q. 90 a. 1 ad 3
+Ad tertium dicendum quod ratio habet vim movendi a voluntate, ut supra dictum est, ex hoc enim quod aliquis vult finem, ratio imperat de his quae sunt ad finem. Sed voluntas de his quae imperantur, ad hoc quod legis rationem habeat, oportet quod sit aliqua ratione regulata. Et hoc modo intelligitur quod voluntas principis habet vigorem legis, alioquin voluntas principis magis esset iniquitas quam lex.
+
+@@ I-II q. 90 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod lex non ordinetur semper ad bonum commune sicut ad finem. Ad legem enim pertinet praecipere et prohibere. Sed praecepta ordinantur ad quaedam singularia bona. Non ergo semper finis legis est bonum commune.
+
+@@ I-II q. 90 a. 2 arg. 2
+Praeterea, lex dirigit hominem ad agendum. Sed actus humani sunt in particularibus. Ergo et lex ad aliquod particulare bonum ordinatur.
+
+@@ I-II q. 90 a. 2 arg. 3
+Praeterea, Isidorus dicit, in libro Etymol., si ratione lex constat, lex erit omne quod ratione constiterit. Sed ratione consistit non solum quod ordinatur ad bonum commune, sed etiam quod ordinatur ad bonum privatum. Ergo lex non ordinatur solum ad bonum commune, sed etiam ad bonum privatum unius.
+
+@@ I-II q. 90 a. 2 s. c.
+Sed contra est quod Isidorus dicit, in V Etymol., quod lex est nullo privato commodo, sed pro communi utilitate civium conscripta.
+
+@@ I-II q. 90 a. 2 co.
+Respondeo dicendum quod, sicut dictum est, lex pertinet ad id quod est principium humanorum actuum, ex eo quod est regula et mensura. Sicut autem ratio est principium humanorum actuum, ita etiam in ipsa ratione est aliquid quod est principium respectu omnium aliorum. Unde ad hoc oportet quod principaliter et maxime pertineat lex. Primum autem principium in operativis, quorum est ratio practica, est finis ultimus. Est autem ultimus finis humanae vitae felicitas vel beatitudo, ut supra habitum est. Unde oportet quod lex maxime respiciat ordinem qui est in beatitudinem. Rursus, cum omnis pars ordinetur ad totum sicut imperfectum ad perfectum; unus autem homo est pars communitatis perfectae, necesse est quod lex proprie respiciat ordinem ad felicitatem communem. Unde et philosophus, in praemissa definitione legalium, mentionem facit et de felicitate et communione politica. Dicit enim, in V Ethic., quod legalia iusta dicimus factiva et conservativa felicitatis et particularum ipsius, politica communicatione, perfecta enim communitas civitas est, ut dicitur in I Polit. In quolibet autem genere id quod maxime dicitur, est principium aliorum, et alia dicuntur secundum ordinem ad ipsum, sicut ignis, qui est maxime calidus, est causa caliditatis in corporibus mixtis, quae intantum dicuntur calida, inquantum participant de igne. Unde oportet quod, cum lex maxime dicatur secundum ordinem ad bonum commune, quodcumque aliud praeceptum de particulari opere non habeat rationem legis nisi secundum ordinem ad bonum commune. Et ideo omnis lex ad bonum commune ordinatur.
+
+@@ I-II q. 90 a. 2 ad 1
+Ad primum ergo dicendum quod praeceptum importat applicationem legis ad ea quae ex lege regulantur. Ordo autem ad bonum commune, qui pertinet ad legem, est applicabilis ad singulares fines. Et secundum hoc, etiam de particularibus quibusdam praecepta dantur.
+
+@@ I-II q. 90 a. 2 ad 2
+Ad secundum dicendum quod operationes quidem sunt in particularibus, sed illa particularia referri possunt ad bonum commune, non quidem communitate generis vel speciei, sed communitate causae finalis, secundum quod bonum commune dicitur finis communis.
+
+@@ I-II q. 90 a. 2 ad 3
+Ad tertium dicendum quod, sicut nihil constat firmiter secundum rationem speculativam nisi per resolutionem ad prima principia indemonstrabilia, ita firmiter nihil constat per rationem practicam nisi per ordinationem ad ultimum finem, qui est bonum commune. Quod autem hoc modo ratione constat, legis rationem habet.
+
+@@ I-II q. 90 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod cuiuslibet ratio sit factiva legis. Dicit enim apostolus, ad Rom. II, quod cum gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt, ipsi sibi sunt lex. Hoc autem communiter de omnibus dicit. Ergo quilibet potest facere sibi legem.
+
+@@ I-II q. 90 a. 3 arg. 2
+Praeterea, sicut philosophus dicit, in libro II Ethic., intentio legislatoris est ut inducat hominem ad virtutem. Sed quilibet homo potest alium inducere ad virtutem. Ergo cuiuslibet hominis ratio est factiva legis.
+
+@@ I-II q. 90 a. 3 arg. 3
+Praeterea, sicut princeps civitatis est civitatis gubernator, ita quilibet paterfamilias est gubernator domus. Sed princeps civitatis potest legem in civitate facere. Ergo quilibet paterfamilias potest in sua domo facere legem.
+
+@@ I-II q. 90 a. 3 s. c.
+Sed contra est quod Isidorus dicit, in libro Etymol., et habetur in decretis, dist. II, lex est constitutio populi, secundum quam maiores natu simul cum plebibus aliquid sanxerunt. Non est ergo cuiuslibet facere legem.
+
+@@ I-II q. 90 a. 3 co.
+Respondeo dicendum quod lex proprie, primo et principaliter respicit ordinem ad bonum commune. Ordinare autem aliquid in bonum commune est vel totius multitudinis, vel alicuius gerentis vicem totius multitudinis. Et ideo condere legem vel pertinet ad totam multitudinem, vel pertinet ad personam publicam quae totius multitudinis curam habet. Quia et in omnibus aliis ordinare in finem est eius cuius est proprius ille finis.
+
+@@ I-II q. 90 a. 3 ad 1
+Ad primum ergo dicendum quod, sicut supra dictum est, lex est in aliquo non solum sicut in regulante, sed etiam participative sicut in regulato. Et hoc modo unusquisque sibi est lex, inquantum participat ordinem alicuius regulantis. Unde et ibidem subditur, qui ostendunt opus legis scriptum in cordibus suis.
+
+@@ I-II q. 90 a. 3 ad 2
+Ad secundum dicendum quod persona privata non potest inducere efficaciter ad virtutem. Potest enim solum monere, sed si sua monitio non recipiatur, non habet vim coactivam; quam debet habere lex, ad hoc quod efficaciter inducat ad virtutem, ut philosophus dicit, in X Ethic. Hanc autem virtutem coactivam habet multitudo vel persona publica, ad quam pertinet poenas infligere, ut infra dicetur. Et ideo solius eius est leges facere.
+
+@@ I-II q. 90 a. 3 ad 3
+Ad tertium dicendum quod, sicut homo est pars domus, ita domus est pars civitatis, civitas autem est communitas perfecta, ut dicitur in I Politic. Et ideo sicut bonum unius hominis non est ultimus finis, sed ordinatur ad commune bonum; ita etiam et bonum unius domus ordinatur ad bonum unius civitatis, quae est communitas perfecta. Unde ille qui gubernat aliquam familiam, potest quidem facere aliqua praecepta vel statuta; non tamen quae proprie habeant rationem legis.
+
+@@ I-II q. 90 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod promulgatio non sit de ratione legis. Lex enim naturalis maxime habet rationem legis. Sed lex naturalis non indiget promulgatione. Ergo non est de ratione legis quod promulgetur.
+
+@@ I-II q. 90 a. 4 arg. 2
+Praeterea, ad legem pertinet proprie obligare ad aliquid faciendum vel non faciendum. Sed non solum obligantur ad implendam legem illi coram quibus promulgatur lex, sed etiam alii. Ergo promulgatio non est de ratione legis.
+
+@@ I-II q. 90 a. 4 arg. 3
+Praeterea, obligatio legis extenditur etiam in futurum, quia leges futuris negotiis necessitatem imponunt, ut iura dicunt. Sed promulgatio fit ad praesentes. Ergo promulgatio non est de necessitate legis.
+
+@@ I-II q. 90 a. 4 s. c.
+Sed contra est quod dicitur in decretis, IV dist., quod leges instituuntur cum promulgantur.
+
+@@ I-II q. 90 a. 4 co.
+Respondeo dicendum quod, sicut dictum est, lex imponitur aliis per modum regulae et mensurae. Regula autem et mensura imponitur per hoc quod applicatur his quae regulantur et mensurantur. Unde ad hoc quod lex virtutem obligandi obtineat, quod est proprium legis, oportet quod applicetur hominibus qui secundum eam regulari debent. Talis autem applicatio fit per hoc quod in notitiam eorum deducitur ex ipsa promulgatione. Unde promulgatio necessaria est ad hoc quod lex habeat suam virtutem. Et sic ex quatuor praedictis potest colligi definitio legis, quae nihil est aliud quam quaedam rationis ordinatio ad bonum commune, ab eo qui curam communitatis habet, promulgata.
+
+@@ I-II q. 90 a. 4 ad 1
+Ad primum ergo dicendum quod promulgatio legis naturae est ex hoc ipso quod Deus eam mentibus hominum inseruit naturaliter cognoscendam.
+
+@@ I-II q. 90 a. 4 ad 2
+Ad secundum dicendum quod illi coram quibus lex non promulgatur, obligantur ad legem servandam, inquantum in eorum notitiam devenit per alios, vel devenire potest, promulgatione facta.
+
+@@ I-II q. 90 a. 4 ad 3
+Ad tertium dicendum quod promulgatio praesens in futurum extenditur per firmitatem Scripturae, quae quodammodo semper eam promulgat. Unde Isidorus dicit, in II Etymol., quod lex a legendo vocata est, quia scripta est.
+
+@@ I-II q. 91 pr.
+Deinde considerandum est de diversitate legum. Et circa hoc quaeruntur sex. Primo, utrum sit aliqua lex aeterna. Secundo, utrum sit aliqua lex naturalis. Tertio, utrum sit aliqua lex humana. Quarto, utrum sit aliqua lex divina. Quinto, utrum sit una tantum, vel plures. Sexto, utrum sit aliqua lex peccati.
+
+@@ I-II q. 91 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod non sit aliqua lex aeterna. Omnis enim lex aliquibus imponitur. Sed non fuit ab aeterno aliquis cui lex posset imponi, solus enim Deus fuit ab aeterno. Ergo nulla lex est aeterna.
+
+@@ I-II q. 91 a. 1 arg. 2
+Praeterea, promulgatio est de ratione legis. Sed promulgatio non potuit esse ab aeterno, quia non erat ab aeterno cui promulgaretur. Ergo nulla lex potest esse aeterna.
+
+@@ I-II q. 91 a. 1 arg. 3
+Praeterea, lex importat ordinem ad finem. Sed nihil est aeternum quod ordinetur ad finem, solus enim ultimus finis est aeternus. Ergo nulla lex est aeterna.
+
+@@ I-II q. 91 a. 1 s. c.
+Sed contra est quod Augustinus dicit, in I de Lib. Arb., lex quae summa ratio nominatur, non potest cuipiam intelligenti non incommutabilis aeternaque videri.
+
+@@ I-II q. 91 a. 1 co.
+Respondeo dicendum quod, sicut supra dictum est, nihil est aliud lex quam quoddam dictamen practicae rationis in principe qui gubernat aliquam communitatem perfectam. Manifestum est autem, supposito quod mundus divina providentia regatur, ut in primo habitum est, quod tota communitas universi gubernatur ratione divina. Et ideo ipsa ratio gubernationis rerum in Deo sicut in principe universitatis existens, legis habet rationem. Et quia divina ratio nihil concipit ex tempore, sed habet aeternum conceptum, ut dicitur Prov. VIII; inde est quod huiusmodi legem oportet dicere aeternam.
+
+@@ I-II q. 91 a. 1 ad 1
+Ad primum ergo dicendum quod ea quae in seipsis non sunt, apud Deum existunt, inquantum sunt ab ipso praecognita et praeordinata; secundum illud Rom. IV, qui vocat ea quae non sunt, tanquam ea quae sunt. Sic igitur aeternus divinae legis conceptus habet rationem legis aeternae, secundum quod a Deo ordinatur ad gubernationem rerum ab ipso praecognitarum.
+
+@@ I-II q. 91 a. 1 ad 2
+Ad secundum dicendum quod promulgatio fit et verbo et scripto; et utroque modo lex aeterna habet promulgationem ex parte Dei promulgantis, quia et verbum divinum est aeternum, et Scriptura libri vitae est aeterna. Sed ex parte creaturae audientis aut inspicientis, non potest esse promulgatio aeterna.
+
+@@ I-II q. 91 a. 1 ad 3
+Ad tertium dicendum quod lex importat ordinem ad finem active, inquantum scilicet per eam ordinantur aliqua in finem, non autem passive, idest quod ipsa lex ordinetur ad finem, nisi per accidens in gubernante cuius finis est extra ipsum, ad quem etiam necesse est ut lex eius ordinetur. Sed finis divinae gubernationis est ipse Deus, nec eius lex est aliud ab ipso. Unde lex aeterna non ordinatur in alium finem.
+
+@@ I-II q. 91 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod non sit in nobis aliqua lex naturalis. Sufficienter enim homo gubernatur per legem aeternam, dicit enim Augustinus, in I de Lib. Arb., quod lex aeterna est qua iustum est ut omnia sint ordinatissima. Sed natura non abundat in superfluis, sicut nec deficit in necessariis. Ergo non est aliqua lex homini naturalis.
+
+@@ I-II q. 91 a. 2 arg. 2
+Praeterea, per legem ordinatur homo in suis actibus ad finem, ut supra habitum est. Sed ordinatio humanorum actuum ad finem non est per naturam, sicut accidit in creaturis irrationabilibus, quae solo appetitu naturali agunt propter finem, sed agit homo propter finem per rationem et voluntatem. Ergo non est aliqua lex homini naturalis.
+
+@@ I-II q. 91 a. 2 arg. 3
+Praeterea, quanto aliquis est liberior, tanto minus est sub lege. Sed homo est liberior omnibus animalibus, propter liberum arbitrium, quod prae aliis animalibus habet. Cum igitur alia animalia non subdantur legi naturali, nec homo alicui legi naturali subditur.
+
+@@ I-II q. 91 a. 2 s. c.
+Sed contra est quod, Rom. II, super illud, cum gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt, dicit Glossa, etsi non habent legem scriptam, habent tamen legem naturalem, qua quilibet intelligit et sibi conscius est quid sit bonum et quid malum.
+
+@@ I-II q. 91 a. 2 co.
+Respondeo dicendum quod, sicut supra dictum est, lex, cum sit regula et mensura, dupliciter potest esse in aliquo, uno modo, sicut in regulante et mensurante; alio modo, sicut in regulato et mensurato, quia inquantum participat aliquid de regula vel mensura, sic regulatur vel mensuratur. Unde cum omnia quae divinae providentiae subduntur, a lege aeterna regulentur et mensurentur, ut ex dictis patet; manifestum est quod omnia participant aliqualiter legem aeternam, inquantum scilicet ex impressione eius habent inclinationes in proprios actus et fines. Inter cetera autem rationalis creatura excellentiori quodam modo divinae providentiae subiacet, inquantum et ipsa fit providentiae particeps, sibi ipsi et aliis providens. Unde et in ipsa participatur ratio aeterna, per quam habet naturalem inclinationem ad debitum actum et finem. Et talis participatio legis aeternae in rationali creatura lex naturalis dicitur. Unde cum Psalmista dixisset, sacrificate sacrificium iustitiae, quasi quibusdam quaerentibus quae sunt iustitiae opera, subiungit, multi dicunt, quis ostendit nobis bona? Cui quaestioni respondens, dicit, signatum est super nos lumen vultus tui, domine, quasi lumen rationis naturalis, quo discernimus quid sit bonum et malum, quod pertinet ad naturalem legem, nihil aliud sit quam impressio divini luminis in nobis. Unde patet quod lex naturalis nihil aliud est quam participatio legis aeternae in rationali creatura.
+
+@@ I-II q. 91 a. 2 ad 1
+Ad primum ergo dicendum quod ratio illa procederet, si lex naturalis esset aliquid diversum a lege aeterna. Non autem est nisi quaedam participatio eius, ut dictum est.
+
+@@ I-II q. 91 a. 2 ad 2
+Ad secundum dicendum quod omnis operatio, rationis et voluntatis derivatur in nobis ab eo quod est secundum naturam, ut supra habitum est, nam omnis ratiocinatio derivatur a principiis naturaliter notis, et omnis appetitus eorum quae sunt ad finem, derivatur a naturali appetitu ultimi finis. Et sic etiam oportet quod prima directio actuum nostrorum ad finem, fiat per legem naturalem.
+
+@@ I-II q. 91 a. 2 ad 3
+Ad tertium dicendum quod etiam animalia irrationalia participant rationem aeternam suo modo, sicut et rationalis creatura. Sed quia rationalis creatura participat eam intellectualiter et rationaliter, ideo participatio legis aeternae in creatura rationali proprie lex vocatur, nam lex est aliquid rationis, ut supra dictum est. In creatura autem irrationali non participatur rationaliter, unde non potest dici lex nisi per similitudinem.
+
+@@ I-II q. 91 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod non sit aliqua lex humana. Lex enim naturalis est participatio legis aeternae, ut dictum est. Sed per legem aeternam omnia sunt ordinatissima, ut Augustinus dicit, in I de Lib. Arb. Ergo lex naturalis sufficit ad omnia humana ordinanda. Non est ergo necessarium quod sit aliqua lex humana.
+
+@@ I-II q. 91 a. 3 arg. 2
+Praeterea, lex habet rationem mensurae, ut dictum est. Sed ratio humana non est mensura rerum, sed potius e converso, ut in X Metaphys. dicitur. Ergo ex ratione humana nulla lex procedere potest.
+
+@@ I-II q. 91 a. 3 arg. 3
+Praeterea, mensura debet esse certissima, ut dicitur in X Metaphys. Sed dictamen humanae rationis de rebus gerendis est incertum; secundum illud Sap. IX, cogitationes mortalium timidae, et incertae providentiae nostrae. Ergo ex ratione humana nulla lex procedere potest.
+
+@@ I-II q. 91 a. 3 s. c.
+Sed contra est quod Augustinus, in I de Lib. Arb., ponit duas leges, unam aeternam et aliam temporalem, quam dicit esse humanam.
+
+@@ I-II q. 91 a. 3 co.
+Respondeo dicendum quod, sicut supra dictum est, lex est quoddam dictamen practicae rationis. Similis autem processus esse invenitur rationis practicae et speculativae, utraque enim ex quibusdam principiis ad quasdam conclusiones procedit, ut superius habitum est. Secundum hoc ergo dicendum est quod, sicut in ratione speculativa ex principiis indemonstrabilibus naturaliter cognitis producuntur conclusiones diversarum scientiarum, quarum cognitio non est nobis naturaliter indita, sed per industriam rationis inventa; ita etiam ex praeceptis legis naturalis, quasi ex quibusdam principiis communibus et indemonstrabilibus, necesse est quod ratio humana procedat ad aliqua magis particulariter disponenda. Et istae particulares dispositiones adinventae secundum rationem humanam, dicuntur leges humanae, servatis aliis conditionibus quae pertinent ad rationem legis, ut supra dictum est. Unde et Tullius dicit, in sua Rhetor., quod initium iuris est a natura profectum; deinde quaedam in consuetudinem ex utilitate rationis venerunt; postea res et a natura profectas et a consuetudine probatas legum metus et religio sanxit.
+
+@@ I-II q. 91 a. 3 ad 1
+Ad primum ergo dicendum quod ratio humana non potest participare ad plenum dictamen rationis divinae, sed suo modo et imperfecte. Et ideo sicut ex parte rationis speculativae, per naturalem participationem divinae sapientiae, inest nobis cognitio quorundam communium principiorum, non autem cuiuslibet veritatis propria cognitio, sicut in divina sapientia continetur; ita etiam ex parte rationis practicae naturaliter homo participat legem aeternam secundum quaedam communia principia, non autem secundum particulares directiones singulorum, quae tamen in aeterna lege continentur. Et ideo necesse est ulterius quod ratio humana procedat ad particulares quasdam legum sanctiones.
+
+@@ I-II q. 91 a. 3 ad 2
+Ad secundum dicendum quod ratio humana secundum se non est regula rerum, sed principia ei naturaliter indita, sunt quaedam regulae generales et mensurae omnium eorum quae sunt per hominem agenda, quorum ratio naturalis est regula et mensura, licet non sit mensura eorum quae sunt a natura.
+
+@@ I-II q. 91 a. 3 ad 3
+Ad tertium dicendum quod ratio practica est circa operabilia, quae sunt singularia et contingentia, non autem circa necessaria, sicut ratio speculativa. Et ideo leges humanae non possunt illam infallibilitatem habere quam habent conclusiones demonstrativae scientiarum. Nec oportet quod omnis mensura sit omni modo infallibilis et certa, sed secundum quod est possibile in genere suo.
+
+@@ I-II q. 91 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod non fuerit necessarium esse aliquam legem divinam. Quia, ut dictum est, lex naturalis est quaedam participatio legis aeternae in nobis. Sed lex aeterna est lex divina, ut dictum est. Ergo non oportet quod praeter legem naturalem, et leges humanas ab ea derivatas, sit aliqua alia lex divina.
+
+@@ I-II q. 91 a. 4 arg. 2
+Praeterea, Eccli. XV dicitur quod Deus dimisit hominem in manu consilii sui. Consilium autem est actus rationis, ut supra habitum est. Ergo homo dimissus est gubernationi suae rationis. Sed dictamen rationis humanae est lex humana, ut dictum est. Ergo non oportet quod homo alia lege divina gubernetur.
+
+@@ I-II q. 91 a. 4 arg. 3
+Praeterea, natura humana est sufficientior irrationalibus creaturis. Sed irrationales creaturae non habent aliquam legem divinam praeter inclinationem naturalem eis inditam. Ergo multo minus creatura rationalis debet habere aliquam legem divinam praeter naturalem legem.
+
+@@ I-II q. 91 a. 4 s. c.
+Sed contra est quod David expetit legem a Deo sibi poni, dicens, legem pone mihi, domine, in via iustificationum tuarum.
+
+@@ I-II q. 91 a. 4 co.
+Respondeo dicendum quod praeter legem naturalem et legem humanam, necessarium fuit ad directionem humanae vitae habere legem divinam. Et hoc propter quatuor rationes. Primo quidem, quia per legem dirigitur homo ad actus proprios in ordine ad ultimum finem. Et si quidem homo ordinaretur tantum ad finem qui non excederet proportionem naturalis facultatis hominis, non oporteret quod homo haberet aliquid directivum ex parte rationis, supra legem naturalem et legem humanitus positam, quae ab ea derivatur. Sed quia homo ordinatur ad finem beatitudinis aeternae, quae excedit proportionem naturalis facultatis humanae, ut supra habitum est; ideo necessarium fuit ut supra legem naturalem et humanam, dirigeretur etiam ad suum finem lege divinitus data. Secundo, quia propter incertitudinem humani iudicii, praecipue de rebus contingentibus et particularibus, contingit de actibus humanis diversorum esse diversa iudicia, ex quibus etiam diversae et contrariae leges procedunt. Ut ergo homo absque omni dubitatione scire possit quid ei sit agendum et quid vitandum, necessarium fuit ut in actibus propriis dirigeretur per legem divinitus datam, de qua constat quod non potest errare. Tertio, quia de his potest homo legem ferre, de quibus potest iudicare. Iudicium autem hominis esse non potest de interioribus motibus, qui latent, sed solum de exterioribus actibus, qui apparent. Et tamen ad perfectionem virtutis requiritur quod in utrisque actibus homo rectus existat. Et ideo lex humana non potuit cohibere et ordinare sufficienter interiores actus, sed necessarium fuit quod ad hoc superveniret lex divina. Quarto quia, sicut Augustinus dicit, in I de Lib. Arb., lex humana non potest omnia quae male fiunt, punire vel prohibere, quia dum auferre vellet omnia mala, sequeretur quod etiam multa bona tollerentur, et impediretur utilitas boni communis, quod est necessarium ad conversationem humanam. Ut ergo nullum malum improhibitum et impunitum remaneat, necessarium fuit supervenire legem divinam, per quam omnia peccata prohibentur. Et istae quatuor causae tanguntur in Psalmo XVIII, ubi dicitur, lex domini immaculata, idest nullam peccati turpitudinem permittens; convertens animas, quia non solum exteriores actus, sed etiam interiores dirigit; testimonium domini fidele, propter certitudinem veritatis et rectitudinis; sapientiam praestans parvulis, inquantum ordinat hominem ad supernaturalem finem et divinum.
+
+@@ I-II q. 91 a. 4 ad 1
+Ad primum ergo dicendum quod per naturalem legem participatur lex aeterna secundum proportionem capacitatis humanae naturae. Sed oportet ut altiori modo dirigatur homo in ultimum finem supernaturalem. Et ideo superadditur lex divinitus data, per quam lex aeterna participatur altiori modo.
+
+@@ I-II q. 91 a. 4 ad 2
+Ad secundum dicendum quod consilium est inquisitio quaedam, unde oportet quod procedat ex aliquibus principiis. Nec sufficit quod procedat ex principiis naturaliter inditis, quae sunt praecepta legis naturae, propter praedicta, sed oportet quod superaddantur quaedam alia principia, scilicet praecepta legis divinae.
+
+@@ I-II q. 91 a. 4 ad 3
+Ad tertium dicendum quod creaturae irrationales non ordinantur ad altiorem finem quam sit finis qui est proportionatus naturali virtuti ipsarum. Et ideo non est similis ratio.
+
+@@ I-II q. 91 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod lex divina sit una tantum. Unius enim regis in uno regno est una lex. Sed totum humanum genus comparatur ad Deum sicut ad unum regem; secundum illud Psalmi XLVI, rex omnis terrae Deus. Ergo est una tantum lex divina.
+
+@@ I-II q. 91 a. 5 arg. 2
+Praeterea, omnis lex ordinatur ad finem quem legislator intendit in eis quibus legem fert. Sed unum et idem est quod Deus intendit in omnibus hominibus; secundum illud I ad Tim. II, vult omnes homines salvos fieri, et ad agnitionem veritatis venire. Ergo una tantum est lex divina.
+
+@@ I-II q. 91 a. 5 arg. 3
+Praeterea, lex divina propinquior esse videtur legi aeternae, quae est una, quam lex naturalis, quanto altior est revelatio gratiae quam cognitio naturae. Sed lex naturalis est una omnium hominum. Ergo multo magis lex divina.
+
+@@ I-II q. 91 a. 5 s. c.
+Sed contra est quod apostolus dicit, ad Heb. VII, translato sacerdotio, necesse est ut legis translatio fiat. Sed sacerdotium est duplex, ut ibidem dicitur, scilicet sacerdotium leviticum, et sacerdotium Christi. Ergo etiam duplex est lex divina, scilicet lex vetus, et lex nova.
+
+@@ I-II q. 91 a. 5 co.
+Respondeo dicendum quod, sicut in primo dictum est, distinctio est causa numeri. Dupliciter autem inveniuntur aliqua distingui. Uno modo, sicut ea quae sunt omnino specie diversa, ut equus et bos. Alio modo, sicut perfectum et imperfectum in eadem specie, sicut puer et vir. Et hoc modo lex divina distinguitur in legem veterem et legem novam. Unde apostolus, ad Gal. III, comparat statum veteris legis statui puerili existenti sub paedagogo, statum autem novae legis comparat statui viri perfecti, qui iam non est sub paedagogo. Attenditur autem perfectio et imperfectio utriusque legis secundum tria quae ad legem pertinent, ut supra dictum est. Primo enim ad legem pertinet ut ordinetur ad bonum commune sicut ad finem, ut supra dictum est. Quod quidem potest esse duplex. Scilicet bonum sensibile et terrenum, et ad tale bonum ordinabat directe lex vetus; unde statim, Exodi III, in principio legis, invitatur populus ad regnum terrenum Chananaeorum. Et iterum bonum intelligibile et caeleste, et ad hoc ordinat lex nova. Unde statim Christus ad regnum caelorum in suae praedicationis principio invitavit, dicens, poenitentiam agite, appropinquavit enim regnum caelorum, Matth. IV. Et ideo Augustinus dicit, in IV contra Faustum, quod temporalium rerum promissiones testamento veteri continentur, et ideo vetus appellatur, sed aeternae vitae promissio ad novum pertinet testamentum. Secundo ad legem pertinet dirigere humanos actus secundum ordinem iustitiae. In quo etiam superabundat lex nova legi veteri, interiores actus animi ordinando; secundum illud Matth. V, nisi abundaverit iustitia vestra plus quam Scribarum et Pharisaeorum, non intrabitis in regnum caelorum. Et ideo dicitur quod lex vetus cohibet manum, lex nova animum. Tertio ad legem pertinet inducere homines ad observantias mandatorum. Et hoc quidem lex vetus faciebat timore poenarum, lex autem nova facit hoc per amorem, qui in cordibus nostris infunditur per gratiam Christi, quae in lege nova confertur, sed in lege veteri figurabatur. Et ideo dicit Augustinus, contra Adimantum Manichaei discipulum, quod brevis differentia est legis et Evangelii, timor et amor.
+
+@@ I-II q. 91 a. 5 ad 1
+Ad primum ergo dicendum quod, sicut paterfamilias in domo alia mandata proponit pueris et adultis, ita etiam unus rex Deus, in uno suo regno, aliam legem dedit hominibus adhuc imperfectis existentibus; et aliam perfectiorem iam manuductis per priorem legem ad maiorem capacitatem divinorum.
+
+@@ I-II q. 91 a. 5 ad 2
+Ad secundum dicendum quod salus hominum non poterat esse nisi per Christum; secundum illud Act. IV, non est aliud nomen datum hominibus, in quo oporteat nos salvos fieri. Et ideo lex perfecte ad salutem omnes inducens, dari non potuit nisi post Christi adventum. Antea vero dari oportuit populo ex quo Christus erat nasciturus, legem praeparatoriam ad Christi susceptionem, in qua quaedam rudimenta salutaris iustitiae continerentur.
+
+@@ I-II q. 91 a. 5 ad 3
+Ad tertium dicendum quod lex naturalis dirigit hominem secundum quaedam praecepta communia, in quibus conveniunt tam perfecti quam imperfecti, et ideo est una omnium. Sed lex divina dirigit hominem etiam in quibusdam particularibus, ad quae non similiter se habent perfecti et imperfecti. Et ideo oportuit legem divinam esse duplicem, sicut iam dictum est.
+
+@@ I-II q. 91 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod non sit aliqua lex fomitis. Dicit enim Isidorus, in V Etymol., quod lex ratione consistit. Fomes autem non consistit ratione, sed magis a ratione deviat. Ergo fomes non habet rationem legis.
+
+@@ I-II q. 91 a. 6 arg. 2
+Praeterea, omnis lex obligatoria est, ita quod qui ipsam non servant, transgressores dicuntur. Sed fomes non constituit aliquem transgressorem ex hoc quod ipsum non sequitur, sed magis transgressor redditur si quis ipsum sequatur. Ergo fomes non habet rationem legis.
+
+@@ I-II q. 91 a. 6 arg. 3
+Praeterea, lex ordinatur ad bonum commune, ut supra habitum est. Sed fomes non inclinat ad bonum commune, sed magis ad bonum privatum. Ergo fomes non habet rationem legis.
+
+@@ I-II q. 91 a. 6 s. c.
+Sed contra est quod apostolus dicit, Rom. VII, video aliam legem in membris meis, repugnantem legi mentis meae.
+
+@@ I-II q. 91 a. 6 co.
+Respondeo dicendum quod, sicut supra dictum est, lex essentialiter invenitur in regulante et mensurante, participative autem in eo quod mensuratur et regulatur; ita quod omnis inclinatio vel ordinatio quae invenitur in his quae subiecta sunt legi, participative dicitur lex, ut ex supradictis patet. Potest autem in his quae subduntur legi, aliqua inclinatio inveniri dupliciter a legislatore. Uno modo, inquantum directe inclinat suos subditos ad aliquid; et diversos interdum ad diversos actus; secundum quem modum potest dici quod alia est lex militum, et alia est lex mercatorum. Alio modo, indirecte, inquantum scilicet per hoc quod legislator destituit aliquem sibi subditum aliqua dignitate, sequitur quod transeat in alium ordinem et quasi in aliam legem, puta si miles ex militia destituatur, transibit in legem rusticorum vel mercatorum. Sic igitur sub Deo legislatore diversae creaturae diversas habent naturales inclinationes, ita ut quod uni est quodammodo lex, alteri sit contra legem, ut si dicam quod furibundum esse est quodammodo lex canis, est autem contra legem ovis vel alterius mansueti animalis. Est ergo hominis lex, quam sortitur ex ordinatione divina secundum propriam conditionem, ut secundum rationem operetur. Quae quidem lex fuit tam valida in primo statu, ut nihil vel praeter rationem vel contra rationem posset subrepere homini. Sed dum homo a Deo recessit, incurrit in hoc quod feratur secundum impetum sensualitatis, et unicuique etiam particulariter hoc contingit, quanto magis a ratione recesserit, ut sic quodammodo bestiis assimiletur, quae sensualitatis impetu feruntur; secundum illud Psalmi XLVIII, homo, cum in honore esset, non intellexit, comparatus est iumentis insipientibus, et similis factus est illis. Sic igitur ipsa sensualitatis inclinatio, quae fomes dicitur, in aliis quidem animalibus simpliciter habet rationem legis, illo tamen modo quo in talibus lex dici potest, secundum directam inclinationem. In hominibus autem secundum hoc non habet rationem legis, sed magis est deviatio a lege rationis. Sed inquantum per divinam iustitiam homo destituitur originali iustitia et vigore rationis, ipse impetus sensualitatis qui eum ducit, habet rationem legis, inquantum est poenalis et ex lege divina consequens, hominem destituente propria dignitate.
+
+@@ I-II q. 91 a. 6 ad 1
+Ad primum ergo dicendum quod ratio illa procedit de fomite secundum se considerato, prout inclinat ad malum. Sic enim non habet rationem legis, ut dictum est, sed secundum quod sequitur ex divinae legis iustitia, tanquam si diceretur lex esse quod aliquis nobilis, propter suam culpam, ad servilia opera induci permitteretur.
+
+@@ I-II q. 91 a. 6 ad 2
+Ad secundum dicendum quod obiectio illa procedit de eo quod est lex quasi regula et mensura, sic enim deviantes a lege transgressores constituuntur. Sic autem fomes non est lex, sed per quandam participationem, ut supra dictum est.
+
+@@ I-II q. 91 a. 6 ad 3
+Ad tertium dicendum quod ratio illa procedit de fomite quantum ad inclinationem propriam, non autem quantum ad suam originem. Et tamen si consideretur inclinatio sensualitatis prout est in aliis animalibus, sic ordinatur ad bonum commune, idest ad conservationem naturae in specie vel in individuo. Et hoc est etiam in homine, prout sensualitas subditur rationi. Sed fomes dicitur secundum quod exit rationis ordinem.
+
+@@ I-II q. 92 pr.
+Deinde considerandum est de effectibus legis. Et circa hoc quaeruntur duo. Primo, utrum effectus legis sit homines facere bonos. Secundo, utrum effectus legis sint imperare, vetare, permittere et punire, sicut legisperitus dicit.
+
+@@ I-II q. 92 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod legis non sit facere homines bonos. Homines enim sunt boni per virtutem, virtus enim est quae bonum facit habentem, ut dicitur in II Ethic. Sed virtus est homini a solo Deo, ipse enim eam facit in nobis sine nobis, ut supra dictum est in definitione virtutis. Ergo legis non est facere homines bonos.
+
+@@ I-II q. 92 a. 1 arg. 2
+Praeterea, lex non prodest homini nisi legi obediat. Sed hoc ipsum quod homo obedit legi, est ex bonitate. Ergo bonitas praeexigitur in homine ad legem. Non igitur lex facit homines bonos.
+
+@@ I-II q. 92 a. 1 arg. 3
+Praeterea, lex ordinatur ad bonum commune, ut supra dictum est. Sed quidam bene se habent in his quae ad commune pertinent, qui tamen in propriis non bene se habent. Non ergo ad legem pertinet quod faciat homines bonos.
+
+@@ I-II q. 92 a. 1 arg. 4
+Praeterea, quaedam leges sunt tyrannicae, ut philosophus dicit, in sua politica. Sed tyrannus non intendit ad bonitatem subditorum, sed solum ad propriam utilitatem. Non ergo legis est facere homines bonos.
+
+@@ I-II q. 92 a. 1 s. c.
+Sed contra est quod philosophus dicit, in II Ethic., quod voluntas cuiuslibet legislatoris haec est, ut faciat cives bonos.
+
+@@ I-II q. 92 a. 1 co.
+Respondeo dicendum quod, sicut supra dictum est, lex nihil aliud est quam dictamen rationis in praesidente, quo subditi gubernantur. Cuiuslibet autem subditi virtus est ut bene subdatur ei a quo gubernatur, sicut videmus quod virtus irascibilis et concupiscibilis in hoc consistit quod sint bene obedientes rationi. Et per hunc modum virtus cuiuslibet subiecti est ut bene subiiciatur principanti, ut philosophus dicit, in I Polit. Ad hoc autem ordinatur unaquaeque lex, ut obediatur ei a subditis. Unde manifestum est quod hoc sit proprium legis, inducere subiectos ad propriam ipsorum virtutem. Cum igitur virtus sit quae bonum facit habentem, sequitur quod proprius effectus legis sit bonos facere eos quibus datur, vel simpliciter vel secundum quid. Si enim intentio ferentis legem tendat in verum bonum, quod est bonum commune secundum iustitiam divinam regulatum, sequitur quod per legem homines fiant boni simpliciter. Si vero intentio legislatoris feratur ad id quod non est bonum simpliciter, sed utile vel delectabile sibi, vel repugnans iustitiae divinae; tunc lex non facit homines bonos simpliciter, sed secundum quid, scilicet in ordine ad tale regimen. Sic autem bonum invenitur etiam in per se malis, sicut aliquis dicitur bonus latro, quia operatur accommode ad finem.
+
+@@ I-II q. 92 a. 1 ad 1
+Ad primum ergo dicendum quod duplex est virtus, ut ex supradictis patet, scilicet acquisita, et infusa. Ad utramque autem aliquid operatur operum assuetudo, sed diversimode, nam virtutem quidem acquisitam causat; ad virtutem autem infusam disponit, et eam iam habitam conservat et promovet. Et quia lex ad hoc datur ut dirigat actus humanos, inquantum actus humani operantur ad virtutem, intantum lex facit homines bonos. Unde et philosophus dicit, II Polit., quod legislatores assuefacientes faciunt bonos.
+
+@@ I-II q. 92 a. 1 ad 2
+Ad secundum dicendum quod non semper aliquis obedit legi ex bonitate perfecta virtutis, sed quandoque quidem ex timore poenae; quandoque autem ex solo dictamine rationis, quod est quoddam principium virtutis, ut supra habitum est.
+
+@@ I-II q. 92 a. 1 ad 3
+Ad tertium dicendum quod bonitas cuiuslibet partis consideratur in proportione ad suum totum, unde et Augustinus dicit, in III Confess., quod turpis omnis pars est quae suo toti non congruit. Cum igitur quilibet homo sit pars civitatis, impossibile est quod aliquis homo sit bonus, nisi sit bene proportionatus bono communi, nec totum potest bene consistere nisi ex partibus sibi proportionatis. Unde impossibile est quod bonum commune civitatis bene se habeat, nisi cives sint virtuosi, ad minus illi quibus convenit principari. Sufficit autem, quantum ad bonum communitatis, quod alii intantum sint virtuosi quod principum mandatis obediant. Et ideo philosophus dicit, in III Polit., quod eadem est virtus principis et boni viri; non autem eadem est virtus cuiuscumque civis et boni viri.
+
+@@ I-II q. 92 a. 1 ad 4
+Ad quartum dicendum quod lex tyrannica, cum non sit secundum rationem, non est simpliciter lex, sed magis est quaedam perversitas legis. Et tamen inquantum habet aliquid de ratione legis, intendit ad hoc quod cives sint boni. Non enim habet de ratione legis nisi secundum hoc quod est dictamen alicuius praesidentis in subditis, et ad hoc tendit ut subditi legi sint bene obedientes; quod est eos esse bonos, non simpliciter, sed in ordine ad tale regimen.
+
+@@ I-II q. 92 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod legis actus non sint convenienter assignati in hoc quod dicitur quod legis actus est imperare, vetare, permittere et punire. Lex enim omnis praeceptum commune est, ut legisconsultus dicit. Sed idem est imperare quod praecipere. Ergo alia tria superfluunt.
+
+@@ I-II q. 92 a. 2 arg. 2
+Praeterea, effectus legis est ut inducat subditos ad bonum, sicut supra dictum est. Sed consilium est de meliori bono quam praeceptum. Ergo magis pertinet ad legem consulere quam praecipere.
+
+@@ I-II q. 92 a. 2 arg. 3
+Praeterea, sicut homo aliquis incitatur ad bonum per poenas, ita etiam et per praemia. Ergo sicut punire ponitur effectus legis, ita etiam et praemiare.
+
+@@ I-II q. 92 a. 2 arg. 4
+Praeterea, intentio legislatoris est ut homines faciat bonos, sicut supra dictum est. Sed ille qui solo metu poenarum obedit legi, non est bonus, nam timore servili, qui est timor poenarum, etsi bonum aliquis faciat, non tamen bene aliquid fit, ut Augustinus dicit. Non ergo videtur esse proprium legis quod puniat.
+
+@@ I-II q. 92 a. 2 s. c.
+Sed contra est quod Isidorus dicit, in V Etymol., omnis lex aut permittit aliquid, ut, vir fortis praemium petat. Aut vetat, ut, sacrarum virginum nuptias nulli liceat petere. Aut punit, ut, qui caedem fecerit, capite plectatur.
+
+@@ I-II q. 92 a. 2 co.
+Respondeo dicendum quod, sicut enuntiatio est rationis dictamen per modum enuntiandi, ita etiam lex per modum praecipiendi. Rationis autem proprium est ut ex aliquo ad aliquid inducat. Unde sicut in demonstrativis scientiis ratio inducit ut assentiatur conclusioni per quaedam principia, ita etiam inducit ut assentiatur legis praecepto per aliquid. Praecepta autem legis sunt de actibus humanis, in quibus lex dirigit, ut supra dictum est. Sunt autem tres differentiae humanorum actuum. Nam sicut supra dictum est, quidam actus sunt boni ex genere, qui sunt actus virtutum, et respectu horum, ponitur legis actus praecipere vel imperare; praecipit enim lex omnes actus virtutum, ut dicitur in V Ethic. Quidam vero sunt actus mali ex genere, sicut actus vitiosi, et respectu horum, lex habet prohibere. Quidam vero ex genere suo sunt actus indifferentes, et respectu horum, lex habet permittere. Et possunt etiam indifferentes dici omnes illi actus qui sunt vel parum boni vel parum mali. Id autem per quod inducit lex ad hoc quod sibi obediatur, est timor poenae, et quantum ad hoc, ponitur legis effectus punire.
+
+@@ I-II q. 92 a. 2 ad 1
+Ad primum ergo dicendum quod, sicut cessare a malo habet quandam rationem boni, ita etiam prohibitio habet quandam rationem praecepti. Et secundum hoc, large accipiendo praeceptum, universaliter lex praeceptum dicitur.
+
+@@ I-II q. 92 a. 2 ad 2
+Ad secundum dicendum quod consulere non est proprius actus legis, sed potest pertinere etiam ad personam privatam, cuius non est condere legem. Unde etiam apostolus, I ad Cor. VII, cum consilium quoddam daret, dixit, ego dico, non dominus. Et ideo non ponitur inter effectus legis.
+
+@@ I-II q. 92 a. 2 ad 3
+Ad tertium dicendum quod etiam praemiare potest ad quemlibet pertinere, sed punire non pertinet nisi ad ministrum legis, cuius auctoritate poena infertur. Et ideo praemiare non ponitur actus legis, sed solum punire.
+
+@@ I-II q. 92 a. 2 ad 4
+Ad quartum dicendum quod per hoc quod aliquis incipit assuefieri ad vitandum mala et ad implendum bona propter metum poenae, perducitur quandoque ad hoc quod delectabiliter et ex propria voluntate hoc faciat. Et secundum hoc, lex etiam puniendo perducit ad hoc quod homines sint boni.

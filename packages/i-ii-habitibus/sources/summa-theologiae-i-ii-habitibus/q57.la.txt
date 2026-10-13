@@ -1,0 +1,152 @@
+@@ I-II q. 57 pr.
+Deinde considerandum est de distinctione virtutum. Et primo, quantum ad virtutes intellectuales; secundo, quantum ad morales; tertio, quantum ad theologicas. Circa primum quaeruntur sex. Primo, utrum habitus intellectuales speculativi sint virtutes. Secundo, utrum sint tres, scilicet sapientia, scientia et intellectus. Tertio, utrum habitus intellectualis qui est ars, sit virtus. Quarto, utrum prudentia sit virtus distincta ab arte. Quinto, utrum prudentia sit virtus necessaria homini. Sexto, utrum eubulia, synesis et gnome sint virtutes adiunctae prudentiae.
+
+@@ I-II q. 57 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod habitus intellectuales speculativi non sint virtutes. Virtus enim est habitus operativus, ut supra dictum est. Sed habitus speculativi non sunt operativi, distinguitur enim speculativum a practico, idest operativo. Ergo habitus intellectuales speculativi non sunt virtutes.
+
+@@ I-II q. 57 a. 1 arg. 2
+Praeterea, virtus est eorum per quae fit homo felix sive beatus, eo quod felicitas est virtutis praemium, ut dicitur in I Ethic. Sed habitus intellectuales non considerant actus humanos, aut alia bona humana, per quae homo beatitudinem adipiscitur, sed magis res naturales et divinas. Ergo huiusmodi habitus virtutes dici non possunt.
+
+@@ I-II q. 57 a. 1 arg. 3
+Praeterea, scientia est habitus speculativus. Sed scientia et virtus distinguuntur sicut diversa genera non subalternatim posita; ut patet per philosophum, in IV Topic. Ergo habitus speculativi non sunt virtutes.
+
+@@ I-II q. 57 a. 1 s. c.
+Sed contra, soli habitus speculativi considerant necessaria quae impossibile est aliter se habere. Sed philosophus ponit, in VI Ethic., quasdam virtutes intellectuales in parte animae quae considerat necessaria quae non possunt aliter se habere. Ergo habitus intellectuales speculativi sunt virtutes.
+
+@@ I-II q. 57 a. 1 co.
+Respondeo dicendum quod, cum omnis virtus dicatur in ordine ad bonum, sicut supra dictum est, duplici ratione aliquis habitus dicitur virtus, ut supra dictum est, uno modo, quia facit facultatem bene operandi; alio modo, quia cum facultate, facit etiam usum bonum. Et hoc, sicut supra dictum est, pertinet solum ad illos habitus qui respiciunt partem appetitivam, eo quod vis appetitiva animae est quae facit uti omnibus potentiis et habitibus. Cum igitur habitus intellectuales speculativi non perficiant partem appetitivam, nec aliquo modo ipsam respiciant, sed solam intellectivam; possunt quidem dici virtutes inquantum faciunt facultatem bonae operationis, quae est consideratio veri (hoc enim est bonum opus intellectus), non tamen dicuntur virtutes secundo modo, quasi facientes bene uti potentia seu habitu. Ex hoc enim quod aliquis habet habitum scientiae speculativae, non inclinatur ad utendum, sed fit potens speculari verum in his quorum habet scientiam, sed quod utatur scientia habita, hoc est movente voluntate. Et ideo virtus quae perficit voluntatem, ut caritas vel iustitia, facit etiam bene uti huiusmodi speculativis habitibus. Et secundum hoc etiam, in actibus horum habituum potest esse meritum, si ex caritate fiant, sicut Gregorius dicit, in VI Moral., quod contemplativa est maioris meriti quam activa.
+
+@@ I-II q. 57 a. 1 ad 1
+Ad primum ergo dicendum quod duplex est opus, scilicet exterius, et interius. Practicum ergo, vel operativum, quod dividitur contra speculativum, sumitur ab opere exteriori, ad quod non habet ordinem habitus speculativus. Sed tamen habet ordinem ad interius opus intellectus, quod est speculari verum. Et secundum hoc est habitus operativus.
+
+@@ I-II q. 57 a. 1 ad 2
+Ad secundum dicendum quod virtus est aliquorum dupliciter. Uno modo, sicut obiectorum. Et sic huiusmodi virtutes speculativae non sunt eorum per quae homo fit beatus; nisi forte secundum quod ly per dicit causam efficientem vel obiectum completae beatitudinis, quod est Deus, quod est summum speculabile. Alio modo dicitur virtus esse aliquorum sicut actuum. Et hoc modo virtutes intellectuales sunt eorum per quae homo fit beatus. Tum quia actus harum virtutum possunt esse meritorii, sicut dictum est. Tum etiam quia sunt quaedam inchoatio perfectae beatitudinis, quae in contemplatione veri consistit, sicut supra dictum est.
+
+@@ I-II q. 57 a. 1 ad 3
+Ad tertium dicendum quod scientia dividitur contra virtutem secundo modo dictam, quae pertinet ad vim appetitivam.
+
+@@ I-II q. 57 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod inconvenienter distinguantur tres virtutes intellectuales speculativae, scilicet sapientia, scientia et intellectus. Species enim non debet condividi generi. Sed sapientia est quaedam scientia, ut dicitur in VI Ethic. Ergo sapientia non debet condividi scientiae, in numero virtutum intellectualium.
+
+@@ I-II q. 57 a. 2 arg. 2
+Praeterea, in distinctione potentiarum, habituum et actuum, quae attenditur secundum obiecta, attenditur principaliter distinctio quae est secundum rationem formalem obiectorum, ut ex supradictis patet. Non ergo diversi habitus debent distingui secundum materiale obiectum; sed secundum rationem formalem illius obiecti. Sed principium demonstrationis est ratio sciendi conclusiones. Non ergo intellectus principiorum debet poni habitus alius, aut alia virtus, a scientia conclusionum.
+
+@@ I-II q. 57 a. 2 arg. 3
+Praeterea, virtus intellectualis dicitur quae est in ipso rationali per essentiam. Sed ratio, etiam speculativa, sicut ratiocinatur syllogizando demonstrative; ita etiam ratiocinatur syllogizando dialectice. Ergo sicut scientia, quae causatur ex syllogismo demonstrativo, ponitur virtus intellectualis speculativa; ita etiam et opinio.
+
+@@ I-II q. 57 a. 2 s. c.
+Sed contra est quod philosophus, VI Ethic., ponit has solum tres virtutes intellectuales speculativas, scilicet sapientiam, scientiam et intellectum.
+
+@@ I-II q. 57 a. 2 co.
+Respondeo dicendum quod, sicut iam dictum est, virtus intellectualis speculativa est per quam intellectus speculativus perficitur ad considerandum verum, hoc enim est bonum opus eius. Verum autem est dupliciter considerabile, uno modo, sicut per se notum; alio modo, sicut per aliud notum. Quod autem est per se notum, se habet ut principium; et percipitur statim ab intellectu. Et ideo habitus perficiens intellectum ad huiusmodi veri considerationem, vocatur intellectus, qui est habitus principiorum. Verum autem quod est per aliud notum, non statim percipitur ab intellectu, sed per inquisitionem rationis, et se habet in ratione termini. Quod quidem potest esse dupliciter, uno modo, ut sit ultimum in aliquo genere; alio modo, ut sit ultimum respectu totius cognitionis humanae. Et quia ea quae sunt posterius nota quoad nos, sunt priora et magis nota secundum naturam, ut dicitur in I Physic.; ideo id quod est ultimum respectu totius cognitionis humanae, est id quod est primum et maxime cognoscibile secundum naturam. Et circa huiusmodi est sapientia, quae considerat altissimas causas, ut dicitur in I Metaphys. Unde convenienter iudicat et ordinat de omnibus, quia iudicium perfectum et universale haberi non potest nisi per resolutionem ad primas causas. Ad id vero quod est ultimum in hoc vel in illo genere cognoscibilium, perficit intellectum scientia. Et ideo secundum diversa genera scibilium, sunt diversi habitus scientiarum, cum tamen sapientia non sit nisi una.
+
+@@ I-II q. 57 a. 2 ad 1
+Ad primum ergo dicendum quod sapientia est quaedam scientia, inquantum habet id quod est commune omnibus scientiis, ut scilicet ex principiis conclusiones demonstret. Sed quia habet aliquid proprium supra alias scientias, inquantum scilicet de omnibus iudicat; et non solum quantum ad conclusiones, sed etiam quantum ad prima principia, ideo habet rationem perfectioris virtutis quam scientia.
+
+@@ I-II q. 57 a. 2 ad 2
+Ad secundum dicendum quod quando ratio obiecti sub uno actu refertur ad potentiam vel habitum, tunc non distinguuntur habitus vel potentiae penes rationem obiecti et obiectum materiale, sicut ad eandem potentiam visivam pertinet videre colorem, et lumen, quod est ratio videndi colorem et simul cum ipso videtur. Principia vero demonstrationis possunt seorsum considerari, absque hoc quod considerentur conclusiones. Possunt etiam considerari simul cum conclusionibus, prout principia in conclusiones deducuntur. Considerare ergo hoc secundo modo principia, pertinet ad scientiam, quae considerat etiam conclusiones, sed considerare principia secundum seipsa, pertinet ad intellectum. Unde, si quis recte consideret, istae tres virtutes non ex aequo distinguuntur ab invicem, sed ordine quodam; sicut accidit in totis potentialibus, quorum una pars est perfectior altera, sicut anima rationalis est perfectior quam sensibilis, et sensibilis quam vegetabilis. Hoc enim modo, scientia dependet ab intellectu sicut a principaliori. Et utrumque dependet a sapientia sicut a principalissimo, quae sub se continet et intellectum et scientiam, ut de conclusionibus scientiarum diiudicans, et de principiis earundem.
+
+@@ I-II q. 57 a. 2 ad 3
+Ad tertium dicendum quod, sicut supra dictum est, habitus virtutis determinate se habet ad bonum, nullo autem modo ad malum. Bonum autem intellectus est verum, malum autem eius est falsum. Unde soli illi habitus virtutes intellectuales dicuntur, quibus semper dicitur verum, et nunquam falsum. Opinio vero et suspicio possunt esse veri et falsi. Et ideo non sunt intellectuales virtutes, ut dicitur in VI Ethic.
+
+@@ I-II q. 57 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod ars non sit virtus intellectualis. Dicit enim Augustinus, in libro de libero arbitrio, quod virtute nullus male utitur. Sed arte aliquis male utitur, potest enim aliquis artifex, secundum scientiam artis suae, male operari. Ergo ars non est virtus.
+
+@@ I-II q. 57 a. 3 arg. 2
+Praeterea, virtutis non est virtus. Artis autem est aliqua virtus, ut dicitur in VI Ethic. Ergo ars non est virtus.
+
+@@ I-II q. 57 a. 3 arg. 3
+Praeterea, artes liberales sunt excellentiores quam artes mechanicae. Sed sicut artes mechanicae sunt practicae, ita artes liberales sunt speculativae. Ergo si ars esset virtus intellectualis, deberet virtutibus speculativis annumerari.
+
+@@ I-II q. 57 a. 3 s. c.
+Sed contra est quod philosophus, in VI Ethic., ponit artem esse virtutem; nec tamen connumerat eam virtutibus speculativis, quarum subiectum ponit scientificam partem animae.
+
+@@ I-II q. 57 a. 3 co.
+Respondeo dicendum quod ars nihil aliud est quam ratio recta aliquorum operum faciendorum. Quorum tamen bonum non consistit in eo quod appetitus humanus aliquo modo se habet, sed in eo quod ipsum opus quod fit, in se bonum est. Non enim pertinet ad laudem artificis, inquantum artifex est, qua voluntate opus faciat; sed quale sit opus quod facit. Sic igitur ars, proprie loquendo, habitus operativus est. Et tamen in aliquo convenit cum habitibus speculativis, quia etiam ad ipsos habitus speculativos pertinet qualiter se habeat res quam considerant, non autem qualiter se habeat appetitus humanus ad illas. Dummodo enim verum geometra demonstret, non refert qualiter se habeat secundum appetitivam partem, utrum sit laetus vel iratus, sicut nec in artifice refert, ut dictum est. Et ideo eo modo ars habet rationem virtutis, sicut et habitus speculativi, inquantum scilicet nec ars, nec habitus speculativus, faciunt bonum opus quantum ad usum, quod est proprium virtutis perficientis appetitum; sed solum quantum ad facultatem bene agendi.
+
+@@ I-II q. 57 a. 3 ad 1
+Ad primum ergo dicendum quod, cum aliquis habens artem operatur malum artificium, hoc non est opus artis, immo est contra artem, sicut etiam cum aliquis sciens verum mentitur, hoc quod dicit non est secundum scientiam, sed contra scientiam. Unde sicut scientia se habet semper ad bonum, ut dictum est, ita et ars, et secundum hoc dicitur virtus. In hoc tamen deficit a perfecta ratione virtutis, quia non facit ipsum bonum usum, sed ad hoc aliquid aliud requiritur, quamvis bonus usus sine arte esse non possit.
+
+@@ I-II q. 57 a. 3 ad 2
+Ad secundum dicendum quod, quia ad hoc ut homo bene utatur arte quam habet, requiritur bona voluntas, quae perficitur per virtutem moralem; ideo philosophus dicit quod artis est virtus, scilicet moralis, inquantum ad bonum usum eius aliqua virtus moralis requiritur. Manifestum est enim quod artifex per iustitiam, quae facit voluntatem rectam, inclinatur ut opus fidele faciat.
+
+@@ I-II q. 57 a. 3 ad 3
+Ad tertium dicendum quod etiam in ipsis speculabilibus est aliquid per modum cuiusdam operis, puta constructio syllogismi aut orationis congruae aut opus numerandi vel mensurandi. Et ideo quicumque ad huiusmodi opera rationis habitus speculativi ordinantur, dicuntur per quandam similitudinem artes, sed liberales; ad differentiam illarum artium quae ordinantur ad opera per corpus exercita, quae sunt quodammodo serviles, inquantum corpus serviliter subditur animae, et homo secundum animam est liber. Illae vero scientiae quae ad nullum huiusmodi opus ordinantur, simpliciter scientiae dicuntur, non autem artes. Nec oportet, si liberales artes sunt nobiliores, quod magis eis conveniat ratio artis.
+
+@@ I-II q. 57 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod prudentia non sit alia virtus ab arte. Ars enim est ratio recta aliquorum operum. Sed diversa genera operum non faciunt ut aliquid amittat rationem artis, sunt enim diversae artes circa opera valde diversa. Cum igitur etiam prudentia sit quaedam ratio recta operum, videtur quod etiam ipsa debeat dici ars.
+
+@@ I-II q. 57 a. 4 arg. 2
+Praeterea, prudentia magis convenit cum arte quam habitus speculativi, utrumque enim eorum est circa contingens aliter se habere, ut dicitur in VI Ethic. Sed quidam habitus speculativi dicuntur artes. Ergo multo magis prudentia debet dici ars.
+
+@@ I-II q. 57 a. 4 arg. 3
+Praeterea, ad prudentiam pertinet bene consiliari, ut dicitur in VI Ethic. Sed etiam in quibusdam artibus consiliari contingit, ut dicitur in III Ethic., sicut in arte militari, et gubernativa, et medicinali. Ergo prudentia ab arte non distinguitur.
+
+@@ I-II q. 57 a. 4 s. c.
+Sed contra est quod philosophus distinguit prudentiam ab arte, in VI Ethic.
+
+@@ I-II q. 57 a. 4 co.
+Respondeo dicendum quod ubi invenitur diversa ratio virtutis, ibi oportet virtutes distingui. Dictum est autem supra quod aliquis habitus habet rationem virtutis ex hoc solum quod facit facultatem boni operis, aliquis autem ex hoc quod facit non solum facultatem boni operis, sed etiam usum. Ars autem facit solum facultatem boni operis, quia non respicit appetitum. Prudentia autem non solum facit boni operis facultatem, sed etiam usum, respicit enim appetitum, tanquam praesupponens rectitudinem appetitus. Cuius differentiae ratio est, quia ars est recta ratio factibilium; prudentia vero est recta ratio agibilium. Differt autem facere et agere quia, ut dicitur in IX Metaphys., factio est actus transiens in exteriorem materiam, sicut aedificare, secare, et huiusmodi; agere autem est actus permanens in ipso agente, sicut videre, velle, et huiusmodi. Sic igitur hoc modo se habet prudentia ad huiusmodi actus humanos, qui sunt usus potentiarum et habituum, sicut se habet ars ad exteriores factiones, quia utraque est perfecta ratio respectu illorum ad quae comparatur. Perfectio autem et rectitudo rationis in speculativis, dependet ex principiis, ex quibus ratio syllogizat, sicut dictum est quod scientia dependet ab intellectu, qui est habitus principiorum, et praesupponit ipsum. In humanis autem actibus se habent fines sicut principia in speculativis, ut dicitur in VII Ethic. Et ideo ad prudentiam, quae est recta ratio agibilium, requiritur quod homo sit bene dispositus circa fines, quod quidem est per appetitum rectum. Et ideo ad prudentiam requiritur moralis virtus, per quam fit appetitus rectus. Bonum autem artificialium non est bonum appetitus humani, sed bonum ipsorum operum artificialium, et ideo ars non praesupponit appetitum rectum. Et inde est quod magis laudatur artifex qui volens peccat, quam qui peccat nolens; magis autem contra prudentiam est quod aliquis peccet volens, quam nolens, quia rectitudo voluntatis est de ratione prudentiae, non autem de ratione artis. Sic igitur patet quod prudentia est virtus distincta ab arte.
+
+@@ I-II q. 57 a. 4 ad 1
+Ad primum ergo dicendum quod diversa genera artificialium omnia sunt extra hominem, et ideo non diversificatur ratio virtutis. Sed prudentia est recta ratio ipsorum actuum humanorum, unde diversificatur ratio virtutis, ut dictum est.
+
+@@ I-II q. 57 a. 4 ad 2
+Ad secundum dicendum quod prudentia magis convenit cum arte quam habitus speculativi, quantum ad subiectum et materiam, utrumque enim est in opinativa parte animae, et circa contingens aliter se habere. Sed ars magis convenit cum habitibus speculativis in ratione virtutis, quam cum prudentia, ut ex dictis patet.
+
+@@ I-II q. 57 a. 4 ad 3
+Ad tertium dicendum quod prudentia est bene consiliativa de his quae pertinent ad totam vitam hominis, et ad ultimum finem vitae humanae. Sed in artibus aliquibus est consilium de his quae pertinent ad fines proprios illarum artium. Unde aliqui, inquantum sunt bene consiliativi in rebus bellicis vel nauticis, dicuntur prudentes duces vel gubernatores, non autem prudentes simpliciter, sed illi solum qui bene consiliantur de his quae conferunt ad totam vitam.
+
+@@ I-II q. 57 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod prudentia non sit virtus necessaria ad bene vivendum. Sicut enim se habet ars ad factibilia, quorum est ratio recta; ita se habet prudentia ad agibilia, secundum quae vita hominis consideratur, est enim eorum recta ratio prudentia, ut dicitur in VI Ethic. Sed ars non est necessaria in rebus factibilibus nisi ad hoc quod fiant, non autem postquam sunt factae. Ergo nec prudentia est necessaria homini ad bene vivendum, postquam est virtuosus, sed forte solum quantum ad hoc quod virtuosus fiat.
+
+@@ I-II q. 57 a. 5 arg. 2
+Praeterea, prudentia est per quam recte consiliamur, ut dicitur in VI Ethic. Sed homo potest ex bono consilio agere non solum proprio, sed etiam alieno. Ergo non est necessarium ad bene vivendum quod ipse homo habeat prudentiam; sed sufficit quod prudentum consilia sequatur.
+
+@@ I-II q. 57 a. 5 arg. 3
+Praeterea, virtus intellectualis est secundum quam contingit semper dicere verum, et nunquam falsum. Sed hoc non videtur contingere secundum prudentiam, non enim est humanum quod in consiliando de agendis nunquam erretur; cum humana agibilia sint contingentia aliter se habere. Unde dicitur Sap. IX, cogitationes mortalium timidae, et incertae providentiae nostrae. Ergo videtur quod prudentia non debeat poni intellectualis virtus.
+
+@@ I-II q. 57 a. 5 s. c.
+Sed contra est quod Sap. VIII, connumeratur aliis virtutibus necessariis ad vitam humanam, cum dicitur de divina sapientia, sobrietatem et prudentiam docet, iustitiam et virtutem, quibus utilius nihil est in vita hominibus.
+
+@@ I-II q. 57 a. 5 co.
+Respondeo dicendum quod prudentia est virtus maxime necessaria ad vitam humanam. Bene enim vivere consistit in bene operari. Ad hoc autem quod aliquis bene operetur, non solum requiritur quid faciat, sed etiam quomodo faciat; ut scilicet secundum electionem rectam operetur, non solum ex impetu aut passione. Cum autem electio sit eorum quae sunt ad finem, rectitudo electionis duo requirit, scilicet debitum finem; et id quod convenienter ordinatur ad debitum finem. Ad debitum autem finem homo convenienter disponitur per virtutem quae perficit partem animae appetitivam, cuius obiectum est bonum et finis. Ad id autem quod convenienter in finem debitum ordinatur, oportet quod homo directe disponatur per habitum rationis, quia consiliari et eligere, quae sunt eorum quae sunt ad finem, sunt actus rationis. Et ideo necesse est in ratione esse aliquam virtutem intellectualem, per quam perficiatur ratio ad hoc quod convenienter se habeat ad ea quae sunt ad finem. Et haec virtus est prudentia. Unde prudentia est virtus necessaria ad bene vivendum.
+
+@@ I-II q. 57 a. 5 ad 1
+Ad primum ergo dicendum quod bonum artis consideratur non in ipso artifice, sed magis in ipso artificiato, cum ars sit ratio recta factibilium, factio enim, in exteriorem materiam transiens, non est perfectio facientis, sed facti, sicut motus est actus mobilis; ars autem circa factibilia est. Sed prudentiae bonum attenditur in ipso agente, cuius perfectio est ipsum agere, est enim prudentia recta ratio agibilium, ut dictum est. Et ideo ad artem non requiritur quod artifex bene operetur, sed quod bonum opus faciat. Requireretur autem magis quod ipsum artificiatum bene operaretur, sicut quod cultellus bene incideret, vel serra bene secaret; si proprie horum esset agere, et non magis agi, quia non habent dominium sui actus. Et ideo ars non est necessaria ad bene vivendum ipsi artificis; sed solum ad faciendum artificiatum bonum, et ad conservandum ipsum. Prudentia autem est necessaria homini ad bene vivendum, non solum ad hoc quod fiat bonus.
+
+@@ I-II q. 57 a. 5 ad 2
+Ad secundum dicendum quod, cum homo bonum operatur non secundum propriam rationem, sed motus ex consilio alterius; nondum est omnino perfecta operatio ipsius, quantum ad rationem dirigentem, et quantum ad appetitum moventem. Unde si bonum operetur, non tamen simpliciter bene; quod est bene vivere.
+
+@@ I-II q. 57 a. 5 ad 3
+Ad tertium dicendum quod verum intellectus practici aliter accipitur quam verum intellectus speculativi, ut dicitur in VI Ethic. Nam verum intellectus speculativi accipitur per conformitatem intellectus ad rem. Et quia intellectus non potest infallibiliter conformari rebus in contingentibus, sed solum in necessariis; ideo nullus habitus speculativus contingentium est intellectualis virtus, sed solum est circa necessaria. Verum autem intellectus practici accipitur per conformitatem ad appetitum rectum. Quae quidem conformitas in necessariis locum non habet, quae voluntate humana non fiunt, sed solum in contingentibus quae possunt a nobis fieri, sive sint agibilia interiora, sive factibilia exteriora. Et ideo circa sola contingentia ponitur virtus intellectus practici, circa factibilia quidem, ars; circa agibilia vero prudentia.
+
+@@ I-II q. 57 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod inconvenienter adiungantur prudentiae eubulia, synesis et gnome. Eubulia enim est habitus quo bene consiliamur, ut dicitur in VI Ethic. Sed bene consiliari pertinet ad prudentiam, ut in eodem libro dicitur. Ergo eubulia non est virtus adiuncta prudentiae, sed magis est ipsa prudentia.
+
+@@ I-II q. 57 a. 6 arg. 2
+Praeterea, ad superiorem pertinet de inferioribus iudicare. Illa ergo virtus videtur suprema, cuius est actus iudicium. Sed synesis est bene iudicativa. Ergo synesis non est virtus adiuncta prudentiae, sed magis ipsa est principalis.
+
+@@ I-II q. 57 a. 6 arg. 3
+Praeterea, sicut diversa sunt ea de quibus est iudicandum, ita etiam diversa sunt ea de quibus est consiliandum. Sed circa omnia consiliabilia ponitur una virtus, scilicet eubulia. Ergo ad bene iudicandum de agendis, non oportet ponere, praeter synesim, aliam virtutem, scilicet gnomen.
+
+@@ I-II q. 57 a. 6 arg. 4
+Praeterea, Tullius ponit, in sua rhetorica, tres alias partes prudentiae, scilicet memoriam praeteritorum, intelligentiam praesentium, et providentiam futurorum. Macrobius etiam ponit, super somnium Scipionis, quasdam alias partes prudentiae, scilicet cautionem, docilitatem, et alia huiusmodi. Non videntur igitur solae huiusmodi virtutes prudentiae adiungi.
+
+@@ I-II q. 57 a. 6 s. c.
+Sed contra est auctoritas philosophi, in VI Ethic., qui has tres virtutes ponit prudentiae adiunctas.
+
+@@ I-II q. 57 a. 6 co.
+Respondeo dicendum quod in omnibus potentiis ordinatis illa est principalior, quae ad principaliorem actum ordinatur. Circa agibilia autem humana tres actus rationis inveniuntur, quorum primus est consiliari, secundus iudicare, tertius est praecipere. Primi autem duo respondent actibus intellectus speculativi qui sunt inquirere et iudicare, nam consilium inquisitio quaedam est. Sed tertius actus proprius est practici intellectus, inquantum est operativus, non enim ratio habet praecipere ea quae per hominem fieri non possunt. Manifestum est autem quod in his quae per hominem fiunt, principalis actus est praecipere, ad quem alii ordinantur. Et ideo virtuti quae est bene praeceptiva, scilicet prudentiae, tanquam principaliori, adiunguntur tanquam secundariae, eubulia, quae est bene consiliativa, et synesis et gnome, quae sunt partes iudicativae; de quarum distinctione dicetur.
+
+@@ I-II q. 57 a. 6 ad 1
+Ad primum ergo dicendum quod prudentia est bene consiliativa, non quasi bene consiliari sit immediate actus eius, sed quia hunc actum perficit mediante virtute sibi subiecta, quae est eubulia.
+
+@@ I-II q. 57 a. 6 ad 2
+Ad secundum dicendum quod iudicium in agendis ad aliquid ulterius ordinatur, contingit enim aliquem bene iudicare de aliquo agendo, et tamen non recte exequi. Sed ultimum complementum est, quando ratio iam bene praecipit de agendis.
+
+@@ I-II q. 57 a. 6 ad 3
+Ad tertium dicendum quod iudicium de unaquaque re fit per propria principia eius. Inquisitio autem nondum est per propria principia, quia his habitis, non esset opus inquisitione, sed iam res esset inventa. Et ideo una sola virtus ordinatur ad bene consiliandum, duae autem virtutes ad bene iudicandum, quia distinctio non est in communibus principiis, sed in propriis. Unde et in speculativis una est dialectica inquisitiva de omnibus, scientiae autem demonstrativae, quae sunt iudicativae, sunt diversae de diversis. Distinguuntur autem synesis et gnome secundum diversas regulas quibus iudicatur, nam synesis est iudicativa de agendis secundum communem legem; gnome autem secundum ipsam rationem naturalem, in his in quibus deficit lex communis; sicut plenius infra patebit.
+
+@@ I-II q. 57 a. 6 ad 4
+Ad quartum dicendum quod memoria, intelligentia et providentia, similiter etiam cautio et docilitas, et alia huiusmodi, non sunt virtutes diversae a prudentia, sed quodammodo comparantur ad ipsam sicut partes integrales, inquantum omnia ista requiruntur ad perfectionem prudentiae. Sunt etiam et quaedam partes subiectivae, seu species prudentiae, sicut oeconomica, regnativa, et huiusmodi. Sed praedicta tria sunt quasi partes potentiales prudentiae, quia ordinantur sicut secundarium ad principale. Et de his infra dicetur.

@@ -1,0 +1,32 @@
+[package]
+name = "la.aquinas.summa.i_sacra_doctrina"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-sacra-doctrina"
+
+[metadata]
+act = "la-summa-i-sacra-doctrina"
+title = "Фома Аквинский, Summa theologiae I, вопросы 1–1: священное учение"
+primarySource = "SUMMA_THEOLOGIAE_I_1_1"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_sacra_doctrina#authored"
+regression = false
+suites = [
+    "tests/01-sacreddoctrinenecessary-affirmat.lawtest",
+    "tests/01b-sacreddoctrinenecessary-negata.lawtest",
+    "tests/02-sacreddoctrineisscience-affirmat.lawtest",
+    "tests/02b-sacreddoctrineisscience-negata.lawtest",
+    "tests/03-sacreddoctrineargumentative-affirmat.lawtest",
+    "tests/03b-sacreddoctrineargumentative-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_sacra_doctrina"]
+
+[authoring]
+local_imports = "explicit"

@@ -1,0 +1,79 @@
+// I-II q. 106–108: новый закон — главным образом благодать; тот же конец, что у ветхого;
+// внешние дела — таинства, заповеди и область свободы.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_old_new_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-old-new-law";
+
+use self::{
+    Law,
+    ST_I_II_Q106_A1_RESP,
+    ST_I_II_Q106_A2_RESP,
+    ST_I_II_Q107_A1_RESP,
+    ST_I_II_Q108_A1_RESP,
+    grace_of_holy_spirit_given,
+    is_new_law,
+    merely_written_documents,
+    presented_law,
+};
+
+pub relation new_law_indita(l: Law) kind institutional {
+    label la official "principaliter nova lex est lex indita";
+    label ru unofficial "новый закон главным образом вложен: благодать Святого Духа";
+}
+pub relation new_law_justifies(l: Law) kind institutional {
+    label la official "quantum ad gratiam spiritus sancti nova lex iustificat";
+    label ru unofficial "новый закон оправдывает благодатью, не буквой";
+}
+pub relation new_law_letter_does_not_justify(l: Law) kind institutional {
+    label la official "quantum ad documenta et praecepta lex nova non iustificat";
+    label ru unofficial "одни внешние документы нового закона не оправдывают";
+}
+pub relation same_end_as_old(l: Law) kind institutional {
+    label la official "utriusque est unus finis, scilicet ut homines subdantur Deo";
+    label ru unofficial "новый и ветхий закон имеют один конец: подчинение Богу";
+}
+pub relation gospel_is_law_of_liberty(l: Law) kind institutional {
+    label la official "lex Evangelii lex libertatis dicitur";
+    label ru unofficial "евангельский закон называется законом свободы";
+}
+
+@source(ST_I_II_Q106_A1_RESP)
+rule NewLawIsGraceIndita(l: Law) strict {
+    label la official "principaliter lex nova est ipsa gratia spiritus sancti";
+    label ru unofficial "главное в новом законе — благодать Святого Духа";
+    when presented_law(l) and is_new_law(l) and grace_of_holy_spirit_given(l);
+    then new_law_indita(l);
+}
+
+@source(ST_I_II_Q106_A2_RESP)
+rule NewLawJustifiesByInteriorGrace(l: Law) strict {
+    label la official "quantum ad gratiam spiritus sancti interius datam nova lex iustificat";
+    label ru unofficial "внутренне данная благодать оправдывает";
+    when presented_law(l) and is_new_law(l) and grace_of_holy_spirit_given(l);
+    then new_law_justifies(l);
+}
+
+@source(ST_I_II_Q106_A2_RESP)
+rule NewLawLetterDoesNotJustify(l: Law) strict {
+    label la official "littera Evangelii occideret, nisi adesset interius gratia fidei";
+    label ru unofficial "одна буква Евангелия не оправдывает";
+    when presented_law(l) and is_new_law(l) and merely_written_documents(l);
+    then new_law_letter_does_not_justify(l);
+}
+
+@source(ST_I_II_Q107_A1_RESP)
+rule NewAndOldShareOneEnd(l: Law) strict {
+    label la official "lex nova non est alia a lege veteri, quia utriusque est unus finis";
+    label ru unofficial "по концу новый закон не иной, чем ветхий";
+    when presented_law(l) and is_new_law(l);
+    then same_end_as_old(l);
+}
+
+@source(ST_I_II_Q108_A1_RESP)
+rule GospelCalledLawOfLiberty(l: Law) strict {
+    label la official "quantum ad hoc dicitur lex Evangelii lex libertatis";
+    label ru unofficial "в оставленном на определение каждого евангельский закон есть закон свободы";
+    when presented_law(l) and is_new_law(l);
+    then gospel_is_law_of_liberty(l);
+}

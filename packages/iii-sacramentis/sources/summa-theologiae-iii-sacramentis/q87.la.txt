@@ -1,0 +1,98 @@
+@@ III q. 87 pr.
+Deinde considerandum est de remissione venialium peccatorum. Et circa hoc quaeruntur quatuor. Primo, utrum sine poenitentia peccatum veniale possit dimitti. Secundo, utrum possit dimitti sine gratiae infusione. Tertio, utrum peccata venialia remittantur per aspersionem aquae benedictae, et tunsionem pectoris, et orationem dominicam, et alia huiusmodi. Quarto, utrum veniale possit dimitti sine mortali.
+
+@@ III q. 87 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod veniale peccatum possit remitti sine poenitentia. Pertinet enim, ut supra dictum est, ad rationem verae poenitentiae quod non solum homo doleat de peccato praeterito, sed etiam proponat cavere de futuro. Sed sine tali proposito peccata venialia dimittuntur, cum certum sit homini quod sine peccatis venialibus praesentem vitam ducere non possit. Ergo peccata venialia possunt remitti sine poenitentia.
+
+@@ III q. 87 a. 1 arg. 2
+Praeterea, poenitentia non est sine actuali displicentia peccatorum. Sed peccata venialia possunt dimitti sine displicentia eorum, sicut patet in eo qui dormiens occideretur propter Christum; statim enim evolaret, quod non contingit manentibus peccatis venialibus. Ergo peccata venialia possunt remitti sine poenitentia.
+
+@@ III q. 87 a. 1 arg. 3
+Praeterea, peccata venialia opponuntur fervori caritatis, ut in secunda parte dictum est. Sed unum oppositorum tollitur per aliud. Ergo per fervorem caritatis, quem contingit esse sine actuali displicentia peccati venialis, fit remissio peccatorum venialium.
+
+@@ III q. 87 a. 1 s. c.
+Sed contra est quod Augustinus dicit, in libro de poenitentia, quod est quaedam poenitentia quae quotidie agitur in Ecclesia pro peccatis venialibus. Quae frustra esset si sine poenitentia peccata venialia possunt dimitti.
+
+@@ III q. 87 a. 1 co.
+Respondeo dicendum quod remissio culpae, sicut dictum est, fit per coniunctionem ad Deum, a quo aliqualiter separat culpa. Sed haec separatio perfecte quidem fit per peccatum mortale, imperfecte autem per peccatum veniale, nam per peccatum mortale mens omnino a Deo avertitur, utpote contra caritatem agens; per peccatum autem veniale retardatur affectus hominis ne prompte in Deum feratur. Et ideo utrumque peccatum per poenitentiam quidem remittitur, quia per utrumque deordinatur voluntas hominis per immoderatam conversionem ad bonum creatum, sicut enim peccatum mortale remitti non potest quandiu voluntas peccato adhaeret, ita etiam nec peccatum veniale, quia, manente causa, manet effectus. Exigitur autem ad remissionem peccati mortalis perfectior poenitentia, ut scilicet homo actualiter peccatum mortale commissum detestetur quantum in ipso est, ut scilicet diligentiam adhibeat ad rememorandum singula peccata mortalia, ut singula detestetur. Sed hoc non requiritur ad remissionem venialium peccatorum. Non tamen sufficit habitualis displicentia, quae habetur per habitum caritatis vel poenitentiae virtutis, quia sic caritas non compateretur peccatum veniale, quod patet esse falsum. Unde sequitur quod requiratur quaedam virtualis displicentia, puta cum aliquis fertur hoc modo secundum affectum in Deum et res divinas ut quidquid ei occurrat quod eum ab hoc motu retardaret, displiceret ei, et doleret se hoc commisisse, etiam si actu de illo non cogitaret. Quod tamen non sufficit ad remissionem peccati mortalis, nisi quantum ad peccata oblita post diligentem inquisitionem.
+
+@@ III q. 87 a. 1 ad 1
+Ad primum ergo dicendum quod homo in gratia constitutus potest vitare omnia peccata mortalia et singula; potest etiam vitare singula peccata venialia, sed non omnia; ut patet ex his quae in secunda parte dicta sunt. Et ideo poenitentia de peccatis mortalibus requirit quod homo proponat abstinere ab omnibus et singulis peccatis mortalibus. Sed ad poenitentiam peccatorum venialium requiritur quod proponat abstinere a singulis, non tamen ab omnibus, quia hoc infirmitas huius vitae non patitur. Debet tamen habere propositum se praeparandi ad peccata venialia minuenda, alioquin esset ei periculum deficiendi, cum desereret appetitum proficiendi, seu tollendi impedimenta spiritualis profectus, quae sunt peccata venialia.
+
+@@ III q. 87 a. 1 ad 2
+Ad secundum dicendum quod passio pro Christo suscepta, sicut supra dictum est, obtinet vim Baptismi. Et ideo purgat ab omni culpa et mortali et veniali, nisi actualiter voluntatem peccato invenerit inhaerentem.
+
+@@ III q. 87 a. 1 ad 3
+Ad tertium dicendum quod fervor caritatis virtualiter implicat displicentiam venialium peccatorum, ut supra dictum est.
+
+@@ III q. 87 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod ad remissionem venialium peccatorum requiratur gratiae infusio. Effectus enim non est sine propria causa. Sed propria causa remissionis peccatorum est gratia, non enim ex meritis propriis hominis peccata propria remittuntur; unde dicitur Ephes. II, Deus, qui dives est in misericordia, propter nimiam caritatem qua dilexit nos, cum essemus mortui peccatis, convivificavit nos in Christo, cuius gratia salvati estis. Ergo peccata venialia non remittuntur sine gratiae infusione.
+
+@@ III q. 87 a. 2 arg. 2
+Praeterea, peccata venialia non remittuntur sine poenitentia. Sed in poenitentia infunditur gratia, sicut et in aliis sacramentis novae legis. Ergo peccata venialia non remittuntur sine gratiae infusione.
+
+@@ III q. 87 a. 2 arg. 3
+Praeterea, peccatum veniale maculam quandam animae infert. Sed macula non aufertur nisi per gratiam, quae est spiritualis animae decor. Ergo videtur quod peccata venialia non remittantur sine gratiae infusione.
+
+@@ III q. 87 a. 2 s. c.
+Sed contra est quod peccatum veniale adveniens non tollit gratiam, neque etiam diminuit eam, ut in secunda parte habitum est. Ergo, pari ratione, ad hoc quod peccatum veniale remittatur, non requiritur novae gratiae infusio.
+
+@@ III q. 87 a. 2 co.
+Respondeo dicendum quod unumquodque tollitur per suum oppositum. Peccatum autem veniale non contrariatur habituali gratiae vel caritati, sed retardat actum eius, inquantum nimis haeret homo bono creato, licet non contra Deum, ut in secunda parte habitum est. Et ideo ad hoc quod peccatum tollatur, non requiritur aliqua habitualis gratia, sed sufficit aliquis motus gratiae vel caritatis ad eius remissionem. Quia tamen in habentibus usum liberi arbitrii, in quibus solum possunt esse peccata venialia, non contingit esse infusionem gratiae sine actuali motu liberi arbitrii in Deum et in peccatum; ideo, quandocumque de novo gratia infunditur, peccata venialia remittuntur.
+
+@@ III q. 87 a. 2 ad 1
+Ad primum ergo dicendum quod etiam remissio peccatorum venialium est effectus gratiae, per actum scilicet quem de novo elicit, non autem per aliquid habituale de novo animae infusum.
+
+@@ III q. 87 a. 2 ad 2
+Ad secundum dicendum quod veniale peccatum nunquam remittitur sine aliquali actu poenitentiae virtutis, explicito scilicet vel implicito, ut supra dictum est. Potest tamen remitti veniale peccatum sine poenitentiae sacramento, quod in absolutione sacerdotis formaliter perficitur, ut supra dictum est. Et ideo non sequitur quod ad remissionem venialis requiratur gratiae infusio, quae licet sit in quolibet sacramento, non tamen in quolibet actu virtutis.
+
+@@ III q. 87 a. 2 ad 3
+Ad tertium dicendum quod, sicut in corpore contingit esse maculam dupliciter, uno modo per privationem eius quod requiritur ad decorem, puta debiti coloris aut debitae proportionis membrorum, alio modo per superinductionem alicuius impedientis decorem, puta luti aut pulveris; ita etiam in anima inducitur macula uno modo per privationem decoris gratiae per peccatum mortale, alio modo per inclinationem inordinatam affectus ad aliquid temporale; et hoc fit per peccatum veniale. Et ideo ad tollendam maculam mortalis peccati requiritur infusio gratiae, sed ad tollendam maculam peccati venialis, requiritur aliquis actus procedens a gratia per quem removeatur inordinata adhaesio ad rem temporalem.
+
+@@ III q. 87 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod peccata venialia non remittantur per aspersionem aquae benedictae, et episcopalem benedictionem, et alia huiusmodi. Peccata enim venialia non remittuntur sine poenitentia, ut dictum est. Sed poenitentia per se sufficit ad remissionem venialium peccatorum. Ergo ista nihil operantur ad huiusmodi remissionem.
+
+@@ III q. 87 a. 3 arg. 2
+Praeterea, quodlibet istorum relationem habet ad unum peccatum veniale, et ad omnia. Si ergo per aliquod istorum remittitur peccatum veniale, sequetur quod pari ratione remittantur omnia. Et ita per unam tunsionem pectoris, vel per unam aspersionem aquae benedictae, redderetur homo immunis ab omnibus peccatis venialibus. Quod videtur inconveniens.
+
+@@ III q. 87 a. 3 arg. 3
+Praeterea, peccata venialia inducunt reatum alicuius poenae, licet temporalis, dicitur enim, I Cor. III, de eo qui superaedificat lignum, faenum et stipulam, quod salvus erit, sic tamen quasi per ignem. Sed huiusmodi per quae dicitur peccatum veniale remitti, vel nullam vel minimam poenam in se habent. Ergo non sufficiunt ad plenam remissionem venialium peccatorum.
+
+@@ III q. 87 a. 3 s. c.
+Sed contra est quod Augustinus dicit, in libro de poenitentia, quod pro levibus peccatis pectora nostra tundimus, et dicimus, dimitte nobis debita nostra. Et ita videtur quod tunsio pectoris et oratio dominica causent remissionem peccatorum. Et eadem ratio videtur esse de aliis.
+
+@@ III q. 87 a. 3 co.
+Respondeo dicendum quod, sicut dictum est, ad remissionem venialis peccati non requiritur novae gratiae infusio, sed sufficit aliquis actus procedens ex gratia quo homo detestetur peccatum vel explicite, vel saltem implicite, sicut cum aliquis ferventer movetur in Deum. Et ideo triplici ratione aliqua causant remissionem venialium peccatorum. Uno modo, inquantum in eis infunditur gratia, quia per infusionem gratiae tolluntur peccata venialia, ut supra dictum est. Et hoc modo per Eucharistiam et extremam unctionem, et universaliter per omnia sacramenta novae legis, in quibus confertur gratia, peccata venialia remittuntur. Secundo, inquantum sunt cum aliquo motu detestationis peccatorum. Et hoc modo confessio generalis, tunsio pectoris, et oratio dominica operantur ad remissionem venialium peccatorum, nam in oratione dominica petimus, dimitte nobis debita nostra. Tertio, inquantum sunt cum aliquo motu reverentiae in Deum et ad res divinas. Et hoc modo benedictio episcopalis, aspersio aquae benedictae, quaelibet sacramentalis unctio, oratio in Ecclesia dedicata, et si qua alia sunt huiusmodi, operantur ad remissionem peccatorum.
+
+@@ III q. 87 a. 3 ad 1
+Ad primum ergo dicendum quod omnia ista causant remissionem peccatorum venialium inquantum inclinant animam ad motum poenitentiae, qui est detestatio peccatorum, vel implicite vel explicite.
+
+@@ III q. 87 a. 3 ad 2
+Ad secundum dicendum quod omnia ista, quantum est de se, operantur ad remissionem omnium venialium peccatorum. Potest tamen impediri remissio quantum ad aliqua peccata venialia, quibus mens actualiter inhaeret, sicut etiam per fictionem impeditur aliquando effectus Baptismi.
+
+@@ III q. 87 a. 3 ad 3
+Ad tertium dicendum quod per praedicta tolluntur quidem peccata venialia quantum ad culpam, tum virtute alicuius sanctificationis, tum etiam virtute caritatis, cuius motus per praedicta excitatur. Non autem per quodlibet praedictorum semper tollitur totus reatus poenae, quia sic qui esset omnino immunis a peccato mortali, aspersus aqua benedicta statim evolaret. Sed reatus poenae remittitur per praedicta secundum motum fervoris in Deum, qui per praedicta excitatur quandoque magis, quandoque minus.
+
+@@ III q. 87 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod veniale peccatum possit remitti sine mortali. Quia super illud Ioan. VIII, qui sine peccato est vestrum, primus in illam lapidem mittat, dicit quaedam Glossa quod omnes illi erant in peccato mortali, venialia enim eis dimittebantur per caeremonias. Ergo veniale peccatum potest remitti sine mortali.
+
+@@ III q. 87 a. 4 arg. 2
+Praeterea, ad remissionem peccati venialis non requiritur gratiae infusio. Requiritur autem ad remissionem mortalis. Ergo veniale peccatum potest remitti sine mortali.
+
+@@ III q. 87 a. 4 arg. 3
+Praeterea, plus distat veniale peccatum a mortali quam ab alio veniali. Sed unum veniale potest dimitti sine alio, ut dictum est. Ergo veniale potest dimitti sine mortali.
+
+@@ III q. 87 a. 4 s. c.
+Sed contra est quod dicitur Matth. V, non exibis inde, scilicet de carcere, in quem introducitur homo pro peccato mortali, donec reddas novissimum quadrantem, per quem significatur veniale peccatum. Ergo veniale peccatum non remittitur sine mortali.
+
+@@ III q. 87 a. 4 co.
+Respondeo dicendum quod, sicut supra dictum est, remissio culpae cuiuscumque nunquam fit nisi per virtutem gratiae, quia, ut apostolus dicit, Rom. IV, ad gratiam Dei pertinet quod Deus alicui non imputat peccatum, quod Glossa ibi exponit de veniali. Ille autem qui est in peccato mortali, caret gratia Dei. Unde nullum peccatum veniale sibi remittitur.
+
+@@ III q. 87 a. 4 ad 1
+Ad primum ergo dicendum quod venialia ibi dicuntur irregularitates sive immunditiae quas contrahebant secundum legem.
+
+@@ III q. 87 a. 4 ad 2
+Ad secundum dicendum quod, licet ad remissionem peccati venialis non requiratur nova infusio habitualis gratiae, requiritur tamen aliquis gratiae actus. Qui non potest esse in eo qui subiacet peccato mortali.
+
+@@ III q. 87 a. 4 ad 3
+Ad tertium dicendum quod peccatum veniale non excludit omnem actum gratiae, per quem possunt omnia peccata venialia dimitti. Sed peccatum mortale excludit totaliter habitum gratiae, sine quo nullum peccatum mortale vel veniale remittitur. Et ideo non est similis ratio.

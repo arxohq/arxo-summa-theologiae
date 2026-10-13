@@ -1,0 +1,73 @@
+// Словарь трактата I-II qq. 98–108 (ветхий и новый закон).
+// Графы quaestio порождаются sync_summa_i_ii_old_new_law.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_old_new_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-old-new-law";
+
+entity Law {
+    label la official "lex examinanda";
+    label ru unofficial "предъявленный закон (ветхий или новый)";
+}
+entity People {
+    label la official "populus cui lex datur";
+    label ru unofficial "народ, которому дан закон";
+}
+entity Precept {
+    label la official "praeceptum legis";
+    label ru unofficial "предписание закона";
+}
+
+pub relation presented_law(l: Law) kind empirical {
+    label la official "lex examinanda proposita est";
+    label ru unofficial "закон предъявлен к оценке";
+}
+pub relation is_old_law(l: Law) kind empirical {
+    label la official "lex vetus est";
+    label ru unofficial "это ветхий закон";
+}
+pub relation is_new_law(l: Law) kind empirical {
+    label la official "lex nova sive Evangelii est";
+    label ru unofficial "это новый закон, закон Евангелия";
+}
+pub relation of_israel(p: People) kind empirical {
+    label la official "populus Iudaeorum est";
+    label ru unofficial "народ — Израиль, которому дан ветхий закон";
+}
+pub relation of_gentiles(p: People) kind empirical {
+    label la official "gens extra Israel est";
+    label ru unofficial "народ вне Израиля";
+}
+pub relation belongs_to(pr: Precept, l: Law) kind empirical {
+    label la official "praeceptum huius legis est";
+    label ru unofficial "предписание принадлежит этому закону";
+}
+pub relation of_natural_law(pr: Precept) kind empirical {
+    label la official "de lege naturae est";
+    label ru unofficial "содержание предписания есть естественный закон";
+}
+pub relation added_beyond_nature(pr: Precept) kind empirical {
+    label la official "lex vetus hoc superaddit supra naturam";
+    label ru unofficial "ветхий закон добавляет это сверх естественного закона";
+}
+pub relation for_divine_worship(pr: Precept) kind empirical {
+    label la official "ad cultum Dei pertinet";
+    label ru unofficial "предписание относится к культу Бога";
+}
+pub relation after_christ(l: Law) kind empirical {
+    label la official "status novae legis iam adest";
+    label ru unofficial "наступил статус нового закона (после Христа)";
+}
+pub relation grace_of_holy_spirit_given(l: Law) kind empirical {
+    label la official "gratia spiritus sancti per fidem Christi datur";
+    label ru unofficial "дана благодать Святого Духа через веру во Христа";
+}
+pub relation merely_written_documents(l: Law) kind empirical {
+    label la official "sola documenta et praecepta exterius proposita considerantur";
+    label ru unofficial "рассматриваются только внешние писания и предписания";
+}
+pub relation presented_people(p: People) kind empirical {
+    label la official "populus examinatus est";
+    label ru unofficial "народ предъявлен к оценке обязанности";
+}

@@ -1,0 +1,55 @@
+// Прикладной канон respondeo I qq. 103-119.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_gubernatione version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-gubernatione";
+
+use self::{
+    ST_I_Q103_A1_RESP,
+    ST_I_Q104_A1_RESP,
+    ST_I_Q105_A1_RESP,
+    Subject,
+    creature_presented,
+    presented,
+    world_presented,
+};
+
+pub relation world_governed(s: Subject) kind institutional {
+    label la official "mundus gubernatur a Deo";
+    label ru unofficial "мир управляется Богом";
+}
+
+@source(ST_I_Q103_A1_RESP)
+rule WorldIsGoverned(s: Subject) strict {
+    label la official "mundus gubernatur a Deo";
+    label ru unofficial "мир управляется Богом";
+    when presented(s) and world_presented(s);
+    then world_governed(s);
+}
+
+pub relation need_conservation(s: Subject) kind institutional {
+    label la official "creaturae indigent conservatione";
+    label ru unofficial "твари нуждаются в сохранении";
+}
+
+@source(ST_I_Q104_A1_RESP)
+rule CreaturesNeedConservation(s: Subject) strict {
+    label la official "creaturae indigent conservatione";
+    label ru unofficial "твари нуждаются в сохранении";
+    when presented(s) and creature_presented(s);
+    then need_conservation(s);
+}
+
+pub relation god_operates(s: Subject) kind institutional {
+    label la official "Deus operatur in omni operante";
+    label ru unofficial "Бог действует во всяком действующем";
+}
+
+@source(ST_I_Q105_A1_RESP)
+rule GodOperatesInNature(s: Subject) strict {
+    label la official "Deus operatur in omni operante";
+    label ru unofficial "Бог действует во всяком действующем";
+    when presented(s) and creature_presented(s);
+    then god_operates(s);
+}
+

@@ -1,0 +1,30 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:d34a77af0fe1e353da4b420eeb930662c7aba4234746e51fad1d1d166f1800c4",
+      "evidence": [],
+      "id": "urn:la:aquinas:clir:summa-i-de-deo#p",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:case:st:i_de_deo:s",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:summa-i-de-deo#presented"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:clir:summa-i-de-deo"
+    }
+  ],
+  "context": {
+    "decisionTime": "1270-06-01T12:00:00Z",
+    "knowledgeTime": "1270-06-01T12:00:00Z",
+    "legalTime": "1270-06-01",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

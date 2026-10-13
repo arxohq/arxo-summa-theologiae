@@ -1,0 +1,30 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:169ae2fa2cc624921f70d4c4d66ad8ad499f3def9196147e4c5529b3d997afa3",
+      "evidence": [],
+      "id": "urn:la:aquinas:clir:summa-theologiae-law#cat-0",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:law:catalog:natural-law-rule:v0",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:summa-theologiae-law#participation_of_eternal_reason"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:clir:summa-theologiae-law"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-08-25T12:00:00Z",
+    "knowledgeTime": "2026-08-25T12:00:00Z",
+    "legalTime": "2026-08-25",
+    "timezone": "Asia/Almaty"
+  },
+  "options": {}
+}

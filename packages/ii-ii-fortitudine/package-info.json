@@ -1,0 +1,15 @@
+{
+  "format": "law.package-info/0.1",
+  "purpose": "Применение respondeo Фомы Аквинского II-II qq. 123-140 (мужество) к предъявленному предмету. Перечень запросов — analysis/questions.json и QUESTIONS.md.",
+  "limitations": [
+    "Граф возражений §274 порождается из заголовков Corpus (arg./s. c./co./ad N) и не является прикладным каноном respondeo.",
+    "Тела доказательств возражений остаются в закреплённых байтах; пакет не передоказывает теорему, а применяет принятую формулировку к делу.",
+    "Артикулы без отдельной прикладной головы имеют граф §274; прикладной слой читает избранные respondeo трактата, не каждый артикул."
+  ],
+  "examples": [
+    "tests/01-fortitudeisvirtue-affirmat.lawtest",
+    "tests/01b-fortitudeisvirtue-negata.lawtest",
+    "tests/02-martyrdomactoffortitude-affirmat.lawtest",
+    "examples/summa-theologiae-ii-ii-fortitudine-cases/check.py"
+  ]
+}

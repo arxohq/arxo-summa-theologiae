@@ -1,0 +1,15 @@
+{
+  "kind": "truth",
+  "literal": {
+    "args": [
+      {
+        "id": "urn:law:catalog:natural-law-rule:v0",
+        "kind": "entity_ref"
+      }
+    ],
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:clir:summa-theologiae-law#natural_law"
+  },
+  "queryId": "urn:la:aquinas:clir:summa-theologiae-law#test/CATALOG-NATURAL_LAW%2FRULE/query/0"
+}

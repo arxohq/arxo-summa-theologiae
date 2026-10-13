@@ -1,0 +1,343 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:b3723e483fa3a3a67d758539236b2a402b8b736108246da3a0bc015a13fe4e00",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:6a453a94f8f1b860f06ffa147f78bdce532383a7c9fad46c8d4826717c3fe8d7",
+    "decisionTime": "1270-06-01T12:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "1270-06-01T12:00:00Z",
+    "legalTime": "1270-06-01",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:b3622e8cde65392e0c5914b5d28ff581a8db06732a1657ad7befb2105d0f9efc",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:df6c26b3d771dc6f2be81937281260ac87b166c9d839014b19204cb3bcd23469",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:b3622e8cde65392e0c5914b5d28ff581a8db06732a1657ad7befb2105d0f9efc",
+    "timezone": "UTC"
+  },
+  "positions": [
+    {
+      "createdBy": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:0611381f3816c0dc9cae7f23fa6b75cd1b1a695bbc6bef33394c06f4f87c25d2",
+      "holder": "urn:example:duplex:persona:princeps",
+      "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:b0688ff018c6071a891267b980fd2f1087df6cd0775646d88a559909becfe342",
+      "manifest": "urn:manifest:oracle-1",
+      "modality": "liberty",
+      "payload": {
+        "action": {
+          "args": [
+            {
+              "id": "urn:example:duplex:persona:princeps",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:example:duplex:bellum:cupiditas",
+              "kind": "entity_ref"
+            }
+          ],
+          "function": "urn:la:aquinas:clir:duplex-effectus#gerit_bellum",
+          "kind": "call"
+        },
+        "holder": {
+          "id": "urn:example:duplex:persona:princeps",
+          "kind": "entity_ref"
+        },
+        "kind": "liberty",
+        "window": {
+          "end": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Text"
+            },
+            "value": "infinity"
+          },
+          "endInclusive": false,
+          "kind": "interval",
+          "start": {
+            "kind": "value",
+            "type": {
+              "name": "urn:law:std#Date"
+            },
+            "value": "1270-01-01"
+          },
+          "startInclusive": true
+        }
+      },
+      "proof": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:0611381f3816c0dc9cae7f23fa6b75cd1b1a695bbc6bef33394c06f4f87c25d2",
+      "status": "ACTIVE",
+      "statusHistory": [],
+      "template": "urn:la:aquinas:clir:duplex-effectus#BellumIustumGerere"
+    }
+  ],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#auctoritas"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:bellum:cupiditas",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#auctoritas_principis"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#auctoritas",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#causa"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:bellum:cupiditas",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#causa_iusta"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#causa",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#presented"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:bellum:cupiditas",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_bellum"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#princeps"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:bellum:cupiditas",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:example:duplex:persona:princeps",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_a_principe"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#princeps",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#recta"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:bellum:cupiditas",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_recta"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#recta",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:bellum:cupiditas",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_iustum"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:BellumIustumConstat:d28430de18e4f33becbdf6bb48e6ee9321eed8ea803a3e4614732067f8844c75",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#auctoritas",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#causa",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#recta"
+        ],
+        "rule": "urn:la:aquinas:clir:duplex-effectus#BellumIustumConstat",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:example:duplex:bellum:cupiditas",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "rule": "urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet",
+          "substitution": {
+            "v0": {
+              "id": "urn:example:duplex:bellum:cupiditas",
+              "kind": "entity_ref"
+            },
+            "v1": {
+              "id": "urn:example:duplex:persona:princeps",
+              "kind": "entity_ref"
+            }
+          }
+        },
+        "conclusion": {
+          "position": "urn:position:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:b0688ff018c6071a891267b980fd2f1087df6cd0775646d88a559909becfe342",
+          "template": "urn:la:aquinas:clir:duplex-effectus#BellumIustumGerere"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:0611381f3816c0dc9cae7f23fa6b75cd1b1a695bbc6bef33394c06f4f87c25d2",
+        "kind": "norm_creation",
+        "premises": [
+          "urn:proof:apply:BellumIustumConstat:d28430de18e4f33becbdf6bb48e6ee9321eed8ea803a3e4614732067f8844c75",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#princeps"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "owner": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:0611381f3816c0dc9cae7f23fa6b75cd1b1a695bbc6bef33394c06f4f87c25d2",
+          "status": "ACTIVE"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:b0688ff018c6071a891267b980fd2f1087df6cd0775646d88a559909becfe342",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:law:std#active"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm-status:b05d9190ddf2ccad36ff95032a099b02246aed6fb5c6b4b8d90a5e7d651e8b3b",
+        "kind": "norm_status_transition",
+        "premises": [
+          "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:0611381f3816c0dc9cae7f23fa6b75cd1b1a695bbc6bef33394c06f4f87c25d2"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "positions": [
+            {
+              "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:b0688ff018c6071a891267b980fd2f1087df6cd0775646d88a559909becfe342",
+              "status": "ACTIVE"
+            }
+          ]
+        },
+        "evidence": [],
+        "id": "urn:proof:query:princeps-bellum-positions",
+        "kind": "query_evaluation",
+        "premises": [
+          "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:0611381f3816c0dc9cae7f23fa6b75cd1b1a695bbc6bef33394c06f4f87c25d2"
+        ],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:e6de077fb42b97763b417535502eff1ea889d5edb225859e6ddbc12eb5f4541b",
+    "roots": [
+      "urn:proof:query:princeps-bellum-positions"
+    ]
+  },
+  "resultHash": "sha256:4278307cdaa411f55a1b4aa77d295e346b40f8f2d40a1c5ae481c8597ac5d4ef",
+  "results": [
+    {
+      "applicabilityStatus": "APPLICABLE",
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:princeps-bellum-positions",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatus": "ACTIVE",
+      "normativeStatusSupports": [
+        {
+          "proof": [
+            "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:0611381f3816c0dc9cae7f23fa6b75cd1b1a695bbc6bef33394c06f4f87c25d2"
+          ],
+          "status": "CREATED",
+          "truthStatus": "TRUE_ONLY",
+          "valid": {
+            "end": "1270-06-01",
+            "endInclusive": true,
+            "start": "1270-06-01",
+            "startInclusive": true
+          }
+        },
+        {
+          "proof": [
+            "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#BellumIustumGerereLicet:0611381f3816c0dc9cae7f23fa6b75cd1b1a695bbc6bef33394c06f4f87c25d2"
+          ],
+          "status": "ACTIVE",
+          "truthStatus": "TRUE_ONLY",
+          "valid": {
+            "end": "1270-06-01",
+            "endInclusive": true,
+            "start": "1270-06-01",
+            "startInclusive": true
+          }
+        }
+      ],
+      "proof": "urn:proof:query:princeps-bellum-positions",
+      "query": "princeps-bellum-positions",
+      "resultKind": "NORM_POSITION",
+      "sourceAnchors": []
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

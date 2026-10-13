@@ -1,0 +1,202 @@
+{
+  "anchors": [],
+  "label": "erit licita defensio",
+  "name": "defensio_licita",
+  "package": "duplex-effectus",
+  "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_licita",
+  "producers": [
+    {
+      "anchors": [
+        {
+          "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP",
+          "locator": "section/64-7/respondeo",
+          "quote": [
+            "Respondeo dicendum quod nihil prohibet unius actus esse duos effectus, quorum alter solum sit in intentione, alius vero sit praeter intentionem. Morales autem actus recipiunt speciem secundum id quod intenditur, non autem ab eo quod est praeter intentionem, cum sit per accidens, ut ex supra dictis patet. Ex actu igitur alicuius seipsum defendentis duplex effectus sequi potest, unus quidem conservatio propriae vitae; alius autem occisio invadentis. Actus igitur huiusmodi ex hoc quod intenditur conservatio propriae vitae, non habet rationem illiciti, cum hoc sit cuilibet naturale quod se conservet in esse quantum potest. Potest tamen aliquis actus ex bona intentione proveniens illicitus reddi si non sit proportionatus fini. Et ideo si aliquis ad defendendum propriam vitam utatur maiori violentia quam oporteat, erit illicitum. Si vero moderate violentiam repellat, erit licita defensio, nam secundum iura, vim vi repellere licet cum moderamine inculpatae tutelae. Nec est necessarium ad salutem ut homo praetermittat actum moderatae tutelae ad evitandum occisionem alterius, quia plus tenetur homo vitae suae providere quam vitae alienae. Sed quia occidere hominem non licet nisi publica auctoritate propter bonum commune, ut ex supra dictis patet; illicitum est quod homo intendat occidere hominem ut seipsum defendat, nisi ei qui habet publicam auctoritatem, qui, intendens hominem occidere ad sui defensionem, refert hoc ad publicum bonum, ut patet in milite pugnante contra hostes, et in ministro iudicis pugnante contra latrones. Quamvis et isti etiam peccent si privata libidine moveantur."
+          ]
+        }
+      ],
+      "headPolarity": "positive",
+      "label": "actus ex hoc quod intenditur conservatio propriae vitae, non habet rationem illiciti, si moderate violentiam repellat",
+      "name": "DefensioLicitaPrivata",
+      "package": "duplex-effectus",
+      "premises": [
+        {
+          "anchors": [],
+          "label": "intenditur conservatio propriae vitae",
+          "name": "intentio_conservationis_vitae",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_conservationis_vitae",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "occisio invadentis assumitur ut medium conservationis",
+          "name": "mors_est_medium",
+          "package": "duplex-effectus",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#mors_est_medium",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "intenditur occisio hominis",
+          "name": "intentio_occisionis",
+          "package": "duplex-effectus",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_occisionis",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "actus defensionis in causa exhibitus est",
+          "name": "presented_actus",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "vis illata est",
+          "name": "vis_illata",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "moderate violentiam repellit; vim vi cum moderamine inculpatae tutelae",
+          "name": "vis_moderata",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_moderata",
+          "producers": [],
+          "relationKind": "judgment",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "hic seipsum defendit",
+          "name": "defensor",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        }
+      ],
+      "rule": "urn:la:aquinas:clir:duplex-effectus#DefensioLicitaPrivata",
+      "strength": "strict"
+    },
+    {
+      "anchors": [
+        {
+          "id": "urn:la:aquinas:clir:duplex-effectus#ST_Q64_A7_RESP",
+          "locator": "section/64-7/respondeo",
+          "quote": [
+            "Respondeo dicendum quod nihil prohibet unius actus esse duos effectus, quorum alter solum sit in intentione, alius vero sit praeter intentionem. Morales autem actus recipiunt speciem secundum id quod intenditur, non autem ab eo quod est praeter intentionem, cum sit per accidens, ut ex supra dictis patet. Ex actu igitur alicuius seipsum defendentis duplex effectus sequi potest, unus quidem conservatio propriae vitae; alius autem occisio invadentis. Actus igitur huiusmodi ex hoc quod intenditur conservatio propriae vitae, non habet rationem illiciti, cum hoc sit cuilibet naturale quod se conservet in esse quantum potest. Potest tamen aliquis actus ex bona intentione proveniens illicitus reddi si non sit proportionatus fini. Et ideo si aliquis ad defendendum propriam vitam utatur maiori violentia quam oporteat, erit illicitum. Si vero moderate violentiam repellat, erit licita defensio, nam secundum iura, vim vi repellere licet cum moderamine inculpatae tutelae. Nec est necessarium ad salutem ut homo praetermittat actum moderatae tutelae ad evitandum occisionem alterius, quia plus tenetur homo vitae suae providere quam vitae alienae. Sed quia occidere hominem non licet nisi publica auctoritate propter bonum commune, ut ex supra dictis patet; illicitum est quod homo intendat occidere hominem ut seipsum defendat, nisi ei qui habet publicam auctoritatem, qui, intendens hominem occidere ad sui defensionem, refert hoc ad publicum bonum, ut patet in milite pugnante contra hostes, et in ministro iudicis pugnante contra latrones. Quamvis et isti etiam peccent si privata libidine moveantur."
+          ]
+        }
+      ],
+      "headPolarity": "positive",
+      "label": "nisi ei qui habet publicam auctoritatem, qui intendens hominem occidere ad sui defensionem, refert hoc ad publicum bonum",
+      "name": "DefensioPubliciMinistri",
+      "package": "duplex-effectus",
+      "premises": [
+        {
+          "anchors": [],
+          "label": "privata libidine movetur",
+          "name": "privata_libido",
+          "package": "duplex-effectus",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#privata_libido",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "actus defensionis in causa exhibitus est",
+          "name": "presented_actus",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "vis illata est",
+          "name": "vis_illata",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "publicam auctoritatem habet",
+          "name": "publicus_minister",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "moderate violentiam repellit; vim vi cum moderamine inculpatae tutelae",
+          "name": "vis_moderata",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_moderata",
+          "producers": [],
+          "relationKind": "judgment",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "occisionem ad publicum bonum refert",
+          "name": "refert_ad_bonum_commune",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#refert_ad_bonum_commune",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        },
+        {
+          "anchors": [],
+          "label": "hic seipsum defendit",
+          "name": "defensor",
+          "package": "duplex-effectus",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor",
+          "producers": [],
+          "relationKind": "empirical",
+          "truncated": false
+        }
+      ],
+      "rule": "urn:la:aquinas:clir:duplex-effectus#DefensioPubliciMinistri",
+      "strength": "strict"
+    }
+  ],
+  "relationKind": "institutional"
+}

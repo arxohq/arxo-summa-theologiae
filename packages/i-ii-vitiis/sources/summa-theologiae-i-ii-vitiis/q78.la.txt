@@ -1,0 +1,101 @@
+@@ I-II q. 78 pr.
+Deinde considerandum est de causa peccati quae est ex parte voluntatis, quae dicitur malitia. Et circa hoc quaeruntur quatuor. Primo, utrum aliquis possit ex certa malitia, seu industria, peccare. Secundo, utrum quicumque peccat ex habitu, peccet ex certa malitia. Tertio, utrum quicumque peccat ex certa malitia, peccet ex habitu. Quarto, utrum ille qui peccat ex certa malitia, gravius peccet quam ille qui peccat ex passione.
+
+@@ I-II q. 78 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod nullus peccet ex industria, sive ex certa malitia. Ignorantia enim opponitur industriae, seu certae malitiae. Sed omnis malus est ignorans, secundum philosophum. Et Prov. XIV, dicitur, errant qui operantur malum. Ergo nullus peccat ex certa malitia.
+
+@@ I-II q. 78 a. 1 arg. 2
+Praeterea, Dionysius dicit, IV cap. de Div. Nom., quod nullus intendens ad malum operatur. Sed hoc videtur esse peccare ex malitia, intendere malum in peccando, quod enim est praeter intentionem, est quasi per accidens, et non denominat actum. Ergo nullus ex malitia peccat.
+
+@@ I-II q. 78 a. 1 arg. 3
+Praeterea, malitia ipsa peccatum est. Si igitur malitia sit causa peccati, sequetur quod peccatum sit causa peccati in infinitum, quod est inconveniens. Nullus igitur ex malitia peccat.
+
+@@ I-II q. 78 a. 1 s. c.
+Sed contra est quod dicitur Iob XXXIV, quasi de industria recesserunt a Deo, et vias eius intelligere noluerunt. Sed recedere a Deo est peccare. Ergo aliqui peccant ex industria, seu ex certa malitia.
+
+@@ I-II q. 78 a. 1 co.
+Respondeo dicendum quod homo, sicut et quaelibet alia res, naturaliter habet appetitum boni. Unde quod ad malum eius appetitus declinet, contingit ex aliqua corruptione seu inordinatione in aliquo principiorum hominis, sic enim in actionibus rerum naturalium peccatum invenitur. Principia autem humanorum actuum sunt intellectus et appetitus, tam rationalis, qui dicitur voluntas, quam sensitivus. Peccatum igitur in humanis actibus contingit quandoque, sicut ex defectu intellectus, puta cum aliquis per ignorantiam peccat; et ex defectu appetitus sensitivi, sicut cum aliquis ex passione peccat; ita etiam ex defectu voluntatis, qui est inordinatio ipsius. Est autem voluntas inordinata, quando minus bonum magis amat. Consequens autem est ut aliquis eligat pati detrimentum in bono minus amato, ad hoc quod potiatur bono magis amato, sicut cum homo vult pati abscissionem membri etiam scienter, ut conservet vitam, quam magis amat. Et per hunc modum, quando aliqua inordinata voluntas aliquod bonum temporale plus amat, puta divitias vel voluptatem, quam ordinem rationis vel legis divinae, vel caritatem Dei, vel aliquid huiusmodi; sequitur quod velit dispendium pati in aliquo spiritualium bonorum, ut potiatur aliquo temporali bono. Nihil autem est aliud malum quam privatio alicuius boni. Et secundum hoc aliquis scienter vult aliquod malum spirituale, quod est malum simpliciter, per quod bonum spirituale privatur, ut bono temporali potiatur. Unde dicitur ex certa malitia, vel ex industria peccare, quasi scienter malum eligens.
+
+@@ I-II q. 78 a. 1 ad 1
+Ad primum ergo dicendum quod ignorantia quandoque quidem excludit scientiam qua aliquis simpliciter scit hoc esse malum quod agitur, et tunc dicitur ex ignorantia peccare. Quandoque autem excludit scientiam qua homo scit hoc nunc esse malum, sicut cum ex passione peccatur. Quandoque autem excludit scientiam qua aliquis scit hoc malum non sustinendum esse propter consecutionem illius boni, scit tamen simpliciter hoc esse malum, et sic dicitur ignorare qui ex certa malitia peccat.
+
+@@ I-II q. 78 a. 1 ad 2
+Ad secundum dicendum quod malum non potest esse secundum se intentum ab aliquo, potest tamen esse intentum ad vitandum aliud malum, vel ad consequendum aliud bonum, ut dictum est. Et in tali casu aliquis eligeret consequi bonum per se intentum, absque hoc quod pateretur detrimentum alterius boni. Sicut aliquis lascivus vellet frui delectatione absque offensa Dei, sed duobus propositis, magis vult peccando incurrere offensam Dei, quam delectatione privetur.
+
+@@ I-II q. 78 a. 1 ad 3
+Ad tertium dicendum quod malitia ex qua aliquis dicitur peccare, potest intelligi malitia habitualis, secundum quod habitus malus a philosopho nominatur malitia, sicut habitus bonus nominatur virtus. Et secundum hoc aliquis dicitur ex malitia peccare, quia peccat ex inclinatione habitus. Potest etiam intelligi malitia actualis. Sive ipsa mali electio malitia nominetur, et sic dicitur aliquis ex malitia peccare, inquantum ex mali electione peccat. Sive etiam malitia dicatur aliqua praecedens culpa, ex qua oritur subsequens culpa, sicut cum aliquis impugnat fraternam gratiam ex invidia. Et tunc idem non est causa sui ipsius, sed actus interior est causa actus exterioris. Et unum peccatum est causa alterius, non tamen in infinitum, quia est devenire ad aliquod primum peccatum, quod non causatur ex aliquo priori peccato, ut ex supradictis patet.
+
+@@ I-II q. 78 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod non omnis qui peccat ex habitu, peccet ex certa malitia. Peccatum enim quod est ex certa malitia, videtur esse gravissimum. Sed quandoque homo aliquod leve peccatum committit ex habitu, sicut cum dicit verbum otiosum. Non ergo omne peccatum quod est ex habitu, est ex certa malitia.
+
+@@ I-II q. 78 a. 2 arg. 2
+Praeterea, actus ex habitu procedentes sunt similes actibus ex quibus habitus generantur, ut dicitur in II Ethic. Sed actus praecedentes habitum vitiosum non sunt ex certa malitia. Ergo etiam peccata quae sunt ex habitu, non sunt ex certa malitia.
+
+@@ I-II q. 78 a. 2 arg. 3
+Praeterea, in his quae aliquis ex certa malitia committit, gaudet postquam commisit, secundum illud Prov. II, qui laetantur cum male fecerint et exultant in rebus pessimis. Et hoc ideo, quia unicuique est delectabile cum consequitur id quod intendit, et qui operatur quod est ei quodammodo connaturale secundum habitum. Sed illi qui peccant ex habitu, post peccatum commissum dolent, poenitudine enim replentur pravi, idest habentes habitum vitiosum, ut dicitur in IX Ethic. Ergo peccata quae sunt ex habitu, non sunt ex certa malitia.
+
+@@ I-II q. 78 a. 2 s. c.
+Sed contra, peccatum ex certa malitia dicitur esse quod est ex electione mali. Sed unicuique est eligibile id ad quod inclinatur per proprium habitum; ut dicitur in VI Ethic. de habitu virtuoso. Ergo peccatum quod est ex habitu, est ex certa malitia.
+
+@@ I-II q. 78 a. 2 co.
+Respondeo dicendum quod non est idem peccare habentem habitum, et peccare ex habitu. Uti enim habitu non est necessarium, sed subiacet voluntati habentis, unde et habitus definitur esse quo quis utitur cum voluerit. Et ideo sicut potest contingere quod aliquis habens habitum vitiosum, prorumpat in actum virtutis, eo quod ratio non totaliter corrumpitur per malum habitum, sed aliquid eius integrum manet, ex quo provenit quod peccator aliqua operatur de genere bonorum; ita etiam potest contingere quod aliquis habens habitum, interdum non ex habitu operetur, sed ex passione insurgente, vel etiam ex ignorantia. Sed quandocumque utitur habitu vitioso, necesse est quod ex certa malitia peccet. Quia unicuique habenti habitum, est per se diligibile id quod est ei conveniens secundum proprium habitum, quia fit ei quodammodo connaturale, secundum quod consuetudo et habitus vertitur in naturam. Hoc autem quod est alicui conveniens secundum habitum vitiosum, est id quod excludit bonum spirituale. Ex quo sequitur quod homo eligat malum spirituale, ut adipiscatur bonum quod est ei secundum habitum conveniens. Et hoc est ex certa malitia peccare. Unde manifestum est quod quicumque peccat ex habitu, peccet ex certa malitia.
+
+@@ I-II q. 78 a. 2 ad 1
+Ad primum ergo dicendum quod peccata venialia non excludunt bonum spirituale, quod est gratia Dei vel caritas. Unde non dicuntur mala simpliciter, sed secundum quid. Et propter hoc nec habitus ipsorum possunt dici simpliciter mali, sed solum secundum quid.
+
+@@ I-II q. 78 a. 2 ad 2
+Ad secundum dicendum quod actus qui procedunt ex habitibus, sunt similes secundum speciem actibus ex quibus habitus generantur, differunt tamen ab eis sicut perfectum ab imperfecto. Et talis est differentia peccati quod committitur ex certa malitia, ad peccatum quod committitur ex aliqua passione.
+
+@@ I-II q. 78 a. 2 ad 3
+Ad tertium dicendum quod ille qui peccat ex habitu, semper gaudet de hoc quod ex habitu operatur, quandiu habitu utitur. Sed quia potest habitu non uti, sed per rationem, quae non est totaliter corrupta, aliquid aliud meditari; potest contingere quod, non utens habitu, doleat de hoc quod per habitum commisit. Plerumque tamen tales poenitent de peccato, non quia eis peccatum secundum se displiceat; sed propter aliquod incommodum quod ex peccato incurrunt.
+
+@@ I-II q. 78 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod quicumque peccat ex certa malitia, peccet ex habitu. Dicit enim philosophus, in V Ethic., quod non est cuiuslibet iniusta facere qualiter iniustus facit, scilicet ex electione, sed solum habentis habitum. Sed peccare ex certa malitia est peccare ex electione mali, ut dictum est. Ergo peccare ex certa malitia non est nisi habentis habitum.
+
+@@ I-II q. 78 a. 3 arg. 2
+Praeterea, Origenes dicit, in I peri archon, quod non ad subitum quis evacuatur aut deficit, sed paulatim per partes defluere necesse est. Sed maximus defluxus esse videtur ut aliquis ex certa malitia peccet. Ergo non statim a principio, sed per multam consuetudinem, ex qua habitus generari potest, aliquis ad hoc devenit ut ex certa malitia peccet.
+
+@@ I-II q. 78 a. 3 arg. 3
+Praeterea, quandocumque aliquis ex certa malitia peccat, oportet quod ipsa voluntas de se inclinetur ad malum quod eligit. Sed ex natura potentiae non inclinatur homo ad malum, sed magis ad bonum. Ergo oportet, si eligit malum, quod hoc sit ex aliquo supervenienti, quod est passio vel habitus. Sed quando aliquis peccat ex passione, non peccat ex certa malitia, sed ex infirmitate, ut dictum est. Ergo quandocumque aliquis peccat ex certa malitia, oportet quod peccet ex habitu.
+
+@@ I-II q. 78 a. 3 s. c.
+Sed contra, sicut se habet habitus bonus ad electionem boni, ita habitus malus ad electionem mali. Sed quandoque aliquis non habens habitum virtutis, eligit id quod est bonum secundum virtutem. Ergo etiam quandoque aliquis non habens habitum vitiosum, potest eligere malum, quod est ex certa malitia peccare.
+
+@@ I-II q. 78 a. 3 co.
+Respondeo dicendum quod voluntas aliter se habet ad bonum, et aliter ad malum. Ex natura enim suae potentiae inclinatur ad bonum rationis, sicut ad proprium obiectum, unde et omne peccatum dicitur esse contra naturam. Quod ergo in aliquod malum voluntas eligendo inclinetur, oportet quod aliunde contingat. Et quandoque quidem contingit ex defectu rationis, sicut cum aliquis ex ignorantia peccat, quandoque autem ex impulsu appetitus sensitivi, sicut cum peccat ex passione. Sed neutrum horum est ex certa malitia peccare; sed tunc solum ex certa malitia aliquis peccat, quando ipsa voluntas ex seipsa movetur ad malum. Quod potest contingere dupliciter. Uno quidem modo, per hoc quod homo habet aliquam dispositionem corruptam inclinantem ad malum, ita quod secundum illam dispositionem fit homini quasi conveniens et simile aliquod malum, et in hoc, ratione convenientiae, tendit voluntas quasi in bonum, quia unumquodque secundum se tendit in id quod sibi est conveniens. Talis autem dispositio corrupta vel est aliquis habitus acquisitus ex consuetudine, quae vertitur in naturam, vel est aliqua aegritudinalis habitudo ex parte corporis, sicut aliquis habens quasdam naturales inclinationes ad aliqua peccata, propter corruptionem naturae in ipso. Alio modo contingit quod voluntas per se tendit in aliquod malum, per remotionem alicuius prohibentis. Puta si aliquis prohibeatur peccare non quia peccatum ei secundum se displiceat, sed propter spem vitae aeternae vel propter timorem Gehennae; remota spe per desperationem, vel timore per praesumptionem, sequitur quod ex certa malitia, quasi absque freno, peccet. Sic igitur patet quod peccatum quod est ex certa malitia, semper praesupponit in homine aliquam inordinationem, quae tamen non semper est habitus. Unde non est necessarium quod quicumque peccat ex certa malitia, peccet ex habitu.
+
+@@ I-II q. 78 a. 3 ad 1
+Ad primum ergo dicendum quod operari qualiter iniustus operatur, non solum est operari iniusta ex certa malitia, sed etiam delectabiliter, et sine gravi renisu rationis. Quod non est nisi eius qui habet habitum.
+
+@@ I-II q. 78 a. 3 ad 2
+Ad secundum dicendum quod non statim ad hoc aliquis labitur quod ex certa malitia peccet, sed praesupponitur aliquid, quod tamen non semper est habitus, ut dictum est.
+
+@@ I-II q. 78 a. 3 ad 3
+Ad tertium dicendum quod illud propter quod voluntas inclinatur ad malum, non semper habitus est vel passio, sed quaedam alia, ut dictum est.
+
+@@ I-II q. 78 a. 3 ad 4
+Ad quartum dicendum quod non est similis ratio de electione boni, et de electione mali. Quia malum nunquam est sine bono naturae, sed bonum potest esse sine malo culpae perfecte.
+
+@@ I-II q. 78 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod ille qui peccat ex certa malitia, non peccet gravius quam ille qui peccat ex passione. Ignorantia enim excusat peccatum vel in toto vel in parte. Sed maior est ignorantia in eo qui peccat ex certa malitia, quam in eo qui peccat ex passione, nam ille qui peccat ex certa malitia, patitur ignorantiam principii, quae est maxima, ut philosophus dicit, in VII Ethic.; habet enim malam existimationem de fine, qui est principium in operativis. Ergo magis excusatur a peccato qui peccat ex certa malitia, quam ille qui peccat ex passione.
+
+@@ I-II q. 78 a. 4 arg. 2
+Praeterea, quanto aliquis habet maius impellens ad peccandum, tanto minus peccat, sicut patet de eo qui maiori impetu passionis deiicitur in peccatum. Sed ille qui peccat ex certa malitia, impellitur ab habitu, cuius est fortior impulsio quam passionis. Ergo ille qui peccat ex habitu, minus peccat quam ille qui peccat ex passione.
+
+@@ I-II q. 78 a. 4 arg. 3
+Praeterea, peccare ex certa malitia est peccare ex electione mali. Sed ille qui peccat ex passione, etiam eligit malum. Ergo non minus peccat quam ille qui peccat ex certa malitia.
+
+@@ I-II q. 78 a. 4 s. c.
+Sed contra est quod peccatum quod ex industria committitur, ex hoc ipso graviorem poenam meretur, secundum illud Iob XXXIV, quasi impios percussit eos in loco videntium, qui quasi de industria recesserunt ab eo. Sed poena non augetur nisi propter gravitatem culpae. Ergo peccatum ex hoc aggravatur, quod est ex industria, seu certa malitia.
+
+@@ I-II q. 78 a. 4 co.
+Respondeo dicendum quod peccatum quod est ex certa malitia, est gravius peccato quod est ex passione, triplici ratione. Primo quidem quia, cum peccatum principaliter in voluntate consistat, quanto motus peccati est magis proprius voluntati, tanto peccatum est gravius, ceteris paribus. Cum autem ex certa malitia peccatur, motus peccati est magis proprius voluntati, quae ex seipsa in malum movetur, quam quando ex passione peccatur, quasi ex quodam extrinseco impulsu ad peccandum. Unde peccatum ex hoc ipso quod est ex malitia, aggravatur, et tanto magis, quanto fuerit vehementior malitia. Ex eo vero quod est ex passione, diminuitur, et tanto magis, quanto passio fuerit magis vehemens. Secundo, quia passio quae inclinat voluntatem ad peccandum, cito transit, et sic homo cito redit ad bonum propositum, poenitens de peccato. Sed habitus, quo homo ex malitia peccat, est qualitas permanens, et ideo qui ex malitia peccat, diuturnius peccat. Unde philosophus, in VII Ethic., comparat intemperatum, qui peccat ex malitia, infirmo qui continue laborat; incontinentem autem, qui peccat ex passione, ei qui laborat interpolate. Tertio, quia ille qui peccat ex certa malitia, est male dispositus quantum ad ipsum finem, qui est principium in operabilibus. Et sic eius defectus est periculosior quam eius qui ex passione peccat, cuius propositum tendit in bonum finem, licet hoc propositum interrumpatur ad horam propter passionem. Semper autem defectus principii est pessimus. Unde manifestum est quod gravius est peccatum quod est ex malitia, quam quod est ex passione.
+
+@@ I-II q. 78 a. 4 ad 1
+Ad primum ergo dicendum quod ignorantia electionis, de qua obiectio procedit, neque excusat neque diminuit peccatum, ut supra dictum est. Unde neque maior ignorantia talis facit esse minus peccatum.
+
+@@ I-II q. 78 a. 4 ad 2
+Ad secundum dicendum quod impulsio quae est ex passione, est quasi ex exteriori respectu voluntatis, sed per habitum inclinatur voluntas quasi ab interiori. Unde non est similis ratio.
+
+@@ I-II q. 78 a. 4 ad 3
+Ad tertium dicendum quod aliud est peccare eligentem, et aliud peccare ex electione. Ille enim qui peccat ex passione, peccat quidem eligens, non tamen ex electione, quia electio non est in eo primum peccati principium, sed inducitur ex passione ad eligendum id quod extra passionem existens non eligeret. Sed ille qui peccat ex certa malitia, secundum se eligit malum, eo modo quo dictum est. Et ideo electio in ipso est principium peccati; et propter hoc dicitur ex electione peccare.

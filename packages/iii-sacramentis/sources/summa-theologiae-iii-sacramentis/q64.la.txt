@@ -1,0 +1,242 @@
+@@ III q. 64 pr.
+Deinde considerandum est de causis sacramentorum, sive per auctoritatem sive per ministerium. Et circa hoc quaeruntur decem. Primo, utrum solus Deus interius operetur in sacramentis. Secundo, utrum institutio sacramentorum sit solum a Deo. Tertio, de potestate quam Christus habuit in sacramentis. Quarto, utrum illam potestatem potuerit aliis communicare. Quinto, utrum potestas ministerii in sacramentis conveniat malis. Sexto, utrum mali peccent dispensando sacramenta. Septimo, utrum Angeli possint esse ministri sacramentorum. Octavo, utrum intentio ministri requiratur in sacramentis. Nono, utrum requiratur ibi recta fides; ita scilicet quod infidelis non possit tradere sacramentum. Decimo, utrum requiratur ibi recta intentio.
+
+@@ III q. 64 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod non solus Deus, sed etiam minister, interius operetur ad effectum sacramenti. Interior enim effectus sacramenti est ut homo purgetur a peccatis, et illuminetur per gratiam. Sed ad ministros Ecclesiae pertinet purgare, illuminare et perficere, ut patet per Dionysium, in V cap. Coel. Hier. Ergo videtur quod non solus Deus, sed etiam ministri Ecclesiae operentur ad sacramenti effectum.
+
+@@ III q. 64 a. 1 arg. 2
+Praeterea, in collatione sacramentorum quaedam orationum suffragia proponuntur. Sed orationes iustorum sunt magis apud Deum exaudibiles quam quorumcumque, secundum illud Ioan. IX, si quis Dei cultor est, et voluntatem Dei facit, hunc Deus exaudit. Ergo videtur quod maiorem effectum sacramenti consequitur ille qui recipit illum a bono ministro. Sic ergo minister operatur aliquid ad interiorem effectum, et non solus Deus.
+
+@@ III q. 64 a. 1 arg. 3
+Praeterea, dignior est homo quam res inanimata. Sed res inanimata aliquid operatur ad effectum interiorem, nam aqua corpus tangit et cor abluit, ut Augustinus dicit, super Ioan. Ergo homo aliquid operatur ad interiorem effectum sacramenti, et non solus Deus.
+
+@@ III q. 64 a. 1 s. c.
+Sed contra est quod dicitur Rom. VIII, Deus qui iustificat. Cum igitur interior effectus omnium sacramentorum sit iustificatio, videtur quod solus Deus operetur interiorem effectum sacramenti.
+
+@@ III q. 64 a. 1 co.
+Respondeo dicendum quod operari aliquem effectum contingit dupliciter, uno modo, per modum principalis agentis; alio modo, per modum instrumenti. Primo igitur modo solus Deus operatur interiorem effectum sacramenti. Tum quia solus Deus illabitur animae, in qua sacramenti effectus consistit. Non autem potest aliquid immediate operari ubi non est. Tum quia gratia, quae est interior sacramenti effectus, est a solo Deo, ut in secunda parte habitum est. Character etiam, qui est interior quorundam sacramentorum effectus, est virtus instrumentalis, quae manat a principali agente, quod est Deus. Secundo autem modo homo potest operari ad interiorem effectum sacramenti, inquantum operatur per modum ministri. Nam eadem ratio est ministri et instrumenti, utriusque enim actio exterius adhibetur, sed sortitur effectum interiorem ex virtute principalis agentis, quod est Deus.
+
+@@ III q. 64 a. 1 ad 1
+Ad primum ergo dicendum quod purgatio, secundum quod attribuitur ministris Ecclesiae, non est a peccato, sed dicuntur diaconi purgare, inquantum vel immundos eiiciunt a coetu fidelium, vel eos sacris admonitionibus disponunt ad sacramentorum receptionem. Similiter etiam sacerdotes illuminare dicuntur sacrum populum, non quidem gratiam infundendo, sed sacramenta gratiae tradendo, ut patet per Dionysium ibidem.
+
+@@ III q. 64 a. 1 ad 2
+Ad secundum dicendum quod orationes quae dicuntur in sacramentorum collatione, proponuntur Deo non ex parte singularis personae, sed ex parte totius Ecclesiae, cuius preces sunt apud Deum exaudibiles, secundum illud Matth. XVIII, si duo ex vobis consenserint super terram de omni re quamcumque petierint, fiet eis a patre meo. Nihil tamen prohibet quin devotio viri iusti ad hoc aliquid operetur. Illud tamen quod est sacramenti effectus, non impetratur oratione Ecclesiae vel ministri, sed ex merito passionis Christi, cuius virtus operatur in sacramentis, ut dictum est. Unde effectus sacramenti non datur melior per meliorem ministrum. Aliquid tamen annexum impetrari potest recipienti sacramentum per devotionem ministri, nec tamen minister operatur illud, sed impetrat operandum a Deo.
+
+@@ III q. 64 a. 1 ad 3
+Ad tertium dicendum quod res inanimatae non operantur ad interiorem effectum nisi instrumentaliter, ut dictum est. Et similiter homines non operantur ad sacramentorum effectum nisi per modum ministerii, ut dictum est.
+
+@@ III q. 64 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod sacramenta non sint solum ex institutione divina. Ea enim quae sunt divinitus instituta, traduntur nobis in sacra Scriptura. Sed quaedam aguntur in sacramentis de quibus nulla fit mentio in sacra Scriptura, puta de chrismate quo homines confirmantur, et de oleo quo sacerdotes inunguntur, et de multis aliis, tam verbis quam factis, quibus utimur in sacramentis. Non ergo sacramenta sunt solum ex institutione divina.
+
+@@ III q. 64 a. 2 arg. 2
+Praeterea, sacramenta sunt quaedam signa. Res autem sensibiles naturaliter quaedam significant. Nec potest dici quod Deus quibusdam significationibus delectetur, et non aliis, quia ipse omnia quae fecit approbat. Hoc autem proprium videtur esse Daemonum, ut quibusdam signis ad aliquid alliciantur, dicit enim Augustinus, XXI de Civ. Dei, illiciuntur Daemones per creaturas, quas non ipsi, sed Deus condidit, delectabilibus pro sua diversitate diversis, non ut animalia cibis, sed ut spiritus signis. Non ergo videtur quod sacramenta indigeant esse ex institutione divina.
+
+@@ III q. 64 a. 2 arg. 3
+Praeterea, apostoli vicem Dei gesserunt in terris, unde apostolus dicit, II Cor. II, nam et ego quod donavi, si quid donavi, propter vos in persona Christi, idest, ac si ipse Christus donasset. Sic ergo videtur quod apostoli, et eorum successores, possint nova sacramenta instituere.
+
+@@ III q. 64 a. 2 s. c.
+Sed contra est quod ille instituit aliquid qui dat ei robur et virtutem, sicut patet de institutoribus legum. Sed virtus sacramenti est a solo Deo, ut ex dictis patet. Ergo solus Deus potest instituere sacramentum.
+
+@@ III q. 64 a. 2 co.
+Respondeo dicendum quod, sicut ex supra dictis patet, sacramenta instrumentaliter operantur ad spirituales effectus. Instrumentum autem habet virtutem a principali agente. Agens autem respectu sacramenti est duplex, scilicet instituens sacramentum; et utens sacramento instituto, applicando scilicet ipsum ad inducendum effectum. Virtus autem sacramenti non potest esse ab eo qui utitur sacramento, quia non operatur nisi per modum ministerii. Unde relinquitur quod virtus sacramenti sit ab eo qui instituit sacramentum. Cum igitur virtus sacramenti sit a solo Deo, consequens est quod solus Deus sit sacramentorum institutor.
+
+@@ III q. 64 a. 2 ad 1
+Ad primum ergo dicendum quod illa quae aguntur in sacramentis per homines instituta, non sunt de necessitate sacramenti, sed ad quandam solemnitatem, quae adhibetur sacramentis ad excitandam devotionem et reverentiam in his qui sacramenta suscipiunt. Ea vero quae sunt de necessitate sacramenti, sunt ab ipso Christo instituta, qui est Deus et homo. Et licet non omnia sint tradita in Scripturis, habet tamen ea Ecclesia ex familiari apostolorum traditione, sicut apostolus dicit, I Cor. XI, cetera cum venero disponam.
+
+@@ III q. 64 a. 2 ad 2
+Ad secundum dicendum quod res sensibiles aptitudinem quandam habent ad significandum spirituales effectus ex sui natura, sed ista aptitudo determinatur ad specialem significationem ex institutione divina. Et hoc est quod Hugo de sancto Victore dicit, quod sacramentum ex institutione significat. Praeelegit tamen Deus quasdam res aliis ad significationes sacramentales, non quia ad eas contrahatur eius affectus, sed ut sit convenientior significatio.
+
+@@ III q. 64 a. 2 ad 3
+Ad tertium dicendum quod apostoli, et eorum successores, sunt vicarii Dei quantum ad regimen Ecclesiae institutae per fidem et fidei sacramenta. Unde, sicut non licet eis constituere aliam Ecclesiam, ita non licet eis tradere aliam fidem, neque instituere alia sacramenta, sed per sacramenta quae de latere Christi pendentis in cruce fluxerunt, dicitur esse fabricata Ecclesia Christi.
+
+@@ III q. 64 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod Christus, secundum quod homo, habuit potestatem operandi interiorem effectum sacramentorum dicit enim Ioannes Baptista, ut habetur Ioan. I, qui me misit baptizare in aqua, ille mihi dixit, super quem videris spiritum descendentem et manentem super eum, hic est qui baptizat in spiritu sancto. Sed baptizare in spiritu sancto est interius gratiam spiritus sancti conferre. Spiritus autem sanctus descendit super Christum inquantum homo, non inquantum Deus, quia sic ipse dat spiritum sanctum. Ergo videtur quod Christus, secundum quod homo, habuit potestatem interiorem effectum sacramentorum causandi.
+
+@@ III q. 64 a. 3 arg. 2
+Praeterea, Matth. IX dominus dicit, sciatis quod filius hominis habet in terra potestatem dimittendi peccata. Sed remissio peccatorum est interior effectus sacramenti. Ergo videtur quod Christus, secundum quod homo, interiorem effectum sacramentorum operatur.
+
+@@ III q. 64 a. 3 arg. 3
+Praeterea, institutio sacramentorum pertinet ad eum qui tanquam principale agens operatur ad interiorem sacramenti effectum. Manifestum est autem quod Christus sacramenta instituit. Ergo ipse est qui interius operatur sacramentorum effectum.
+
+@@ III q. 64 a. 3 arg. 4
+Praeterea, nullus potest sine sacramento effectum sacramenti conferre, nisi propria virtute sacramenti effectum operetur. Sed Christus sine sacramento contulit sacramenti effectum, ut patet in Magdalena, cui dixit, dimittuntur tibi peccata. Ergo videtur quod Christus, secundum quod homo, operetur interiorem sacramenti effectum.
+
+@@ III q. 64 a. 3 arg. 5
+Praeterea, illud in cuius virtute sacramentum operatur, est principale agens ad interiorem effectum. Sed sacramenta habent virtutem ex passione Christi et invocatione nominis eius, secundum illud I Cor. I, nunquid Paulus pro vobis crucifixus est? Aut in nomine Pauli baptizati estis? Ergo Christus, inquantum homo, operatur interiorem sacramenti effectum.
+
+@@ III q. 64 a. 3 s. c.
+Sed contra est quod Augustinus dicit, in sacramentis divina virtus secretius operatur salutem. Divina autem virtus est Christi secundum quod est Deus, non autem secundum quod est homo. Ergo Christus non operatur interiorem sacramenti effectum secundum quod est homo, sed secundum quod est Deus.
+
+@@ III q. 64 a. 3 co.
+Respondeo dicendum quod interiorem sacramentorum effectum operatur Christus et secundum quod est Deus, et secundum quod est homo, aliter tamen et aliter. Nam secundum quod est Deus, operatur in sacramentis per auctoritatem. Secundum autem quod est homo, operatur ad interiores effectus sacramentorum meritorie, et efficienter, sed instrumentaliter. Dictum est enim quod passio Christi, quae competit ei secundum humanam naturam, causa est nostrae iustificationis et meritorie, et effective, non quidem per modum principalis agentis, sive per auctoritatem, sed per modum instrumenti, inquantum humanitas est instrumentum divinitatis eius, ut supra dictum est. Sed tamen, quia est instrumentum coniunctum divinitati in persona, habet quandam principalitatem et causalitatem respectu instrumentorum extrinsecorum, qui sunt ministri Ecclesiae et ipsa sacramenta, ut ex supra dictis patet. Et ideo, sicut Christus, inquantum Deus, habet potestatem auctoritatis in sacramentis, ita, inquantum homo, habet potestatem ministerii principalis, sive potestatem excellentiae. Quae quidem consistit in quatuor. Primo quidem, in hoc quod meritum et virtus passionis eius operatur in sacramentis, ut supra dictum est. Et quia virtus passionis copulatur nobis per fidem, secundum illud Rom. III, quem proposuit Deus propitiatorem per fidem in sanguine eius, quam fidem per invocationem nominis Christi protestamur, ideo, secundo, ad potestatem excellentiae quam Christus habet in sacramentis, pertinet quod in eius nomine sacramenta sanctificantur. Et quia ex institutione sacramenta virtutem obtinent, inde est quod, tertio, ad excellentiam potestatis Christi pertinet quod ipse, qui dedit virtutem sacramentis, potuit instituere sacramenta. Et quia causa non dependet ab effectu, sed potius e converso, quarto, ad excellentiam potestatis Christi pertinet quod ipse potuit effectum sacramentorum sine exteriori sacramento conferre.
+
+@@ III q. 64 a. 3 ad 1
+Et per hoc patet responsio ad obiecta, utraque enim pars obiectionum vera est, ut dictum est, secundum aliquid.
+
+@@ III q. 64 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod Christus potestatem suam quam habuit in sacramentis, non potuerit ministris communicare. Ut enim argumentatur Augustinus, contra Maximinum, si potuit et non voluit, invidus fuit. Sed invidia longe fuit a Christo, in quo fuit summa plenitudo caritatis. Ergo, cum Christus non communicaverit suam potestatem ministris, videtur quod non potuerit communicare.
+
+@@ III q. 64 a. 4 arg. 2
+Praeterea, super illud Ioan. XIV, maiora horum faciet, dicit Augustinus, prorsus maius hoc esse dixerim, scilicet ut ex impio iustus fiat, quam creare caelum et terram. Sed Christus non potuit communicare suis discipulis quod crearent caelum et terram. Ergo neque quod iustificent impium. Cum igitur iustificatio impii fiat per potestatem Christi quam habet in sacramentis, videtur quod potestatem suam quam habet in sacramentis, non potuerit ministris communicare.
+
+@@ III q. 64 a. 4 arg. 3
+Praeterea, Christo inquantum est caput Ecclesiae, competit ut ab ipso gratia derivetur ad alios, secundum illud Ioan. I, de plenitudine eius omnes accepimus. Sed hoc non fuit aliis communicabile, quia sic Ecclesia esset monstruosa, multa capita habens. Ergo videtur quod Christus suam potestatem non potuerit ministris communicare.
+
+@@ III q. 64 a. 4 s. c.
+Sed contra est quod, super illud Ioan. I, ego nesciebam eum, dicit Augustinus quod non noverat potestatem Baptismi ipsum dominum habiturum et sibi retenturum. Hoc autem non ignorasset Ioannes si talis potestas communicabilis non esset. Potuit ergo potestatem suam Christus ministris communicare.
+
+@@ III q. 64 a. 4 co.
+Respondeo dicendum quod, sicut dictum est, Christus in sacramentis habuit duplicem potestatem. Unam auctoritatis, quae competit ei secundum quod Deus. Et talis potestas nulli creaturae potuit communicari, sicut nec divina essentia. Aliam potestatem habuit excellentiae, quae competit ei secundum quod homo. Et talem potestatem potuit ministris communicare, dando scilicet eis tantam gratiae plenitudinem ut eorum meritum operaretur ad sacramentorum effectus; ut ad invocationem nominum ipsorum sanctificarentur sacramenta; et ut ipsi possent sacramenta instituere; et sine ritu sacramentorum effectum conferre solo imperio. Potest enim instrumentum coniunctum, quanto fuerit fortius, tanto magis virtutem suam instrumento separato tribuere, sicut manus baculo.
+
+@@ III q. 64 a. 4 ad 1
+Ad primum ergo dicendum quod Christus non ex invidia praetermisit potestatem excellentiae ministris communicare, sed propter fidelium utilitatem, ne in homine spem ponerent, et essent diversa sacramenta, ex quibus divisio in Ecclesia oriretur; sicut apud illos qui dicebant, ego sum Pauli, ego autem Apollo, ego vero Cephae, ut dicitur I Cor. I.
+
+@@ III q. 64 a. 4 ad 2
+Ad secundum dicendum quod obiectio illa procedit de potestate auctoritatis, quae convenit Christo secundum quod est Deus. Licet et potestas excellentiae possit auctoritas nominari per comparationem ad alios ministros. Unde super illud I Cor. I, divisus est Christus? Dicit Glossa quod potuit eis dare auctoritatem Baptismi, quibus contulit ministerium.
+
+@@ III q. 64 a. 4 ad 3
+Ad tertium dicendum quod ad hoc inconveniens evitandum, ne scilicet multa capita in Ecclesia essent, Christus noluit potestatem suae excellentiae ministris communicare. Si tamen communicasset, ipse esset caput principaliter, alii vero secundario.
+
+@@ III q. 64 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod per malos ministros sacramenta conferri non possint. Sacramenta enim novae legis ordinantur ad emundationem culpae et collationem gratiae. Sed mali, cum sint immundi, non possunt alios a peccato mundare, secundum illud Eccli. XXXIV, ab immundo quis mundabitur? Et etiam, cum gratiam non habeant, non videtur quod gratiam conferre possint, quia nullus dat quod non habet. Non ergo videtur quod per malos sacramenta conferri possint.
+
+@@ III q. 64 a. 5 arg. 2
+Praeterea, tota virtus sacramentorum derivatur a Christo, ut dictum est. Sed mali sunt praecisi a Christo, quia non habent caritatem, per quam membra capiti uniuntur, secundum illud I Ioan. IV, qui manet in caritate, in Deo manet, et Deus in eo. Ergo videtur quod per malos sacramenta conferri non possint.
+
+@@ III q. 64 a. 5 arg. 3
+Praeterea, si desit aliquid horum quae debitum est esse in sacramentis, non perficitur sacramentum, sicut si desit debita forma vel materia. Sed debitus minister sacramenti est ille qui caret macula peccati, secundum illud Levit. XXI, homo de semine tuo per familias qui habuit maculam, non offeret panes Deo tuo, nec accedet ad ministerium eius. Ergo videtur quod, si minister sit malus, nihil efficiatur in sacramento.
+
+@@ III q. 64 a. 5 s. c.
+Sed contra est quod Augustinus dicit, super illud Ioan. I, super quem videris spiritum etc., quod non noverat Ioannes potestatem Baptismi ipsum dominum habiturum et sibi retenturum, sed ministerium plane transiturum in bonos et malos. Quid tibi facit malus minister, ubi bonus est dominus?
+
+@@ III q. 64 a. 5 co.
+Respondeo dicendum quod, sicut dictum est, ministri Ecclesiae instrumentaliter operantur in sacramentis, eo quod quodammodo eadem est ratio ministri et instrumenti. Sicut autem supra dictum est, instrumentum non agit secundum propriam formam, sed secundum virtutem eius a quo movetur. Et ideo accidit instrumento, inquantum est instrumentum, qualemcumque formam vel virtutem habeat, praeter id quod exigitur ad rationem instrumenti, sicut quod corpus medici, quod est instrumentum animae habentis artem, sit sanum vel infirmum; et sicut quod fistula per quam transit aqua, sit argentea vel plumbea. Unde ministri Ecclesiae possunt sacramenta conferre etiam si sint mali.
+
+@@ III q. 64 a. 5 ad 1
+Ad primum ergo dicendum quod ministri Ecclesiae neque a peccatis mundant homines ad sacramenta accedentes, neque gratiam conferunt, sua virtute, sed hoc facit Christus sua potestate per eos sicut per quaedam instrumenta. Et ideo effectus consequitur in suscipientibus sacramenta non secundum similitudinem ministrorum, sed secundum configurationem ad Christum.
+
+@@ III q. 64 a. 5 ad 2
+Ad secundum dicendum quod per caritatem membra Christi uniuntur suo capiti ut ab eo vitam recipiant, quia, ut dicitur I Ioan. III, qui non diligit, manet in morte. Potest autem aliquis operari per instrumentum carens vita, et a se separatum quantum ad corporis unionem, dummodo sit coniunctum per quandam motionem, aliter enim operatur artifex per manum, et aliter per securim. Sic igitur Christus operatur in sacramentis et per malos, tanquam per instrumenta carentia vita; et per bonos, tanquam per membra viventia.
+
+@@ III q. 64 a. 5 ad 3
+Ad tertium dicendum quod aliquid est debitum esse in sacramento dupliciter. Uno modo, sicut existens de necessitate sacramenti. Quod quidem si desit, non perficitur sacramentum, sicut si desit debita forma vel debita materia. Alio modo est aliquid debitum esse in sacramento secundum quandam decentiam. Et hoc modo debitum est ut ministri sacramentorum sint boni.
+
+@@ III q. 64 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod mali ministrantes sacramenta non peccent. Sicut enim ministratur Deo in sacramentis, ita per opera caritatis, unde dicitur Heb. ult., beneficentiae et communionis nolite oblivisci, talibus enim hostiis promeretur Deus. Sed mali non peccant si ministrent Deo in operibus caritatis, quinimmo hoc est consulendum, secundum illud Dan. IV, consilium meum regi placeat, peccata tua eleemosynis redime. Ergo videtur quod mali non peccent in sacramentis ministrando.
+
+@@ III q. 64 a. 6 arg. 2
+Praeterea, quicumque communicat alicui in peccato, etiam ipse est reus peccati, secundum illud Rom. I, dignus est morte non solum qui peccatum agit, sed etiam qui consentit facientibus. Sed si mali ministri peccent sacramenta ministrando, illi qui ab eis sacramenta recipiunt, eis in peccato communicant. Ergo etiam ipsi peccarent. Quod videtur inconveniens.
+
+@@ III q. 64 a. 6 arg. 3
+Praeterea, nullus videtur esse perplexus, quia sic homo cogeretur desperare, quasi non posset peccatum evadere. Sed si mali peccarent sacramenta tradendo, essent perplexi, quia etiam quandoque peccarent si sacramenta non traderent, puta cum eis ex officio incumbit necessitas; dicitur enim I Cor. IX, vae mihi est si non evangelizavero, necessitas enim mihi incumbit. Quandoque etiam propter periculum, sicut si puer, in periculo mortis existens, offeratur alicui peccatori baptizandus. Ergo videtur quod mali non peccent sacramenta ministrando.
+
+@@ III q. 64 a. 6 s. c.
+Sed contra est quod Dionysius dicit, I cap. Eccles. Hier., quod malis non est fas neque tangere symbola, idest sacramentalia signa. Et in epistola ad Demophilum dicit, talis, scilicet peccator, audax videtur sacerdotalibus manum imponens; et non timet neque verecundatur, divina praeter dignitatem exequens, et Deum putans ignorare quod ipse in seipso cognovit; et decipere existimat falso nomine patrem ab ipso appellatum; et audet immundas infamias non dicam orationes, super divina signa Christiformiter enuntiare.
+
+@@ III q. 64 a. 6 co.
+Respondeo dicendum quod aliquis in agendo peccat ex hoc quod operatur non secundum quod oportet, ut patet per philosophum, in libro Ethicorum. Dictum est autem conveniens esse ut sacramentorum ministri sint iusti, quia ministri debent domino conformari, secundum illud Levit. XIX, sancti eritis, quoniam ego sanctus sum; et Eccli. X, secundum iudicem populi, sic et ministri eius. Et ideo non est dubium quin mali exhibentes se ministros Dei et Ecclesiae in dispensatione sacramentorum, peccent. Et quia hoc peccatum pertinet ad irreverentiam Dei et contaminationem sanctorum, quantum est ex parte ipsius hominis peccatoris, licet sancta secundum seipsa incontaminabilia sint, consequens est quod tale peccatum ex genere suo est mortale.
+
+@@ III q. 64 a. 6 ad 1
+Ad primum ergo dicendum quod opera caritatis non sunt aliqua consecratione sanctificata, sed ipsa pertinent ad iustitiae sanctitatem sicut quaedam iustitiae partes. Et ideo homo qui se exhibet Deo ministrum in operibus caritatis, si sit iustus, amplius sanctificabitur, si vero sit peccator, per hoc ad sanctitatem disponitur. Sed sacramenta in seipsis sanctificationem quandam habent per mysticam consecrationem. Et ideo praeexigitur in ministro sanctitas iustitiae, ut congruat suo ministerio. Et ideo incongrue agit et peccat, si in peccato existens ad tale ministerium accedat.
+
+@@ III q. 64 a. 6 ad 2
+Ad secundum dicendum quod ille qui ad sacramenta accedit, suscipit quidem sacramentum a ministro Ecclesiae, non inquantum est talis persona, sed inquantum est Ecclesiae minister. Et ideo, quandiu ab Ecclesia toleratur in ministerio, ille qui ab eo suscipit sacramentum, non communicat peccato eius, sed communicat Ecclesiae, quae eum tanquam ministrum exhibet. Si vero ab Ecclesia non toleretur, puta cum degradatur vel excommunicatur vel suspenditur, peccat qui ab eo accipit sacramentum, quia communicat peccato ipsius.
+
+@@ III q. 64 a. 6 ad 3
+Ad tertium dicendum quod ille qui est in peccato mortali, non est perplexus simpliciter, si ex officio ei incumbat sacramenta dispensare, quia potest poenitere de peccato et licite ministrare. Non est autem inconveniens quod sit perplexus supposito quodam, scilicet quod velit remanere in peccato. In articulo tamen necessitatis non peccaret baptizando in casu in quo etiam posset laicus dispensare. Sic enim patet quod non exhibet se ministrum Ecclesiae, sed subvenit necessitatem patienti. Secus autem est in aliis sacramentis, quae non sunt tantae necessitatis sicut Baptismus, ut infra patebit.
+
+@@ III q. 64 a. 7 arg. 1
+Ad septimum sic proceditur. Videtur quod Angeli possent sacramenta ministrare. Quidquid enim potest minister inferior, potest et superior, sicut quidquid potest diaconus, potest et sacerdos, sed non convertitur. Sed Angeli sunt superiores ministri in ordine hierarchico quam etiam quicumque homines, ut patet per Dionysium, in libro Cael. Hier. Ergo, cum homines possint ministrare in sacramentis, videtur quod multo magis Angeli.
+
+@@ III q. 64 a. 7 arg. 2
+Praeterea, homines sancti assimilantur Angelis in caelo, ut dicitur Matth. XXII. Sed aliqui sancti in caelo existentes possunt ministrare in sacramentis, quia character sacramentalis est indelebilis, ut dictum est. Ergo videtur quod etiam Angeli in sacris possint ministrare.
+
+@@ III q. 64 a. 7 arg. 3
+Praeterea, sicut supra dictum est, Diabolus est caput malorum, et mali sunt membra eius. Sed per malos possunt dispensari sacramenta. Ergo videtur quod etiam per Daemones.
+
+@@ III q. 64 a. 7 s. c.
+Sed contra est quod dicitur Heb. V, omnis pontifex, ex hominibus assumptus, pro hominibus constituitur in his quae sunt ad Deum. Sed Angeli boni vel mali non sunt ex hominibus. Ergo ipsi non constituuntur ministri in his quae sunt ad Deum, idest in sacramentis.
+
+@@ III q. 64 a. 7 co.
+Respondeo dicendum quod, sicut supra dictum est, tota virtus sacramentorum a passione Christi derivatur, quae est Christi secundum quod homo. Cui in natura conformantur homines, non autem Angeli, sed potius secundum passionem dicitur modico ab Angelis minoratus, ut patet Heb. II. Et ideo ad homines pertinet dispensare sacramenta et in eis ministrare, non autem ad Angelos. Sciendum tamen quod, sicut Deus virtutem suam non alligavit sacramentis quin possit sine sacramentis effectum sacramentorum conferre, ita etiam virtutem suam non alligavit Ecclesiae ministris, quin etiam Angelis possit virtutem tribuere ministrandi in sacramentis. Et quia boni Angeli sunt nuntii veritatis, si aliquod sacramentale ministerium a bonis Angelis perficeretur, esset ratum habendum, quia deberet constare hoc fieri voluntate divina, sicut quaedam templa dicuntur angelico ministerio consecrata. Si vero Daemones, qui sunt spiritus mendacii, aliquod sacramentale ministerium exhiberent, non esset ratum habendum.
+
+@@ III q. 64 a. 7 ad 1
+Ad primum ergo dicendum quod illud quod faciunt homines inferiori modo, scilicet per sacramenta sensibilia, quae sunt proportionata naturae ipsorum, faciunt Angeli, tanquam superiores ministri, superiori modo, scilicet invisibiliter purgando, illuminando et perficiendo.
+
+@@ III q. 64 a. 7 ad 2
+Ad secundum dicendum quod sancti qui sunt in caelo, sunt similes Angelis quantum ad participationem gloriae, non autem quantum ad conditionem naturae. Et per consequens neque quantum ad sacramenta.
+
+@@ III q. 64 a. 7 ad 3
+Ad tertium dicendum quod mali homines non habent quod possint ministrare in sacramentis ex hoc quod per malitiam sunt membra Diaboli. Et ideo non sequitur quod Diabolus, qui est eorum caput, magis hoc possit.
+
+@@ III q. 64 a. 8 arg. 1
+Ad octavum sic proceditur. Videtur quod intentio ministri non requiratur ad perfectionem sacramenti. Minister enim in sacramento instrumentaliter operatur. Sed actio non perficitur secundum intentionem instrumenti, sed secundum intentionem principalis agentis. Ergo intentio ministri non requiritur ad perfectionem sacramenti.
+
+@@ III q. 64 a. 8 arg. 2
+Praeterea, non potest homini esse nota intentio alterius. Si igitur intentio ministri requiratur ad perfectionem sacramenti, non posset homini ad sacramentum accedenti esse notum quod sacramentum suscepisset. Et ita non posset habere certitudinem salutis, praecipue cum quaedam sacramenta sint de necessitate salutis, ut infra dicetur.
+
+@@ III q. 64 a. 8 arg. 3
+Praeterea, intentio hominis non potest esse ad id circa quod non est attentus. Sed aliquando illi qui in sacramentis ministrant, non attendunt ad ea quae dicunt vel faciunt, alia cogitantes. Ergo, secundum hoc, non perficitur sacramentum, propter intentionis defectum.
+
+@@ III q. 64 a. 8 s. c.
+Sed contra est quod ea quae sunt praeter intentionem, sunt casualia. Quod non est dicendum de operatione sacramentorum. Ergo sacramenta requirunt intentionem ministri.
+
+@@ III q. 64 a. 8 co.
+Respondeo dicendum quod, quando aliquid se habet ad multa, oportet quod per aliquid determinetur ad unum, si illud effici debeat. Ea vero quae in sacramentis aguntur, possunt diversimode agi, sicut ablutio aquae, quae fit in Baptismo, potest ordinari et ad munditiam corporalem, et ad sanitatem corporalem, et ad ludum et ad multa alia huiusmodi. Et ideo oportet quod determinetur ad unum, idest ad sacramentalem effectum, per intentionem abluentis. Et haec intentio exprimitur per verba quae in sacramentis dicuntur, puta cum dicit, ego te baptizo in nomine patris, et cetera.
+
+@@ III q. 64 a. 8 ad 1
+Ad primum ergo dicendum quod instrumentum inanimatum non habet aliquam intentionem respectu effectus, sed loco intentionis est motus quo movetur a principali agente. Sed instrumentum animatum, sicut est minister, non solum movetur, sed etiam quodammodo movet seipsum, inquantum sua voluntate movet membra ad operandum. Et ideo requiritur eius intentio, qua se subiiciat principali agenti, ut scilicet intendat facere quod facit Christus et Ecclesia.
+
+@@ III q. 64 a. 8 ad 2
+Ad secundum dicendum quod circa hoc est duplex opinio. Quidam enim dicunt quod requiritur mentalis intentio in ministro, quae si desit, non perficitur sacramentum. Sed hunc defectum in pueris, qui non habent intentionem accedendi ad sacramentum, supplet Christus, qui interius baptizat. In adultis autem, quia intendunt sacramenta suscipere, supplet illum defectum fides et devotio. Sed hoc satis posset dici quantum ad ultimum effectum, qui est iustificatio a peccatis, sed quantum ad effectum qui est res et sacramentum, scilicet quantum ad characterem, non videtur quod per devotionem accedentis possit suppleri; quia character nunquam imprimitur nisi per sacramentum. Et ideo alii melius dicunt quod minister sacramenti agit in persona totius Ecclesiae, cuius est minister; in verbis autem quae proferuntur, exprimitur intentio Ecclesiae; quae sufficit ad perfectionem sacramenti, nisi contrarium exterius exprimatur ex parte ministri et recipientis sacramentum.
+
+@@ III q. 64 a. 8 ad 3
+Ad tertium dicendum quod, licet ille qui aliud cogitat, non habeat actualem intentionem, habet tamen habitualem, quae sufficit ad perfectionem sacramenti, puta si, cum sacerdos accedit ad baptizandum, intendit facere circa baptizandum quod facit Ecclesia. Unde, si postea in ipso exercitio actus cogitatio eius ad alia rapiatur, ex virtute primae intentionis perficitur sacramentum. Quamvis studiose curare debeat sacramenti minister ut etiam actualem intentionem adhibeat. Sed hoc non totaliter est positum in hominis potestate, quia praeter intentionem, cum homo vult multum intendere, incipit alia cogitare; secundum illud Psalmi, cor meum dereliquit me.
+
+@@ III q. 64 a. 9 arg. 1
+Ad nonum sic proceditur. Videtur quod fides ministri sit de necessitate sacramenti. Sicut enim dictum est, intentio ministri est necessaria ad sacramenti perfectionem. Sed fides intentionem dirigit, ut Augustinus dicit, contra Iulianum. Ergo, si desit vera fides in ministro, non perficitur sacramentum.
+
+@@ III q. 64 a. 9 arg. 2
+Praeterea, si minister Ecclesiae veram fidem non habeat, videtur esse haereticus. Sed haeretici, ut videtur, non possunt sacramenta conferre. Dicit enim Cyprianus, in epistola contra haereticos, omnia quaecumque faciunt haeretici, carnalia sunt et inania et falsa, ita ut nihil eorum quae illi gesserint, a nobis debeat probari. Et Leo Papa dicit, in epistola ad Leonem Augustum, manifestum est per crudelissimam et insanissimam vesaniam in Alexandrina sede omnium caelestium sacramentorum lumen extinctum. Intercepta est sacrificii oblatio, defecit chrismatis sanctificatio, et paricidalibus manibus impiorum omnia sese subtraxere mysteria. Ergo vera fides ministri est de necessitate sacramenti.
+
+@@ III q. 64 a. 9 arg. 3
+Praeterea, illi qui non habent veram fidem, videntur esse per excommunicationem ab Ecclesia separati, dicitur enim in secunda canonica Ioannis, si quis venit ad vos et hanc doctrinam non affert, nolite recipere eum in domum, nec ave dixeritis ei; et Tit. III, haereticum hominem, post primam et secundam correctionem, devita. Sed excommunicatus non videtur conferre posse Ecclesiae sacramentum, cum sit ab Ecclesia separatus, ad cuius ministerium pertinet sacramentorum dispensatio. Ergo videtur quod vera fides ministri sit de necessitate sacramenti.
+
+@@ III q. 64 a. 9 s. c.
+Sed contra est quod Augustinus dicit, contra Petilianum Donatistam, mementote sacramentis Dei nihil obesse mores malorum hominum, quod illa vel non sint, vel minus sancta sint.
+
+@@ III q. 64 a. 9 co.
+Respondeo dicendum quod, sicut supra dictum est, quia minister in sacramentis instrumentaliter operatur, non agit in virtute propria, sed in virtute Christi. Sicut autem pertinet ad propriam virtutem hominis caritas, ita et fides. Unde, sicut non requiritur ad perfectionem sacramenti quod minister sit in caritate, sed possunt etiam peccatores sacramenta conferre, ut supra dictum est; ita non requiritur fides eius, sed infidelis potest verum sacramentum praebere, dummodo cetera adsint quae sunt de necessitate sacramenti.
+
+@@ III q. 64 a. 9 ad 1
+Ad primum ergo dicendum quod potest contingere quod aliquis patiatur defectum fidei circa aliquid aliud, et non circa veritatem sacramenti quod exhibet, puta si aliquis credat iuramentum esse in omni casu illicitum, et tamen credat Baptismum efficaciam habere ad salutem. Et sic talis infidelitas non impedit intentionem conferendi sacramentum. Si vero patiatur fidei defectum circa ipsum sacramentum quod exhibet, licet credat per id quod agitur exterius nullum sequi interiorem effectum, non tamen ignorat quod Ecclesia Catholica intendit per huiusmodi quae exterius aguntur, sacramentum praebere. Unde, non obstante infidelitate, potest intendere facere id quod facit Ecclesia, licet existimet id nihil esse. Et talis intentio sufficit ad sacramentum, quia, sicut supra dictum est, minister sacramenti agit in persona totius Ecclesiae, ex cuius fide suppletur id quod deest fidei ministro.
+
+@@ III q. 64 a. 9 ad 2
+Ad secundum dicendum quod haereticorum quidam in collatione sacramentorum formam Ecclesiae non servant. Et tales neque sacramentum conferunt, neque rem sacramenti. Quidam vero servant Ecclesiae formam. Et tales conferunt quidem sacramentum, sed non conferunt rem sacramenti. Et hoc dico, si sunt manifeste ab Ecclesia praecisi. Quia ex hoc ipso quod aliquis accipit sacramenta ab eis, peccat, et per hoc impeditur ne effectum sacramenti consequatur. Unde Augustinus dicit, in libro de fide ad Petrum, firmissime tene, et nullatenus dubites, extra Ecclesiam baptizatis, si ad Ecclesiam non redierint, Baptismo cumulari perniciem. Et per hunc modum dicit Leo Papa in sede Alexandrina sacramentorum lumen esse extinctum, scilicet, quantum ad rem sacramenti, non autem quantum ad ipsum sacramentum. Cyprianus autem nec sacramentum conferre haereticos credebat, sed in hoc eius sententia non tenetur. Unde Augustinus dicit, martyrem Cyprianum, qui apud haereticos vel schismaticos datum Baptismum nolebat cognoscere, tanta merita, usque ad triumphum martyrii, secuta sunt, ut caritatis qua excellebat luce obumbratio illa fugaretur, et, si quid purgandum erat, passionis falce tolleretur.
+
+@@ III q. 64 a. 9 ad 3
+Ad tertium dicendum quod potestas ministrandi sacramenta pertinet ad spiritualem characterem, qui indelebilis est, ut ex supra dictis patet. Et ideo per hoc quod aliquis ab Ecclesia suspenditur vel excommunicatur, vel etiam degradatur, non amittit potestatem conferendi sacramentum, sed licentiam utendi hac potestate. Et ideo sacramentum quidem confert, sed tamen peccat conferendo. Et similiter ille qui ab eo accipit sacramentum, et sic non percipit rem sacramenti, nisi forte per ignorantiam excusetur.
+
+@@ III q. 64 a. 10 arg. 1
+Ad decimum sic proceditur. Videtur quod intentio recta ministri requiratur ad perfectionem sacramenti. Intentio enim ministri debet conformari intentioni Ecclesiae, ut ex dictis patet. Sed intentio Ecclesiae semper est recta. Ergo de necessitate ad sacramenti perfectionem requiritur intentio recta ministri.
+
+@@ III q. 64 a. 10 arg. 2
+Praeterea, perversa intentio deterior esse videtur quam intentio iocosa. Sed intentio iocosa tollit sacramentum, puta si aliquis non serio, sed ludo aliquem baptizaret. Ergo multo magis perversa intentio aufert sacramentum, puta si aliquis aliquem baptizaret ut postmodum eum occideret.
+
+@@ III q. 64 a. 10 arg. 3
+Praeterea, perversa intentio facit totum opus vitiosum, secundum illud Luc. XI, si oculus tuus fuerit nequam, totum corpus tuum tenebrosum erit. Sed sacramenta Christi non possunt inquinari per malos homines, sicut Augustinus dicit, contra Petilianum. Ergo videtur quod, si sit perversa intentio ministri, non sit ibi verum sacramentum.
+
+@@ III q. 64 a. 10 s. c.
+Sed contra est quod perversa intentio pertinet ad malitiam ministri. Sed malitia ministri non tollit sacramentum. Ergo nec perversa intentio.
+
+@@ III q. 64 a. 10 co.
+Respondeo dicendum quod intentio ministri potest perverti dupliciter. Uno modo, respectu ipsius sacramenti, puta cum aliquis non intendit sacramentum conferre, sed delusorie aliquid agere. Et talis perversitas tollit veritatem sacramenti, praecipue quando suam intentionem exterius manifestat. Alio modo potest perverti intentio ministri quantum ad id quod sequitur sacramentum, puta si sacerdos intendat aliquam feminam baptizare ut abutatur ea; vel si intendat conficere corpus Christi ut eo ad veneficia utatur. Et quia prius non dependet a posteriori, inde est quod talis intentionis perversitas veritatem sacramenti non tollit, sed ipse minister ex tali intentione graviter peccat.
+
+@@ III q. 64 a. 10 ad 1
+Ad primum ergo dicendum quod Ecclesiae intentio recta est et quantum ad sacramenti perfectionem, et quantum ad sacramenti usum, sed prima rectitudo perficit sacramentum, secunda operatur ad meritum. Et ideo minister qui conformat intentionem suam Ecclesiae quantum ad primam rectitudinem, non autem quantum ad secundam, perficit quidem sacramentum, sed non est sibi ad meritum.
+
+@@ III q. 64 a. 10 ad 2
+Ad secundum dicendum quod intentio ludicra vel iocosa excludit primam rectitudinem intentionis, per quam perficitur sacramentum. Et ideo non est similis ratio.
+
+@@ III q. 64 a. 10 ad 3
+Ad tertium dicendum quod perversa intentio pervertit opus intendentis, non autem opus alterius. Et ideo ex perversa intentione ministri pervertitur id quod agit in sacramentis inquantum est opus eius, non inquantum est opus Christi, cuius est minister. Et est simile si minister alicuius hominis prava intentione deferret pauperibus eleemosynam, quam dominus recta intentione mandaret.

@@ -1,0 +1,169 @@
+// II-II q. 64 a. 7 co.: duplex effectus, moderamen, запрет намеренного убийства
+// частному лицу и исключение публичной власти.
+
+language "law.core" version "0.2";
+package la.aquinas.duplex_effectus version "0.1.0";
+namespace "urn:la:aquinas:clir:duplex-effectus";
+
+use self::{
+    Actus,
+    Persona,
+    ST_Q64_A7_RESP,
+    defensor,
+    intendit_occisionem,
+    intentio_conservationis_vitae,
+    intentio_occisionis,
+    mors_est_medium,
+    presented_actus,
+    privata_libido,
+    publicus_minister,
+    refert_ad_bonum_commune,
+    se_defendit,
+    vis_illata,
+    vis_moderata,
+};
+
+pub relation defensio_licita(a: Actus) kind institutional {
+    label la official "erit licita defensio";
+    label ru unofficial "оборона дозволена";
+    label en unofficial "the defence is licit";
+}
+pub relation defensio_illicita(a: Actus) kind institutional {
+    label la official "defensio illicita est";
+    label ru unofficial "оборона недозволена";
+    label en unofficial "the defence is illicit";
+}
+pub relation occisio_illicita(a: Actus) kind institutional {
+    label la official "illicitum est quod homo intendat occidere hominem ut seipsum defendat";
+    label ru unofficial "намеренное убийство в обороне недозволено";
+    label en unofficial "intended killing in defence is illicit";
+}
+
+@source(ST_Q64_A7_RESP)
+rule DefensioLicitaPrivata(a: Actus, p: Persona) strict {
+    label la official "actus ex hoc quod intenditur conservatio propriae vitae, non habet rationem illiciti, si moderate violentiam repellat";
+    label ru unofficial "частная оборона дозволена, если намерение — сохранить жизнь, сила соразмерна, а смерть не средство и не цель";
+    label en unofficial "private defence is licit if the intention is to preserve life, the force is proportionate, and death is neither means nor end";
+    when presented_actus(a)
+        and defensor(a, p)
+        and vis_illata(a)
+        and intentio_conservationis_vitae(a)
+        and vis_moderata(a)
+        and not intentio_occisionis(a)
+        and not mors_est_medium(a);
+    then defensio_licita(a);
+}
+
+@source(ST_Q64_A7_RESP)
+rule DefensioPubliciMinistri(a: Actus, p: Persona) strict {
+    label la official "nisi ei qui habet publicam auctoritatem, qui intendens hominem occidere ad sui defensionem, refert hoc ad publicum bonum";
+    label ru unofficial "носитель публичной власти может намеренно поражать, относя это к общему благу";
+    label en unofficial "a public minister may strike intentionally when referring it to the common good";
+    when presented_actus(a)
+        and defensor(a, p)
+        and vis_illata(a)
+        and vis_moderata(a)
+        and publicus_minister(p)
+        and refert_ad_bonum_commune(a)
+        and not privata_libido(a);
+    then defensio_licita(a);
+}
+
+@source(ST_Q64_A7_RESP)
+rule DefensioPropriaAperitur(a: Actus, p: Persona) strict {
+    label la official "erit licita defensio";
+    label ru unofficial "дозволенная оборона открывает свободу защищать себя";
+    label en unofficial "licit defence opens the liberty to defend oneself";
+    when presented_actus(a) and defensor(a, p) and defensio_licita(a);
+    then liberty DefensioPropria {
+        holder p;
+        action se_defendit(p, a);
+        window [@1270-01-01, infinity);
+    };
+}
+
+@source(ST_Q64_A7_RESP)
+rule OccisioInDefensioneVetita(a: Actus, p: Persona) strict {
+    label la official "illicitum est quod homo intendat occidere hominem ut seipsum defendat";
+    label ru unofficial "частному лицу в ситуации обороны запрещено иметь целью убийство";
+    label en unofficial "a private person in a situation of defence is forbidden to intend killing";
+    when presented_actus(a)
+        and defensor(a, p)
+        and vis_illata(a)
+        and not publicus_minister(p);
+    then prohibition OccisioIntentaInDefensione {
+        bearer p;
+        action intendit_occisionem(p, a);
+        window [@1270-01-01, infinity);
+    };
+}
+
+@source(ST_Q64_A7_RESP)
+rule ImmoderataViolentiaIllicita(a: Actus, p: Persona) strict {
+    label la official "si aliquis ad defendendum propriam vitam utatur maiori violentia quam oporteat, erit illicitum";
+    label ru unofficial "превышение меры безупречной защиты делает действие недозволенным";
+    label en unofficial "exceeding the measure of blameless defence makes the act illicit";
+    when presented_actus(a)
+        and defensor(a, p)
+        and vis_illata(a)
+        and not vis_moderata(a);
+    then defensio_illicita(a);
+}
+
+@source(ST_Q64_A7_RESP)
+rule OccisioIntentaPrivatoIllicita(a: Actus, p: Persona) strict {
+    label la official "illicitum est quod homo intendat occidere hominem ut seipsum defendat";
+    label ru unofficial "частному лицу нельзя иметь целью убийство даже в обороне";
+    label en unofficial "a private person may not intend killing even in defence";
+    when presented_actus(a)
+        and defensor(a, p)
+        and intentio_occisionis(a)
+        and not publicus_minister(p);
+    then occisio_illicita(a);
+}
+
+@source(ST_Q64_A7_RESP)
+rule OccisioUtMediumIllicita(a: Actus, p: Persona) strict {
+    label la official "morales actus recipiunt speciem secundum id quod intenditur, non autem ab eo quod est praeter intentionem";
+    label ru unofficial "если смерть взята как средство, она уже не praeter intentionem";
+    label en unofficial "if death is taken as a means, it is no longer praeter intentionem";
+    when presented_actus(a)
+        and defensor(a, p)
+        and mors_est_medium(a)
+        and not publicus_minister(p);
+    then occisio_illicita(a);
+}
+
+@source(ST_Q64_A7_RESP)
+rule OccisioRedditDefensionemIllicitam(a: Actus) strict {
+    label la official "defensio illicita est";
+    label ru unofficial "намеренно недозволенное убийство делает оборону недозволенной";
+    label en unofficial "illicit intended killing makes the defence illicit";
+    when presented_actus(a) and occisio_illicita(a);
+    then defensio_illicita(a);
+}
+
+@source(ST_Q64_A7_RESP)
+rule PrivataLibidoMinistriPeccat(a: Actus, p: Persona) strict {
+    label la official "quamvis et isti etiam peccent si privata libidine moveantur";
+    label ru unofficial "воин или служитель судьи грешит, если движим частной страстью";
+    label en unofficial "a soldier or a minister of the judge sins if moved by private passion";
+    when presented_actus(a)
+        and defensor(a, p)
+        and publicus_minister(p)
+        and privata_libido(a);
+    then defensio_illicita(a);
+}
+
+@source(ST_Q64_A7_RESP)
+rule DefensioIllicitaVetita(a: Actus, p: Persona) strict {
+    label la official "defensio illicita est";
+    label ru unofficial "недозволенная оборона запрещает защищаться этим действием";
+    label en unofficial "illicit defence forbids defending oneself by this act";
+    when presented_actus(a) and defensor(a, p) and defensio_illicita(a);
+    then prohibition DefensioIllicitaProhibita {
+        bearer p;
+        action se_defendit(p, a);
+        window [@1270-01-01, infinity);
+    };
+}

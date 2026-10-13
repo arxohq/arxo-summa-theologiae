@@ -1,0 +1,55 @@
+// Прикладной канон respondeo III qq. 1-26.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.iii_incarnatione version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-iii-incarnatione";
+
+use self::{
+    ST_III_Q16_A1_RESP,
+    ST_III_Q1_A1_RESP,
+    ST_III_Q2_A1_RESP,
+    Subject,
+    christ_presented,
+    incarnation_considered,
+    presented,
+};
+
+pub relation incarnation_fitting(s: Subject) kind institutional {
+    label la official "conveniens fuit Deum incarnari";
+    label ru unofficial "Богу подобало воплотиться";
+}
+
+@source(ST_III_Q1_A1_RESP)
+rule IncarnationFitting(s: Subject) strict {
+    label la official "conveniens fuit Deum incarnari";
+    label ru unofficial "Богу подобало воплотиться";
+    when presented(s) and incarnation_considered(s);
+    then incarnation_fitting(s);
+}
+
+pub relation union_in_person(s: Subject) kind institutional {
+    label la official "unio facta est in persona";
+    label ru unofficial "соединение совершилось в лице";
+}
+
+@source(ST_III_Q2_A1_RESP)
+rule UnionInPerson(s: Subject) strict {
+    label la official "unio facta est in persona";
+    label ru unofficial "соединение совершилось в лице";
+    when presented(s) and incarnation_considered(s);
+    then union_in_person(s);
+}
+
+pub relation god_is_man(s: Subject) kind institutional {
+    label la official "Deus est homo";
+    label ru unofficial "Бог есть человек";
+}
+
+@source(ST_III_Q16_A1_RESP)
+rule GodIsMan(s: Subject) strict {
+    label la official "Deus est homo";
+    label ru unofficial "Бог есть человек";
+    when presented(s) and christ_presented(s);
+    then god_is_man(s);
+}
+

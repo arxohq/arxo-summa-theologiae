@@ -1,0 +1,25 @@
+// Словарь трактата I qq. 27-43.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_trinitate version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-trinitate";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation god_considered(s: Subject) kind empirical {
+    label la unofficial "god_considered";
+    label ru unofficial "god_considered";
+}
+pub relation trinity_considered(s: Subject) kind empirical {
+    label la unofficial "trinity_considered";
+    label ru unofficial "trinity_considered";
+}

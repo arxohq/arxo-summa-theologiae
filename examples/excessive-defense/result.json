@@ -1,0 +1,436 @@
+{
+  "conflicts": [],
+  "issues": [],
+  "manifest": {
+    "artifactHash": "sha256:b3723e483fa3a3a67d758539236b2a402b8b736108246da3a0bc015a13fe4e00",
+    "calendarSnapshot": "",
+    "caseHash": "sha256:5e7f6160cda92473d8aa48e90e5fbc4bb2d84eda6e8cfec4c56bd0f8ecdadcfb",
+    "decisionTime": "1270-06-01T12:00:00Z",
+    "evidenceSnapshotHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "externalSnapshots": {},
+    "id": "urn:manifest:oracle-1",
+    "interpretations": [],
+    "knowledgeTime": "1270-06-01T12:00:00Z",
+    "legalTime": "1270-06-01",
+    "lockfileHash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "mode": "audit",
+    "policies": {},
+    "programHash": "sha256:b3622e8cde65392e0c5914b5d28ff581a8db06732a1657ad7befb2105d0f9efc",
+    "resolvedEditions": {},
+    "semanticHash": "sha256:a2f9a3d7e831c0a297266ba2cf77b89843fe0d98255c5fdc5cd5d057497769c6",
+    "semantics": "law.core/0.2.11",
+    "theoryHash": "sha256:b3622e8cde65392e0c5914b5d28ff581a8db06732a1657ad7befb2105d0f9efc",
+    "timezone": "UTC"
+  },
+  "positions": [
+    {
+      "createdBy": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita:767a1bc8993ba096f77e890a0b7ab5455d04f0561077ef4420ec6b733f4d2619",
+      "holder": "urn:example:duplex:persona:pater",
+      "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita:6b61a916b9470383a56f4a5b5f6c7cc10b930b09e721284bdcc3b0229faf64f4",
+      "manifest": "urn:manifest:oracle-1",
+      "modality": "duty",
+      "payload": {
+        "bearer": {
+          "id": "urn:example:duplex:persona:pater",
+          "kind": "entity_ref"
+        },
+        "goal": {
+          "action": {
+            "args": [
+              {
+                "id": "urn:example:duplex:persona:pater",
+                "kind": "entity_ref"
+              },
+              {
+                "id": "urn:example:duplex:actus:familia",
+                "kind": "entity_ref"
+              }
+            ],
+            "function": "urn:la:aquinas:clir:duplex-effectus#se_defendit",
+            "kind": "call"
+          },
+          "kind": "forbearance",
+          "window": {
+            "end": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "infinity"
+            },
+            "endInclusive": false,
+            "kind": "interval",
+            "start": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Date"
+              },
+              "value": "1270-01-01"
+            },
+            "startInclusive": true
+          }
+        },
+        "kind": "duty"
+      },
+      "proof": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita:767a1bc8993ba096f77e890a0b7ab5455d04f0561077ef4420ec6b733f4d2619",
+      "status": "ACTIVE",
+      "statusHistory": [],
+      "template": "urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaProhibita"
+    },
+    {
+      "createdBy": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:cdd0a161327cc8f13c1e8933ef048169e4c01c1f45a593c420d52b3c25d31a4b",
+      "holder": "urn:example:duplex:persona:pater",
+      "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:6b61a916b9470383a56f4a5b5f6c7cc10b930b09e721284bdcc3b0229faf64f4",
+      "manifest": "urn:manifest:oracle-1",
+      "modality": "duty",
+      "payload": {
+        "bearer": {
+          "id": "urn:example:duplex:persona:pater",
+          "kind": "entity_ref"
+        },
+        "goal": {
+          "action": {
+            "args": [
+              {
+                "id": "urn:example:duplex:persona:pater",
+                "kind": "entity_ref"
+              },
+              {
+                "id": "urn:example:duplex:actus:familia",
+                "kind": "entity_ref"
+              }
+            ],
+            "function": "urn:la:aquinas:clir:duplex-effectus#intendit_occisionem",
+            "kind": "call"
+          },
+          "kind": "forbearance",
+          "window": {
+            "end": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Text"
+              },
+              "value": "infinity"
+            },
+            "endInclusive": false,
+            "kind": "interval",
+            "start": {
+              "kind": "value",
+              "type": {
+                "name": "urn:law:std#Date"
+              },
+              "value": "1270-01-01"
+            },
+            "startInclusive": true
+          }
+        },
+        "kind": "duty"
+      },
+      "proof": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:cdd0a161327cc8f13c1e8933ef048169e4c01c1f45a593c420d52b3c25d31a4b",
+      "status": "ACTIVE",
+      "statusHistory": [],
+      "template": "urn:la:aquinas:clir:duplex-effectus#OccisioIntentaInDefensione"
+    }
+  ],
+  "proofGraph": {
+    "nodes": [
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#defensor"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:familia",
+              "kind": "entity_ref"
+            },
+            {
+              "id": "urn:example:duplex:persona:pater",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensor"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#defensor",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#immoderata"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:familia",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_moderata"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#immoderata",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#presented"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:familia",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_actus"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#privatus"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:persona:pater",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "negative",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#publicus_minister"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#privatus",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "assertion": "urn:law:examples:aquinas:moral-cases#vis"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:familia",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#vis_illata"
+        },
+        "evidence": [],
+        "id": "urn:proof:assert:urn:law:examples:aquinas:moral-cases#vis",
+        "kind": "assertion",
+        "premises": [],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:example:duplex:actus:familia",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita"
+        },
+        "evidence": [],
+        "id": "urn:proof:apply:ImmoderataViolentiaIllicita:34aa429f723dd16e3f633b55b2ae58e4b36637f2aee05d75bad68662181f3564",
+        "kind": "rule_application",
+        "premises": [
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#defensor",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#immoderata",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#vis"
+        ],
+        "rule": "urn:la:aquinas:clir:duplex-effectus#ImmoderataViolentiaIllicita",
+        "sourceAnchors": [],
+        "substitution": {
+          "v0": {
+            "id": "urn:example:duplex:actus:familia",
+            "kind": "entity_ref"
+          },
+          "v1": {
+            "id": "urn:example:duplex:persona:pater",
+            "kind": "entity_ref"
+          }
+        }
+      },
+      {
+        "attributes": {
+          "rule": "urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita",
+          "substitution": {
+            "v0": {
+              "id": "urn:example:duplex:actus:familia",
+              "kind": "entity_ref"
+            },
+            "v1": {
+              "id": "urn:example:duplex:persona:pater",
+              "kind": "entity_ref"
+            }
+          }
+        },
+        "conclusion": {
+          "position": "urn:position:urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita:6b61a916b9470383a56f4a5b5f6c7cc10b930b09e721284bdcc3b0229faf64f4",
+          "template": "urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaProhibita"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita:767a1bc8993ba096f77e890a0b7ab5455d04f0561077ef4420ec6b733f4d2619",
+        "kind": "norm_creation",
+        "premises": [
+          "urn:proof:apply:ImmoderataViolentiaIllicita:34aa429f723dd16e3f633b55b2ae58e4b36637f2aee05d75bad68662181f3564",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#defensor",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "owner": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita:767a1bc8993ba096f77e890a0b7ab5455d04f0561077ef4420ec6b733f4d2619",
+          "status": "ACTIVE"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita:6b61a916b9470383a56f4a5b5f6c7cc10b930b09e721284bdcc3b0229faf64f4",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:law:std#active"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm-status:c1129827ba6c54d3e57be77207302a35c5c8a89c3cce3aedaf1c2012f9ddd843",
+        "kind": "norm_status_transition",
+        "premises": [
+          "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#DefensioIllicitaVetita:767a1bc8993ba096f77e890a0b7ab5455d04f0561077ef4420ec6b733f4d2619"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "rule": "urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita",
+          "substitution": {
+            "v0": {
+              "id": "urn:example:duplex:actus:familia",
+              "kind": "entity_ref"
+            },
+            "v1": {
+              "id": "urn:example:duplex:persona:pater",
+              "kind": "entity_ref"
+            }
+          }
+        },
+        "conclusion": {
+          "position": "urn:position:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:6b61a916b9470383a56f4a5b5f6c7cc10b930b09e721284bdcc3b0229faf64f4",
+          "template": "urn:la:aquinas:clir:duplex-effectus#OccisioIntentaInDefensione"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:cdd0a161327cc8f13c1e8933ef048169e4c01c1f45a593c420d52b3c25d31a4b",
+        "kind": "norm_creation",
+        "premises": [
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#defensor",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#presented",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#privatus",
+          "urn:proof:assert:urn:law:examples:aquinas:moral-cases#vis"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {
+          "owner": "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:cdd0a161327cc8f13c1e8933ef048169e4c01c1f45a593c420d52b3c25d31a4b",
+          "status": "ACTIVE"
+        },
+        "conclusion": {
+          "args": [
+            {
+              "id": "urn:position:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:6b61a916b9470383a56f4a5b5f6c7cc10b930b09e721284bdcc3b0229faf64f4",
+              "kind": "entity_ref"
+            }
+          ],
+          "kind": "literal",
+          "polarity": "positive",
+          "predicate": "urn:law:std#active"
+        },
+        "evidence": [],
+        "id": "urn:proof:norm-status:672bf7af381def4badcfa47d0a1693bca4b6febc37a402b2cb528080bf075f02",
+        "kind": "norm_status_transition",
+        "premises": [
+          "urn:proof:norm:urn:la:aquinas:clir:duplex-effectus#OccisioInDefensioneVetita:cdd0a161327cc8f13c1e8933ef048169e4c01c1f45a593c420d52b3c25d31a4b"
+        ],
+        "sourceAnchors": []
+      },
+      {
+        "attributes": {},
+        "conclusion": {
+          "literal": {
+            "args": [
+              {
+                "id": "urn:example:duplex:actus:familia",
+                "kind": "entity_ref"
+              }
+            ],
+            "kind": "literal",
+            "polarity": "positive",
+            "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita"
+          },
+          "truthStatus": "TRUE_ONLY"
+        },
+        "evidence": [],
+        "id": "urn:proof:query:familia-defensio-illicita",
+        "kind": "query_evaluation",
+        "premises": [
+          "urn:proof:apply:ImmoderataViolentiaIllicita:34aa429f723dd16e3f633b55b2ae58e4b36637f2aee05d75bad68662181f3564"
+        ],
+        "sourceAnchors": []
+      }
+    ],
+    "proofHash": "sha256:51a5f95422b84a59cb2dd97d48c6c751ab1bc059385668ab98ba122bac627457",
+    "roots": [
+      "urn:proof:query:familia-defensio-illicita"
+    ]
+  },
+  "resultHash": "sha256:0ea3a592e2d78c868ec7cb85e37cc095e76c7184c7e11b3223b2fc29ab9d6cb6",
+  "results": [
+    {
+      "conflicts": [],
+      "evaluationStatus": "COMPUTED",
+      "evidence": [],
+      "id": "urn:result:familia-defensio-illicita",
+      "judgmentRequests": [],
+      "manifest": "urn:manifest:oracle-1",
+      "missingInputs": [],
+      "normativeStatusSupports": [],
+      "proof": "urn:proof:query:familia-defensio-illicita",
+      "query": "familia-defensio-illicita",
+      "resultKind": "PROPOSITION",
+      "sourceAnchors": [],
+      "target": "urn:la:aquinas:clir:duplex-effectus#defensio_illicita",
+      "truthStatus": "TRUE_ONLY"
+    }
+  ],
+  "schemaVersion": "law.core.evaluation/0.3"
+}

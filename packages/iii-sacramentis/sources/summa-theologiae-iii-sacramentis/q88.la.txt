@@ -1,0 +1,101 @@
+@@ III q. 88 pr.
+Deinde considerandum est de reditu peccatorum post poenitentiam dimissorum. Et circa hoc quaeruntur quatuor. Primo, utrum peccata per poenitentiam dimissa redeant simpliciter per sequens peccatum. Secundo, utrum aliquo modo per ingratitudinem redeant specialius secundum quaedam peccata. Tertio, utrum redeant in aequali reatu. Quarto, utrum illa ingratitudo per quam redeunt, sit speciale peccatum.
+
+@@ III q. 88 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod peccata dimissa redeant per sequens peccatum. Dicit enim Augustinus, in libro I de Baptismo, redire dimissa peccata ubi fraterna caritas non est, apertissime dominus in Evangelio docet in illo servo a quo dimissum debitum dominus petiit eo quod ille conservo suo debitum nollet dimittere. Sed fraterna caritas tollitur per quodlibet peccatum mortale. Ergo per quodlibet sequens mortale peccatum redeunt peccata prius per poenitentiam dimissa.
+
+@@ III q. 88 a. 1 arg. 2
+Praeterea, super illud Luc. XI, revertar in domum meam unde exivi, dicit Beda, timendus est ille versiculus, non exponendus, ne culpa quam in nobis extinctam credebamus, per incuriam nos vacantes opprimat. Hoc autem non esset nisi rediret. Ergo culpa per poenitentiam dimissa redit.
+
+@@ III q. 88 a. 1 arg. 3
+Praeterea, Ezech. XVIII dominus dicit, si averterit se iustus a iustitia sua et fecerit iniquitatem, omnes iustitiae eius quas fecerat, non recordabuntur amplius. Sed inter alias iustitias quas fecit, etiam praecedens poenitentia concurrit, cum supra dictum sit poenitentiam esse partem iustitiae. Ergo, postquam poenitens peccat, non imputatur ei praecedens poenitentia, per quam consecutus est veniam peccatorum. Redeunt ergo illa peccata.
+
+@@ III q. 88 a. 1 arg. 4
+Praeterea, peccata praeterita per gratiam teguntur, ut patet per apostolum, Rom. IV, inducentem illud Psalmi, beati quorum remissae sunt iniquitates et quorum tecta sunt peccata. Sed per peccatum mortale sequens gratia tollitur. Ergo peccata quae fuerant prius commissa, remanent detecta. Et ita videtur quod redeant.
+
+@@ III q. 88 a. 1 s. c. 1
+Sed contra est quod apostolus dicit, Rom. XI, sine poenitentia sunt dona Dei, et vocatio. Sed peccata poenitentis sunt remissa per donum Dei. Ergo per peccatum sequens non redeunt dimissa peccata, quasi Deus de dono remissionis poeniteat.
+
+@@ III q. 88 a. 1 s. c. 2
+Praeterea, Augustinus dicit, in libro responsionum prosperi, qui recedit a Christo et alienatus a gratia finit hanc vitam, quid nisi in perditionem vadit? Sed non in id quod dimissum est recidit, nec pro originali peccato damnabitur.
+
+@@ III q. 88 a. 1 co.
+Respondeo dicendum quod, sicut supra dictum est, in peccato mortali sunt duo, scilicet aversio a Deo, et conversio ad bonum creatum. Quidquid autem est aversionis in peccato mortali secundum se consideratum, est commune omnibus peccatis mortalibus, quia per quodlibet peccatum mortale homo avertitur a Deo. Unde et per consequens macula, quae est per privationem gratiae, et reatus poenae aeternae, communia sunt omnibus peccatis mortalibus. Et secundum hoc intelligitur id quod dicitur Iac. II, qui offendit in uno, factus est omnium reus. Sed ex parte conversionis, peccata mortalia sunt diversa, et interdum contraria. Unde manifestum est quod ex parte conversionis peccatum mortale sequens non facit redire peccata mortalia prius abolita. Alioquin sequeretur quod homo per peccatum prodigalitatis reduceretur in habitum vel dispositionem avaritiae prius abolitae et sic contrarium esset causa sui contrarii, quod est impossibile. Sed considerando in peccatis mortalibus id quod est ex parte aversionis absolute, per peccatum mortale sequens homo privatur gratia et fit reus poenae aeternae, sicut et prius erat. Verum, quia aversio in peccato mortali ex conversione quodammodo diversitatem induit per comparationem ad diversas conversiones sicut ad diversas causas, ita quod sit alia aversio et alia macula et alius reatus prout consurgit ex alio actu peccati mortalis, hoc ergo in quaestionem vertitur, utrum macula et reatus poenae aeternae, secundum quod causabantur ex actibus peccatorum prius dimissorum, redeant per peccatum mortale sequens. Quibusdam igitur visum est quod simpliciter hoc modo redeant. Sed hoc non potest esse. Quia opus Dei per opus hominis irritari non potest. Remissio autem priorum peccatorum est opus divinae misericordiae. Unde non potest irritari per sequens peccatum hominis, secundum illud Rom. III, nunquid incredulitas illorum fidem Dei evacuavit? Et ideo alii, ponentes peccata redire, dixerunt quod Deus non remittit peccata poenitenti postmodum peccaturo secundum praescientiam, sed solum secundum praesentem iustitiam. Praescit enim eum pro his peccatis aeternaliter puniendum, et tamen per gratiam facit eum praesentialiter iustum. Sed nec hoc stare potest. Quia, si causa absolute ponatur, et effectus ponitur absolute. Si ergo absolute non fieret peccatorum remissio, sed cum quadam conditione in futurum dependente, per gratiam et gratiae sacramenta, sequeretur quod gratia et gratiae sacramenta non essent sufficiens causa remissionis peccatorum. Quod est erroneum, utpote derogans gratiae Dei. Et ideo nullo modo potest esse quod macula et reatus praecedentium peccatorum redeant secundum quod ex talibus actibus causabantur. Contingit autem quod sequens actus peccati virtualiter continet reatum prioris peccati, inquantum scilicet aliquis secundo peccans ex hoc ipso videtur gravius peccare quam prius peccaverat; secundum illud Rom. II, secundum duritiam tuam et cor impoenitens thesaurizas tibi iram in die irae, ex hoc solo scilicet quod contemnitur Dei bonitas, quae ad poenitentiam expectat; multo autem magis contemnitur Dei bonitas si, post remissionem prioris peccati, secundo peccatum iteretur; quanto maius est beneficium peccatum remittere quam sustinere peccatorem. Sic igitur per peccatum sequens poenitentiam redit quodammodo reatus peccatorum prius dimissorum, non inquantum causabatur ex illis peccatis prius dimissis, sed inquantum causatur ex peccato ultimo perpetrato, quod aggravatur ex peccatis prioribus. Et hoc non est peccata dimissa redire simpliciter, sed secundum quid, inquantum scilicet virtualiter in peccato sequenti continentur.
+
+@@ III q. 88 a. 1 ad 1
+Ad primum ergo dicendum quod illud verbum Augustini videtur esse intelligendum de reditu peccatorum quantum ad reatum poenae aeternae in se consideratum, quia scilicet post poenitentiam peccans incurrit reatum poenae aeternae sicut et prius; non tamen omnino propter eandem rationem. Unde Augustinus, in libro de responsionibus prosperi, cum dixisset quod non in id quod remissum est recidit, nec pro originali peccato damnabitur, subdit, qui tamen ea morte afficitur quae ei propter peccata dimissa debebatur, quia scilicet incurrit mortem aeternam, quam meruerat per peccata praeterita.
+
+@@ III q. 88 a. 1 ad 2
+Ad secundum dicendum quod in illis verbis non intendit Beda dicere quod culpa prius dimissa hominem opprimat per reditum praeteriti reatus, sed per iterationem actus.
+
+@@ III q. 88 a. 1 ad 3
+Ad tertium dicendum quod per sequens peccatum iustitiae priores oblivioni traduntur inquantum erant meritoriae vitae aeternae, non tamen inquantum erant impeditivae peccati. Unde, si aliquis peccet mortaliter postquam restituit debitum, non efficitur reus quasi debitum non reddidisset. Et multo minus traditur oblivioni poenitentia prius acta quantum ad remissionem culpae, cum remissio culpae magis sit opus Dei quam hominis.
+
+@@ III q. 88 a. 1 ad 4
+Ad quartum dicendum quod gratia simpliciter tollit maculam et reatum poenae aeternae, tegit autem actus peccati praeteritos, ne scilicet propter eos Deus hominem gratia privet et reum habeat poenae aeternae. Et quod gratia semel facit, perpetuo manet.
+
+@@ III q. 88 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod peccata dimissa non redeant per ingratitudinem quae specialiter est secundum quatuor genera peccatorum, scilicet secundum odium fraternum, apostasiam a fide, contemptum confessionis, et dolorem de poenitentia habita, secundum quod quidam metrice dixerunt, fratres odit, apostata fit, spernitque fateri, poenituisse piget, pristina culpa redit. Tanto enim est maior ingratitudo quanto gravius est peccatum quod quis contra Deum committit post beneficium remissionis peccatorum. Sed quaedam alia peccata sunt his graviora, sicut blasphemia contra Deum, et peccatum in spiritum sanctum. Ergo videtur quod peccata dimissa non redeant magis secundum ingratitudinem commissam secundum haec peccata, quam secundum alia.
+
+@@ III q. 88 a. 2 arg. 2
+Praeterea, Rabanus dicit, nequam servum tradidit Deus tortoribus quoadusque redderet universum debitum, quia non solum peccata quae post Baptismum homo egit reputabuntur ei ad poenam, sed originalia, quae ei sunt dimissa in Baptismo. Sed etiam inter debita peccata venialia computantur, pro quibus dicimus, dimitte nobis debita nostra. Ergo ipsa etiam redeunt per ingratitudinem. Et pari ratione videtur quod per peccata venialia redeant peccata prius dimissa, et non solum per praedicta peccata.
+
+@@ III q. 88 a. 2 arg. 3
+Praeterea, tanto est maior ingratitudo quanto post maius beneficium acceptum aliquis peccat. Sed beneficium Dei est etiam ipsa innocentia, qua peccatum vitamus, dicit enim Augustinus, in II Confess., gratiae tuae deputo quaecumque peccata non feci. Maius autem donum est innocentia quam etiam remissio omnium peccatorum. Ergo non minus est ingratus Deo qui primo peccat post innocentiam, quam qui peccat post poenitentiam. Et ita videtur quod per ingratitudinem quae fit secundum peccata praedicta, non maxime redeant peccata dimissa.
+
+@@ III q. 88 a. 2 s. c.
+Sed contra est quod Gregorius dicit, XVIII Moral., ex dictis evangelicis constat quia, si quod in nos delinquitur ex corde non dimittimus, et illud rursus exigetur quod nobis iam per poenitentiam dimissum fuisse gaudebamus. Et ita propter odium fraternum specialiter peccata dimissa redeunt per ingratitudinem. Et eadem ratio videtur de aliis.
+
+@@ III q. 88 a. 2 co.
+Respondeo dicendum quod, sicut supra dictum est, peccata dimissa per poenitentiam redire dicuntur inquantum reatus eorum, ratione ingratitudinis, virtualiter continetur in peccato sequenti. Ingratitudo autem potest committi dupliciter. Uno modo, ex eo quod aliquid fit contra beneficium. Et hoc modo per omne peccatum mortale quo Deum offendit, redditur homo ingratus Deo, qui peccata remisit. Et sic per quodlibet peccatum mortale sequens redeunt peccata prius dimissa, ratione ingratitudinis. Alio modo committitur ingratitudo non solum faciendo contra ipsum beneficium, sed etiam faciendo contra formam beneficii praestiti. Quae quidem forma, si attendatur ex parte benefactoris, est remissio debitorum. Unde contra hanc formam facit qui fratri petenti veniam non remittit, sed odium tenet. Si autem attendatur ex parte poenitentis, qui recipit hoc beneficium, invenitur duplex motus liberi arbitrii. Quorum primus est motus liberi arbitrii in Deum, qui est actus fidei formatae, et contra hoc facit homo apostatando a fide, secundus autem, motus liberi arbitrii in peccatum, qui est actus poenitentiae. Ad quam primo pertinet, ut supra dictum est, quod homo detestetur peccata praeterita, et contra hoc facit ille qui dolet se poenituisse. Secundo pertinet ad actum poenitentiae ut poenitens proponat se subiicere clavibus Ecclesiae per confessionem, secundum illud Psalmi, dixi, confitebor adversum me iniustitiam meam domino, et ut remisisti impietatem peccati mei. Et contra hoc facit ille qui contemnit confiteri, secundum quod proposuerat. Et ideo dicitur quod specialiter ingratitudo horum peccatorum facit redire peccata prius dimissa.
+
+@@ III q. 88 a. 2 ad 1
+Ad primum ergo dicendum quod hoc non dicitur specialiter de istis peccatis quia sint ceteris graviora, sed quia directius opponuntur beneficio remissionis peccatorum.
+
+@@ III q. 88 a. 2 ad 2
+Ad secundum dicendum quod etiam peccata venialia et peccatum originale redeunt modo praedicto, sicut et peccata mortalia, inquantum contemnitur Dei beneficium quo haec peccata sunt remissa. Non tamen per peccatum veniale aliquis incurrit ingratitudinem, quia homo, peccando venialiter, non facit contra Deum, sed praeter ipsum. Et ideo per peccata venialia nullo modo peccata dimissa redeunt.
+
+@@ III q. 88 a. 2 ad 3
+Ad tertium dicendum quod beneficium aliquod habet pensari dupliciter. Uno modo, ex quantitate ipsius beneficii. Et secundum hoc, innocentia est maius Dei beneficium quam poenitentia, quae dicitur secunda tabula post naufragium. Alio modo potest pensari beneficium ex parte recipientis, qui minus est dignus, et sic magis sibi fit gratia. Unde et ipse magis est ingratus si contemnat. Et hoc modo beneficium remissionis culpae est maius, inquantum praestatur totaliter indigno. Et ideo ex hoc sequitur maior ingratitudo.
+
+@@ III q. 88 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod per ingratitudinem peccati sequentis consurgat tantus reatus quantus fuerat peccatorum prius dimissorum. Quia secundum magnitudinem peccati est magnitudo beneficii quo peccatum remittitur; et per consequens magnitudo ingratitudinis qua hoc beneficium contemnitur. Sed secundum quantitatem ingratitudinis est quantitas reatus consequentis. Ergo tantus reatus surgit ex ingratitudine sequentis peccati quantus fuit reatus omnium praecedentium peccatorum.
+
+@@ III q. 88 a. 3 arg. 2
+Praeterea, magis peccat qui offendit Deum quam qui offendit hominem. Sed servus manumissus ab aliquo domino reducitur in eandem servitutem a qua prius fuerat liberatus, vel etiam in graviorem. Ergo multo magis ille qui contra Deum peccat post liberationem a peccato, reducitur in tantum reatum poenae quantum primo habuerat.
+
+@@ III q. 88 a. 3 arg. 3
+Praeterea, Matth. XVIII dicitur quod iratus dominus tradidit eum, cui replicantur peccata dimissa propter ingratitudinem, tortoribus, quoadusque redderet universum debitum. Sed hoc non esset nisi consurgeret ex ingratitudine tantus reatus quantus fuit omnium praeteritorum peccatorum. Ergo aequalis reatus per ingratitudinem redit.
+
+@@ III q. 88 a. 3 s. c.
+Sed contra est quod dicitur Deuteron. XXV, pro mensura peccati erit et plagarum modus. Ex quo patet quod ex parvo peccato non consurgit magnus reatus. Sed quandoque mortale peccatum sequens est multo minus quolibet peccatorum prius dimissorum. Non ergo ex peccato sequenti redit tantus reatus quantus fuit peccatorum prius dimissorum.
+
+@@ III q. 88 a. 3 co.
+Respondeo dicendum quod quidam dixerunt quod ex peccato sequenti, propter ingratitudinem, consurgit tantus reatus quantus fuit reatus omnium peccatorum prius dimissorum, supra reatum proprium huius peccati. Sed hoc non est necesse. Quia supra dictum est quod reatus praecedentium peccatorum non redit per peccatum sequens inquantum sequebatur ex actibus praecedentium peccatorum, sed inquantum consequitur actum sequentis peccati. Et ita oportet quod quantitas reatus redeuntis sit secundum gravitatem peccati subsequentis. Potest autem contingere quod gravitas peccati subsequentis adaequat gravitatem omnium praecedentium peccatorum, sed hoc non semper est necesse, sive loquamur de gravitate eius quam habet ex sua specie, cum quandoque peccatum sequens sit simplex fornicatio, peccata vero praeterita fuerunt homicidia vel adulteria seu sacrilegia; sive etiam loquamur de gravitate quam habet ex ingratitudine annexa. Non enim oportet quod quantitas ingratitudinis sit absolute aequalis quantitati beneficii suscepti, cuius quantitas attenditur secundum quantitatem peccatorum prius dimissorum. Contingit enim quod contra idem beneficium unus est multum ingratus, vel secundum intensionem contemptus beneficii, vel secundum gravitatem culpae contra benefactorem commissae; alius autem parum, vel quia minus contemnit, vel quia minus contra benefactorem agit. Sed proportionaliter quantitas ingratitudinis adaequatur quantitati beneficii, supposito enim aequali contemptu beneficii, vel offensa benefactoris, tanto erit gravior ingratitudo quanto beneficium fuit maius. Unde manifestum est quod non est necesse quod propter ingratitudinem semper per peccatum sequens redeat tantus reatus quantus fuit praecedentium peccatorum, sed necesse est quod proportionaliter, quanto peccata prius dimissa fuerunt plura et maiora, tanto redeat maior reatus per qualecumque sequens peccatum mortale.
+
+@@ III q. 88 a. 3 ad 1
+Ad primum ergo dicendum quod beneficium remissionis culpae recipit quantitatem absolutam secundum quantitatem peccatorum dimissorum. Sed peccatum ingratitudinis non recipit quantitatem absolutam secundum quantitatem beneficii, sed secundum quantitatem contemptus vel offensae, ut dictum est. Et ideo ratio non sequitur.
+
+@@ III q. 88 a. 3 ad 2
+Ad secundum dicendum quod servus manumissus non reducitur in pristinam servitutem pro qualicumque ingratitudine, sed pro aliqua gravi.
+
+@@ III q. 88 a. 3 ad 3
+Ad tertium dicendum quod illi cui peccata dimissa replicantur propter subsequentem ingratitudinem, redit universum debitum, inquantum quantitas peccatorum praecedentium proportionaliter invenitur in ingratitudine subsequenti, non autem absolute, ut dictum est.
+
+@@ III q. 88 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod ingratitudo ratione cuius sequens peccatum facit redire peccata prius dimissa, sit speciale peccatum. Retributio enim gratiarum pertinet ad contrapassum, quod requiritur in iustitia, ut patet per philosophum, in V Ethic. Sed iustitia est specialis virtus. Ergo ingratitudo est speciale peccatum.
+
+@@ III q. 88 a. 4 arg. 2
+Praeterea, Tullius, in II Rhetoric., ponit quod gratia est specialis virtus. Sed ingratitudo opponitur gratiae. Ergo ingratitudo est speciale peccatum.
+
+@@ III q. 88 a. 4 arg. 3
+Praeterea, specialis effectus a speciali causa procedit. Sed ingratitudo habet specialem effectum, scilicet quod facit aliqualiter redire peccata prius dimissa. Ergo ingratitudo est speciale peccatum.
+
+@@ III q. 88 a. 4 s. c.
+Sed contra est. Id quod sequitur omnia peccata, non est speciale peccatum. Sed per quodcumque peccatum mortale aliquis efficitur Deo ingratus, ut ex praemissis patet. Ergo ingratitudo non est speciale peccatum.
+
+@@ III q. 88 a. 4 co.
+Respondeo dicendum quod ingratitudo peccantis quandoque est speciale peccatum; quandoque non, sed est circumstantia generaliter consequens omne peccatum mortale quod contra Deum committitur. Peccatum enim speciem recipit ex intentione peccantis, unde, ut philosophus dicit, in V Ethic., ille qui moechatur ut furetur, magis est fur quam moechus. Si igitur aliquis peccator in contemptum Dei et suscepti beneficii aliquod peccatum committit, illud peccatum trahitur ad speciem ingratitudinis, et haec ingratitudo peccantis est speciale peccatum. Si vero aliquis intendens aliquod peccatum committere, puta homicidium aut adulterium, non retrahatur ab hoc propter hoc quod pertinet ad Dei contemptum, ingratitudo non erit speciale peccatum, sed traheretur ad speciem alterius peccati sicut circumstantia quaedam. Ut autem Augustinus dicit, in libro de natura et gratia, non omne peccatum est ex contemptu, et tamen in omni peccato Deus contemnitur in suis praeceptis. Unde manifestum est quod ingratitudo peccantis quandoque est speciale peccatum, sed non semper.
+
+@@ III q. 88 a. 4 ad 1
+Et per hoc patet responsio ad obiecta. Nam primae rationes concludunt quod ingratitudo secundum se sit quaedam species peccati. Ultima autem ratio concludit quod ingratitudo secundum quod invenitur in omni peccato, non sit speciale peccatum.

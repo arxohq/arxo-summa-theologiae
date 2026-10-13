@@ -1,0 +1,83 @@
+// Прикладной канон respondeo I-II qq. 22-48.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_passionibus version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-passionibus";
+
+use self::{
+    ST_I_II_Q22_A1_RESP,
+    ST_I_II_Q23_A1_RESP,
+    ST_I_II_Q24_A1_RESP,
+    ST_I_II_Q26_A1_RESP,
+    ST_I_II_Q28_A1_RESP,
+    Subject,
+    appetite_presented,
+    passion_presented,
+    presented,
+};
+
+pub relation passion_in_sensitive(s: Subject) kind institutional {
+    label la official "passio est in appetitu sensitivo";
+    label ru unofficial "страсть — в чувственном стремлении";
+}
+
+@source(ST_I_II_Q22_A1_RESP)
+rule PassionInSensitive(s: Subject) strict {
+    label la official "passio est in appetitu sensitivo";
+    label ru unofficial "страсть — в чувственном стремлении";
+    when presented(s) and appetite_presented(s);
+    then passion_in_sensitive(s);
+}
+
+pub relation passions_contraries(s: Subject) kind institutional {
+    label la official "passiones contrariae distinguuntur";
+    label ru unofficial "страсти различаются как противоположные";
+}
+
+@source(ST_I_II_Q23_A1_RESP)
+rule PassionsContraries(s: Subject) strict {
+    label la official "passiones contrariae distinguuntur";
+    label ru unofficial "страсти различаются как противоположные";
+    when presented(s) and passion_presented(s);
+    then passions_contraries(s);
+}
+
+pub relation passions_moral(s: Subject) kind institutional {
+    label la official "in passionibus est bonum et malum morale";
+    label ru unofficial "в страстях есть нравственное добро и зло";
+}
+
+@source(ST_I_II_Q24_A1_RESP)
+rule MoralGoodOrEvilInPassions(s: Subject) strict {
+    label la official "in passionibus est bonum et malum morale";
+    label ru unofficial "в страстях есть нравственное добро и зло";
+    when presented(s) and passion_presented(s);
+    then passions_moral(s);
+}
+
+pub relation love_is_passion(s: Subject) kind institutional {
+    label la official "amor est passio";
+    label ru unofficial "любовь есть страсть";
+}
+
+@source(ST_I_II_Q26_A1_RESP)
+rule LoveInConcupiscible(s: Subject) strict {
+    label la official "amor est passio";
+    label ru unofficial "любовь есть страсть";
+    when presented(s) and appetite_presented(s);
+    then love_is_passion(s);
+}
+
+pub relation delight_is_passion(s: Subject) kind institutional {
+    label la official "delectatio est passio";
+    label ru unofficial "наслаждение есть страсть";
+}
+
+@source(ST_I_II_Q28_A1_RESP)
+rule DelightIsPassion(s: Subject) strict {
+    label la official "delectatio est passio";
+    label ru unofficial "наслаждение есть страсть";
+    when presented(s) and appetite_presented(s);
+    then delight_is_passion(s);
+}
+

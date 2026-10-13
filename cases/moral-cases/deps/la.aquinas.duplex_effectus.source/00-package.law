@@ -1,0 +1,146 @@
+// Общий словарь среза II-II q. 64 a. 7 и q. 40 a. 1.
+//
+// КАРТА МОДУЛЕЙ:
+//   00-package.law           — типы, суждение §47.3, эмпирические посылки
+//   sources.law              — порождается sync_aquinas_duplex_effectus.py
+//   02-duplex-effectus.law   — четыре условия допустимой обороны
+//   03-bellum-iustum.law     — три условия справедливой войны
+//
+// МОДЕЛЬ (фаза 1):
+//   1. Природа действия: отражение насилия само по себе дозволено (liberty).
+//   2. Намерение: conservatio vitae, а не occisio — факт дела (канал
+//      установленного намерения, DECISION-0194).
+//   3. Причинность: дурной эффект praeter intentionem, не средство.
+//   4. Соразмерность (moderamen inculpatae tutelae) — внешнее практическое
+//      суждение §47.3, не константа дела.
+//   Публичная власть (miles, minister iudicis) — исключение для намеренного
+//   поражения, отнесённого к общему благу.
+//   Деонтика языка — только там, где respondeo говорит о действии названного
+//   лица: свобода защищаться / вести справедливую войну; запрет частному лицу
+//   иметь целью убийство; запрет недозволенной обороны; запрет войны из
+//   порочного намерения. Квалификация акта (licita / illicita) остаётся
+//   предикатом и посылкой; позиция открывается после неё либо в ситуации
+//   обороны частного лица. Окно [@1270-01-01, infinity) — та же условная
+//   дата, что у свобод пакета: у трактата нет срока вступления.
+//
+// ГРАНИЦЫ: граф возражений §274 не строится (он у la.aquinas.summa_theologiae_law);
+// irregularitas клирика; оценка «частной страсти» воина как отдельный порок.
+
+language "law.core" version "0.2";
+package la.aquinas.duplex_effectus version "0.1.0";
+namespace "urn:la:aquinas:clir:duplex-effectus";
+
+entity Persona {
+    label la official "persona agens vel patiens";
+    label ru unofficial "лицо, действующее или претерпевающее";
+    label en unofficial "person who acts or undergoes";
+}
+entity Actus {
+    label la official "actus seipsum defendentis";
+    label ru unofficial "предъявленное действие обороны";
+    label en unofficial "the act of defence under examination";
+}
+entity Bellum {
+    label la official "bellum examinandum";
+    label ru unofficial "предъявленная война как предмет оценки";
+    label en unofficial "the war under examination";
+}
+entity Prudens {
+    label la official "prudens de moderamine tutelae";
+    label ru unofficial "практический разум, судящий о мере защиты";
+    label en unofficial "practical reason judging the measure of defence";
+}
+
+pub external judgment relation vis_moderata(a: Actus) {
+    authority Prudens;
+    label la official "moderate violentiam repellit; vim vi cum moderamine inculpatae tutelae";
+    label ru unofficial "сила соразмерна безупречной защите; требуется практическое суждение";
+    label en unofficial "the force is proportionate to blameless defence; practical judgment is required";
+}
+pub relation se_defendit(p: Persona, a: Actus) kind empirical {
+    label la official "seipsum defendit";
+    label ru unofficial "защищает себя данным действием";
+    label en unofficial "defends himself by this act";
+}
+pub relation intendit_occisionem(p: Persona, a: Actus) kind empirical {
+    label la official "intendit occidere hominem ut seipsum defendat";
+    label ru unofficial "имеет целью убийство человека в этой обороне";
+    label en unofficial "intends the killing of a man in this defence";
+}
+pub relation gerit_bellum(p: Persona, b: Bellum) kind empirical {
+    label la official "bellum gerit";
+    label ru unofficial "ведёт эту войну";
+    label en unofficial "wages this war";
+}
+
+pub relation presented_actus(a: Actus) kind empirical {
+    label la official "actus defensionis in causa exhibitus est";
+    label ru unofficial "действие обороны предъявлено делом";
+    label en unofficial "an act of defence is presented on the file";
+}
+pub relation defensor(a: Actus, p: Persona) kind empirical {
+    label la official "hic seipsum defendit";
+    label ru unofficial "это лицо является обороняющимся в данном действии";
+    label en unofficial "this person is the defender in the act";
+}
+pub relation vis_illata(a: Actus) kind empirical {
+    label la official "vis illata est";
+    label ru unofficial "на обороняющегося уже наложено насилие";
+    label en unofficial "violence has already been inflicted on the defender";
+}
+pub relation intentio_conservationis_vitae(a: Actus) kind empirical {
+    label la official "intenditur conservatio propriae vitae";
+    label ru unofficial "намерение направлено на сохранение собственной жизни";
+    label en unofficial "the intention is the preservation of one's own life";
+}
+pub relation intentio_occisionis(a: Actus) kind empirical {
+    label la official "intenditur occisio hominis";
+    label ru unofficial "намерение направлено на убийство человека";
+    label en unofficial "the intention is the killing of a man";
+}
+pub relation mors_est_medium(a: Actus) kind empirical {
+    label la official "occisio invadentis assumitur ut medium conservationis";
+    label ru unofficial "смерть нападающего взята как средство сохранения жизни";
+    label en unofficial "the death of the attacker is taken as a means of preserving life";
+}
+pub relation publicus_minister(p: Persona) kind empirical {
+    label la official "publicam auctoritatem habet";
+    label ru unofficial "лицо несёт публичную власть";
+    label en unofficial "the person holds public authority";
+}
+pub relation refert_ad_bonum_commune(a: Actus) kind empirical {
+    label la official "occisionem ad publicum bonum refert";
+    label ru unofficial "поражение отнесено к общему благу";
+    label en unofficial "the striking is referred to the common good";
+}
+pub relation privata_libido(a: Actus) kind empirical {
+    label la official "privata libidine movetur";
+    label ru unofficial "действие движимо частной страстью";
+    label en unofficial "the act is moved by private passion";
+}
+
+pub relation presented_bellum(b: Bellum) kind empirical {
+    label la official "bellum in causa exhibitum est";
+    label ru unofficial "война предъявлена делом";
+    label en unofficial "a war is presented on the file";
+}
+pub relation bellum_a_principe(b: Bellum, p: Persona) kind empirical {
+    label la official "bellum mandato huius principis geritur";
+    label ru unofficial "война ведётся по повелению этого государя";
+    label en unofficial "the war is waged by command of this prince";
+}
+pub relation auctoritas_principis(b: Bellum) kind empirical {
+    label la official "auctoritas principis adest";
+    label ru unofficial "налицо власть государя, которому поручена забота о республике";
+    label en unofficial "the authority of the prince charged with the care of the republic is present";
+}
+pub relation causa_iusta(b: Bellum) kind empirical {
+    label la official "causa iusta adest";
+    label ru unofficial "налицо справедливая причина: противник заслужил нападение виной";
+    label en unofficial "a just cause is present: the adversary deserves the attack by his fault";
+}
+pub relation intentio_recta(b: Bellum) kind empirical {
+    label la official "intentio bellantium recta est";
+    label ru unofficial "намерение воюющих правое: продвинуть благо или избежать зла";
+    label en unofficial "the intention of those who wage war is right: to advance the good or to avoid evil";
+}

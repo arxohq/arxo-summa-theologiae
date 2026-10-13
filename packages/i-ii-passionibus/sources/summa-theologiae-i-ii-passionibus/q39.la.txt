@@ -1,0 +1,95 @@
+@@ I-II q. 39 pr.
+Deinde considerandum est de bonitate et malitia doloris vel tristitiae. Et circa hoc quaeruntur quatuor. Primo, utrum omnis tristitia sit malum. Secundo, utrum possit esse bonum honestum. Tertio, utrum possit esse bonum utile. Quarto, utrum dolor corporis sit summum malum.
+
+@@ I-II q. 39 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod omnis tristitia sit mala. Dicit enim Gregorius Nyssenus, omnis tristitia malum est, sui ipsius natura. Sed quod naturaliter est malum, semper et ubique est malum. Ergo omnis tristitia est mala.
+
+@@ I-II q. 39 a. 1 arg. 2
+Praeterea, illud quod omnes fugiunt, etiam virtuosi, est malum. Sed tristitiam omnes fugiunt, etiam virtuosi, quia, ut dicitur in VII Ethic., etsi prudens non intendat delectari, tamen intendit non tristari. Ergo tristitia est malum.
+
+@@ I-II q. 39 a. 1 arg. 3
+Praeterea, sicut malum corporale est obiectum et causa doloris corporalis, ita malum spirituale est obiectum et causa tristitiae spiritualis. Sed omnis dolor corporalis est malum corporis. Ergo omnis tristitia spiritualis est malum animae.
+
+@@ I-II q. 39 a. 1 s. c.
+Sed contra, tristitia de malo contrariatur delectationi de malo. Sed delectatio de malo est mala, unde in detestationem quorundam dicitur Prov. II, quod laetantur cum malefecerint. Ergo tristitia de malo est bona.
+
+@@ I-II q. 39 a. 1 co.
+Respondeo dicendum quod aliquid esse bonum vel malum, potest dici dupliciter. Uno modo, simpliciter et secundum se. Et sic omnis tristitia est quoddam malum, hoc enim ipsum quod est appetitum hominis anxiari de malo praesenti, rationem mali habet; impeditur enim per hoc quies appetitus in bono. Alio modo dicitur aliquid bonum vel malum, ex suppositione alterius, sicut verecundia dicitur esse bonum, ex suppositione alicuius turpis commissi, ut dicitur in IV Ethic. Sic igitur, supposito aliquo contristabili vel doloroso, ad bonitatem pertinet quod aliquis de malo praesenti tristetur vel doleat. Quod enim non tristaretur vel non doleret, non posset esse nisi quia vel non sentiret, vel quia non reputaret sibi repugnans, et utrumque istorum est malum manifeste. Et ideo ad bonitatem pertinet ut, supposita praesentia mali, sequatur tristitia vel dolor. Et hoc est quod Augustinus dicit, VIII super Gen. ad Litt., adhuc est bonum quod dolet amissum bonum, nam nisi aliquod bonum remansisset in natura, nullius boni amissi dolor esset in poena. Sed quia sermones morales sunt in singularibus, quorum sunt operationes, illud quod est ex suppositione bonum, debet bonum iudicari, sicut quod est ex suppositione voluntarium, iudicatur voluntarium, ut dicitur in III Ethic., et supra habitum est.
+
+@@ I-II q. 39 a. 1 ad 1
+Ad primum ergo dicendum quod Gregorius Nyssenus loquitur de tristitia ex parte mali tristantis, non autem ex parte sentientis et repudiantis malum. Et ex hac etiam parte omnes fugiunt tristitiam, inquantum fugiunt malum, sed sensum et refutationem mali non fugiunt. Et sic etiam dicendum est de dolore corporali, nam sensus et recusatio mali corporalis attestatur naturae bonae.
+
+@@ I-II q. 39 a. 1 ad 2
+Unde patet responsio ad secundum et tertium.
+
+@@ I-II q. 39 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod tristitia non habeat rationem boni honesti. Quod enim ad Inferos deducit, contrariatur honesto. Sed sicut dicit Augustinus, XII super Gen. ad Litt., Iacob hoc timuisse videtur, ne nimia tristitia sic perturbaretur, ut non ad requiem beatorum iret, sed ad Inferos peccatorum. Ergo tristitia non habet rationem boni honesti.
+
+@@ I-II q. 39 a. 2 arg. 2
+Praeterea, bonum honestum habet rationem laudabilis et meritorii. Sed tristitia diminuit rationem laudis et meriti, dicit enim apostolus, II ad Cor. IX, unusquisque prout destinavit in corde suo, non ex tristitia aut ex necessitate. Ergo tristitia non est bonum honestum.
+
+@@ I-II q. 39 a. 2 arg. 3
+Praeterea, sicut Augustinus dicit, XIV de Civ. Dei, tristitia est de his quae, nobis nolentibus, accidunt. Sed non velle ea quae praesentialiter fiunt, est habere voluntatem repugnantem ordinationi divinae, cuius providentiae subiacent omnia quae aguntur. Ergo, cum conformitas humanae voluntatis ad divinam pertineat ad rectitudinem voluntatis, ut supra dictum est; videtur quod tristitia contrarietur rectitudini voluntatis. Et sic non habet rationem honesti.
+
+@@ I-II q. 39 a. 2 s. c.
+Sed contra, omne quod meretur praemium vitae aeternae, habet rationem honesti. Sed tristitia est huiusmodi, ut patet per id quod dicitur Matth. V, beati qui lugent, quoniam ipsi consolabuntur. Ergo tristitia est bonum honestum.
+
+@@ I-II q. 39 a. 2 co.
+Respondeo dicendum quod, secundum illam rationem qua tristitia est bonum, potest esse bonum honestum. Dictum est enim quod tristitia est bonum secundum cognitionem et recusationem mali. Quae quidem duo in dolore corporali, attestantur bonitati naturae, ex qua provenit quod sensus sentit, et natura refugit laesivum, quod causat dolorem. In interiori vero tristitia, cognitio mali quandoque quidem est per rectum iudicium rationis; et recusatio mali est per voluntatem bene dispositam detestantem malum. Omne autem bonum honestum ex his duobus procedit, scilicet ex rectitudine rationis et voluntatis. Unde manifestum est quod tristitia potest habere rationem boni honesti.
+
+@@ I-II q. 39 a. 2 ad 1
+Ad primum ergo dicendum quod omnes passiones animae regulari debent secundum regulam rationis, quae est radix boni honesti. Quam transcendit immoderata tristitia, de qua loquitur Augustinus. Et ideo recedit a ratione boni honesti.
+
+@@ I-II q. 39 a. 2 ad 2
+Ad secundum dicendum quod, sicut tristitia de malo procedit ex voluntate et ratione recta, quae detestatur malum; ita tristitia de bono procedit ex ratione et voluntate perversa, quae detestatur bonum. Et ideo talis tristitia impedit laudem vel meritum boni honesti, sicut cum quis facit cum tristitia eleemosynam.
+
+@@ I-II q. 39 a. 2 ad 3
+Ad tertium dicendum quod aliqua praesentialiter eveniunt, quae non fiunt Deo volente, sed Deo permittente, sicut peccata. Unde voluntas repugnans peccato existenti vel in se vel in alio, non discordat a voluntate Dei. Mala vero poenalia praesentialiter contingunt, etiam Deo volente. Non tamen exigitur ad rectitudinem voluntatis, quod ea secundum se homo velit, sed solum quod non contranitatur ordini divinae iustitiae, ut supra dictum est.
+
+@@ I-II q. 39 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod tristitia non possit esse bonum utile. Dicitur enim Eccli. XXX, multos occidit tristitia, et non est utilitas in illa.
+
+@@ I-II q. 39 a. 3 arg. 2
+Praeterea, electio est de eo quod est utile ad finem aliquem. Sed tristitia non est eligibilis, quinimmo idem sine tristitia, quam cum tristitia, est magis eligendum, ut dicitur in III Topic. Ergo tristitia non est bonum utile.
+
+@@ I-II q. 39 a. 3 arg. 3
+Praeterea, omnis res est propter suam operationem, ut dicitur in II de coelo. Sed tristitia impedit operationem, ut dicitur in X Ethic. Ergo tristitia non habet rationem boni utilis.
+
+@@ I-II q. 39 a. 3 s. c.
+Sed contra, sapiens non quaerit nisi utilia. Sed sicut dicitur Eccle. VII, cor sapientum ubi tristitia, et cor stultorum ubi laetitia. Ergo tristitia est utilis.
+
+@@ I-II q. 39 a. 3 co.
+Respondeo dicendum quod ex malo praesenti insurgit duplex appetitivus motus. Unus quidem est quo appetitus contrariatur malo praesenti. Et ex ista parte tristitia non habet utilitatem, quia id quod est praesens, non potest non esse praesens. Secundus motus consurgit in appetitu ad fugiendum vel repellendum malum contristans. Et quantum ad hoc, tristitia habet utilitatem, si sit de aliquo quod est fugiendum. Est enim aliquid fugiendum dupliciter. Uno modo, propter seipsum, ex contrarietate quam habet ad bonum; sicut peccatum. Et ideo tristitia de peccato utilis est ad hoc quod homo fugiat peccatum, sicut apostolus dicit, II ad Cor. VII, gaudeo, non quia contristati estis, sed quia contristati estis ad poenitentiam. Alio modo est aliquid fugiendum, non quia sit secundum se malum, sed quia est occasio mali; dum vel homo nimis inhaeret ei per amorem, vel etiam ex hoc praecipitatur in aliquod malum, sicut patet in bonis temporalibus. Et secundum hoc, tristitia de bonis temporalibus potest esse utilis, sicut dicitur Eccle. VII, melius est ire ad domum luctus quam ad domum convivii, in illa enim finis cunctorum admonetur hominum. Ideo autem tristitia in omni fugiendo est utilis, quia geminatur fugiendi causa. Nam ipsum malum secundum se fugiendum est, ipsam autem tristitiam secundum se omnes fugiunt, sicut etiam bonum omnes appetunt, et delectationem de bono. Sicut ergo delectatio de bono facit ut bonum avidius quaeratur, ita tristitia de malo facit ut malum vehementius fugiatur.
+
+@@ I-II q. 39 a. 3 ad 1
+Ad primum ergo dicendum quod auctoritas illa intelligitur de immoderata tristitia, quae animum absorbet. Huiusmodi enim tristitia immobilitat animum, et impedit fugam mali, ut supra dictum est.
+
+@@ I-II q. 39 a. 3 ad 2
+Ad secundum dicendum quod, sicut quodlibet eligibile fit minus eligibile propter tristitiam, ita quodlibet fugiendum redditur magis fugiendum propter tristitiam. Et quantum ad hoc, tristitia est utilis.
+
+@@ I-II q. 39 a. 3 ad 3
+Ad tertium dicendum quod tristitia de operatione aliqua, impedit operationem, sed tristitia de cessatione operationis, facit avidius operari.
+
+@@ I-II q. 39 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod tristitia sit summum malum. Optimo enim opponitur pessimum, ut dicitur in VIII Ethic. Sed quaedam delectatio est optimum, quae scilicet pertinet ad felicitatem. Ergo aliqua tristitia est summum malum.
+
+@@ I-II q. 39 a. 4 arg. 2
+Praeterea, beatitudo est summum bonum hominis, quia est ultimus hominis finis. Sed beatitudo consistit in hoc quod homo habeat quidquid velit, et nihil mali velit, ut supra dictum est. Ergo summum bonum hominis est impletio voluntatis ipsius. Sed tristitia consistit in hoc quod accidit aliquid contra voluntatem, ut patet per Augustinum, XIV de Civ. Dei. Ergo tristitia est summum malum hominis.
+
+@@ I-II q. 39 a. 4 arg. 3
+Praeterea, Augustinus sic argumentatur in Soliloq., ex duabus partibus compositi sumus, ex anima scilicet et corpore, quarum pars deterior corpus est. Summum autem bonum est melioris partis optimum, summum autem malum, pessimum deterioris. Est autem optimum in animo sapientia, in corpore pessimum dolor. Summum igitur bonum hominis est sapere, summum malum dolere.
+
+@@ I-II q. 39 a. 4 s. c.
+Sed contra, culpa est magis malum quam poena, ut in primo habitum est. Sed tristitia seu dolor pertinet ad poenam peccati; sicut frui rebus mutabilibus est malum culpae. Dicit enim Augustinus, in libro de vera religione, quis est dolor qui dicitur animi, nisi carere mutabilibus rebus quibus fruebatur, aut frui se posse speraverat? Et hoc est totum quod dicitur malum, idest peccatum, et poena peccati. Ergo tristitia seu dolor non est summum malum hominis.
+
+@@ I-II q. 39 a. 4 co.
+Respondeo dicendum quod impossibile est aliquam tristitiam seu dolorem esse summum hominis malum. Omnis enim tristitia seu dolor aut est de hoc quod est vere malum, aut est de aliquo apparenti malo, quod est vere bonum. Dolor autem seu tristitia quae est de vere malo, non potest esse summum malum, est enim aliquid eo peius, scilicet vel non iudicare esse malum illud quod vere est malum, vel etiam non refutare illud. Tristitia autem vel dolor qui est de apparenti malo, quod est vere bonum, non potest esse summum malum, quia peius esset omnino alienari a vero bono. Unde impossibile est quod aliqua tristitia vel dolor sit summum hominis malum.
+
+@@ I-II q. 39 a. 4 ad 1
+Ad primum ergo dicendum quod duo bona sunt communia et delectationi et tristitiae, scilicet iudicium verum de bono et malo; et ordo debitus voluntatis approbantis bonum et recusantis malum. Et sic patet quod in dolore vel tristitia est aliquod bonum per cuius privationem potest fieri deterius. Sed non in omni delectatione est aliquod malum, per cuius remotionem possit fieri melius. Unde delectatio aliqua potest esse summum hominis bonum, eo modo quo supra dictum est, tristitia autem non potest esse summum hominis malum.
+
+@@ I-II q. 39 a. 4 ad 2
+Ad secundum dicendum quod hoc ipsum quod est voluntatem repugnare malo, est quoddam bonum. Et propter hoc, tristitia vel dolor non potest esse summum malum, quia habet aliquam permixtionem boni.
+
+@@ I-II q. 39 a. 4 ad 3
+Ad tertium dicendum quod peius est quod nocet meliori, quam quod nocet peiori. Malum autem dicitur quia nocet, ut dicit Augustinus in Enchirid. Unde maius malum est quod est malum animae, quam quod est malum corporis. Unde non est efficax, ratio, quam Augustinus inducit non ex sensu suo sed ex sensu alterius.

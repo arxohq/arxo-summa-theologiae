@@ -1,0 +1,102 @@
+// q.97: изменение закона и обычай. Два текстовых пути силы обычая сохранены
+// отдельно: собственная законодательная власть свободного сообщества и
+// терпимость того, кто эту власть осуществляет. Никакого приоритета между
+// ними текст не задаёт.
+
+language "law.core" version "0.2";
+package la.aquinas.summa_theologiae_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-theologiae-law";
+
+use self::{
+    Community,
+    Custom,
+    Law,
+    ST_Q97_A1_RESP,
+    ST_Q97_A2_RESP,
+    ST_Q97_A3_RESP,
+    operative_law,
+};
+
+relation reason_improved(l: Law) kind empirical { label la official "ratio humana profecit circa legem"; label ru unofficial "человеческий разум усовершенствовал решение закона"; }
+relation conditions_changed(l: Law) kind empirical { label la official "condiciones hominum mutatae sunt"; label ru unofficial "условия жизни людей изменились"; }
+relation manifest_great_utility_from_change(l: Law) kind empirical { label la official "maxima et evidentissima utilitas ex mutatione est"; label ru unofficial "изменение несёт величайшую и очевидную пользу"; }
+relation urgent_necessity_for_change(l: Law) kind empirical { label la official "maxima necessitas mutationem cogit"; label ru unofficial "изменение вызвано крайней необходимостью"; }
+pub relation may_be_changed(l: Law) kind institutional { label la official "lex humana mutari potest"; label ru unofficial "человеческий закон может быть изменён"; }
+
+@source(ST_Q97_A1_RESP)
+rule ImprovedReasonSupportsChange(l: Law) strict { when reason_improved(l); then may_be_changed(l); label la official "lex ex parte rationis mutari potest"; label ru unofficial "закон может изменяться вследствие совершенствования разума"; }
+@source(ST_Q97_A1_RESP)
+rule ChangedConditionsSupportChange(l: Law) strict { when conditions_changed(l); then may_be_changed(l); label la official "lex ex parte hominum mutari potest"; label ru unofficial "закон может изменяться вследствие изменения условий"; }
+@source(ST_Q97_A2_RESP)
+rule GreatUtilityJustifiesChange(l: Law) strict { when manifest_great_utility_from_change(l); then may_be_changed(l); label la official "evidentissima utilitas mutationem iustificat"; label ru unofficial "очевидная великая польза оправдывает изменение закона"; }
+@source(ST_Q97_A2_RESP)
+rule UrgentNecessityJustifiesChange(l: Law) strict { when urgent_necessity_for_change(l); then may_be_changed(l); label la official "maxima necessitas mutationem iustificat"; label ru unofficial "крайняя необходимость оправдывает изменение закона"; }
+
+relation repeated_public_practice(c: Custom) kind empirical { label la official "actus exteriores multiplicati consuetudinem constituunt"; label ru unofficial "обычай сложился из повторяющихся публичных действий"; }
+relation reasonable_custom(c: Custom) kind empirical { label la official "consuetudo rationabilis est"; label ru unofficial "обычай разумен"; }
+relation custom_of_community(c: Custom, community: Community) kind empirical { label la official "consuetudo huius communitatis est"; label ru unofficial "обычай принадлежит данному сообществу"; }
+relation community_has_legislative_power(community: Community) kind empirical { label la official "multitudo potest sibi legem condere"; label ru unofficial "сообщество обладает властью устанавливать себе закон"; }
+relation custom_tolerated_by_lawmaking_authority(c: Custom) kind empirical { label la official "consuetudo ab eo toleratur ad quem pertinet leges imponere"; label ru unofficial "обычай терпим властью, уполномоченной издавать законы"; }
+relation custom_contrary_to_law(c: Custom, l: Law) kind empirical { label la official "consuetudo contra hanc legem est"; label ru unofficial "обычай противоречит данному закону"; }
+relation custom_concerns_law(c: Custom, l: Law) kind empirical { label la official "consuetudo ad huius legis materiam pertinet"; label ru unofficial "обычай относится к предмету данного закона"; }
+pub relation custom_has_force_of_law(c: Custom) kind institutional { label la official "consuetudo vim legis obtinet"; label ru unofficial "обычай имеет силу закона"; }
+pub relation custom_abrogates_law(c: Custom, l: Law) kind institutional { label la official "consuetudo legem abrogat"; label ru unofficial "обычай отменяет закон"; }
+pub relation custom_interprets_law(c: Custom, l: Law) kind institutional { label la official "consuetudo legem interpretatur"; label ru unofficial "обычай толкует закон"; }
+pub relation written_law_continues_in_force(l: Law) kind institutional { label la official "lex scripta vim retinet"; label ru unofficial "писаный закон сохраняет силу"; }
+
+@source(ST_Q97_A3_RESP)
+rule FreeCommunityCustomHasForce(c: Custom, community: Community) strict {
+    label la official "consensus multitudinis consuetudine manifestatus legem constituit";
+    label ru unofficial "обычай свободного сообщества выражает согласие и приобретает силу закона";
+    when repeated_public_practice(c) and reasonable_custom(c)
+        and custom_of_community(c, community)
+        and community_has_legislative_power(community);
+    then custom_has_force_of_law(c);
+}
+@source(ST_Q97_A3_RESP)
+rule ToleratedCustomHasForce(c: Custom) strict {
+    label la official "consuetudo tolerata ab auctoritate ex hoc approbata videtur";
+    label ru unofficial "терпимый компетентной властью разумный обычай приобретает силу закона";
+    when repeated_public_practice(c) and reasonable_custom(c)
+        and custom_tolerated_by_lawmaking_authority(c);
+    then custom_has_force_of_law(c);
+}
+@source(ST_Q97_A3_RESP)
+rule CustomAbrogatesContraryLaw(c: Custom, l: Law) strict {
+    label la official "per consuetudinem lex abrogatur";
+    label ru unofficial "обычай, имеющий силу закона, отменяет противоречащий закон";
+    when custom_has_force_of_law(c) and custom_contrary_to_law(c, l);
+    then custom_abrogates_law(c, l);
+}
+
+// §116 makes the displacement visible as a real conflict.  The positive
+// `custom_abrogates_law` answer above remains the direct doctrinal result;
+// this pair additionally proves that the contrary customary law defeats the
+// prima-facie continuance of the written enactment.
+@source(ST_Q97_A3_RESP)
+rule WrittenLawPrimaFacieContinues(l: Law) defeasible {
+    label la official "lex promulgata prima facie vim retinet";
+    label ru unofficial "действующий писаный закон prima facie сохраняет силу";
+    when operative_law(l);
+    then written_law_continues_in_force(l);
+}
+@source(ST_Q97_A3_RESP)
+rule ContraryCustomDisplacesWrittenLaw(c: Custom, l: Law) defeasible {
+    label la official "consuetudo vim legis habens legem contrariam abrogat";
+    label ru unofficial "обычай с силой закона отменяет противоречащий писаный закон";
+    when custom_has_force_of_law(c) and custom_contrary_to_law(c, l);
+    then not written_law_continues_in_force(l);
+}
+@source(ST_Q97_A3_RESP)
+priority CustomConsentOverWrittenContinuance {
+    label la official "consensus communitatis consuetudine manifestatus scriptam legem superat";
+    label ru unofficial "выраженное обычаем согласие сообщества сильнее prima-facie продолжения писаного закона";
+    prefer ContraryCustomDisplacesWrittenLaw over WrittenLawPrimaFacieContinues;
+}
+@source(ST_Q97_A3_RESP)
+rule CustomInterpretsLaw(c: Custom, l: Law) strict {
+    label la official "consuetudo est optima legum interpres";
+    label ru unofficial "обычай является лучшим толкователем закона";
+    when custom_has_force_of_law(c) and custom_concerns_law(c, l);
+    then custom_interprets_law(c, l);
+}

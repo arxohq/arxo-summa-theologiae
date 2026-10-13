@@ -1,0 +1,29 @@
+// Словарь трактата II-II qq. 17-22.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_spe version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-spe";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation fear_presented(s: Subject) kind empirical {
+    label la unofficial "fear_presented";
+    label ru unofficial "fear_presented";
+}
+pub relation hope_presented(s: Subject) kind empirical {
+    label la unofficial "hope_presented";
+    label ru unofficial "hope_presented";
+}
+pub relation presumption_presented(s: Subject) kind empirical {
+    label la unofficial "presumption_presented";
+    label ru unofficial "presumption_presented";
+}

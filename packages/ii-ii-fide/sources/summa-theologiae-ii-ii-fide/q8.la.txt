@@ -1,0 +1,182 @@
+@@ II-II q. 8 pr.
+Deinde considerandum est de dono intellectus et scientiae, quae respondent virtuti fidei. Et circa donum intellectus quaeruntur octo. Primo, utrum intellectus sit donum spiritus sancti. Secundo, utrum possit simul esse in eodem cum fide. Tertio, utrum intellectus qui est donum sit speculativus tantum, vel etiam practicus. Quarto, utrum omnes qui sunt in gratia habeant donum intellectus. Quinto, utrum hoc donum inveniatur in aliquibus absque gratia. Sexto, quomodo se habeat donum intellectus ad alia dona. Septimo, de eo quod respondet huic dono in beatitudinibus. Octavo, de eo quod respondet ei in fructibus.
+
+@@ II-II q. 8 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod intellectus non sit donum spiritus sancti. Dona enim gratuita distinguuntur a donis naturalibus, superadduntur enim eis. Sed intellectus est quidam habitus naturalis in anima, quo cognoscuntur principia naturaliter nota, ut patet in VI Ethic. Ergo non debet poni donum spiritus sancti.
+
+@@ II-II q. 8 a. 1 arg. 2
+Praeterea, dona divina participantur a creaturis secundum earum proportionem et modum, ut patet per Dionysium, in libro de Div. Nom. Sed modus humanae naturae est ut non simpliciter veritatem cognoscat, quod pertinet ad rationem intellectus, sed discursive, quod est proprium rationis, ut patet per Dionysium, in VII cap. de Div. Nom. Ergo cognitio divina quae hominibus datur magis debet dici donum rationis quam intellectus.
+
+@@ II-II q. 8 a. 1 arg. 3
+Praeterea, in potentiis animae intellectus contra voluntatem dividitur, ut patet in III de anima. Sed nullum donum spiritus sancti dicitur voluntas. Ergo etiam nullum donum spiritus sancti debet dici intellectus.
+
+@@ II-II q. 8 a. 1 s. c.
+Sed contra est quod dicitur Isaiae XI, requiescet super eum spiritus domini, spiritus sapientiae et intellectus.
+
+@@ II-II q. 8 a. 1 co.
+Respondeo dicendum quod nomen intellectus quandam intimam cognitionem importat, dicitur enim intelligere quasi intus legere. Et hoc manifeste patet considerantibus differentiam intellectus et sensus, nam cognitio sensitiva occupatur circa qualitates sensibiles exteriores; cognitio autem intellectiva penetrat usque ad essentiam rei, obiectum enim intellectus est quod quid est, ut dicitur in III de anima. Sunt autem multa genera eorum quae interius latent, ad quae oportet cognitionem hominis quasi intrinsecus penetrare. Nam sub accidentibus latet natura rerum substantialis, sub verbis latent significata verborum, sub similitudinibus et figuris latet veritas figurata: res etiam intelligibiles sunt quodammodo interiores respectu rerum sensibilium quae exterius sentiuntur, et in causis latent effectus et e converso. Unde respectu horum omnium potest dici intellectus. Sed cum cognitio hominis a sensu incipiat, quasi ab exteriori, manifestum est quod quanto lumen intellectus est fortius, tanto potest magis ad intima penetrare. Lumen autem naturale nostri intellectus est finitae virtutis, unde usque ad determinatum aliquid pertingere potest. Indiget igitur homo supernaturali lumine ut ulterius penetret ad cognoscendum quaedam quae per lumen naturale cognoscere non valet. Et illud lumen supernaturale homini datum vocatur donum intellectus.
+
+@@ II-II q. 8 a. 1 ad 1
+Ad primum ergo dicendum quod per lumen naturale nobis inditum statim cognoscuntur quaedam principia communia quae sunt naturaliter nota. Sed quia homo ordinatur ad beatitudinem supernaturalem, ut supra dictum est, necesse est quod homo ulterius pertingat ad quaedam altiora. Et ad hoc requiritur donum intellectus.
+
+@@ II-II q. 8 a. 1 ad 2
+Ad secundum dicendum quod discursus rationis semper incipit ab intellectu et terminatur ad intellectum, ratiocinamur enim procedendo ex quibusdam intellectis, et tunc rationis discursus perficitur quando ad hoc pervenimus ut intelligamus illud quod prius erat ignotum. Quod ergo ratiocinamur ex aliquo praecedenti intellectu procedit. Donum autem gratiae non procedit ex lumine naturae, sed superadditur ei, quasi perficiens ipsum. Et ideo ista superadditio non dicitur ratio, sed magis intellectus, quia ita se habet lumen superadditum ad ea quae nobis supernaturaliter innotescunt sicut se habet lumen naturale ad ea quae primordialiter cognoscimus.
+
+@@ II-II q. 8 a. 1 ad 3
+Ad tertium dicendum quod voluntas nominat simpliciter appetitivum motum, absque determinatione alicuius excellentiae. Sed intellectus nominat quandam excellentiam cognitionis penetrandi ad intima. Et ideo supernaturale donum magis nominatur nomine intellectus quam nomine voluntatis.
+
+@@ II-II q. 8 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod donum intellectus non simul habeatur cum fide. Dicit enim Augustinus, in libro octogintatrium quaest., id quod intelligitur intelligentis comprehensione finitur. Sed id quod creditur non comprehenditur, secundum illud apostoli, ad Philipp. III, non quod iam comprehenderim aut perfectus sim. Ergo videtur quod fides et intellectus non possint esse in eodem.
+
+@@ II-II q. 8 a. 2 arg. 2
+Praeterea, omne quod intelligitur intellectu videtur. Sed fides est de non apparentibus, ut supra dictum est. Ergo fides non potest simul esse in eodem cum intellectu.
+
+@@ II-II q. 8 a. 2 arg. 3
+Praeterea, intellectus est certior quam scientia. Sed scientia et fides non possunt esse de eodem, ut supra habitum est. Multo ergo minus intellectus et fides.
+
+@@ II-II q. 8 a. 2 s. c.
+Sed contra est quod Gregorius dicit, in libro Moral., quod intellectus de auditis mentem illustrat. Sed aliquis habens fidem potest esse illustratus mente circa audita, unde dicitur Luc. ult. quod dominus aperuit discipulis suis sensum ut intelligerent Scripturas. Ergo intellectus potest simul esse cum fide.
+
+@@ II-II q. 8 a. 2 co.
+Respondeo dicendum quod hic duplici distinctione est opus, una quidem ex parte fidei; alia autem ex parte intellectus. Ex parte quidem fidei, distinguendum est quod quaedam per se et directe cadunt sub fide, quae naturalem rationem excedunt, sicut Deum esse trinum et unum, filium Dei esse incarnatum. Quaedam vero cadunt sub fide quasi ordinata ad ista secundum aliquem modum, sicut omnia quae in Scriptura divina continentur. Ex parte vero intellectus, distinguendum est quod dupliciter dici possumus aliqua intelligere. Uno modo, perfecte, quando scilicet pertingimus ad cognoscendum essentiam rei intellectae, et ipsam veritatem enuntiabilis intellecti, secundum quod in se est. Et hoc modo ea quae directe cadunt sub fide intelligere non possumus, durante statu fidei. Sed quaedam alia ad fidem ordinata etiam hoc modo intelligi possunt. Alio modo contingit aliquid intelligi imperfecte, quando scilicet ipsa essentia rei, vel veritas propositionis, non cognoscitur quid sit aut quomodo sit, sed tamen cognoscitur quod ea quae exterius apparent veritati non contrariantur; inquantum scilicet homo intelligit quod propter ea quae exterius apparent non est recedendum ab his quae sunt fidei. Et secundum hoc nihil prohibet, durante statu fidei, intelligere etiam ea quae per se sub fide cadunt.
+
+@@ II-II q. 8 a. 2 ad 1
+Et per hoc patet responsio ad obiecta. Nam primae tres rationes procedunt secundum quod aliquid perfecte intelligitur. Ultima autem ratio procedit de intellectu eorum quae ordinantur ad fidem.
+
+@@ II-II q. 8 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod intellectus qui ponitur donum spiritus sancti non sit practicus, sed speculativus tantum. Intellectus enim, ut Gregorius dicit, in I Moral., altiora quaedam penetrat. Sed ea quae pertinent ad intellectum practicum non sunt alta, sed quaedam infima, scilicet singularia, circa quae sunt actus. Ergo intellectus qui ponitur donum non est intellectus practicus.
+
+@@ II-II q. 8 a. 3 arg. 2
+Praeterea, intellectus qui est donum est dignius aliquid quam intellectus qui est virtus intellectualis. Sed intellectus qui est virtus intellectualis est solum circa necessaria, ut patet per philosophum, in VI Ethic. Ergo multo magis intellectus qui est donum est solum circa necessaria. Sed intellectus practicus non est circa necessaria, sed circa contingentia aliter se habere, quae opere humano fieri possunt. Ergo intellectus qui est donum non est intellectus practicus.
+
+@@ II-II q. 8 a. 3 arg. 3
+Praeterea, donum intellectus illustrat mentem ad ea quae naturalem rationem excedunt. Sed operabilia humana, quorum est practicus intellectus, non excedunt naturalem rationem, quae dirigit in rebus agendis, ut ex supradictis patet. Ergo intellectus qui est donum non est intellectus practicus.
+
+@@ II-II q. 8 a. 3 s. c.
+Sed contra est quod dicitur in Psalm., intellectus bonus omnibus facientibus eum.
+
+@@ II-II q. 8 a. 3 co.
+Respondeo dicendum quod, sicut dictum est, donum intellectus non solum se habet ad ea quae primo et principaliter cadunt sub fide, sed etiam ad omnia quae ad fidem ordinantur. Operationes autem bonae quendam ordinem ad fidem habent, nam fides per dilectionem operatur, ut apostolus dicit, ad Gal. V. Et ideo donum intellectus etiam ad quaedam operabilia se extendit, non quidem ut circa ea principaliter versetur; sed inquantum in agendis regulamur rationibus aeternis, quibus conspiciendis et consulendis, secundum Augustinum, XII de Trin., inhaeret superior ratio, quae dono intellectus perficitur.
+
+@@ II-II q. 8 a. 3 ad 1
+Ad primum ergo dicendum quod operabilia humana, secundum quod in se considerantur, non habent aliquam excellentiae altitudinem. Sed secundum quod referuntur ad regulam legis aeternae et ad finem beatitudinis divinae, sic altitudinem habent, ut circa ea possit esse intellectus.
+
+@@ II-II q. 8 a. 3 ad 2
+Ad secundum dicendum quod hoc ipsum pertinet ad dignitatem doni quod est intellectus, quod intelligibilia aeterna vel necessaria considerat non solum secundum quod in se sunt, sed etiam secundum quod sunt regulae quaedam humanorum actuum, quia quanto virtus cognoscitiva ad plura se extendit, tanto nobilior est.
+
+@@ II-II q. 8 a. 3 ad 3
+Ad tertium dicendum quod regula humanorum actuum est et ratio humana et lex aeterna, ut supra dictum est. Lex autem aeterna excedit naturalem rationem. Et ideo cognitio humanorum actuum secundum quod regulantur a lege aeterna, excedit rationem naturalem, et indiget supernaturali lumine doni spiritus sancti.
+
+@@ II-II q. 8 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod donum intellectus non insit omnibus hominibus habentibus gratiam. Dicit enim Gregorius, II Moral., quod donum intellectus datur contra hebetudinem mentis. Sed multi habentes gratiam adhuc patiuntur mentis hebetudinem. Ergo donum intellectus non est in omnibus habentibus gratiam.
+
+@@ II-II q. 8 a. 4 arg. 2
+Praeterea, inter ea quae ad cognitionem pertinent sola fides videtur esse necessaria ad salutem, quia per fidem Christus habitat in cordibus nostris, ut dicitur ad Ephes. III. Sed non omnes habentes fidem habent donum intellectus, immo qui credunt, debent orare ut intelligant, sicut Augustinus dicit, in libro de Trin. Ergo donum intellectus non est necessarium ad salutem. Non ergo est in omnibus habentibus gratiam.
+
+@@ II-II q. 8 a. 4 arg. 3
+Praeterea, ea quae sunt communia omnibus habentibus gratiam nunquam ab habentibus gratiam subtrahuntur. Sed gratia intellectus et aliorum donorum aliquando se utiliter subtrahit, quandoque enim, dum sublimia intelligendo in elationem se animus erigit, in rebus imis et vilibus gravi hebetudine pigrescit, ut Gregorius dicit, in II Moral. Ergo donum intellectus non est in omnibus habentibus gratiam.
+
+@@ II-II q. 8 a. 4 s. c.
+Sed contra est quod dicitur in Psalm., nescierunt neque intellexerunt, in tenebris ambulant. Sed nullus habens gratiam ambulat in tenebris, secundum illud Ioan. VIII, qui sequitur me non ambulat in tenebris. Ergo nullus habens gratiam caret dono intellectus.
+
+@@ II-II q. 8 a. 4 co.
+Respondeo dicendum quod in omnibus habentibus gratiam necesse est esse rectitudinem voluntatis, quia per gratiam praeparatur voluntas hominis ad bonum, ut Augustinus dicit. Voluntas autem non potest recte ordinari in bonum nisi praeexistente aliqua cognitione veritatis, quia obiectum voluntatis est bonum intellectum, ut dicitur in III de anima. Sicut autem per donum caritatis spiritus sanctus ordinat voluntatem hominis ut directe moveatur in bonum quoddam supernaturale, ita etiam per donum intellectus illustrat mentem hominis ut cognoscat veritatem quandam supernaturalem, in quam oportet tendere voluntatem rectam. Et ideo, sicut donum caritatis est in omnibus habentibus gratiam gratum facientem, ita etiam donum intellectus.
+
+@@ II-II q. 8 a. 4 ad 1
+Ad primum ergo dicendum quod aliqui habentes gratiam gratum facientem possunt pati hebetudinem circa aliqua quae sunt praeter necessitatem salutis. Sed circa ea quae sunt de necessitate salutis sufficienter instruuntur a spiritu sancto, secundum illud I Ioan. II, unctio docet vos de omnibus.
+
+@@ II-II q. 8 a. 4 ad 2
+Ad secundum dicendum quod etsi non omnes habentes fidem plene intelligant ea quae proponuntur credenda, intelligunt tamen ea esse credenda, et quod ab eis pro nullo est deviandum.
+
+@@ II-II q. 8 a. 4 ad 3
+Ad tertium dicendum quod donum intellectus nunquam se subtrahit sanctis circa ea quae sunt necessaria ad salutem. Sed circa alia interdum se subtrahit, ut non omnia ad liquidum per intellectum penetrare possint, ad hoc quod superbiae materia subtrahatur.
+
+@@ II-II q. 8 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod intellectus donum inveniatur etiam in non habentibus gratiam gratum facientem. Augustinus enim, exponens illud Psalm., concupivit anima mea desiderare iustificationes tuas, dicit quod praevolat intellectus, sequitur tardus aut nullus affectus. Sed in omnibus habentibus gratiam gratum facientem est promptus affectus, propter caritatem. Ergo donum intellectus potest esse in his qui non habent gratiam gratum facientem.
+
+@@ II-II q. 8 a. 5 arg. 2
+Praeterea, Danielis X dicitur quod intelligentia opus est in visione prophetica, et ita videtur quod prophetia non sit sine dono intellectus. Sed prophetia potest esse sine gratia gratum faciente, ut patet Matth. VII, ubi dicentibus, in nomine tuo prophetavimus, respondetur, nunquam novi vos. Ergo donum intellectus potest esse sine gratia gratum faciente.
+
+@@ II-II q. 8 a. 5 arg. 3
+Praeterea, donum intellectus respondet virtuti fidei, secundum illud Isaiae VII, secundum aliam litteram, nisi credideritis, non intelligetis. Sed fides potest esse sine gratia gratum faciente. Ergo etiam donum intellectus.
+
+@@ II-II q. 8 a. 5 s. c.
+Sed contra est quod dominus dicit, Ioan. VI, omnis qui audivit a patre et didicit, venit ad me. Sed per intellectum audita addiscimus vel penetramus, ut patet per Gregorium, in I Moral. Ergo quicumque habet intellectus donum venit ad Christum. Quod non est sine gratia gratum faciente. Ergo donum intellectus non est sine gratia gratum faciente.
+
+@@ II-II q. 8 a. 5 co.
+Respondeo dicendum quod, sicut supra dictum est, dona spiritus sancti perficiunt animam secundum quod est bene mobilis a spiritu sancto. Sic ergo intellectuale lumen gratiae ponitur donum intellectus, inquantum intellectus hominis est bene mobilis a spiritu sancto. Huius autem motus consideratio in hoc est quod homo apprehendat veritatem circa finem. Unde nisi usque ad hoc moveatur a spiritu sancto intellectus humanus ut rectam aestimationem de fine habeat, nondum assecutus est donum intellectus; quantumcumque ex illustratione spiritus alia quaedam praeambula cognoscat. Rectam aut aestimationem de ultimo fine non habet nisi ille qui circa finem non errat, sed ei firmiter inhaeret tanquam optimo. Quod est solum habentis gratiam gratum facientem, sicut etiam in moralibus rectam aestimationem habet homo de fine per habitum virtutis. Unde donum intellectus nullus habet sine gratia gratum faciente.
+
+@@ II-II q. 8 a. 5 ad 1
+Ad primum ergo dicendum quod Augustinus intellectum nominat quamcumque illustrationem intellectualem. Quae tamen non pertingit ad perfectam doni rationem nisi usque ad hoc mens hominis deducatur ut rectam aestimationem habeat homo circa finem.
+
+@@ II-II q. 8 a. 5 ad 2
+Ad secundum dicendum quod intelligentia quae necessaria est ad prophetiam est quaedam illustratio mentis circa ea quae prophetis revelantur. Non est autem illustratio mentis circa aestimationem rectam de ultimo fine, quae pertinet ad donum intellectus.
+
+@@ II-II q. 8 a. 5 ad 3
+Ad tertium dicendum quod fides importat solum assensum ad ea quae proponuntur. Sed intellectus importat quandam perceptionem veritatis, quae non potest esse circa finem nisi in eo qui habet gratiam gratum facientem, ut dictum est. Et ideo non est similis ratio de intellectu et fide.
+
+@@ II-II q. 8 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod donum intellectus non distinguatur ab aliis donis. Quorum enim opposita sunt eadem, ipsa quoque sunt eadem. Sed sapientiae opponitur stultitia, hebetudini intellectus, praecipitationi consilium, ignorantiae scientia, ut patet per Gregorium, II Moral. Non videntur autem differre stultitia, hebetudo, ignorantia et praecipitatio. Ergo nec intellectus distinguitur ab aliis donis.
+
+@@ II-II q. 8 a. 6 arg. 2
+Praeterea, intellectus qui ponitur virtus intellectualis differt ab aliis intellectualibus virtutibus per hoc sibi proprium, quod est circa principia per se nota. Sed donum intellectus non est circa aliqua principia per se nota, quia ad ea quae naturaliter per se cognoscuntur sufficit naturalis habitus primorum principiorum; ad ea vero quae sunt supernaturalia sufficit fides, quia articuli fidei sunt sicut prima principia in supernaturali cognitione, sicut dictum est. Ergo donum intellectus non distinguitur ab aliis donis intellectualibus.
+
+@@ II-II q. 8 a. 6 arg. 3
+Praeterea, omnis cognitio intellectiva vel est speculativa vel practica. Sed donum intellectus se habet ad utrumque, ut dictum est. Ergo non distinguitur ab aliis donis intellectualibus, sed omnia in se complectitur.
+
+@@ II-II q. 8 a. 6 s. c.
+Sed contra est quod quaecumque connumerantur ad invicem oportet esse aliquo modo ab invicem distincta, quia distinctio est principium numeri. Sed donum intellectus connumeratur aliis donis, ut patet Isaiae XI. Ergo donum intellectus est distinctum ab aliis donis.
+
+@@ II-II q. 8 a. 6 co.
+Respondeo dicendum quod distinctio doni intellectus ab aliis tribus donis, scilicet pietate, fortitudine et timore, manifesta est, quia donum intellectus pertinet ad vim cognoscitivam, illa vero tria pertinent ad vim appetitivam. Sed differentia huius doni intellectus ad alia tria, scilicet sapientiam, scientiam et consilium, quae etiam ad vim cognoscitivam pertinent, non est adeo manifesta. Videtur autem quibusdam quod donum intellectus distinguatur a dono scientiae et consilii per hoc quod illa duo pertineant ad practicam cognitionem, donum vero intellectus ad speculativam. A dono vero sapientiae, quod etiam ad speculativam cognitionem pertinet, distinguitur in hoc quod ad sapientiam pertinet iudicium, ad intellectum vero capacitas intellectus eorum quae proponuntur, sive penetratio ad intima eorum. Et secundum hoc supra numerum donorum assignavimus. Sed diligenter intuenti, donum intellectus non solum se habet circa speculanda, sed etiam circa operanda, ut dictum est, et similiter etiam donum scientiae circa utrumque se habet, ut infra dicetur. Et ideo oportet aliter eorum distinctionem accipere. Omnia enim haec quatuor dicta ordinantur ad supernaturalem cognitionem, quae in nobis per fidem fundatur. Fides autem est ex auditu, ut dicitur Rom. X. Unde oportet aliqua proponi homini ad credendum non sicut visa, sed sicut audita, quibus per fidem assentiat. Fides autem primo quidem et principaliter se habet ad veritatem primam; secundario, ad quaedam circa creaturas consideranda; et ulterius se extendit etiam ad directionem humanorum operum, secundum quod per dilectionem operatur, ut ex dictis patet. Sic igitur circa ea quae fidei proponuntur credenda duo requiruntur ex parte nostra. Primo quidem, ut intellectu penetrentur vel capiantur, et hoc pertinet ad donum intellectus. Secundo autem oportet ut de eis homo habeat iudicium rectum, ut aestimet his esse inhaerendum et ab eorum oppositis recedendum. Hoc igitur iudicium, quantum ad res divinas, pertinet ad donum sapientiae; quantum vero ad res creatas, pertinet ad donum scientiae; quantum vero ad applicationem ad singularia opera, pertinet ad donum consilii.
+
+@@ II-II q. 8 a. 6 ad 1
+Ad primum ergo dicendum quod praedicta differentia quatuor donorum manifeste competit distinctioni eorum quae Gregorius ponit eis esse opposita. Hebetudo enim acuitati opponitur. Dicitur autem per similitudinem intellectus acutus quando potest penetrare ad intima eorum quae proponuntur. Unde hebetudo mentis est per quam mens ad intima penetrare non sufficit. Stultus autem dicitur ex hoc quod perverse iudicat circa communem finem vitae. Et ideo proprie opponitur sapientiae, quae facit rectum iudicium circa universalem causam. Ignorantia vero importat defectum mentis etiam circa quaecumque particularia. Et ideo opponitur scientiae, per quam homo habet rectum iudicium circa particulares causas, scilicet circa creaturas. Praecipitatio vero manifeste opponitur consilio, per quod homo ad actionem non procedit ante deliberationem rationis.
+
+@@ II-II q. 8 a. 6 ad 2
+Ad secundum dicendum quod donum intellectus est circa prima principia cognitionis gratuitae, aliter tamen quam fides. Nam ad fidem pertinet eis assentire, ad donum vero intellectus pertinet penetrare mente ea quae dicuntur.
+
+@@ II-II q. 8 a. 6 ad 3
+Ad tertium dicendum quod donum intellectus pertinet ad utramque cognitionem, scilicet speculativam et practicam, non quantum ad iudicium, sed quantum ad apprehensionem, ut capiantur ea quae dicuntur.
+
+@@ II-II q. 8 a. 7 arg. 1
+Ad septimum sic proceditur. Videtur quod dono intellectus non respondeat beatitudo sexta, scilicet, beati mundo corde, quoniam ipsi Deum videbunt. Munditia enim cordis maxime videtur pertinere ad affectum. Sed donum intellectus non pertinet ad affectum, sed magis ad vim intellectivam. Ergo praedicta beatitudo non respondet dono intellectus.
+
+@@ II-II q. 8 a. 7 arg. 2
+Praeterea, Act. XV dicitur, fide purificans corda eorum. Sed per purificationem cordis acquiritur munditia cordis. Ergo praedicta beatitudo magis pertinet ad virtutem fidei quam ad donum intellectus.
+
+@@ II-II q. 8 a. 7 arg. 3
+Praeterea, dona spiritus sancti perficiunt hominem in praesenti vita. Sed visio Dei non pertinet ad vitam praesentem, ipsa enim beatos facit, ut supra habitum est. Ergo sexta beatitudo, continens Dei visionem, non pertinet ad donum intellectus.
+
+@@ II-II q. 8 a. 7 s. c.
+Sed contra est quod Augustinus dicit, in libro de Serm. Dom. in monte, sexta operatio spiritus sancti, quae est intellectus, convenit mundis corde, qui purgato oculo possunt videre quod oculus non vidit.
+
+@@ II-II q. 8 a. 7 co.
+Respondeo dicendum quod in sexta beatitudine, sicut et in aliis, duo continentur, unum per modum meriti, scilicet munditia cordis; aliud per modum praemii, scilicet visio Dei, ut supra dictum est. Et utrumque pertinet aliquo modo ad donum intellectus. Est enim duplex munditia. Una quidem praeambula et dispositiva ad Dei visionem, quae est depuratio affectus ab inordinatis affectionibus, et haec quidem munditia cordis fit per virtutes et dona quae pertinent ad vim appetitivam. Alia vero munditia cordis est quae est quasi completiva respectu visionis divinae, et haec quidem est munditia mentis depuratae a phantasmatibus et erroribus, ut scilicet ea quae de Deo proponuntur non accipiantur per modum corporalium phantasmatum, nec secundum haereticas perversitates. Et hanc munditiam facit donum intellectus. Similiter etiam duplex est Dei visio. Una quidem perfecta, per quam videtur Dei essentia. Alia vero imperfecta, per quam, etsi non videamus de Deo quid est, videmus tamen quid non est, et tanto in hac vita Deum perfectius cognoscimus quanto magis intelligimus eum excedere quidquid intellectu comprehenditur. Et utraque Dei visio pertinet ad donum intellectus, prima quidem ad donum intellectus consummatum, secundum quod erit in patria; secunda vero ad donum intellectus inchoatum, secundum quod habetur in via.
+
+@@ II-II q. 8 a. 7 ad 1
+Et per hoc patet responsio ad obiecta. Nam primae duae rationes procedunt de prima munditia. Tertia vero de perfecta Dei visione, dona autem et hic nos perficiunt secundum quandam inchoationem, et in futuro implebuntur, ut supra dictum est.
+
+@@ II-II q. 8 a. 8 arg. 1
+Ad octavum sic proceditur. Videtur quod in fructibus fides non respondeat dono intellectus. Intellectus enim est fructus fidei, dicitur enim Isaiae VII, nisi credideritis, non intelligetis, secundum aliam litteram, ubi nos habemus, si non credideritis, non permanebitis. Non ergo fides est fructus intellectus.
+
+@@ II-II q. 8 a. 8 arg. 2
+Praeterea, prius non est fructus posterioris. Sed fides videtur esse prior intellectu, quia fides est fundamentum totius spiritualis aedificii, ut supra dictum est. Ergo fides non est fructus intellectus.
+
+@@ II-II q. 8 a. 8 arg. 3
+Praeterea, plura sunt dona pertinentia ad intellectum quam pertinentia ad appetitum. Sed inter fructus ponitur tantum unum pertinens ad intellectum, scilicet fides, omnia vero alia pertinent ad appetitum. Ergo fides non magis videtur respondere intellectui quam sapientiae vel scientiae seu consilio.
+
+@@ II-II q. 8 a. 8 s. c.
+Sed contra est quod finis uniuscuiusque rei est fructus eius. Sed donum intellectus videtur principaliter ordinari ad certitudinem fidei, quae ponitur fructus, dicit enim Glossa, ad Gal. V, quod fides quae est fructus est de invisibilibus certitudo. Ergo in fructibus fides respondet dono intellectus.
+
+@@ II-II q. 8 a. 8 co.
+Respondeo dicendum quod, sicut supra dictum est, cum de fructibus ageretur, fructus spiritus dicuntur quaedam ultima et delectabilia quae in nobis proveniunt ex virtute spiritus sancti. Ultimum autem delectabile habet rationem finis, qui est proprium obiectum voluntatis. Et ideo oportet quod id quod est ultimum et delectabile in voluntate sit quodammodo fructus omnium aliorum quae pertinent ad alias potentias. Secundum hoc ergo doni vel virtutis perficientis aliquam potentiam potest accipi duplex fructus, unus quidem pertinens ad suam potentiam; alius autem quasi ultimus, pertinens ad voluntatem. Et secundum hoc dicendum est quod dono intellectus respondet pro proprio fructu fides, idest fidei certitudo, sed pro ultimo fructu respondet ei gaudium, quod pertinet ad voluntatem.
+
+@@ II-II q. 8 a. 8 ad 1
+Ad primum ergo dicendum quod intellectus est fructus fidei quae est virtus. Sic autem non accipitur fides cum dicitur fructus, sed pro quadam certitudine fidei, ad quam homo pervenit per donum intellectus.
+
+@@ II-II q. 8 a. 8 ad 2
+Ad secundum dicendum quod fides non potest universaliter praecedere intellectum, non enim posset homo assentire credendo aliquibus propositis nisi ea aliqualiter intelligeret. Sed perfectio intellectus consequitur fidem quae est virtus, ad quam quidem intellectus perfectionem sequitur quaedam fidei certitudo.
+
+@@ II-II q. 8 a. 8 ad 3
+Ad tertium dicendum quod cognitionis practicae fructus non potest esse in ipsa, quia talis cognitio non scitur propter se, sed propter aliud. Sed cognitio speculativa habet fructum in seipsa, scilicet certitudinem eorum quorum est. Et ideo dono consilii, quod pertinet solum ad practicam cognitionem, non respondet aliquis fructus proprius. Donis autem sapientiae, intellectus et scientiae, quae possunt etiam ad speculativam cognitionem pertinere, respondet solum unus fructus, qui est certitudo significata nomine fidei. Plures autem fructus ponuntur pertinentes ad partem appetitivam, quia, sicut iam dictum est, ratio finis, quae importatur in nomine fructus, magis pertinet ad vim appetitivam quam intellectivam.

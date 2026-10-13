@@ -1,0 +1,100 @@
+// Прикладной канон respondeo I-II qq. 1-5.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_fine version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-fine";
+
+use self::{
+    ST_I_II_Q1_A1_RESP,
+    ST_I_II_Q1_A8_RESP,
+    ST_I_II_Q2_A1_RESP,
+    ST_I_II_Q3_A8_RESP,
+    ST_I_II_Q4_A1_RESP,
+    ST_I_II_Q5_A1_RESP,
+    Subject,
+    essence_seen,
+    happiness_considered,
+    human_act_presented,
+    man_presented,
+    presented,
+    wealth_proposed,
+};
+
+pub relation acts_for_end(s: Subject) kind institutional {
+    label la official "omne agens agit propter finem";
+    label ru unofficial "всякий деятель действует ради цели";
+}
+
+@source(ST_I_II_Q1_A1_RESP)
+rule ManActsForEnd(s: Subject) strict {
+    label la official "omne agens agit propter finem";
+    label ru unofficial "всякий деятель действует ради цели";
+    when presented(s) and human_act_presented(s);
+    then acts_for_end(s);
+}
+
+pub relation happiness_is_last_end(s: Subject) kind institutional {
+    label la official "beatitudo est ultimus finis hominis";
+    label ru unofficial "блаженство — последняя цель человека";
+}
+
+@source(ST_I_II_Q1_A8_RESP)
+rule HappinessIsLastEnd(s: Subject) strict {
+    label la official "beatitudo est ultimus finis hominis";
+    label ru unofficial "блаженство — последняя цель человека";
+    when presented(s) and man_presented(s);
+    then happiness_is_last_end(s);
+}
+
+pub relation not_in_wealth(s: Subject) kind institutional {
+    label la official "beatitudo non consistit in divitiis";
+    label ru unofficial "блаженство не в богатстве";
+}
+
+@source(ST_I_II_Q2_A1_RESP)
+rule HappinessNotInWealth(s: Subject) strict {
+    label la official "beatitudo non consistit in divitiis";
+    label ru unofficial "блаженство не в богатстве";
+    when presented(s) and wealth_proposed(s);
+    then not_in_wealth(s);
+}
+
+pub relation vision_is_perfect_happiness(s: Subject) kind institutional {
+    label la official "perfecta beatitudo in visione divinae essentiae";
+    label ru unofficial "совершенное блаженство — в видении божественной сущности";
+}
+
+@source(ST_I_II_Q3_A8_RESP)
+rule PerfectHappinessIsVision(s: Subject) strict {
+    label la official "perfecta beatitudo in visione divinae essentiae";
+    label ru unofficial "совершенное блаженство — в видении божественной сущности";
+    when presented(s) and essence_seen(s);
+    then vision_is_perfect_happiness(s);
+}
+
+pub relation delight_belongs(s: Subject) kind institutional {
+    label la official "delectatio requiritur ad beatitudinem";
+    label ru unofficial "для блаженства требуется наслаждение";
+}
+
+@source(ST_I_II_Q4_A1_RESP)
+rule DelightRequired(s: Subject) strict {
+    label la official "delectatio requiritur ad beatitudinem";
+    label ru unofficial "для блаженства требуется наслаждение";
+    when presented(s) and happiness_considered(s);
+    then delight_belongs(s);
+}
+
+pub relation man_can_attain(s: Subject) kind institutional {
+    label la official "homo beatitudinem consequi potest";
+    label ru unofficial "человек может достигнуть блаженства";
+}
+
+@source(ST_I_II_Q5_A1_RESP)
+rule ManCanAttainHappiness(s: Subject) strict {
+    label la official "homo beatitudinem consequi potest";
+    label ru unofficial "человек может достигнуть блаженства";
+    when presented(s) and man_presented(s);
+    then man_can_attain(s);
+}
+

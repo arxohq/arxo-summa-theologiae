@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:1df62afa9816bf806904e61255911548d9e97abde6209da90cb2c86ee069f033",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:483c012a725ed324387ec1800c990204f71ca4d1baf6f3ae6f309d5874f12025",
+    "name": "la.aquinas.summa.i_ii_passionibus",
+    "namespace": "urn:la:aquinas:clir:summa-i-ii-passionibus",
+    "sourceHash": "sha256:019d15e6203f89775041052549ce9d51723509ff181a93edcb931ea35084fdb4",
+    "version": "0.1.0"
+  }
+}

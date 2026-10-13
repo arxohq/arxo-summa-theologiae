@@ -1,0 +1,70 @@
+// Прикладной канон respondeo II-II qq. 17-22.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_spe version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-spe";
+
+use self::{
+    ST_II_II_Q17_A1_RESP,
+    ST_II_II_Q18_A1_RESP,
+    ST_II_II_Q19_A1_RESP,
+    ST_II_II_Q21_A1_RESP,
+    Subject,
+    fear_presented,
+    hope_presented,
+    presented,
+    presumption_presented,
+};
+
+pub relation hope_is_virtue(s: Subject) kind institutional {
+    label la official "spes est virtus";
+    label ru unofficial "надежда есть добродетель";
+}
+
+@source(ST_II_II_Q17_A1_RESP)
+rule HopeIsVirtue(s: Subject) strict {
+    label la official "spes est virtus";
+    label ru unofficial "надежда есть добродетель";
+    when presented(s) and hope_presented(s);
+    then hope_is_virtue(s);
+}
+
+pub relation hope_in_will(s: Subject) kind institutional {
+    label la official "spes est in voluntate";
+    label ru unofficial "надежда — в воле";
+}
+
+@source(ST_II_II_Q18_A1_RESP)
+rule HopeInWill(s: Subject) strict {
+    label la official "spes est in voluntate";
+    label ru unofficial "надежда — в воле";
+    when presented(s) and hope_presented(s);
+    then hope_in_will(s);
+}
+
+pub relation filial_fear(s: Subject) kind institutional {
+    label la official "timor filialis est donum";
+    label ru unofficial "сыновний страх есть дар";
+}
+
+@source(ST_II_II_Q19_A1_RESP)
+rule FearOfGodGift(s: Subject) strict {
+    label la official "timor filialis est donum";
+    label ru unofficial "сыновний страх есть дар";
+    when presented(s) and fear_presented(s);
+    then filial_fear(s);
+}
+
+pub relation presumption_is_vice(s: Subject) kind institutional {
+    label la official "praesumptio est vitium";
+    label ru unofficial "самонадеянность есть порок";
+}
+
+@source(ST_II_II_Q21_A1_RESP)
+rule PresumptionVice(s: Subject) strict {
+    label la official "praesumptio est vitium";
+    label ru unofficial "самонадеянность есть порок";
+    when presented(s) and presumption_presented(s);
+    then presumption_is_vice(s);
+}
+

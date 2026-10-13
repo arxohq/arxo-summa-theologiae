@@ -1,0 +1,82 @@
+// II-II q. 40 a. 1 co.: три совместно необходимые условия справедливой войны.
+
+language "law.core" version "0.2";
+package la.aquinas.duplex_effectus version "0.1.0";
+namespace "urn:la:aquinas:clir:duplex-effectus";
+
+use self::{
+    Bellum,
+    Persona,
+    ST_Q40_A1_RESP,
+    auctoritas_principis,
+    bellum_a_principe,
+    causa_iusta,
+    gerit_bellum,
+    intentio_recta,
+    presented_bellum,
+};
+
+pub relation bellum_iustum(b: Bellum) kind institutional {
+    label la official "bellum iustum est";
+    label ru unofficial "война справедлива";
+    label en unofficial "the war is just";
+}
+pub relation bellum_illicitum(b: Bellum) kind institutional {
+    label la official "bellum illicitum redditur";
+    label ru unofficial "война недозволена";
+    label en unofficial "the war is illicit";
+}
+
+@source(ST_Q40_A1_RESP)
+rule BellumIustumConstat(b: Bellum) strict {
+    label la official "ad hoc quod aliquod bellum sit iustum, tria requiruntur";
+    label ru unofficial "война справедлива, когда вместе даны власть государя, справедливая причина и правое намерение";
+    label en unofficial "the war is just when the prince's authority, a just cause and a right intention are present together";
+    when presented_bellum(b)
+        and auctoritas_principis(b)
+        and causa_iusta(b)
+        and intentio_recta(b);
+    then bellum_iustum(b);
+}
+
+@source(ST_Q40_A1_RESP)
+rule BellumIustumGerereLicet(b: Bellum, p: Persona) strict {
+    label la official "ad hoc quod aliquod bellum sit iustum, tria requiruntur";
+    label ru unofficial "при трёх условиях государь вправе вести войну";
+    label en unofficial "under the three conditions the prince has the liberty to wage war";
+    when presented_bellum(b)
+        and bellum_a_principe(b, p)
+        and bellum_iustum(b);
+    then liberty BellumIustumGerere {
+        holder p;
+        action gerit_bellum(p, b);
+        window [@1270-01-01, infinity);
+    };
+}
+
+@source(ST_Q40_A1_RESP)
+rule PravaIntentioRedditBellumIllicitum(b: Bellum) strict {
+    label la official "potest autem contingere ut bellum sit declaratum auctoritate legitima et sit causa iusta, et tamen propter pravam intentionem bellum reddatur illicitum";
+    label ru unofficial "власть и справедливая причина не спасают войну, если намерение порочно";
+    label en unofficial "authority and a just cause do not save a war if the intention is vicious";
+    when presented_bellum(b)
+        and auctoritas_principis(b)
+        and causa_iusta(b)
+        and not intentio_recta(b);
+    then bellum_illicitum(b);
+}
+
+@source(ST_Q40_A1_RESP)
+rule BellumIllicitumVetitum(b: Bellum, p: Persona) strict {
+    label la official "propter pravam intentionem bellum reddatur illicitum";
+    label ru unofficial "война, ставшая недозволенной, запрещает государю её вести";
+    label en unofficial "a war that has become illicit forbids the prince to wage it";
+    when presented_bellum(b)
+        and bellum_a_principe(b, p)
+        and bellum_illicitum(b);
+    then prohibition BellumIllicitumGerere {
+        bearer p;
+        action gerit_bellum(p, b);
+        window [@1270-01-01, infinity);
+    };
+}

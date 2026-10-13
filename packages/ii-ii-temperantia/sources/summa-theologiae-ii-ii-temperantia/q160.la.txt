@@ -1,0 +1,50 @@
+@@ II-II q. 160 pr.
+[45436] IIª-IIae, q. 160 pr. Deinde considerandum est de modestia. Et primo, de ipsa in communi; secundo, de singulis quae sub ea continentur. Circa primum quaeruntur duo. Primo, utrum modestia sit pars temperantiae. Secundo, quae sit materia modestiae.
+
+@@ II-II q. 160 a. 1 arg. 1
+[45437] IIª-IIae, q. 160 a. 1 arg. 1 Ad primum sic proceditur. Videtur quod modestia non sit pars temperantiae. Modestia enim a modo dicitur. Sed in omnibus virtutibus requiritur modus, nam virtus ordinatur ad bonum; bonum autem, ut Augustinus dicit, in libro de natura boni, consistit in modo, specie et ordine. Ergo modestia est generalis virtus. Non ergo debet poni pars temperantiae.
+
+@@ II-II q. 160 a. 1 arg. 2
+[45438] IIª-IIae, q. 160 a. 1 arg. 2 Praeterea, laus temperantiae praecipue videtur consistere ex quadam moderatione. Ab hac autem sumitur nomen modestiae. Ergo modestia est idem quod temperantia, et non pars eius.
+
+@@ II-II q. 160 a. 1 arg. 3
+[45439] IIª-IIae, q. 160 a. 1 arg. 3 Praeterea, modestia videtur consistere circa proximorum correctionem, secundum illud II ad Tim. II, servum Dei non oportet litigare, sed mansuetum esse ad omnes, cum modestia corripientem eos qui resistunt veritati. Sed correctio delinquentium est actus iustitiae vel caritatis, ut supra habitum est. Ergo videtur quod modestia magis sit pars iustitiae quam temperantiae.
+
+@@ II-II q. 160 a. 1 s. c.
+[45440] IIª-IIae, q. 160 a. 1 s. c. Sed contra est quod Tullius ponit modestiam partem temperantiae.
+
+@@ II-II q. 160 a. 1 co.
+[45441] IIª-IIae, q. 160 a. 1 co. Respondeo dicendum quod, sicut supra dictum est, temperantia moderationem adhibet circa ea in quibus difficillimum est moderari, scilicet circa concupiscentias delectationum tactus. Ubicumque autem est aliqua virtus specialiter circa aliquod maximum, oportet esse aliam virtutem circa ea quae mediocriter se habent, eo quod oportet quantum ad omnia vitam hominis secundum virtutes regulatam esse, sicut supra dictum est quod magnificentia est circa magnos sumptus pecuniarum, praeter quam est necessaria liberalitas, quae fit circa mediocres sumptus. Unde necessarium est quod sit quaedam virtus moderativa in aliis mediocribus, in quibus non est ita difficile moderari. Et haec virtus vocatur modestia, et adiungitur temperantiae sicut principali.
+
+@@ II-II q. 160 a. 1 ad 1
+[45442] IIª-IIae, q. 160 a. 1 ad 1 Ad primum ergo dicendum quod nomen commune quandoque appropriatur his quae sunt infima, sicut nomen commune Angelorum appropriatur infimo ordini Angelorum. Ita etiam et modus, qui communiter observatur in qualibet virtute, appropriatur specialiter virtuti quae in minimis modum ponit.
+
+@@ II-II q. 160 a. 1 ad 2
+[45443] IIª-IIae, q. 160 a. 1 ad 2 Ad secundum dicendum quod aliqua temperatione indigent propter suam vehementiam, sicut vinum forte temperatur, sed moderatio requiritur in omnibus. Et ideo temperantia magis se habet ad passiones vehementes, modestia vero ad mediocres.
+
+@@ II-II q. 160 a. 1 ad 3
+[45444] IIª-IIae, q. 160 a. 1 ad 3 Ad tertium dicendum quod modestia ibi accipitur a modo communiter sumpto, prout requiritur in omnibus virtutibus.
+
+@@ II-II q. 160 a. 2 arg. 1
+[45445] IIª-IIae, q. 160 a. 2 arg. 1 Ad secundum sic proceditur. Videtur quod modestia sit solum circa exteriores actiones. Interiores enim motus passionum aliis noti esse non possunt. Sed apostolus, Philipp. IV, mandat ut modestia nostra nota sit omnibus hominibus. Ergo modestia est solum circa exteriores actiones.
+
+@@ II-II q. 160 a. 2 arg. 2
+[45446] IIª-IIae, q. 160 a. 2 arg. 2 Praeterea, virtutes quae sunt circa passiones, distinguuntur a virtute iustitiae, quae est circa operationes. Sed modestia videtur esse una virtus. Si ergo est circa operationes exteriores, non erit circa aliquas interiores passiones.
+
+@@ II-II q. 160 a. 2 arg. 3
+[45447] IIª-IIae, q. 160 a. 2 arg. 3 Praeterea, nulla virtus una et eadem est circa ea quae pertinent ad appetitum, quod est proprium virtutum moralium; et circa ea quae pertinent ad cognitionem, quae est proprie virtutum intellectualium; neque etiam circa ea quae pertinent ad irascibilem, et concupiscibilem. Si ergo modestia est una virtus, non potest esse circa omnia praedicta.
+
+@@ II-II q. 160 a. 2 s. c.
+[45448] IIª-IIae, q. 160 a. 2 s. c. Sed contra, in omnibus praedictis oportet observari modum, a quo modestia dicitur. Ergo circa omnia praedicta est modestia.
+
+@@ II-II q. 160 a. 2 co.
+[45449] IIª-IIae, q. 160 a. 2 co. Respondeo dicendum quod, sicut dictum est, modestia differt a temperantia in hoc quod temperantia est moderativa eorum quae difficillimum est refrenare, modestia autem est moderativa eorum quae in hoc mediocriter se habent. Diversimode autem aliqui de modestia videntur esse locuti. Ubicumque enim consideraverunt aliquam specialem rationem boni vel difficultatis in moderando, illud subtraxerunt modestiae, relinquentes modestiam circa minora. Manifestum est autem omnibus quod refrenatio delectationum tactus specialem quandam difficultatem habet. Unde omnes temperantiam a modestia distinxerunt. Sed praeter hoc, Tullius consideravit quoddam speciale bonum esse in moderatione poenarum. Et ideo etiam clementiam subtraxit modestiae, ponens modestiam circa omnia quae relinquuntur moderanda. Quae quidem videntur esse quatuor. Quorum unum est motus animi ad aliquam excellentiam, quem moderatur humilitas. Secundum autem est desiderium eorum quae pertinent ad cognitionem, et in hoc moderatur studiositas, quae opponitur curiositati. Tertium autem, quod pertinet ad corporales motus et actiones, ut scilicet decenter et honeste fiant, tam in his quae serio, quam in his quae ludo aguntur. Quartum autem est quod pertinet ad exteriorem apparatum, puta in vestibus et aliis huiusmodi. Sed circa quaedam eorum alii posuerunt quasdam speciales virtutes sicut Andronicus mansuetudinem, simplicitatem et humilitatem, et alia huiusmodi, de quibus supra dictum est. Aristoteles etiam circa delectationes ludorum posuit eutrapeliam. Quae omnia continentur sub modestia, secundum quod a Tullio accipitur. Et hoc modo modestia se habet non solum circa exteriores actiones, sed etiam circa interiores.
+
+@@ II-II q. 160 a. 2 ad 1
+[45450] IIª-IIae, q. 160 a. 2 ad 1 Ad primum ergo dicendum quod apostolus loquitur de modestia prout est circa exteriora. Et tamen etiam interiorum moderatio manifestari potest per quaedam exteriora signa.
+
+@@ II-II q. 160 a. 2 ad 2
+[45451] IIª-IIae, q. 160 a. 2 ad 2 Ad secundum dicendum quod sub modestia continentur diversae virtutes, quae a diversis assignantur. Unde nihil prohibet modestiam esse circa ea quae requirunt diversas virtutes. Et tamen non est tanta diversitas inter partes modestiae ad invicem, quanta est iustitiae, quae est circa operationes, ad temperantiam, quae est circa passiones, quia in actionibus et passionibus in quibus non est aliqua excellens difficultas ex parte materiae, sed solum ex parte moderationis, non attenditur virtus nisi una, scilicet secundum rationem moderationis.
+
+@@ II-II q. 160 a. 2 ad 3
+[45452] IIª-IIae, q. 160 a. 2 ad 3 Et per hoc etiam patet responsio ad tertium.

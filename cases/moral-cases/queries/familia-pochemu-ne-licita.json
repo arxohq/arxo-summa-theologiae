@@ -1,0 +1,15 @@
+{
+  "queryId": "familia-pochemu-ne-licita",
+  "kind": "why_not",
+  "literal": {
+    "kind": "literal",
+    "polarity": "positive",
+    "predicate": "urn:la:aquinas:clir:duplex-effectus#defensio_licita",
+    "args": [
+      {
+        "kind": "entity_ref",
+        "id": "urn:example:duplex:actus:familia"
+      }
+    ]
+  }
+}

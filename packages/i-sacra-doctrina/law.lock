@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:b42814636bfa3bd5d8ffac3b59dd93562e0f2461e956b22b44b9ee94e14dcdc0",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:be872101dd383c08bd1a63eaf4ee88111594a8c36e18d73aa67f073463c5b664",
+    "name": "la.aquinas.summa.i_sacra_doctrina",
+    "namespace": "urn:la:aquinas:clir:summa-i-sacra-doctrina",
+    "sourceHash": "sha256:b9a1f537d7f00fb94693e2c043ba29cb9e8dc36ded2bb5d70c3848066aed6b64",
+    "version": "0.1.0"
+  }
+}

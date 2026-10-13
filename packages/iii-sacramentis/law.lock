@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:6eca3432f0ff8eafe569af9e19afb9df237b185c9708f8f347d69dbe17962e89",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:43529d1746a47f89b55e61ab046ee5c760ab7a9df81da50d27be94f4a445c9f1",
+    "name": "la.aquinas.summa.iii_sacramentis",
+    "namespace": "urn:la:aquinas:clir:summa-iii-sacramentis",
+    "sourceHash": "sha256:23fd68cb157745d6332a1c4d7215ffe13d2b5ceca9ee09fb70761facd1792fab",
+    "version": "0.1.0"
+  }
+}

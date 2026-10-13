@@ -1,0 +1,25 @@
+// Словарь трактата I qq. 50-64.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_angelis version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-angelis";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation angel_presented(s: Subject) kind empirical {
+    label la unofficial "angel_presented";
+    label ru unofficial "angel_presented";
+}
+pub relation devil_presented(s: Subject) kind empirical {
+    label la unofficial "devil_presented";
+    label ru unofficial "devil_presented";
+}

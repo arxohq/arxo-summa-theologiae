@@ -1,0 +1,19 @@
+language "law.core" version "0.2";
+package la.aquinas.summa_theologiae_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-theologiae-law";
+
+// Порождённые сценарии-свидетельства каталога вопросов (DECISION-0190):
+// мир выполняет посылки правила, запрос спрашивает его вывод.
+// Собраны corpus/tools/questions_catalog/build_catalog.py по CLIR пакета;
+// правка руками — только вместе с каталогом.
+
+// возражение 1 против ответа I-II q. 94 a. 6
+test "CATALOG-Q94A6OBIECTIO1" {
+    given {
+        context { decision_time @2026-08-25T12:00:00Z; knowledge_time @2026-08-25T12:00:00Z; legal_time @2026-08-25; timezone "Asia/Almaty"; }
+        assert "cat-0": q94_a6_arg1_premise2() { origin case_input; }
+        assert "cat-1": q94_a6_arg1_premise1() { origin case_input; }
+    }
+    evaluate truth(q94_a6_thesis());
+    expect truth_status == TRUE_ONLY;
+}

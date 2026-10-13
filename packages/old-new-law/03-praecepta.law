@@ -1,0 +1,67 @@
+// I-II q. 99–103: виды предписаний; моральные — естественный закон;
+// церемониальные прекращаются во втором статусе.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_old_new_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-old-new-law";
+
+use self::{
+    Law,
+    Precept,
+    ST_I_II_Q100_A1_RESP,
+    ST_I_II_Q103_A3_RESP,
+    ST_I_II_Q99_A3_RESP,
+    after_christ,
+    belongs_to,
+    for_divine_worship,
+    is_old_law,
+    of_natural_law,
+};
+
+enum PreceptKind {
+    Moral;
+    Ceremonial;
+    Judicial;
+    label la official "genus praecepti legis veteris";
+    label ru unofficial "род предписания ветхого закона";
+}
+
+pub relation precept_kind(pr: Precept, k: PreceptKind) kind institutional {
+    label la official "praeceptum hoc genus habet";
+    label ru unofficial "предписание имеет указанный род";
+}
+pub relation ceremonial_ceased(pr: Precept) kind institutional {
+    label la official "caeremoniae primi status cessare debuerunt";
+    label ru unofficial "церемониальные предписания первого статуса прекратились";
+}
+
+@source(ST_I_II_Q99_A3_RESP)
+classification ceremonial_precept(pr: Precept) strict {
+    when for_divine_worship(pr);
+    label la official "illa praecepta quae in lege pertinent ad cultum Dei, caeremonialia dicuntur";
+    label ru unofficial "предписания культа — церемониальные";
+}
+
+@source(ST_I_II_Q99_A3_RESP)
+rule CeremonialKind(pr: Precept) strict {
+    label la official "praecepta ad cultum Dei caeremonialia dicuntur";
+    label ru unofficial "культовое предписание есть церемониальное";
+    when for_divine_worship(pr);
+    then precept_kind(pr, Ceremonial);
+}
+
+@source(ST_I_II_Q100_A1_RESP)
+rule MoralPreceptsAreNatural(pr: Precept) strict {
+    label la official "necesse est quod omnia praecepta moralia pertineant ad legem naturae";
+    label ru unofficial "моральные предписания принадлежат естественному закону";
+    when of_natural_law(pr);
+    then precept_kind(pr, Moral);
+}
+
+@source(ST_I_II_Q103_A3_RESP)
+rule CeremoniesCeaseInNewState(pr: Precept, l: Law) strict {
+    label la official "caeremoniae primi status, veniente secundo statu, cessare debuerunt";
+    label ru unofficial "с наступлением нового закона церемонии ветхого статуса прекращаются";
+    when for_divine_worship(pr) and belongs_to(pr, l) and is_old_law(l) and after_christ(l);
+    then ceremonial_ceased(pr);
+}

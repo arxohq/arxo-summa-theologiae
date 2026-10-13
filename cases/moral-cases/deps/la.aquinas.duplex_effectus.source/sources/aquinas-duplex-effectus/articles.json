@@ -1,0 +1,16 @@
+{
+  "$comment": "Measured units are the two articuli in the concatenated Leonina slice: II-II q.40 a.1 and q.64 a.7. Slice files q40-a1.la.txt and q64-a7.la.txt remain the publication bytes.",
+  "editions": [
+    {
+      "document": "la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "40-1": "@@ II-II q. 40 a. 1 arg. 1",
+        "64-7": "@@ II-II q. 64 a. 7 arg. 1"
+      },
+      "boundaries": [],
+      "declared": {}
+    }
+  ]
+}

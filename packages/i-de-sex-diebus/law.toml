@@ -1,0 +1,32 @@
+[package]
+name = "la.aquinas.summa.i_de_sex_diebus"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-i-de-sex-diebus"
+
+[metadata]
+act = "la-summa-i-de-sex-diebus"
+title = "Фома Аквинский, Summa theologiae I, вопросы 65–74: шесть дней"
+primarySource = "SUMMA_THEOLOGIAE_I_65_74"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.i_de_sex_diebus#authored"
+regression = false
+suites = [
+    "tests/01-corporealcreationfromgod-affirmat.lawtest",
+    "tests/01b-corporealcreationfromgod-negata.lawtest",
+    "tests/02-formlessmatter-affirmat.lawtest",
+    "tests/02b-formlessmatter-negata.lawtest",
+    "tests/03-seventhday-affirmat.lawtest",
+    "tests/03b-seventhday-negata.lawtest"
+]
+world = ["la.aquinas.summa.i_de_sex_diebus"]
+
+[authoring]
+local_imports = "explicit"

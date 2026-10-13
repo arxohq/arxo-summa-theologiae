@@ -1,0 +1,191 @@
+@@ I-II q. 46 pr.
+Deinde considerandum est de ira. Et primo, de ira secundum se; secundo, de causa factiva irae, et remedio eius; tertio, de effectu eius. Circa primum quaeruntur octo. Primo, utrum ira sit passio specialis. Secundo, utrum obiectum irae sit bonum, an malum. Tertio, utrum ira sit in concupiscibili. Quarto, utrum ira sit cum ratione. Quinto, utrum ira sit naturalior quam concupiscentia. Sexto, utrum ira sit gravior quam odium. Septimo, utrum ira solum sit ad illos ad quos est iustitia. Octavo, de speciebus irae.
+
+@@ I-II q. 46 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod ira non sit passio specialis. Ab ira enim denominatur potentia irascibilis. Sed huius potentiae non est una tantum passio, sed multae. Ergo ira non est una passio specialis.
+
+@@ I-II q. 46 a. 1 arg. 2
+Praeterea, cuilibet passioni speciali est aliquid contrarium; ut patet inducenti per singula. Sed irae non est aliqua passio contraria, ut supra dictum est. Ergo ira non est passio specialis.
+
+@@ I-II q. 46 a. 1 arg. 3
+Praeterea, una specialis passio non includit aliam. Sed ira includit multas passiones, est enim cum tristitia, et cum delectatione, et cum spe, ut patet per philosophum, in II Rhetoric. Ergo ira non est passio specialis.
+
+@@ I-II q. 46 a. 1 s. c.
+Sed contra est quod Damascenus ponit iram specialem passionem. Et similiter Tullius, IV de Tusculanis quaest.
+
+@@ I-II q. 46 a. 1 co.
+Respondeo dicendum quod aliquid dicitur generale dupliciter. Uno modo, per praedicationem, sicut animal est generale ad omnia animalia. Alio modo, per causam, sicut sol est causa generalis omnium quae generantur in his inferioribus, secundum Dionysium, in IV cap. de Div. Nom. Sicut enim genus continet multas differentias potestate, secundum similitudinem materiae; ita causa agens continet multos effectus secundum virtutem activam. Contingit autem aliquem effectum ex concursu diversarum causarum produci, et quia omnis causa aliquo modo in effectu manet, potest etiam dici, tertio modo, quod effectus ex congregatione multarum causarum productus, habet quandam generalitatem, inquantum continet multas causas quodammodo in actu. Primo ergo modo, ira non est passio generalis, sed condivisa aliis passionibus, ut supra dictum est. Similiter autem nec secundo modo. Non est enim causa aliarum passionum, sed per hunc modum potest dici generalis passio amor, ut patet per Augustinum, in XIV libro de Civ. Dei; amor enim est prima radix omnium passionum, ut supra dictum est. Sed tertio modo potest ira dici passio generalis, inquantum ex concursu multarum passionum causatur. Non enim insurgit motus irae nisi propter aliquam tristitiam illatam et nisi adsit desiderium et spes ulciscendi, quia, ut philosophus dicit in II Rhetoric., iratus habet spem puniendi; appetit enim vindictam ut sibi possibilem. Unde si fuerit multum excellens persona quae nocumentum intulit, non sequitur ira, sed solum tristitia, ut Avicenna dicit, in libro de anima.
+
+@@ I-II q. 46 a. 1 ad 1
+Ad primum ergo dicendum quod, vis irascibilis denominatur ab ira, non quia omnis motus huius potentiae sit ira, sed quia ad iram terminantur omnes motus huius potentiae; et inter alios eius motus, iste est manifestior.
+
+@@ I-II q. 46 a. 1 ad 2
+Ad secundum dicendum quod ex hoc ipso quod ira causatur ex contrariis passionibus, scilicet a spe, quae est boni, et a tristitia, quae est mali, includit in seipsa contrarietatem, et ideo non habet contrarium extra se. Sicut etiam in mediis coloribus non invenitur contrarietas, nisi quae est simplicium colorum, ex quibus causantur.
+
+@@ I-II q. 46 a. 1 ad 3
+Ad tertium dicendum quod ira includit multas passiones, non quidem sicut genus species, sed magis secundum continentiam causae et effectus.
+
+@@ I-II q. 46 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod obiectum irae sit malum. Dicit enim Gregorius Nyssenus quod ira est quasi armigera concupiscentiae, inquantum scilicet impugnat id quod concupiscentiam impedit. Sed omne impedimentum habet rationem mali. Ergo ira respicit malum tanquam obiectum.
+
+@@ I-II q. 46 a. 2 arg. 2
+Praeterea, ira et odium conveniunt in effectu, utriusque enim est inferre nocumentum alteri. Sed odium respicit malum tanquam obiectum, ut supra dictum est. Ergo etiam et ira.
+
+@@ I-II q. 46 a. 2 arg. 3
+Praeterea, ira causatur ex tristitia, unde philosophus dicit, in VII Ethic., quod ira operatur cum tristitia. Sed tristitiae obiectum est malum. Ergo et irae.
+
+@@ I-II q. 46 a. 2 s. c. 1
+Sed contra est quod Augustinus dicit, in II Confess., quod ira appetit vindictam. Sed appetitus vindictae est appetitus boni, cum vindicta ad iustitiam pertineat. Ergo obiectum irae est bonum.
+
+@@ I-II q. 46 a. 2 s. c. 2
+Praeterea, ira semper est cum spe, unde et delectationem causat, ut dicit philosophus, in II Rhetoric. Sed spei et delectationis obiectum est bonum. Ergo et irae.
+
+@@ I-II q. 46 a. 2 co.
+Respondeo dicendum quod motus appetitivae virtutis sequitur actum virtutis apprehensivae. Vis autem apprehensiva dupliciter aliquid apprehendit, uno modo, per modum incomplexi, sicut cum intelligimus quid est homo; alio modo, per modum complexi, sicut cum intelligimus album inesse homini. Unde utroque modo vis appetitiva potest tendere in bonum et malum. Per modum quidem simplicis et incomplexi, cum appetitus simpliciter sequitur vel inhaeret bono, vel refugit malum. Et tales motus sunt desiderium et spes, delectatio et tristitia, et alia huiusmodi. Per modum autem complexi, sicut cum appetitus fertur in hoc quod aliquod bonum vel malum insit vel fiat circa alterum, vel tendendo in hoc, vel refugiendo ab hoc. Sicut manifeste apparet in amore et odio, amamus enim aliquem, inquantum volumus ei inesse aliquod bonum; odimus autem aliquem, inquantum volumus ei inesse aliquod malum. Et similiter est in ira, quicumque enim irascitur, quaerit vindicari de aliquo. Et sic motus irae tendit in duo, scilicet in ipsam vindictam, quam appetit et sperat sicut quoddam bonum, unde et de ipsa delectatur, tendit etiam in illum de quo quaerit vindictam, sicut in contrarium et nocivum, quod pertinet ad rationem mali. Est tamen duplex differentia attendenda circa hoc, irae ad odium et ad amorem. Quarum prima est, quod ira semper respicit duo obiecta, amor vero et odium quandoque respiciunt unum obiectum tantum, sicut cum dicitur aliquis amare vinum vel aliquid huiusmodi, aut etiam odire. Secunda est, quia utrumque obiectorum quod respicit amor, est bonum, vult enim amans bonum alicui, tanquam sibi convenienti. Utrumque vero eorum quae respicit odium, habet rationem mali, vult enim odiens malum alicui, tamquam cuidam inconvenienti. Sed ira respicit unum obiectum secundum rationem boni, scilicet vindictam, quam appetit, et aliud secundum rationem mali, scilicet hominem nocivum, de quo vult vindicari. Et ideo est passio quodammodo composita ex contrariis passionibus.
+
+@@ I-II q. 46 a. 2 ad arg.
+Et per hoc patet responsio ad obiecta.
+
+@@ I-II q. 46 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod ira sit in concupiscibili. Dicit enim Tullius, in IV de Tusculanis quaest., quod ira est libido quaedam. Sed libido est in concupiscibili. Ergo et ira.
+
+@@ I-II q. 46 a. 3 arg. 2
+Praeterea, Augustinus dicit, in regula, quod ira crescit in odium. Et Tullius dicit, in eodem libro, quod odium est ira inveterata. Sed odium est in concupiscibili, sicut amor. Ergo ira est in concupiscibili.
+
+@@ I-II q. 46 a. 3 arg. 3
+Praeterea, Damascenus et Gregorius Nyssenus dicunt quod ira componitur ex tristitia et desiderio. Sed utrumque horum est in concupiscibili. Ergo ira est in concupiscibili.
+
+@@ I-II q. 46 a. 3 s. c.
+Sed contra, vis concupiscibilis est alia ab irascibili. Si igitur ira esset in concupiscibili, non denominaretur ab ea vis irascibilis.
+
+@@ I-II q. 46 a. 3 co.
+Respondeo dicendum quod, sicut supra dictum est, passiones irascibilis in hoc differunt a passionibus concupiscibilis, quod obiecta passionum concupiscibilis sunt bonum et malum absolute; obiecta autem passionum irascibilis sunt bonum et malum cum quadam elevatione vel arduitate. Dictum est autem quod ira respicit duo obiecta, scilicet vindictam, quam appetit; et eum de quo vindictam quaerit. Et circa utrumque quandam arduitatem ira requirit, non enim insurgit motus irae, nisi aliqua magnitudine circa utrumque existente; quaecumque enim nihil sunt, aut modica valde nullo digna aestimamus, ut dicit philosophus, in II Rhetoric. Unde manifestum est quod ira non est in concupiscibili, sed in irascibili.
+
+@@ I-II q. 46 a. 3 ad 1
+Ad primum ergo dicendum quod Tullius libidinem nominat appetitum cuiuscumque boni futuri non habita discretione ardui vel non ardui. Et secundum hoc, ponit iram sub libidine, inquantum est appetitus vindictae. Sic autem libido communis est ad irascibilem et concupiscibilem.
+
+@@ I-II q. 46 a. 3 ad 2
+Ad secundum dicendum quod ira dicitur crescere in odium, non quod eadem numero passio quae prius fuit ira, postmodum fiat odium per quandam inveterationem, sed per quandam causalitatem. Ira enim, per diuturnitatem, causat odium.
+
+@@ I-II q. 46 a. 3 ad 3
+Ad tertium dicendum quod ira dicitur componi ex tristitia et desiderio, non sicut ex partibus, sed sicut ex causis. Dictum est autem supra quod passiones concupiscibilis sunt causae passionum irascibilis.
+
+@@ I-II q. 46 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod ira non sit cum ratione. Ira enim, cum sit passio quaedam, est in appetitu sensitivo. Sed appetitus sensitivus non sequitur rationis apprehensionem, sed sensitivae partis. Ergo ira non est cum ratione.
+
+@@ I-II q. 46 a. 4 arg. 2
+Praeterea, animalia bruta carent ratione. Et tamen in eis invenitur ira. Ergo ira non est cum ratione.
+
+@@ I-II q. 46 a. 4 arg. 3
+Praeterea, ebrietas ligat rationem. Adiuvat autem ad iram. Ergo ira non est cum ratione.
+
+@@ I-II q. 46 a. 4 s. c.
+Sed contra est quod philosophus dicit, in VII Ethic., quod ira consequitur rationem aliqualiter.
+
+@@ I-II q. 46 a. 4 co.
+Respondeo dicendum quod, sicut supra dictum est, ira est appetitus vindictae. Haec autem collationem importat poenae infligendae ad nocumentum sibi illatum, unde, in VII Ethic., dicit philosophus quod syllogizans quoniam oportet talem oppugnare, irascitur confestim. Conferre autem et syllogizare est rationis. Et ideo ira est quodammodo cum ratione.
+
+@@ I-II q. 46 a. 4 ad 1
+Ad primum ergo dicendum quod motus appetitivae virtutis potest esse cum ratione dupliciter. Uno modo, cum ratione praecipiente, et sic voluntas est cum ratione; unde et dicitur appetitus rationalis. Alio modo, cum ratione denuntiante, et sic ira est cum ratione. Dicit enim philosophus, in libro de Problemat., quod ira est cum ratione, non sicut praecipiente ratione, sed ut manifestante iniuriam. Appetitus enim sensitivus immediate rationi non obedit, sed mediante voluntate.
+
+@@ I-II q. 46 a. 4 ad 2
+Ad secundum dicendum quod bruta animalia habent instinctum naturalem ex divina ratione eis inditum, per quem habent motus interiores et exteriores similes motibus rationis, sicut supra dictum est.
+
+@@ I-II q. 46 a. 4 ad 3
+Ad tertium dicendum quod, sicut dicitur in VII Ethic., ira audit aliqualiter rationem, sicut nuntiantem quod iniuriatum est ei, sed non perfecte audit, quia non observat regulam rationis in rependendo vindictam. Ad iram ergo requiritur aliquis actus rationis; et additur impedimentum rationis. Unde philosophus dicit, in libro de Problemat., quod illi qui sunt multum ebrii, tanquam nihil habentes de iudicio rationis, non irascuntur, sed quando sunt parum ebrii, irascuntur, tanquam habentes iudicium rationis, sed impeditum.
+
+@@ I-II q. 46 a. 5 arg. 1
+Ad quintum sic proceditur. Videtur quod ira non sit naturalior quam concupiscentia. Proprium enim hominis dicitur quod sit animal mansuetum natura. Sed mansuetudo opponitur irae, ut dicit philosophus, in II Rhetoric. Ergo ira non est naturalior quam concupiscentia, sed omnino videtur esse contra hominis naturam.
+
+@@ I-II q. 46 a. 5 arg. 2
+Praeterea, ratio contra naturam dividitur, ea enim quae secundum rationem agunt, non dicimus secundum naturam agere. Sed ira est cum ratione, concupiscentia autem sine ratione, ut dicitur in VII Ethic. Ergo concupiscentia est naturalior quam ira.
+
+@@ I-II q. 46 a. 5 arg. 3
+Praeterea, ira est appetitus vindictae, concupiscentia autem maxime est appetitus delectabilium secundum tactum, scilicet ciborum et venereorum. Haec autem sunt magis naturalia homini quam vindicta. Ergo concupiscentia est naturalior quam ira.
+
+@@ I-II q. 46 a. 5 s. c.
+Sed contra est quod philosophus dicit, in VII Ethic., quod ira est naturalior quam concupiscentia.
+
+@@ I-II q. 46 a. 5 co.
+Respondeo dicendum quod naturale dicitur illud quod causatur a natura, ut patet in II Physic. Unde utrum aliqua passio sit magis vel minus naturalis, considerari non potest nisi ex causa sua. Causa autem passionis, ut supra dictum est, dupliciter accipi potest, uno modo, ex parte obiecti; alio modo, ex parte subiecti. Si ergo consideretur causa irae et concupiscentiae ex parte obiecti, sic concupiscentia, et maxime ciborum et venereorum, naturalior est quam ira, inquantum ista sunt magis naturalia quam vindicta. Si autem consideretur causa irae ex parte subiecti, sic quodammodo ira est naturalior, et quodammodo concupiscentia. Potest enim natura alicuius hominis considerari vel secundum naturam generis, vel secundum naturam speciei, vel secundum complexionem propriam individui. Si igitur consideretur natura generis, quae est natura huius hominis inquantum est animal; sic naturalior est concupiscentia quam ira, quia ex ipsa natura communi habet homo quandam inclinationem ad appetendum ea quae sunt conservativa vitae, vel secundum speciem vel secundum individuum. Si autem consideremus naturam hominis ex parte speciei, scilicet inquantum est rationalis; sic ira est magis naturalis homini quam concupiscentia, inquantum ira est cum ratione magis quam concupiscentia. Unde philosophus dicit, in IV Ethic., quod humanius est punire, quod pertinet ad iram, quam mansuetum esse, unumquodque enim naturaliter insurgit contra contraria et nociva. Si vero consideretur natura huius individui secundum propriam complexionem, sic ira naturalior est quam concupiscentia, quia scilicet habitudinem naturalem ad irascendum, quae est ex complexione, magis de facili sequitur ira, quam concupiscentia vel aliqua alia passio. Est enim homo dispositus ad irascendum, secundum quod habet cholericam complexionem, cholera autem, inter alios humores, citius movetur; assimilatur enim igni. Et ideo magis est in promptu ut ille qui est dispositus secundum naturalem complexionem ad iram, irascatur; quam de eo qui est dispositus ad concupiscendum, quod concupiscat. Et propter hoc philosophus dicit, in VII Ethic., quod ira magis traducitur a parentibus in filios, quam concupiscentia.
+
+@@ I-II q. 46 a. 5 ad 1
+Ad primum ergo dicendum quod in homine considerari potest et naturalis complexio ex parte corporis, quae est temperata; et ipsa ratio. Ex parte igitur complexionis corporalis, naturaliter homo, secundum suam speciem, est non habens superexcellentiam neque irae neque alicuius alterius passionis, propter temperamentum suae complexionis. Alia vero animalia, secundum quod recedunt ab hac qualitate complexionis ad dispositionem alicuius complexionis extremae, secundum hoc etiam naturaliter disponuntur ad excessum alicuius passionis, ut leo ad audaciam, canis ad iram, lepus ad timorem, et sic de aliis. Ex parte vero rationis, est naturale homini et irasci et mansuetum esse, secundum quod ratio quodammodo causat iram, inquantum nuntiat causam irae; et quodammodo sedat iram, inquantum iratus non totaliter audit imperium rationis, ut supra dictum est.
+
+@@ I-II q. 46 a. 5 ad 2
+Ad secundum dicendum quod ipsa ratio pertinet ad naturam hominis. Unde ex hoc ipso quod ira est cum ratione, sequitur quod secundum aliquem modum sit homini naturalis.
+
+@@ I-II q. 46 a. 5 ad 3
+Ad tertium dicendum quod ratio illa procedit de ira et concupiscentia, ex parte obiecti.
+
+@@ I-II q. 46 a. 6 arg. 1
+Ad sextum sic proceditur. Videtur quod ira sit gravior quam odium. Dicitur enim Prov. XXVII, quod ira non habet misericordiam, nec erumpens furor. Odium autem quandoque habet misericordiam. Ergo ira est gravior quam odium.
+
+@@ I-II q. 46 a. 6 arg. 2
+Praeterea, maius est pati malum et de malo dolere, quam simpliciter pati. Sed illi qui habet aliquem odio, sufficit quod ille quem odit, patiatur malum, irato autem non sufficit, sed quaerit quod cognoscat illud et de illo doleat, ut dicit philosophus, in II Rhetoric. Ergo ira est gravior quam odium.
+
+@@ I-II q. 46 a. 6 arg. 3
+Praeterea, quanto ad constitutionem alicuius plura concurrunt, tanto videtur esse stabilius, sicut habitus permanentior est qui ex pluribus actibus causatur. Sed ira causatur ex concursu plurium passionum, ut supra dictum est, non autem odium. Ergo ira est stabilior et gravior quam odium.
+
+@@ I-II q. 46 a. 6 s. c.
+Sed contra est quod Augustinus, in regula, odium comparat trabi, iram vero festucae.
+
+@@ I-II q. 46 a. 6 co.
+Respondeo dicendum quod species passionis, et ratio ipsius, ex obiecto pensatur. Est autem obiectum irae et odii idem subiecto, nam sicut odiens appetit malum ei quem odit, ita iratus ei contra quem irascitur. Sed non eadem ratione, sed odiens appetit malum inimici, inquantum est malum; iratus autem appetit malum eius contra quem irascitur, non inquantum est malum, sed inquantum habet quandam rationem boni, scilicet prout aestimat illud esse iustum, inquantum est vindicativum. Unde etiam supra dictum est quod odium est per applicationem mali ad malum; ira autem per applicationem boni ad malum. Manifestum est autem quod appetere malum sub ratione iusti, minus habet de ratione mali quam velle malum alicuius simpliciter. Velle enim malum alicuius sub ratione iusti, potest esse etiam secundum virtutem iustitiae, si praecepto rationis obtemperetur, sed ira in hoc solum deficit, quod non obedit rationis praecepto in ulciscendo. Unde manifestum est quod odium est multo deterius et gravius quam ira.
+
+@@ I-II q. 46 a. 6 ad 1
+Ad primum ergo dicendum quod in ira et odio duo possunt considerari, scilicet ipsum quod desideratur, et intensio desiderii. Quantum igitur ad id quod desideratur, ira habet magis misericordiam quam odium. Quia enim odium appetit malum alterius secundum se, nulla mensura mali satiatur, ea enim quae secundum se appetuntur, sine mensura appetuntur, ut philosophus dicit I Politic., sicut avarus divitias. Unde dicitur Eccli. XII, inimicus si invenerit tempus, non satiabitur sanguine. Sed ira non appetit malum nisi sub ratione iusti vindicativi. Unde quando malum illatum excedit mensuram iustitiae, secundum aestimationem irascentis, tunc miseretur. Unde philosophus dicit, in II Rhetoric., quod iratus, si fiant multa, miserebitur, odiens autem pro nullo. Quantum vero ad intensionem desiderii, ira magis excludit misericordiam quam odium, quia motus irae est impetuosior, propter cholerae inflammationem. Unde statim subditur, impetum concitati spiritus ferre quis poterit?
+
+@@ I-II q. 46 a. 6 ad 2
+Ad secundum dicendum quod, sicut dictum est, iratus appetit malum alicuius, inquantum habet rationem iusti vindicativi. Vindicta autem fit per illationem poenae. Est autem de ratione poenae quod sit contraria voluntati, et quod sit afflictiva, et quod pro aliqua culpa inferatur. Et ideo iratus hoc appetit, ut ille cui nocumentum infert, percipiat, et doleat, et quod cognoscat propter iniuriam illatam sibi hoc provenire. Sed odiens de hoc nihil curat, quia appetit malum alterius inquantum huiusmodi. Non est autem verum quod id de quo quis tristatur, sit peius, iniustitia enim et imprudentia, cum sint mala, quia tamen sunt voluntaria, non contristant eos quibus insunt, ut dicit philosophus, in II Rhetoric.
+
+@@ I-II q. 46 a. 6 ad 3
+Ad tertium dicendum quod id quod ex pluribus causis causatur, tunc est stabilius, quando causae accipiuntur unius rationis, sed una causa potest praevalere multis aliis. Odium autem provenit ex permanentiori causa quam ira. Nam ira provenit ex aliqua commotione animi propter laesionem illatam, sed odium procedit ex aliqua dispositione hominis, secundum quam reputat sibi contrarium et nocivum id quod odit. Et ideo sicut passio citius transit quam dispositio vel habitus, ita ira citius transit quam odium; quamvis etiam odium sit passio ex tali dispositione proveniens. Et propter hoc philosophus dicit, in II Rhetoric., quod odium est magis insanabile quam ira.
+
+@@ I-II q. 46 a. 7 arg. 1
+Ad septimum sic proceditur. Videtur quod ira non solum sit ad illos ad quos est iustitia. Non enim est iustitia hominis ad res irrationales. Sed tamen homo quandoque irascitur rebus irrationalibus, puta cum scriptor ex ira proiicit pennam, vel eques percutit equum. Ergo ira non solum est ad illos ad quos est iustitia.
+
+@@ I-II q. 46 a. 7 arg. 2
+Praeterea, non est iustitia hominis ad seipsum, nec ad ea quae sui ipsius sunt, ut dicitur in V Ethic. Sed homo quandoque sibi ipsi irascitur, sicut poenitens propter peccatum, unde dicitur in Psalmo IV, irascimini, et nolite peccare. Ergo ira non solum est ad quos est iustitia.
+
+@@ I-II q. 46 a. 7 arg. 3
+Praeterea, iustitia et iniustitia potest esse alicuius ad totum aliquod genus, vel ad totam aliquam communitatem, puta cum civitas aliquem laesit. Sed ira non est ad aliquod genus, sed solum ad aliquod singularium, ut dicit philosophus, in II Rhetoric. Ergo ira non proprie est ad quos est iustitia et iniustitia.
+
+@@ I-II q. 46 a. 7 s. c.
+Sed contrarium accipi potest a philosopho in II Rhetoric.
+
+@@ I-II q. 46 a. 7 co.
+Respondeo dicendum quod, sicut supra dictum est, ira appetit malum, inquantum habet rationem iusti vindicativi. Et ideo ad eosdem est ira, ad quos est iustitia et iniustitia. Nam inferre vindictam ad iustitiam pertinet, laedere autem aliquem pertinet ad iniustitiam. Unde tam ex parte causae, quae est laesio illata ab altero; quam etiam ex parte vindictae, quam appetit iratus; manifestum est quod ad eosdem pertinet ira, ad quos iustitia et iniustitia.
+
+@@ I-II q. 46 a. 7 ad 1
+Ad primum ergo dicendum quod, sicut supra dictum est, ira, quamvis sit cum ratione, potest tamen etiam esse in brutis animalibus, quae ratione carent, inquantum naturali instinctu per imaginationem moventur ad aliquid simile operibus rationis. Sic igitur, cum in homine sit et ratio et imaginatio, dupliciter in homine potest motus irae insurgere. Uno modo, ex sola imaginatione nuntiante laesionem. Et sic insurgit aliquis motus irae etiam ad res irrationales et inanimatas, secundum similitudinem illius motus qui est in animalibus contra quodlibet nocivum. Alio modo, ex ratione nuntiante laesionem. Et sic, ut philosophus dicit II Rhetoric., nullo modo potest esse ira ad res insensibiles, neque ad mortuos. Tum quia non dolent, quod maxime quaerunt irati in eis quibus irascuntur. Tum etiam quia non est ad eos vindicta, cum eorum non sit iniuriam facere.
+
+@@ I-II q. 46 a. 7 ad 2
+Ad secundum dicendum quod, sicut philosophus dicit in V Ethic., quaedam metaphorica iustitia et iniustitia est hominis ad seipsum, inquantum scilicet ratio regit irascibilem et concupiscibilem. Et secundum hoc etiam homo dicitur de seipso vindictam facere, et per consequens sibi ipsi irasci. Proprie autem et per se, non contingit aliquem sibi ipsi irasci.
+
+@@ I-II q. 46 a. 7 ad 3
+Ad tertium dicendum quod philosophus, in II Rhetoric., assignat unam differentiam inter odium et iram, quod odium potest esse ad aliquod genus, sicut habemus odio omne latronum genus, sed ira non est nisi ad aliquod singulare. Cuius ratio est, quia odium causatur ex hoc quod qualitas alicuius rei apprehenditur ut dissonans nostrae dispositioni, et hoc potest esse vel in universali, vel in particulari. Sed ira causatur ex hoc quod aliquis nos laesit per suum actum. Actus autem omnes sunt singularium. Et ideo ira semper est circa aliquod singulare. Cum autem tota civitas nos laeserit, tota civitas computatur sicut unum singulare.
+
+@@ I-II q. 46 a. 8 arg. 1
+Ad octavum sic proceditur. Videtur quod Damascenus inconvenienter assignet tres species irae, scilicet fel, maniam et furorem. Nullius enim generis species diversificantur secundum aliquod accidens. Sed ista tria diversificantur secundum aliquod accidens, principium enim motus irae fel vocatur; ira autem permanens dicitur mania; furor autem est ira observans tempus in vindictam. Ergo non sunt diversae species irae.
+
+@@ I-II q. 46 a. 8 arg. 2
+Praeterea, Tullius, in IV de Tusculanis quaest., dicit quod excandescentia Graece dicitur thymosis; et est ira modo nascens et modo desistens. Thymosis autem secundum Damascenum, est idem quod furor. Non ergo furor tempus quaerit ad vindictam, sed tempore deficit.
+
+@@ I-II q. 46 a. 8 arg. 3
+Praeterea, Gregorius, XXI Moral., ponit tres gradus irae, scilicet iram sine voce, et iram cum voce, et iram cum verbo expresso, secundum illa tria quae dominus ponit Matth. V, qui irascitur fratri suo, ubi tangitur ira sine voce; et postea subdit, qui dixerit fratri suo, raca, ubi tangitur ira cum voce, sed necdum pleno verbo formata; et postea dicit, qui autem dixerit fratri suo, fatue, ubi expletur vox perfectione sermonis. Ergo insufficienter divisit Damascenus iram, nihil ponens ex parte vocis.
+
+@@ I-II q. 46 a. 8 s. c.
+Sed contra est auctoritas Damasceni et Gregorii Nysseni.
+
+@@ I-II q. 46 a. 8 co.
+Respondeo dicendum quod tres species irae quas Damascenus ponit, et etiam Gregorius Nyssenus, sumuntur secundum ea quae dant irae aliquod augmentum. Quod quidem contingit tripliciter. Uno modo, ex facilitate ipsius motus, et talem iram vocat fel, quia cito accenditur. Alio modo, ex parte tristitiae causantis iram, quae diu in memoria manet, et haec pertinet ad maniam, quae a manendo dicitur. Tertio, ex parte eius quod iratus appetit, scilicet vindictae, et haec pertinet ad furorem, qui nunquam quiescit donec puniat. Unde philosophus, in IV Ethic., quosdam irascentium vocat acutos, quia cito irascuntur; quosdam amaros, quia diu retinent iram; quosdam difficiles, quia nunquam quiescunt nisi puniant.
+
+@@ I-II q. 46 a. 8 ad 1
+Ad primum ergo dicendum quod omnia illa per quae ira recipit aliquam perfectionem, non omnino per accidens se habent ad iram. Et ideo nihil prohibet secundum ea species irae assignari.
+
+@@ I-II q. 46 a. 8 ad 2
+Ad secundum dicendum quod excandescentia, quam Tullius ponit, magis videtur pertinere ad primam speciem irae, quae perficitur secundum velocitatem irae, quam ad furorem. Nihil autem prohibet ut thymosis Graece, quod Latine furor dicitur, utrumque importet, et velocitatem ad irascendum et firmitatem propositi ad puniendum.
+
+@@ I-II q. 46 a. 8 ad 3
+Ad tertium dicendum quod gradus illi irae distinguuntur secundum effectum irae, non autem secundum diversam perfectionem ipsius motus irae.

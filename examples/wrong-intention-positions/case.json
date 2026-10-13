@@ -1,0 +1,110 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:09740b04ab1704d74c9fa997c06c82c4c85b5872b484fb82e1c2fed161571598",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#presented",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:bellum:cupiditas",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#presented_bellum"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:97d958153cfe5922204bf9369c3647f86f3eea8be795383653b3990200f96129",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#princeps",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:bellum:cupiditas",
+            "kind": "entity_ref"
+          },
+          {
+            "id": "urn:example:duplex:persona:princeps",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#bellum_a_principe"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:c137db2631f4ed2adce06028e90e8e2a50ac65e521cbe5e6b8586597fbc41ad3",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#auctoritas",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:bellum:cupiditas",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#auctoritas_principis"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:cc143263638b866a2636eb2829c73294616789179b6074ae56e2a81ddeb7e1ef",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#causa",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:bellum:cupiditas",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#causa_iusta"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    },
+    {
+      "contentHash": "sha256:5ec525dd57e35fec000980e6782026295658aa1947c724224cb9a11da7514a63",
+      "evidence": [],
+      "id": "urn:law:examples:aquinas:moral-cases#prava",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:example:duplex:bellum:cupiditas",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "negative",
+        "predicate": "urn:la:aquinas:clir:duplex-effectus#intentio_recta"
+      },
+      "origin": "case_input",
+      "package": "urn:law:examples:aquinas:moral-cases"
+    }
+  ],
+  "context": {
+    "decisionTime": "1270-06-01T12:00:00Z",
+    "knowledgeTime": "1270-06-01T12:00:00Z",
+    "legalTime": "1270-06-01",
+    "timezone": "UTC"
+  },
+  "options": {}
+}

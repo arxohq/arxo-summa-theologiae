@@ -1,0 +1,26 @@
+// q.90 a.4: определение — ровно четыре совместно необходимые проверяемые
+// условия. `exact` даёт достаточность конъюнкции и необходимость каждого
+// условия без контрапозиции (§151).
+
+language "law.core" version "0.2";
+package la.aquinas.summa_theologiae_law version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-theologiae-law";
+
+use self::{
+    ST_Q90_A4_RESP,
+    issued_by_caretaker_of_community,
+    ordered_to_common_good,
+    ordinance_of_reason,
+    promulgated,
+};
+
+@source(ST_Q90_A4_RESP)
+definition is_law(l: Law) exact {
+    label la official "quaedam rationis ordinatio ad bonum commune, ab eo qui curam communitatis habet, promulgata";
+    label ru unofficial "закон есть распоряжение разума для общего блага, изданное попечителем сообщества и обнародованное";
+    when ordinance_of_reason(l)
+        and ordered_to_common_good(l)
+        and issued_by_caretaker_of_community(l)
+        and promulgated(l);
+}
+

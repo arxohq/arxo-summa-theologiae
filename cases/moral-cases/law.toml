@@ -1,0 +1,40 @@
+# Учебные дела над II-II q. 64 a. 7 и q. 40 a. 1: нормы остаются у канона.
+[package]
+name = "examples.aquinas.moral_cases"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:law:examples:aquinas:moral-cases"
+
+[dependencies]
+"la.aquinas.duplex_effectus" = "0.1.0"
+
+[[cases]]
+name = "ViatorContraLatronem"
+path = "cases/01-viator-contra-latronem.lawcase"
+
+[[cases]]
+name = "FamiliaNocte"
+path = "cases/02-familia-nocte.lawcase"
+
+[[cases]]
+name = "MilesContraHostes"
+path = "cases/03-miles-contra-hostes.lawcase"
+
+[[cases]]
+name = "PrincepsCupiditas"
+path = "cases/04-princeps-cupiditas.lawcase"
+
+[[cases]]
+name = "ViatorSineModeramine"
+path = "cases/05-viator-sine-moderamine.lawcase"
+
+[[cases]]
+name = "PrincepsBellumIustum"
+path = "cases/06-princeps-bellum-iustum.lawcase"
+
+[metadata]
+act = "la-aquinas-duplex-effectus-examples-moral-cases"
+title = "Учебные дела: самооборона путника, мера защиты, воин и намерение государя"
+
+[authoring]
+local_imports = "explicit"

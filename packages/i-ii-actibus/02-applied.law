@@ -1,0 +1,84 @@
+// Прикладной канон respondeo I-II qq. 6-21.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_actibus version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-actibus";
+
+use self::{
+    ST_I_II_Q18_A1_RESP,
+    ST_I_II_Q19_A1_RESP,
+    ST_I_II_Q21_A1_RESP,
+    ST_I_II_Q6_A1_RESP,
+    ST_I_II_Q7_A1_RESP,
+    Subject,
+    act_presented,
+    human_act_presented,
+    object_presented,
+    presented,
+};
+
+pub relation act_voluntary(s: Subject) kind institutional {
+    label la official "aliqui actus hominis sunt voluntarii";
+    label ru unofficial "некоторые акты человека добровольны";
+}
+
+@source(ST_I_II_Q6_A1_RESP)
+rule SomeActsVoluntary(s: Subject) strict {
+    label la official "aliqui actus hominis sunt voluntarii";
+    label ru unofficial "некоторые акты человека добровольны";
+    when presented(s) and human_act_presented(s);
+    then act_voluntary(s);
+}
+
+pub relation circumstances_belong(s: Subject) kind institutional {
+    label la official "circumstantiae pertinent ad actus humanos";
+    label ru unofficial "обстоятельства относятся к человеческим актам";
+}
+
+@source(ST_I_II_Q7_A1_RESP)
+rule CircumstancesBelong(s: Subject) strict {
+    label la official "circumstantiae pertinent ad actus humanos";
+    label ru unofficial "обстоятельства относятся к человеческим актам";
+    when presented(s) and act_presented(s);
+    then circumstances_belong(s);
+}
+
+pub relation act_moral(s: Subject) kind institutional {
+    label la official "actus humani boni vel mali sunt";
+    label ru unofficial "человеческие акты суть добрые или злые";
+}
+
+@source(ST_I_II_Q18_A1_RESP)
+rule ActsGoodOrEvil(s: Subject) strict {
+    label la official "actus humani boni vel mali sunt";
+    label ru unofficial "человеческие акты суть добрые или злые";
+    when presented(s) and human_act_presented(s);
+    then act_moral(s);
+}
+
+pub relation will_from_object(s: Subject) kind institutional {
+    label la official "bonitas voluntatis dependet ex obiecto";
+    label ru unofficial "доброта воли зависит от объекта";
+}
+
+@source(ST_I_II_Q19_A1_RESP)
+rule WillGoodFromObject(s: Subject) strict {
+    label la official "bonitas voluntatis dependet ex obiecto";
+    label ru unofficial "доброта воли зависит от объекта";
+    when presented(s) and object_presented(s);
+    then will_from_object(s);
+}
+
+pub relation act_right_or_sinful(s: Subject) kind institutional {
+    label la official "actus humanus rectus vel peccatum est";
+    label ru unofficial "человеческий акт прав или есть грех";
+}
+
+@source(ST_I_II_Q21_A1_RESP)
+rule ActRightOrSinful(s: Subject) strict {
+    label la official "actus humanus rectus vel peccatum est";
+    label ru unofficial "человеческий акт прав или есть грех";
+    when presented(s) and human_act_presented(s);
+    then act_right_or_sinful(s);
+}
+

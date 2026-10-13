@@ -1,0 +1,19 @@
+language "law.core" version "0.2";
+package la.aquinas.summa.iii_vita_christi version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-iii-vita-christi";
+
+test "urn:query:iii-vita-christi-resurrectionnecessary-negata" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "p": presented(entity_ref("urn:case:st:iii_vita_christi:s")) { origin case_input; }
+    }
+    evaluate truth(resurrection_fitting(entity_ref("urn:case:st:iii_vita_christi:s")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == NEITHER;
+    expect evaluation_status == COMPUTED;
+}

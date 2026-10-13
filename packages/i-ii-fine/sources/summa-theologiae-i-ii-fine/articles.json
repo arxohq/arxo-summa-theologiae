@@ -1,0 +1,105 @@
+{
+  "$comment": "Completeness is measured by author-numbered articuli of I-II qq. 1-5.",
+  "editions": [
+    {
+      "document": "q1.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "1-1": "@@ I-II q. 1 a. 1 arg. 1",
+        "1-2": "@@ I-II q. 1 a. 2 arg. 1",
+        "1-3": "@@ I-II q. 1 a. 3 arg. 1",
+        "1-4": "@@ I-II q. 1 a. 4 arg. 1",
+        "1-5": "@@ I-II q. 1 a. 5 arg. 1",
+        "1-6": "@@ I-II q. 1 a. 6 arg. 1",
+        "1-7": "@@ I-II q. 1 a. 7 arg. 1",
+        "1-8": "@@ I-II q. 1 a. 8 arg. 1"
+      },
+      "boundaries": [
+        "@@ I-II q. 1 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q2.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "2-1": "@@ I-II q. 2 a. 1 arg. 1",
+        "2-2": "@@ I-II q. 2 a. 2 arg. 1",
+        "2-3": "@@ I-II q. 2 a. 3 arg. 1",
+        "2-4": "@@ I-II q. 2 a. 4 arg. 1",
+        "2-5": "@@ I-II q. 2 a. 5 arg. 1",
+        "2-6": "@@ I-II q. 2 a. 6 arg. 1",
+        "2-7": "@@ I-II q. 2 a. 7 arg. 1",
+        "2-8": "@@ I-II q. 2 a. 8 arg. 1"
+      },
+      "boundaries": [
+        "@@ I-II q. 2 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q3.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "3-1": "@@ I-II q. 3 a. 1 arg. 1",
+        "3-2": "@@ I-II q. 3 a. 2 arg. 1",
+        "3-3": "@@ I-II q. 3 a. 3 arg. 1",
+        "3-4": "@@ I-II q. 3 a. 4 arg. 1",
+        "3-5": "@@ I-II q. 3 a. 5 arg. 1",
+        "3-6": "@@ I-II q. 3 a. 6 arg. 1",
+        "3-7": "@@ I-II q. 3 a. 7 arg. 1",
+        "3-8": "@@ I-II q. 3 a. 8 arg. 1"
+      },
+      "boundaries": [
+        "@@ I-II q. 3 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q4.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "4-1": "@@ I-II q. 4 a. 1 arg. 1",
+        "4-2": "@@ I-II q. 4 a. 2 arg. 1",
+        "4-3": "@@ I-II q. 4 a. 3 arg. 1",
+        "4-4": "@@ I-II q. 4 a. 4 arg. 1",
+        "4-5": "@@ I-II q. 4 a. 5 arg. 1",
+        "4-6": "@@ I-II q. 4 a. 6 arg. 1",
+        "4-7": "@@ I-II q. 4 a. 7 arg. 1",
+        "4-8": "@@ I-II q. 4 a. 8 arg. 1"
+      },
+      "boundaries": [
+        "@@ I-II q. 4 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    },
+    {
+      "document": "q5.la.txt",
+      "scope": "whole",
+      "unit": "named_section",
+      "headings": {
+        "5-1": "@@ I-II q. 5 a. 1 arg. 1",
+        "5-2": "@@ I-II q. 5 a. 2 arg. 1",
+        "5-3": "@@ I-II q. 5 a. 3 arg. 1",
+        "5-4": "@@ I-II q. 5 a. 4 arg. 1",
+        "5-5": "@@ I-II q. 5 a. 5 arg. 1",
+        "5-6": "@@ I-II q. 5 a. 6 arg. 1",
+        "5-7": "@@ I-II q. 5 a. 7 arg. 1",
+        "5-8": "@@ I-II q. 5 a. 8 arg. 1"
+      },
+      "boundaries": [
+        "@@ I-II q. 5 pr."
+      ],
+      "boundaries_note": "Quaestio prooemia describe the plan; articuli are the measured units.",
+      "declared": {}
+    }
+  ]
+}

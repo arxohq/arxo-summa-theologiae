@@ -1,0 +1,22 @@
+language "law.core" version "0.2";
+package examples.aquinas.moral_cases version "0.1.0";
+namespace "urn:law:examples:aquinas:moral-cases";
+
+// Воин поражает неприятеля, относя это к общему благу, без частной страсти.
+case MilesContraHostes {
+    context {
+        legal_time @1270-06-01;
+        knowledge_time @1270-06-01T12:00:00Z;
+        decision_time @1270-06-01T12:00:00Z;
+        timezone "UTC";
+    }
+
+    assert "presented": la.aquinas.duplex_effectus::presented_actus(entity_ref("urn:example:duplex:actus:miles")) { origin case_input; }
+    assert "defensor": la.aquinas.duplex_effectus::defensor(entity_ref("urn:example:duplex:actus:miles"), entity_ref("urn:example:duplex:persona:miles")) { origin case_input; }
+    assert "vis": la.aquinas.duplex_effectus::vis_illata(entity_ref("urn:example:duplex:actus:miles")) { origin case_input; }
+    assert "moderamen": la.aquinas.duplex_effectus::vis_moderata(entity_ref("urn:example:duplex:actus:miles")) { origin adjudicated; }
+    assert "minister": la.aquinas.duplex_effectus::publicus_minister(entity_ref("urn:example:duplex:persona:miles")) { origin case_input; }
+    assert "intentio": la.aquinas.duplex_effectus::intentio_occisionis(entity_ref("urn:example:duplex:actus:miles")) { origin case_input; }
+    assert "bonum": la.aquinas.duplex_effectus::refert_ad_bonum_commune(entity_ref("urn:example:duplex:actus:miles")) { origin case_input; }
+    assert "non-libido": not la.aquinas.duplex_effectus::privata_libido(entity_ref("urn:example:duplex:actus:miles")) { origin case_input; }
+}

@@ -1,0 +1,69 @@
+// Прикладной канон respondeo I qq. 75-102.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_homine version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-homine";
+
+use self::{
+    ST_I_Q75_A1_RESP,
+    ST_I_Q76_A1_RESP,
+    ST_I_Q79_A1_RESP,
+    ST_I_Q93_A1_RESP,
+    Subject,
+    man_presented,
+    presented,
+    soul_presented,
+};
+
+pub relation soul_not_body(s: Subject) kind institutional {
+    label la official "anima non est corpus";
+    label ru unofficial "душа не есть тело";
+}
+
+@source(ST_I_Q75_A1_RESP)
+rule SoulIsNotBody(s: Subject) strict {
+    label la official "anima non est corpus";
+    label ru unofficial "душа не есть тело";
+    when presented(s) and soul_presented(s);
+    then soul_not_body(s);
+}
+
+pub relation soul_is_form(s: Subject) kind institutional {
+    label la official "anima est forma corporis";
+    label ru unofficial "душа есть форма тела";
+}
+
+@source(ST_I_Q76_A1_RESP)
+rule SoulFormOfBody(s: Subject) strict {
+    label la official "anima est forma corporis";
+    label ru unofficial "душа есть форма тела";
+    when presented(s) and soul_presented(s);
+    then soul_is_form(s);
+}
+
+pub relation intellect_is_power(s: Subject) kind institutional {
+    label la official "intellectus est potentia animae";
+    label ru unofficial "ум есть сила души";
+}
+
+@source(ST_I_Q79_A1_RESP)
+rule IntellectivePower(s: Subject) strict {
+    label la official "intellectus est potentia animae";
+    label ru unofficial "ум есть сила души";
+    when presented(s) and soul_presented(s);
+    then intellect_is_power(s);
+}
+
+pub relation image_of_god(s: Subject) kind institutional {
+    label la official "in homine est imago Dei";
+    label ru unofficial "в человеке есть образ Бога";
+}
+
+@source(ST_I_Q93_A1_RESP)
+rule ImageOfGod(s: Subject) strict {
+    label la official "in homine est imago Dei";
+    label ru unofficial "в человеке есть образ Бога";
+    when presented(s) and man_presented(s);
+    then image_of_god(s);
+}
+

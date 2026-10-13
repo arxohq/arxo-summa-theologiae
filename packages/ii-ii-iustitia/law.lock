@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:81b408d40c75a27619cf49f8f3e659e628e319dc2509e2534e3c15ba90cc75e2",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:a5b3bbc707369a76b34da1a7cfaed7d9382f6c9aa7451b64ec4c06b5da6769ec",
+    "name": "la.aquinas.summa.ii_ii_iustitia",
+    "namespace": "urn:la:aquinas:clir:summa-ii-ii-iustitia",
+    "sourceHash": "sha256:100b3384dff05c53794d6d5018cbde7d387dab520adcaadb0c21d6c9a7fa3770",
+    "version": "0.1.0"
+  }
+}

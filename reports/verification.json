@@ -1,0 +1,270 @@
+{
+  "format": "arxo.summa-verification/1",
+  "date": "2026-10-13",
+  "tool": "0.2.4",
+  "semantics": "law.core/0.2.11",
+  "models": [
+    {
+      "spec": "la.aquinas.summa.i_de_angelis@0.1.0",
+      "slug": "i-de-angelis",
+      "suiteFiles": 6,
+      "checked": 6,
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_de_creatione@0.1.0",
+      "slug": "i-de-creatione",
+      "suiteFiles": 6,
+      "checked": 6,
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_de_deo@0.1.0",
+      "slug": "i-de-deo",
+      "suiteFiles": 8,
+      "checked": 8,
+      "passed": 8,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_de_gubernatione@0.1.0",
+      "slug": "i-de-gubernatione",
+      "suiteFiles": 6,
+      "checked": 6,
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_de_homine@0.1.0",
+      "slug": "i-de-homine",
+      "suiteFiles": 8,
+      "checked": 8,
+      "passed": 8,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_de_sex_diebus@0.1.0",
+      "slug": "i-de-sex-diebus",
+      "suiteFiles": 6,
+      "checked": 6,
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_de_trinitate@0.1.0",
+      "slug": "i-de-trinitate",
+      "suiteFiles": 6,
+      "checked": 6,
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_ii_actibus@0.1.0",
+      "slug": "i-ii-actibus",
+      "suiteFiles": 10,
+      "checked": 10,
+      "passed": 10,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_ii_fine@0.1.0",
+      "slug": "i-ii-fine",
+      "suiteFiles": 12,
+      "checked": 12,
+      "passed": 12,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_ii_gratia@0.1.0",
+      "slug": "i-ii-gratia",
+      "suiteFiles": 16,
+      "checked": 16,
+      "passed": 16,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_ii_habitibus@0.1.0",
+      "slug": "i-ii-habitibus",
+      "suiteFiles": 10,
+      "checked": 10,
+      "passed": 10,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_ii_passionibus@0.1.0",
+      "slug": "i-ii-passionibus",
+      "suiteFiles": 10,
+      "checked": 10,
+      "passed": 10,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_ii_vitiis@0.1.0",
+      "slug": "i-ii-vitiis",
+      "suiteFiles": 10,
+      "checked": 10,
+      "passed": 10,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_sacra_doctrina@0.1.0",
+      "slug": "i-sacra-doctrina",
+      "suiteFiles": 6,
+      "checked": 6,
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.ii_ii_caritate@0.1.0",
+      "slug": "ii-ii-caritate",
+      "suiteFiles": 10,
+      "checked": 10,
+      "passed": 10,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.ii_ii_fide@0.1.0",
+      "slug": "ii-ii-fide",
+      "suiteFiles": 8,
+      "checked": 8,
+      "passed": 8,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.ii_ii_fortitudine@0.1.0",
+      "slug": "ii-ii-fortitudine",
+      "suiteFiles": 8,
+      "checked": 8,
+      "passed": 8,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.ii_ii_gratiis@0.1.0",
+      "slug": "ii-ii-gratiis",
+      "suiteFiles": 8,
+      "checked": 8,
+      "passed": 8,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.ii_ii_iustitia@0.1.0",
+      "slug": "ii-ii-iustitia",
+      "suiteFiles": 10,
+      "checked": 10,
+      "passed": 10,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.ii_ii_prudentia@0.1.0",
+      "slug": "ii-ii-prudentia",
+      "suiteFiles": 6,
+      "checked": 6,
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.ii_ii_spe@0.1.0",
+      "slug": "ii-ii-spe",
+      "suiteFiles": 8,
+      "checked": 8,
+      "passed": 8,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.ii_ii_temperantia@0.1.0",
+      "slug": "ii-ii-temperantia",
+      "suiteFiles": 8,
+      "checked": 8,
+      "passed": 8,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.iii_incarnatione@0.1.0",
+      "slug": "iii-incarnatione",
+      "suiteFiles": 6,
+      "checked": 6,
+      "passed": 6,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.iii_sacramentis@0.1.0",
+      "slug": "iii-sacramentis",
+      "suiteFiles": 12,
+      "checked": 12,
+      "passed": 12,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.iii_vita_christi@0.1.0",
+      "slug": "iii-vita-christi",
+      "suiteFiles": 8,
+      "checked": 8,
+      "passed": 8,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa_theologiae_law@0.1.0",
+      "slug": "law",
+      "suiteFiles": 48,
+      "checked": 53,
+      "passed": 53,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.summa.i_ii_old_new_law@0.1.0",
+      "slug": "old-new-law",
+      "suiteFiles": 12,
+      "checked": 12,
+      "passed": 12,
+      "failed": 0
+    },
+    {
+      "spec": "la.aquinas.duplex_effectus@0.1.0",
+      "slug": "duplex-effectus",
+      "suiteFiles": 13,
+      "checked": 17,
+      "passed": 17,
+      "failed": 0
+    }
+  ],
+  "scenarios": {
+    "checked": 294,
+    "passed": 294,
+    "failed": 0
+  },
+  "readerExamples": {
+    "checked": 20,
+    "passed": 20,
+    "repeatCanonicalDocuments": "identical",
+    "nativeEval": "passed",
+    "nativeAsk": "passed; saved request replay checked separately",
+    "negativeAdjudicatedOrigin": "retained in original case input",
+    "missingJudgment": "REQUIRES_JUDGMENT; not defaulted"
+  },
+  "nativePackageCommands": {
+    "duplex-effectus": "passed",
+    "law": "passed"
+  },
+  "sourceBytes": {
+    "capturedFiles": 1154,
+    "modelFilesModified": 0
+  },
+  "historicalEvidence": "Original inventory, audits and example expectations retained separately; no earlier acceptance transferred",
+  "macos": "passed with published npm CLI; Node.js 20",
+  "linux": "pending public addressed CI",
+  "publicDelivery": {
+    "published": false,
+    "anonymousInstallation": "pending",
+    "modelNpm": "not_requested"
+  },
+  "releaseVerified": false,
+  "corpus": "not_checked",
+  "deliveryChecks": {
+    "readmeLinks": "passed",
+    "noMachinePaths": "passed after excluding .law-cache",
+    "svgPreview": "passed; negative polarity and judgment kind preserved in native unfold",
+    "exactInventory": "passed"
+  }
+}

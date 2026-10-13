@@ -1,0 +1,42 @@
+language "law.core" version "0.2";
+package la.aquinas.duplex_effectus version "0.1.0";
+namespace "urn:la:aquinas:clir:duplex-effectus";
+
+test "urn:query:duplex-13-bellum-illicitum-prohibition-active" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "b0": presented_bellum(entity_ref("urn:case:duplex:bellum:cupiditas")) { origin case_input; }
+        assert "b1": bellum_a_principe(entity_ref("urn:case:duplex:bellum:cupiditas"), entity_ref("urn:case:duplex:persona:princeps")) { origin case_input; }
+        assert "b2": auctoritas_principis(entity_ref("urn:case:duplex:bellum:cupiditas")) { origin case_input; }
+        assert "b3": causa_iusta(entity_ref("urn:case:duplex:bellum:cupiditas")) { origin case_input; }
+        assert "b4": not intentio_recta(entity_ref("urn:case:duplex:bellum:cupiditas")) { origin case_input; }
+    }
+    evaluate positions();
+    expect position(BellumIllicitumGerere, ACTIVE);
+    expect not position(BellumIustumGerere, ACTIVE);
+}
+
+test "urn:query:duplex-13b-bellum-illicitum-prohibition-violated" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "b0": presented_bellum(entity_ref("urn:case:duplex:bellum:cupiditas")) { origin case_input; }
+        assert "b1": bellum_a_principe(entity_ref("urn:case:duplex:bellum:cupiditas"), entity_ref("urn:case:duplex:persona:princeps")) { origin case_input; }
+        assert "b2": auctoritas_principis(entity_ref("urn:case:duplex:bellum:cupiditas")) { origin case_input; }
+        assert "b3": causa_iusta(entity_ref("urn:case:duplex:bellum:cupiditas")) { origin case_input; }
+        assert "b4": not intentio_recta(entity_ref("urn:case:duplex:bellum:cupiditas")) { origin case_input; }
+        assert "b5": gerit_bellum(entity_ref("urn:case:duplex:persona:princeps"), entity_ref("urn:case:duplex:bellum:cupiditas")) { origin case_input; }
+    }
+    evaluate positions();
+    expect position(BellumIllicitumGerere, VIOLATED);
+    expect not position(BellumIustumGerere, ACTIVE);
+}

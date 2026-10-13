@@ -1,0 +1,87 @@
+{
+  "assertions": [
+    {
+      "contentHash": "sha256:95723e616571be75452ff99b1afcb7bf94633d85251a082e807ed4f3e2be0589",
+      "evidence": [],
+      "id": "urn:la:aquinas:clir:summa-theologiae-law#cat-0",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:law:catalog:is-law-sufficient:v0",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:summa-theologiae-law#issued_by_caretaker_of_community"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:clir:summa-theologiae-law"
+    },
+    {
+      "contentHash": "sha256:32cb57d5bc11b36d3c6c854596ee090cdfe42c4afb7d1881047b6b6ffc8fe615",
+      "evidence": [],
+      "id": "urn:la:aquinas:clir:summa-theologiae-law#cat-1",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:law:catalog:is-law-sufficient:v0",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:summa-theologiae-law#ordinance_of_reason"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:clir:summa-theologiae-law"
+    },
+    {
+      "contentHash": "sha256:29d88cfde9f3644e85bfd5dfec80f862b6961483c25b2a1b273f0d988b081825",
+      "evidence": [],
+      "id": "urn:la:aquinas:clir:summa-theologiae-law#cat-2",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:law:catalog:is-law-sufficient:v0",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:summa-theologiae-law#promulgated"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:clir:summa-theologiae-law"
+    },
+    {
+      "contentHash": "sha256:3c9320dae94f3016271ec9797d2636ef81f96c3858e70ba00796ddb1fe286680",
+      "evidence": [],
+      "id": "urn:la:aquinas:clir:summa-theologiae-law#cat-3",
+      "kind": "assertion",
+      "literal": {
+        "args": [
+          {
+            "id": "urn:law:catalog:is-law-sufficient:v0",
+            "kind": "entity_ref"
+          }
+        ],
+        "kind": "literal",
+        "polarity": "positive",
+        "predicate": "urn:la:aquinas:clir:summa-theologiae-law#ordered_to_common_good"
+      },
+      "origin": "case_input",
+      "package": "urn:la:aquinas:clir:summa-theologiae-law"
+    }
+  ],
+  "context": {
+    "decisionTime": "2026-08-25T12:00:00Z",
+    "knowledgeTime": "2026-08-25T12:00:00Z",
+    "legalTime": "2026-08-25",
+    "timezone": "Asia/Almaty"
+  },
+  "options": {}
+}

@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:53f665495929d5b1164dcc093208fa5d162fb9baed8dcde115306e95301c0b25",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:94e020d6db27e67907aba73d8bb556fee538782e39afcaf304635dd7720b551a",
+    "name": "la.aquinas.summa.ii_ii_temperantia",
+    "namespace": "urn:la:aquinas:clir:summa-ii-ii-temperantia",
+    "sourceHash": "sha256:a7cdd721285c08a2e864322efe4b80117b5c99781201c37c70effc4505e313d4",
+    "version": "0.1.0"
+  }
+}

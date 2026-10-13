@@ -1,0 +1,33 @@
+// Словарь трактата II-II qq. 141-170.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_temperantia version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-temperantia";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation chastity_presented(s: Subject) kind empirical {
+    label la unofficial "chastity_presented";
+    label ru unofficial "chastity_presented";
+}
+pub relation continence_presented(s: Subject) kind empirical {
+    label la unofficial "continence_presented";
+    label ru unofficial "continence_presented";
+}
+pub relation intemperance_presented(s: Subject) kind empirical {
+    label la unofficial "intemperance_presented";
+    label ru unofficial "intemperance_presented";
+}
+pub relation temperance_presented(s: Subject) kind empirical {
+    label la unofficial "temperance_presented";
+    label ru unofficial "temperance_presented";
+}

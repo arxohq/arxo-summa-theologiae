@@ -1,0 +1,55 @@
+// Прикладной канон respondeo I qq. 50-64.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_angelis version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-angelis";
+
+use self::{
+    ST_I_Q50_A1_RESP,
+    ST_I_Q54_A1_RESP,
+    ST_I_Q63_A1_RESP,
+    Subject,
+    angel_presented,
+    devil_presented,
+    presented,
+};
+
+pub relation angel_incorporeal(s: Subject) kind institutional {
+    label la official "angelus est incorporeus";
+    label ru unofficial "ангел бестелесен";
+}
+
+@source(ST_I_Q50_A1_RESP)
+rule AngelIsIncorporeal(s: Subject) strict {
+    label la official "angelus est incorporeus";
+    label ru unofficial "ангел бестелесен";
+    when presented(s) and angel_presented(s);
+    then angel_incorporeal(s);
+}
+
+pub relation angel_understands(s: Subject) kind institutional {
+    label la official "angelus intelligit";
+    label ru unofficial "ангел разумеет";
+}
+
+@source(ST_I_Q54_A1_RESP)
+rule AngelUnderstands(s: Subject) strict {
+    label la official "angelus intelligit";
+    label ru unofficial "ангел разумеет";
+    when presented(s) and angel_presented(s);
+    then angel_understands(s);
+}
+
+pub relation devil_sinned(s: Subject) kind institutional {
+    label la official "diabolus peccavit";
+    label ru unofficial "диавол согрешил";
+}
+
+@source(ST_I_Q63_A1_RESP)
+rule DevilSinned(s: Subject) strict {
+    label la official "diabolus peccavit";
+    label ru unofficial "диавол согрешил";
+    when presented(s) and devil_presented(s);
+    then devil_sinned(s);
+}
+

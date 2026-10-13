@@ -1,0 +1,104 @@
+@@ I-II q. 27 pr.
+Deinde considerandum est de causa amoris. Et circa hoc quaeruntur quatuor. Primo, utrum bonum sit sola causa amoris. Secundo, utrum cognitio sit causa amoris. Tertio, utrum similitudo. Quarto, utrum aliqua alia animae passionum.
+
+@@ I-II q. 27 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod non solum bonum sit causa amoris. Bonum enim non est causa amoris, nisi quia amatur. Sed contingit etiam malum amari, secundum illud Psalmi X, qui diligit iniquitatem, odit animam suam, alioquin omnis amor esset bonus. Ergo non solum bonum est causa amoris.
+
+@@ I-II q. 27 a. 1 arg. 2
+Praeterea, philosophus dicit, in II Rhetoric., quod eos qui mala sua dicunt, amamus. Ergo videtur quod malum sit causa amoris.
+
+@@ I-II q. 27 a. 1 arg. 3
+Praeterea, Dionysius dicit, IV cap. de Div. Nom., quod non solum bonum, sed etiam pulchrum est omnibus amabile.
+
+@@ I-II q. 27 a. 1 s. c.
+Sed contra est quod Augustinus dicit, VIII de Trin., non amatur certe nisi bonum. Solum igitur bonum est causa amoris.
+
+@@ I-II q. 27 a. 1 co.
+Respondeo dicendum quod, sicut supra dictum est, amor ad appetitivam potentiam pertinet, quae est vis passiva. Unde obiectum eius comparatur ad ipsam sicut causa motus vel actus ipsius. Oportet igitur ut illud sit proprie causa amoris quod est amoris obiectum. Amoris autem proprium obiectum est bonum, quia, ut dictum est, amor importat quandam connaturalitatem vel complacentiam amantis ad amatum; unicuique autem est bonum id quod est sibi connaturale et proportionatum. Unde relinquitur quod bonum sit propria causa amoris.
+
+@@ I-II q. 27 a. 1 ad 1
+Ad primum ergo dicendum quod malum nunquam amatur nisi sub ratione boni, scilicet inquantum est secundum quid bonum, et apprehenditur ut simpliciter bonum. Et sic aliquis amor est malus, inquantum tendit in id quod non est simpliciter verum bonum. Et per hunc modum homo diligit iniquitatem, inquantum per iniquitatem adipiscitur aliquod bonum, puta delectationem vel pecuniam vel aliquid huiusmodi.
+
+@@ I-II q. 27 a. 1 ad 2
+Ad secundum dicendum quod illi qui mala sua dicunt, non propter mala amantur, sed propter hoc quod dicunt mala, hoc enim quod est dicere mala sua, habet rationem boni, inquantum excludit fictionem seu simulationem.
+
+@@ I-II q. 27 a. 1 ad 3
+Ad tertium dicendum quod pulchrum est idem bono, sola ratione differens. Cum enim bonum sit quod omnia appetunt, de ratione boni est quod in eo quietetur appetitus, sed ad rationem pulchri pertinet quod in eius aspectu seu cognitione quietetur appetitus. Unde et illi sensus praecipue respiciunt pulchrum, qui maxime cognoscitivi sunt, scilicet visus et auditus rationi deservientes, dicimus enim pulchra visibilia et pulchros sonos. In sensibilibus autem aliorum sensuum, non utimur nomine pulchritudinis, non enim dicimus pulchros sapores aut odores. Et sic patet quod pulchrum addit supra bonum, quendam ordinem ad vim cognoscitivam, ita quod bonum dicatur id quod simpliciter complacet appetitui; pulchrum autem dicatur id cuius ipsa apprehensio placet.
+
+@@ I-II q. 27 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod cognitio non sit causa amoris. Quod enim aliquid quaeratur, hoc contingit ex amore. Sed aliqua quaeruntur quae nesciuntur, sicut scientiae, cum enim in his idem sit eas habere quod eas nosse, ut Augustinus dicit in libro octoginta trium quaest., si cognoscerentur, haberentur, et non quaererentur. Ergo cognitio non est causa amoris.
+
+@@ I-II q. 27 a. 2 arg. 2
+Praeterea, eiusdem rationis videtur esse quod aliquid incognitum ametur, et quod aliquid ametur plus quam cognoscatur. Sed aliqua amantur plus quam cognoscantur, sicut Deus, qui in hac vita potest per seipsum amari, non autem per seipsum cognosci. Ergo cognitio non est causa amoris.
+
+@@ I-II q. 27 a. 2 arg. 3
+Praeterea, si cognitio esset causa amoris, non posset inveniri amor ubi non est cognitio. Sed in omnibus rebus invenitur amor, ut dicit Dionysius in IV cap. de Div. Nom., non autem in omnibus invenitur cognitio. Ergo cognitio non est causa amoris.
+
+@@ I-II q. 27 a. 2 s. c.
+Sed contra est quod Augustinus probat, in X de Trin., quod nullus potest amare aliquid incognitum.
+
+@@ I-II q. 27 a. 2 co.
+Respondeo dicendum quod, sicut dictum est, bonum est causa amoris per modum obiecti. Bonum autem non est obiectum appetitus, nisi prout est apprehensum. Et ideo amor requirit aliquam apprehensionem boni quod amatur. Et propter hoc philosophus dicit, IX Ethic., quod visio corporalis est principium amoris sensitivi. Et similiter contemplatio spiritualis pulchritudinis vel bonitatis, est principium amoris spiritualis. Sic igitur cognitio est causa amoris, ea ratione qua et bonum, quod non potest amari nisi cognitum.
+
+@@ I-II q. 27 a. 2 ad 1
+Ad primum ergo dicendum quod ille qui quaerit scientiam, non omnino ignorat eam, sed secundum aliquid eam praecognoscit, vel in universali, vel in aliquo eius effectu, vel per hoc quod audit eam laudari, ut Augustinus dicit, X de Trin. Sic autem eam cognoscere non est eam habere; sed cognoscere eam perfecte.
+
+@@ I-II q. 27 a. 2 ad 2
+Ad secundum dicendum quod aliquid requiritur ad perfectionem cognitionis, quod non requiritur ad perfectionem amoris. Cognitio enim ad rationem pertinet, cuius est distinguere inter ea quae secundum rem sunt coniuncta, et componere quodammodo ea quae sunt diversa, unum alteri comparando. Et ideo ad perfectionem cognitionis requiritur quod homo cognoscat singillatim quidquid est in re, sicut partes et virtutes et proprietates. Sed amor est in vi appetitiva, quae respicit rem secundum quod in se est. Unde ad perfectionem amoris sufficit quod res prout in se apprehenditur, ametur. Ob hoc ergo contingit quod aliquid plus amatur quam cognoscatur, quia potest perfecte amari, etiam si non perfecte cognoscatur. Sicut maxime patet in scientiis, quas aliqui amant propter aliquam summariam cognitionem quam de eis habent, puta quod sciunt rhetoricam esse scientiam per quam homo potest persuadere, et hoc in rhetorica amant. Et similiter est dicendum circa amorem Dei.
+
+@@ I-II q. 27 a. 2 ad 3
+Ad tertium dicendum quod etiam amor naturalis, qui est in omnibus rebus, causatur ex aliqua cognitione, non quidem in ipsis rebus naturalibus existente, sed in eo qui naturam instituit, ut supra dictum est.
+
+@@ I-II q. 27 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod similitudo non sit causa amoris. Idem enim non est causa contrariorum. Sed similitudo est causa odii, dicitur enim Prov. XIII, quod inter superbos semper sunt iurgia; et philosophus dicit, in VIII Ethic., quod figuli corrixantur ad invicem. Ergo similitudo non est causa amoris.
+
+@@ I-II q. 27 a. 3 arg. 2
+Praeterea, Augustinus dicit, in IV Confess., quod aliquis amat in alio quod esse non vellet, sicut homo amat histrionem, qui non vellet esse histrio. Hoc autem non contingeret, si similitudo esset propria causa amoris, sic enim homo amaret in altero quod ipse haberet, vel vellet habere. Ergo similitudo non est causa amoris.
+
+@@ I-II q. 27 a. 3 arg. 3
+Praeterea, quilibet homo amat id quo indiget, etiam si illud non habeat, sicut infirmus amat sanitatem, et pauper amat divitias. Sed inquantum indiget et caret eis, habet dissimilitudinem ad ipsa. Ergo non solum similitudo, sed etiam dissimilitudo est causa amoris.
+
+@@ I-II q. 27 a. 3 arg. 4
+Praeterea, philosophus dicit, in II Rhetoric., quod beneficos in pecunias et salutem amamus, et similiter eos qui circa mortuos servant amicitiam, omnes diligunt. Non autem omnes sunt tales. Ergo similitudo non est causa amoris.
+
+@@ I-II q. 27 a. 3 s. c.
+Sed contra est quod dicitur Eccli. XIII, omne animal diligit simile sibi.
+
+@@ I-II q. 27 a. 3 co.
+Respondeo dicendum quod similitudo, proprie loquendo, est causa amoris. Sed considerandum est quod similitudo inter aliqua potest attendi dupliciter. Uno modo, ex hoc quod utrumque habet idem in actu, sicut duo habentes albedinem, dicuntur similes. Alio modo, ex hoc quod unum habet in potentia et in quadam inclinatione, illud quod aliud habet in actu, sicut si dicamus quod corpus grave existens extra suum locum, habet similitudinem cum corpore gravi in suo loco existenti. Vel etiam secundum quod potentia habet similitudinem ad actum ipsum, nam in ipsa potentia quodammodo est actus. Primus ergo similitudinis modus causat amorem amicitiae, seu benevolentiae. Ex hoc enim quod aliqui duo sunt similes, quasi habentes unam formam, sunt quodammodo unum in forma illa, sicut duo homines sunt unum in specie humanitatis, et duo albi in albedine. Et ideo affectus unius tendit in alterum, sicut in unum sibi; et vult ei bonum sicut et sibi. Sed secundus modus similitudinis causat amorem concupiscentiae, vel amicitiam utilis seu delectabilis. Quia unicuique existenti in potentia, inquantum huiusmodi, inest appetitus sui actus, et in eius consecutione delectatur, si sit sentiens et cognoscens. Dictum est autem supra quod in amore concupiscentiae amans proprie amat seipsum, cum vult illud bonum quod concupiscit. Magis autem unusquisque seipsum amat quam alium, quia sibi unus est in substantia, alteri vero in similitudine alicuius formae. Et ideo si ex eo quod est sibi similis in participatione formae, impediatur ipsemet a consecutione boni quod amat; efficitur ei odiosus, non inquantum est similis, sed inquantum est proprii boni impeditivus. Et propter hoc figuli corrixantur ad invicem, quia se invicem impediunt in proprio lucro, et inter superbos sunt iurgia, quia se invicem impediunt in propria excellentia, quam concupiscunt.
+
+@@ I-II q. 27 a. 3 ad 1
+Et per hoc patet responsio ad primum.
+
+@@ I-II q. 27 a. 3 ad 2
+Ad secundum dicendum quod in hoc etiam quod aliquis in altero amat quod in se non amat, invenitur ratio similitudinis secundum proportionalitatem, nam sicut se habet alius ad hoc quod in eo amatur, ita ipse se habet ad hoc quod in se amat. Puta si bonus cantor bonum amet scriptorem, attenditur ibi similitudo proportionis, secundum quod uterque habet quod convenit ei secundum suam artem.
+
+@@ I-II q. 27 a. 3 ad 3
+Ad tertium dicendum quod ille qui amat hoc quo indiget, habet similitudinem ad id quod amat sicut quod est potentia ad actum, ut dictum est.
+
+@@ I-II q. 27 a. 3 ad 4
+Ad quartum dicendum quod secundum eandem similitudinem potentiae ad actum, ille qui non est liberalis, amat eum qui est liberalis, inquantum expectat ab eo aliquid quod desiderat. Et eadem ratio est de perseverante in amicitia ad eum qui non perseverat. Utrobique enim videtur esse amicitia propter utilitatem. Vel dicendum quod, licet non omnes homines habeant huiusmodi virtutes secundum habitum completum, habent tamen ea secundum quaedam seminalia rationis, secundum quae, qui non habet virtutem, diligit virtuosum, tanquam suae naturali rationi conformem.
+
+@@ I-II q. 27 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod aliqua alia passio possit esse causa amoris. Dicit enim philosophus, in VIII Ethic., quod aliqui amantur propter delectationem. Sed delectatio est passio quaedam. Ergo aliqua alia passio est causa amoris.
+
+@@ I-II q. 27 a. 4 arg. 2
+Praeterea, desiderium quaedam passio est. Sed aliquos amamus propter desiderium alicuius quod ab eis expectamus, sicut apparet in omni amicitia quae est propter utilitatem. Ergo aliqua alia passio est causa amoris.
+
+@@ I-II q. 27 a. 4 arg. 3
+Praeterea, Augustinus dicit, in X de Trin., cuius rei adipiscendae spem quisque non gerit, aut tepide amat, aut omnino non amat, quamvis quam pulchra sit videat. Ergo spes etiam est causa amoris.
+
+@@ I-II q. 27 a. 4 s. c.
+Sed contra est quod omnes aliae affectiones animi ex amore causantur, ut Augustinus dicit, XIV de Civ. Dei.
+
+@@ I-II q. 27 a. 4 co.
+Respondeo dicendum quod nulla alia passio animae est quae non praesupponat aliquem amorem. Cuius ratio est quia omnis alia passio animae vel importat motum ad aliquid, vel quietem in aliquo. Omnis autem motus in aliquid, vel quies in aliquo, ex aliqua connaturalitate vel coaptatione procedit, quae pertinet ad rationem amoris. Unde impossibile est quod aliqua alia passio animae sit causa universaliter omnis amoris. Contingit tamen aliquam aliam passionem esse causam amoris alicuius, sicut etiam unum bonum est causa alterius.
+
+@@ I-II q. 27 a. 4 ad 1
+Ad primum ergo dicendum quod, cum aliquis amat aliquid propter delectationem, amor quidem ille causatur ex delectatione, sed delectatio illa iterum causatur ex alio amore praecedente; nullus enim delectatur nisi in re aliquo modo amata.
+
+@@ I-II q. 27 a. 4 ad 2
+Ad secundum dicendum quod desiderium rei alicuius semper praesupponit amorem illius rei. Sed desiderium alicuius rei potest esse causa ut res alia ametur, sicut qui desiderat pecuniam, amat propter hoc eum a quo pecuniam recipit.
+
+@@ I-II q. 27 a. 4 ad 3
+Ad tertium dicendum quod spes causat vel auget amorem, et ratione delectationis, quia delectationem causat, et etiam ratione desiderii, quia spes desiderium fortificat, non enim ita intense desideramus quae non speramus. Sed tamen et ipsa spes est alicuius boni amati.

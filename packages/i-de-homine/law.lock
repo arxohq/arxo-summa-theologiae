@@ -1,0 +1,15 @@
+{
+  "dependencyEdges": [],
+  "languageSemantics": "law.core/0.2.11",
+  "lockVersion": "0.4",
+  "packages": [],
+  "resolutionHash": "sha256:3652f46b904c6334d04d89e0771cdf84601f2793008b9474071fbef59d6113ee",
+  "resources": [],
+  "root": {
+    "artifactHash": "sha256:5eeec14495ce2cc98031ac22c732cb032f37d0164303bb5dc14c6c563a0c4f37",
+    "name": "la.aquinas.summa.i_de_homine",
+    "namespace": "urn:la:aquinas:clir:summa-i-de-homine",
+    "sourceHash": "sha256:5cb50baa567e393ea71fba351db9825ee3e30d99c668e405ca12a44327e06d95",
+    "version": "0.1.0"
+  }
+}

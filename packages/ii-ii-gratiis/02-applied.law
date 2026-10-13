@@ -1,0 +1,71 @@
+// Прикладной канон respondeo II-II qq. 171-189.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_gratiis version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-gratiis";
+
+use self::{
+    ST_II_II_Q171_A1_RESP,
+    ST_II_II_Q179_A1_RESP,
+    ST_II_II_Q184_A1_RESP,
+    ST_II_II_Q186_A1_RESP,
+    Subject,
+    life_presented,
+    perfection_presented,
+    presented,
+    prophecy_presented,
+    religion_presented,
+};
+
+pub relation prophecy_is_grace(s: Subject) kind institutional {
+    label la official "prophetia est gratia gratis data";
+    label ru unofficial "пророчество — благодать даром данная";
+}
+
+@source(ST_II_II_Q171_A1_RESP)
+rule ProphecyIsGrace(s: Subject) strict {
+    label la official "prophetia est gratia gratis data";
+    label ru unofficial "пророчество — благодать даром данная";
+    when presented(s) and prophecy_presented(s);
+    then prophecy_is_grace(s);
+}
+
+pub relation two_lives(s: Subject) kind institutional {
+    label la official "vita activa et contemplativa distinguuntur";
+    label ru unofficial "жизнь деятельная и созерцательная различаются";
+}
+
+@source(ST_II_II_Q179_A1_RESP)
+rule TwoLives(s: Subject) strict {
+    label la official "vita activa et contemplativa distinguuntur";
+    label ru unofficial "жизнь деятельная и созерцательная различаются";
+    when presented(s) and life_presented(s);
+    then two_lives(s);
+}
+
+pub relation perfection_of_charity(s: Subject) kind institutional {
+    label la official "perfectio vitae christianae consistit in caritate";
+    label ru unofficial "совершенство христианской жизни — в любви";
+}
+
+@source(ST_II_II_Q184_A1_RESP)
+rule PerfectionOfLife(s: Subject) strict {
+    label la official "perfectio vitae christianae consistit in caritate";
+    label ru unofficial "совершенство христианской жизни — в любви";
+    when presented(s) and perfection_presented(s);
+    then perfection_of_charity(s);
+}
+
+pub relation religion_is_state(s: Subject) kind institutional {
+    label la official "religio est status";
+    label ru unofficial "монашество есть состояние";
+}
+
+@source(ST_II_II_Q186_A1_RESP)
+rule ReligionState(s: Subject) strict {
+    label la official "religio est status";
+    label ru unofficial "монашество есть состояние";
+    when presented(s) and religion_presented(s);
+    then religion_is_state(s);
+}
+

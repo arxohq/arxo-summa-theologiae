@@ -1,0 +1,122 @@
+@@ I q. 31 pr.
+Post haec considerandum est de his quae ad unitatem vel pluralitatem pertinent in divinis. Et circa hoc quaeruntur quatuor. Primo, de ipso nomine Trinitatis. Secundo, utrum possit dici, filius est alius a patre. Tertio, utrum dictio exclusiva, quae videtur alietatem excludere, possit adiungi nomini essentiali in divinis. Quarto, utrum possit adiungi termino personali.
+
+@@ I q. 31 a. 1 arg. 1
+Ad primum sic proceditur. Videtur quod non sit Trinitas in divinis. Omne enim nomen in divinis vel significat substantiam, vel relationem. Sed hoc nomen Trinitas non significat substantiam, praedicaretur enim de singulis personis. Neque significat relationem, quia non dicitur secundum nomen ad aliud. Ergo nomine Trinitatis non est utendum in divinis.
+
+@@ I q. 31 a. 1 arg. 2
+Praeterea, hoc nomen Trinitas videtur esse nomen collectivum, cum significet multitudinem. Tale autem nomen non convenit in divinis, cum unitas importata per nomen collectivum sit minima unitas, in divinis autem est maxima unitas. Ergo hoc nomen Trinitas non convenit in divinis.
+
+@@ I q. 31 a. 1 arg. 3
+Praeterea, omne trinum est triplex. Sed in Deo non est triplicitas, cum triplicitas sit species inaequalitatis. Ergo nec Trinitas.
+
+@@ I q. 31 a. 1 arg. 4
+Praeterea, quidquid est in Deo, est in unitate essentiae divinae, quia Deus est sua essentia. Si igitur Trinitas est in Deo, erit in unitate essentiae divinae. Et sic in Deo erunt tres essentiales unitates, quod est haereticum.
+
+@@ I q. 31 a. 1 arg. 5
+Praeterea, in omnibus quae dicuntur de Deo, concretum praedicatur de abstracto, deitas enim est Deus, et paternitas est pater. Sed Trinitas non potest dici trina, quia sic essent novem res in divinis, quod est erroneum. Ergo nomine Trinitatis non est utendum in divinis.
+
+@@ I q. 31 a. 1 s. c.
+Sed contra est quod Athanasius dicit, quod unitas in Trinitate, et Trinitas in unitate veneranda sit.
+
+@@ I q. 31 a. 1 co.
+Respondeo dicendum quod nomen Trinitatis in divinis significat determinatum numerum personarum. Sicut igitur ponitur pluralitas personarum in divinis, ita utendum est nomine Trinitatis, quia hoc idem quod significat pluralitas indeterminate, significat hoc nomen Trinitas determinate.
+
+@@ I q. 31 a. 1 ad 1
+Ad primum ergo dicendum quod hoc nomen Trinitas, secundum etymologiam vocabuli, videtur significare unam essentiam trium personarum, secundum quod dicitur Trinitas quasi trium unitas. Sed secundum proprietatem vocabuli, significat magis numerum personarum unius essentiae. Et propter hoc non possumus dicere quod pater sit Trinitas, quia non est tres personae. Non autem significat ipsas relationes personarum, sed magis numerum personarum ad invicem relatarum. Et inde est quod, secundum nomen, ad aliud non refertur.
+
+@@ I q. 31 a. 1 ad 2
+Ad secundum dicendum quod nomen collectivum duo importat, scilicet pluralitatem suppositorum, et unitatem quandam, scilicet ordinis alicuius, populus enim est multitudo hominum sub aliquo ordine comprehensorum. Quantum ergo ad primum, hoc nomen Trinitas convenit cum nominibus collectivis, sed quantum ad secundum differt, quia in divina Trinitate non solum est unitas ordinis, sed cum hoc est etiam unitas essentiae.
+
+@@ I q. 31 a. 1 ad 3
+Ad tertium dicendum quod Trinitas absolute dicitur, significat enim numerum ternarium personarum. Sed triplicitas significat proportionem inaequalitatis, est enim species proportionis inaequalis, sicut patet per Boetium in arithmetica. Et ideo non est in Deo triplicitas, sed Trinitas.
+
+@@ I q. 31 a. 1 ad 4
+Ad quartum dicendum quod in Trinitate divina intelligitur et numerus, et personae numeratae. Cum ergo dicimus Trinitatem in unitate, non ponimus numerum in unitate essentiae, quasi sit ter una, sed personas numeratas ponimus in unitate naturae, sicut supposita alicuius naturae dicuntur esse in natura illa. E converso autem dicimus unitatem in Trinitate, sicut natura dicitur esse in suis suppositis.
+
+@@ I q. 31 a. 1 ad 5
+Ad quintum dicendum quod, cum dicitur, Trinitas est trina, ratione numeri importati significatur multiplicatio eiusdem numeri in seipsum, cum hoc quod dico trinum, importet distinctionem in suppositis illius de quo dicitur. Et ideo non potest dici quod Trinitas sit trina, quia sequeretur, si Trinitas esset trina, quod tria essent supposita Trinitatis; sicut cum dicitur, Deus est trinus, sequitur quod sunt tria supposita deitatis.
+
+@@ I q. 31 a. 2 arg. 1
+Ad secundum sic proceditur. Videtur quod filius non sit alius a patre. Alius enim est relativum diversitatis substantiae. Si igitur filius est alius a patre, videtur quod sit a patre diversus. Quod est contra Augustinum, VII de Trin., ubi dicit quod, cum dicimus tres personas, non diversitatem intelligere volumus.
+
+@@ I q. 31 a. 2 arg. 2
+Praeterea, quicumque sunt alii ab invicem, aliquo modo ab invicem differunt. Si igitur filius est alius a patre, sequitur quod sit differens a patre. Quod est contra Ambrosium, in I de fide, ubi ait, pater et filius deitate unum sunt, nec est ibi substantiae differentia, neque ulla diversitas.
+
+@@ I q. 31 a. 2 arg. 3
+Praeterea, ab alio alienum dicitur. Sed filius non est alienus a patre, dicit enim Hilarius, in VII de Trin., quod in divinis personis nihil est diversum, nihil alienum, nihil separabile. Ergo filius non est alius a patre.
+
+@@ I q. 31 a. 2 arg. 4
+Praeterea, alius et aliud idem significant, sed sola generis consignificatione differunt. Si ergo filius est alius a patre, videtur sequi quod filius sit aliud a patre.
+
+@@ I q. 31 a. 2 s. c.
+Sed contra est quod Augustinus dicit, in libro de fide ad Petrum, una est enim essentia patris et filii et spiritus sancti, in qua non est aliud pater, aliud filius, aliud spiritus sanctus; quamvis personaliter sit alius pater, alius filius, alius spiritus sanctus.
+
+@@ I q. 31 a. 2 co.
+Respondeo dicendum quod, quia ex verbis inordinate prolatis incurritur haeresis, ut Hieronymus dicit, ideo cum de Trinitate loquimur, cum cautela et modestia est agendum, quia, ut Augustinus dicit, in I de Trin., nec periculosius alicubi erratur, nec laboriosius aliquid quaeritur, nec fructuosius aliquid invenitur. Oportet autem in his quae de Trinitate loquimur, duos errores oppositos cavere, temperate inter utrumque procedentes, scilicet errorem Arii, qui posuit cum Trinitate personarum Trinitatem substantiarum; et errorem Sabellii, qui posuit cum unitate essentiae unitatem personae. Ad evitandum igitur errorem Arii, vitare debemus in divinis nomen diversitatis et differentiae, ne tollatur unitas essentiae, possumus autem uti nomine distinctionis, propter oppositionem relativam. Unde sicubi in aliqua Scriptura authentica diversitas vel differentia personarum invenitur, sumitur diversitas vel differentia pro distinctione. Ne autem tollatur simplicitas divinae essentiae, vitandum est nomen separationis et divisionis, quae est totius in partes. Ne autem tollatur aequalitas, vitandum est nomen disparitatis. Ne vero tollatur similitudo, vitandum est nomen alieni et discrepantis, dicit enim Ambrosius, in libro de fide, quod in patre et filio non est discrepans, sed una divinitas, et secundum Hilarium, ut dictum est, in divinis nihil est alienum, nihil separabile. Ad vitandum vero errorem Sabellii, vitare debemus singularitatem, ne tollatur communicabilitas essentiae divinae, unde Hilarius dicit, VII de Trin., patrem et filium singularem Deum praedicare, sacrilegum est. Debemus etiam vitare nomen unici, ne tollatur numerus personarum, unde Hilarius in eodem libro dicit quod a Deo excluditur singularis atque unici intelligentia. Dicimus tamen unicum filium, quia non sunt plures filii in divinis. Neque tamen dicimus unicum Deum, quia pluribus deitas est communis vitamus etiam nomen confusi, ne tollatur ordo naturae a personis, unde Ambrosius dicit, I de fide, neque confusum est quod unum est, neque multiplex esse potest quod indifferens est. Vitandum est etiam nomen solitarii, ne tollatur consortium trium personarum, dicit enim Hilarius, in IV de Trin., nobis neque solitarius, neque diversus Deus est confitendus. Hoc autem nomen alius, masculine sumptum, non importat nisi distinctionem suppositi. Unde convenienter dicere possumus quod filius est alius a patre, quia scilicet est aliud suppositum divinae naturae, sicut est alia persona, et alia hypostasis.
+
+@@ I q. 31 a. 2 ad 1
+Ad primum ergo dicendum quod alius, quia est sicut quoddam particulare nomen, tenet se ex parte suppositi, unde ad eius rationem sufficit distinctio substantiae quae est hypostasis vel persona. Sed diversitas requirit distinctionem substantiae quae est essentia. Et ideo non possumus dicere quod filius sit diversus a patre, licet sit alius.
+
+@@ I q. 31 a. 2 ad 2
+Ad secundum dicendum quod differentia importat distinctionem formae. Est autem tantum una forma in divinis, ut patet per id quod dicitur Philip. II, qui cum in forma Dei esset. Et ideo nomen differentis non proprie competit in divinis, ut patet per auctoritatem inductam. Utitur tamen Damascenus nomine differentiae in divinis personis, secundum quod proprietas relativa significatur per modum formae, unde dicit quod non differunt ab invicem hypostases secundum substantiam, sed secundum determinatas proprietates. Sed differentia sumitur pro distinctione, ut dictum est.
+
+@@ I q. 31 a. 2 ad 3
+Ad tertium dicendum quod alienum est quod est extraneum et dissimile. Sed hoc non importatur cum dicitur alius. Et ideo dicimus filium alium a patre, licet non dicamus alienum.
+
+@@ I q. 31 a. 2 ad 4
+Ad quartum dicendum quod neutrum genus est informe, masculinum autem est formatum et distinctum, et similiter femininum. Et ideo convenienter per neutrum genus significatur essentia communis, per masculinum autem et femininum, aliquod suppositum determinatum in communi natura. Unde etiam in rebus humanis, si quaeratur, quis est iste? Respondetur, Socrates, quod nomen est suppositi, si autem quaeratur, quid est iste? Respondetur, animal rationale et mortale. Et ideo, quia in divinis distinctio est secundum personas, non autem secundum essentiam, dicimus quod pater est alius a filio, sed non aliud, et e converso dicimus quod sunt unum, sed non unus.
+
+@@ I q. 31 a. 3 arg. 1
+Ad tertium sic proceditur. Videtur quod dictio exclusiva solus non sit addenda termino essentiali in divinis. Quia secundum philosophum, in II Elench., solus est qui cum alio non est. Sed Deus est cum Angelis et sanctis animabus. Ergo non possumus dicere Deum solum.
+
+@@ I q. 31 a. 3 arg. 2
+Praeterea, quidquid adiungitur termino essentiali in divinis, potest praedicari de qualibet persona per se, et de omnibus simul, quia enim convenienter dicitur sapiens Deus, possumus dicere, pater est sapiens Deus, et Trinitas est sapiens Deus. Sed Augustinus, in VI de Trin., dicit, consideranda est illa sententia, qua dicitur non esse patrem verum Deum solum. Ergo non potest dici solus Deus.
+
+@@ I q. 31 a. 3 arg. 3
+Praeterea, si haec dictio solus adiungitur termino essentiali, aut hoc erit respectu praedicati personalis, aut respectu praedicati essentialis. Sed non respectu praedicati personalis, quia haec est falsa, solus Deus est pater, cum etiam homo sit pater. Neque etiam respectu praedicati essentialis. Quia si haec esset vera, solus Deus creat, videtur sequi quod haec esset vera, solus pater creat, quia quidquid dicitur de Deo, potest dici de patre. Haec autem est falsa, quia etiam filius est creator. Non ergo haec dictio solus potest in divinis adiungi termino essentiali.
+
+@@ I q. 31 a. 3 s. c.
+Sed contra est quod dicitur I ad Tim. I, regi saeculorum immortali, invisibili, soli Deo.
+
+@@ I q. 31 a. 3 co.
+Respondeo dicendum quod haec dictio solus potest accipi ut categorematica vel syncategorematica. Dicitur autem dictio categorematica, quae absolute ponit rem significatam circa aliquod suppositum; ut albus circa hominem, cum dicitur homo albus. Si ergo sic accipiatur haec dictio solus, nullo modo potest adiungi alicui termino in divinis, quia poneret solitudinem circa terminum cui adiungeretur, et sic sequeretur Deum esse solitarium; quod est contra praedicta. Dictio vero syncategorematica dicitur, quae importat ordinem praedicati ad subiectum, sicut haec dictio omnis, vel nullus. Et similiter haec dictio solus, quia excludit omne aliud suppositum a consortio praedicati. Sicut, cum dicitur, solus Socrates scribit, non datur intelligi quod Socrates sit solitarius; sed quod nullus sit ei consors in scribendo, quamvis cum eo multis existentibus. Et per hunc modum nihil prohibet hanc dictionem solus adiungere alicui essentiali termino in divinis, inquantum excluduntur omnia alia a Deo a consortio praedicati, ut si dicamus, solus Deus est aeternus, quia nihil praeter Deum est aeternum.
+
+@@ I q. 31 a. 3 ad 1
+Ad primum ergo dicendum quod, licet Angeli et animae sanctae semper sint cum Deo, tamen, si non esset pluralitas personarum in divinis, sequeretur, quod Deus esset solus vel solitarius. Non enim tollitur solitudo per associationem alicuius quod est extraneae naturae, dicitur enim aliquis solus esse in horto, quamvis sint ibi multae plantae et animalia. Et similiter diceretur Deus esse solus vel solitarius, Angelis et hominibus cum eo existentibus, si non essent in divinis personae plures. Consociatio igitur Angelorum et animarum non excludit solitudinem absolutam a divinis, et multo minus solitudinem respectivam, per comparationem ad aliquod praedicatum.
+
+@@ I q. 31 a. 3 ad 2
+Ad secundum dicendum quod haec dictio solus, proprie loquendo, non ponitur ex parte praedicati, quod sumitur formaliter, respicit enim suppositum, inquantum excludit aliud suppositum ab eo cui adiungitur. Sed hoc adverbium tantum, cum sit exclusivum, potest poni ex parte subiecti, et ex parte praedicati, possumus enim dicere, tantum Socrates currit, idest nullus alius; et, Socrates currit tantum, idest nihil aliud facit. Unde non proprie dici potest, pater est solus Deus, vel, Trinitas est solus Deus, nisi forte ex parte praedicati intelligatur aliqua implicatio, ut dicatur, Trinitas est Deus qui est solus Deus. Et secundum hoc etiam posset esse vera ista, pater est Deus qui est solus Deus, si relativum referret praedicatum, et non suppositum. Augustinus autem, cum dicit patrem non esse solum Deum, sed Trinitatem esse solum Deum, loquitur expositive, ac si diceret, cum dicitur, regi saeculorum, invisibili, soli Deo, non est exponendum de persona patris, sed de sola Trinitate.
+
+@@ I q. 31 a. 3 ad 3
+Ad tertium dicendum quod utroque modo potest haec dictio solus adiungi termino essentiali. Haec enim propositio, solus Deus est pater, est duplex. Quia ly pater potest praedicare personam patris, et sic est vera, non enim homo est illa persona. Vel potest praedicare relationem tantum, et sic est falsa, quia relatio paternitatis etiam in aliis invenitur, licet non univoce. Similiter haec est vera, solus Deus creat. Nec tamen sequitur, ergo solus pater, quia, ut sophistae dicunt, dictio exclusiva immobilitat terminum cui adiungitur, ut non possit fieri sub eo descensus pro aliquo suppositorum; non enim sequitur, solus homo est animal rationale mortale, ergo solus Socrates.
+
+@@ I q. 31 a. 4 arg. 1
+Ad quartum sic proceditur. Videtur quod dictio exclusiva possit adiungi termino personali, etiam si praedicatum sit commune. Dicit enim dominus, ad patrem loquens, Ioan. XVII, ut cognoscant te, solum Deum verum. Ergo solus pater est Deus verus.
+
+@@ I q. 31 a. 4 arg. 2
+Praeterea, Matth. XI dicitur, nemo novit filium nisi pater; quod idem significat ac si diceretur, solus pater novit filium. Sed nosse filium est commune. Ergo idem quod prius.
+
+@@ I q. 31 a. 4 arg. 3
+Praeterea, dictio exclusiva non excludit illud quod est de intellectu termini cui adiungitur, unde non excludit partem, neque universale, non enim sequitur, solus Socrates est albus, ergo manus eius non est alba; vel, ergo homo non est albus. Sed una persona est in intellectu alterius, sicut pater in intellectu filii, et e converso. Non ergo per hoc quod dicitur, solus pater est Deus, excluditur filius vel spiritus sanctus. Et sic videtur haec locutio esse vera.
+
+@@ I q. 31 a. 4 arg. 4
+Praeterea, ab Ecclesia cantatur, tu solus altissimus, Iesu Christe.
+
+@@ I q. 31 a. 4 s. c.
+Sed contra, haec locutio, solus pater est Deus, habet duas expositivas, scilicet, pater est Deus, et, nullus alius a patre est Deus. Sed haec secunda est falsa, quia filius alius est a patre, qui est Deus. Ergo et haec est falsa, solus pater est Deus. Et sic de similibus.
+
+@@ I q. 31 a. 4 co.
+Respondeo dicendum quod, cum dicimus, solus pater est Deus, haec propositio potest habere multiplicem intellectum. Si enim solus ponat solitudinem circa patrem, sic est falsa, secundum quod sumitur categorematice. Secundum vero quod sumitur syncategorematice, sic iterum potest intelligi multipliciter. Quia si excludat a forma subiecti, sic est vera, ut sit sensus, solus pater est Deus, idest, ille cum quo nullus alius est pater, est Deus. Et hoc modo exponit Augustinus, in VI de Trin., cum dicit, solum patrem dicimus, non quia separatur a filio vel spiritu sancto; sed hoc dicentes, significamus quod illi simul cum eo non sunt pater. Sed hic sensus non habetur ex consueto modo loquendi, nisi intellecta aliqua implicatione, ut si dicatur, ille qui solus dicitur pater, est Deus. Secundum vero proprium sensum, excludit a consortio praedicati. Et sic haec propositio est falsa, si excludit alium masculine, est autem vera, si excludit aliud neutraliter tantum, quia filius est alius a patre, non tamen aliud; similiter et spiritus sanctus. Sed quia haec dictio solus respicit proprie subiectum, ut dictum est, magis se habet ad excludendum alium quam aliud. Unde non est extendenda talis locutio; sed pie exponenda, sicubi inveniatur in authentica Scriptura.
+
+@@ I q. 31 a. 4 ad 1
+Ad primum ergo dicendum quod, cum dicimus, te solum Deum verum, non intelligitur de persona patris, sed de tota Trinitate, ut Augustinus exponit. Vel, si intelligatur de persona patris, non excluduntur aliae personae, propter essentiae unitatem, prout ly solus excludit tantum aliud, ut dictum est.
+
+@@ I q. 31 a. 4 ad 2
+Et similiter dicendum est ad secundum. Cum enim aliquid essentiale dicitur de patre, non excluditur filius vel spiritus sanctus, propter essentiae unitatem. Tamen sciendum est quod in auctoritate praedicta, haec dictio nemo non idem est quod nullus homo, quod videtur significare vocabulum (non enim posset excipi persona patris), sed sumitur, secundum usum loquendi, distributive pro quacumque rationali natura.
+
+@@ I q. 31 a. 4 ad 3
+Ad tertium dicendum quod dictio exclusiva non excludit illa quae sunt de intellectu termini cui adiungitur, si non differunt secundum suppositum, ut pars et universale. Sed filius differt supposito a patre, et ideo non est similis ratio.
+
+@@ I q. 31 a. 4 ad 4
+Ad quartum dicendum quod non dicimus absolute quod solus filius sit altissimus, sed quod solus sit altissimus cum spiritu sancto, in gloria Dei patris.

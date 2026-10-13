@@ -1,0 +1,20 @@
+language "law.core" version "0.2";
+package la.aquinas.summa.ii_ii_fortitudine version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-ii-ii-fortitudine";
+
+test "urn:query:ii-ii-fortitudine-martyrdomactoffortitude-affirmat" {
+    given {
+        context {
+            legal_time @1270-06-01;
+            decision_time @1270-06-01T12:00:00Z;
+            knowledge_time @1270-06-01T12:00:00Z;
+            timezone "UTC";
+        }
+        assert "p": presented(entity_ref("urn:case:st:ii_ii_fortitudine:s")) { origin case_input; }
+        assert "f": martyrdom_presented(entity_ref("urn:case:st:ii_ii_fortitudine:s")) { origin case_input; }
+    }
+    evaluate truth(martyrdom_is_act(entity_ref("urn:case:st:ii_ii_fortitudine:s")));
+    expect result_kind == PROPOSITION;
+    expect truth_status == TRUE_ONLY;
+    expect evaluation_status == COMPUTED;
+}

@@ -1,0 +1,131 @@
+// Прикладной канон respondeo I-II qq. 109-114.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_ii_gratia version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-ii-gratia";
+
+use self::{
+    ST_I_II_Q109_A2_RESP,
+    ST_I_II_Q109_A6_RESP,
+    ST_I_II_Q110_A1_RESP,
+    ST_I_II_Q111_A1_RESP,
+    ST_I_II_Q112_A1_RESP,
+    ST_I_II_Q113_A1_RESP,
+    ST_I_II_Q114_A1_RESP,
+    ST_I_II_Q114_A3_RESP,
+    Subject,
+    before_first_grace,
+    divine_auxilium_given,
+    habitual_grace_given,
+    impius_presented,
+    in_grace,
+    justification_considered,
+    presented,
+    without_auxilium,
+    without_habitual_grace,
+};
+
+pub relation needs_grace_for_merit(s: Subject) kind institutional {
+    label la official "sine gratia habituali homo mereri non potest";
+    label ru unofficial "без благодати человек не заслуживает";
+}
+
+@source(ST_I_II_Q109_A2_RESP)
+rule GraceNeededForMeritoriousGood(s: Subject) strict {
+    label la official "sine gratia habituali homo mereri non potest";
+    label ru unofficial "без благодати человек не заслуживает";
+    when presented(s) and without_habitual_grace(s);
+    then needs_grace_for_merit(s);
+}
+
+pub relation cannot_prepare_alone(s: Subject) kind institutional {
+    label la official "homo ad gratiam se praeparare non potest nisi Deo auxiliante";
+    label ru unofficial "без помощи Бога человек не готовится к благодати";
+}
+
+@source(ST_I_II_Q109_A6_RESP)
+rule ManCannotPrepareUnaided(s: Subject) strict {
+    label la official "homo ad gratiam se praeparare non potest nisi Deo auxiliante";
+    label ru unofficial "без помощи Бога человек не готовится к благодати";
+    when presented(s) and without_auxilium(s);
+    then cannot_prepare_alone(s);
+}
+
+pub relation grace_in_soul(s: Subject) kind institutional {
+    label la official "gratia ponit aliquid in anima";
+    label ru unofficial "благодать полагает нечто в душе";
+}
+
+@source(ST_I_II_Q110_A1_RESP)
+rule GracePutsSomethingInSoul(s: Subject) strict {
+    label la official "gratia ponit aliquid in anima";
+    label ru unofficial "благодать полагает нечто в душе";
+    when presented(s) and habitual_grace_given(s);
+    then grace_in_soul(s);
+}
+
+pub relation grace_is_auxilium(s: Subject) kind institutional {
+    label la official "auxilium Dei moventis ad bonum";
+    label ru unofficial "помощь Бога, движущего к благу";
+}
+
+@source(ST_I_II_Q111_A1_RESP)
+rule GraceDividedOperansCooperans(s: Subject) strict {
+    label la official "auxilium Dei moventis ad bonum";
+    label ru unofficial "помощь Бога, движущего к благу";
+    when presented(s) and divine_auxilium_given(s);
+    then grace_is_auxilium(s);
+}
+
+pub relation god_justifies(s: Subject) kind institutional {
+    label la official "solus Deus iustificat impium";
+    label ru unofficial "один Бог оправдывает нечестивого";
+}
+
+@source(ST_I_II_Q112_A1_RESP)
+rule GodAloneJustifies(s: Subject) strict {
+    label la official "solus Deus iustificat impium";
+    label ru unofficial "один Бог оправдывает нечестивого";
+    when presented(s) and justification_considered(s);
+    then god_justifies(s);
+}
+
+pub relation justification_is_remission(s: Subject) kind institutional {
+    label la official "iustificatio impii est remissio peccatorum";
+    label ru unofficial "оправдание нечестивого есть отпущение грехов";
+}
+
+@source(ST_I_II_Q113_A1_RESP)
+rule JustificationIsRemission(s: Subject) strict {
+    label la official "iustificatio impii est remissio peccatorum";
+    label ru unofficial "оправдание нечестивого есть отпущение грехов";
+    when presented(s) and impius_presented(s);
+    then justification_is_remission(s);
+}
+
+pub relation cannot_merit_first_grace(s: Subject) kind institutional {
+    label la official "homo primam gratiam mereri non potest";
+    label ru unofficial "первую благодать человек не заслуживает";
+}
+
+@source(ST_I_II_Q114_A1_RESP)
+rule CannotMeritFirstGrace(s: Subject) strict {
+    label la official "homo primam gratiam mereri non potest";
+    label ru unofficial "первую благодать человек не заслуживает";
+    when presented(s) and before_first_grace(s);
+    then cannot_merit_first_grace(s);
+}
+
+pub relation can_merit_increase(s: Subject) kind institutional {
+    label la official "homo in gratia existens meretur augmentum";
+    label ru unofficial "пребывающий в благодати заслуживает возрастание";
+}
+
+@source(ST_I_II_Q114_A3_RESP)
+rule CanMeritIncrease(s: Subject) strict {
+    label la official "homo in gratia existens meretur augmentum";
+    label ru unofficial "пребывающий в благодати заслуживает возрастание";
+    when presented(s) and in_grace(s);
+    then can_merit_increase(s);
+}
+

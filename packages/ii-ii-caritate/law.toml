@@ -1,0 +1,36 @@
+[package]
+name = "la.aquinas.summa.ii_ii_caritate"
+version = "0.1.0"
+language = "0.2"
+namespace = "urn:la:aquinas:clir:summa-ii-ii-caritate"
+
+[metadata]
+act = "la-summa-ii-ii-caritate"
+title = "Фома Аквинский, Summa theologiae II-II, вопросы 23–46: любовь"
+primarySource = "SUMMA_THEOLOGIAE_II_II_23_46"
+jurisdiction = "none"
+instrument = "doctrine"
+sourceFidelity = "pinned_unofficial_copy"
+issuer = "Фома Аквинский как автор схоластического трактата, не законодатель"
+legalStatus = "doctrine"
+verifiedAgainstSource = false
+
+[[tests]]
+family = "la.aquinas.summa.ii_ii_caritate#authored"
+regression = false
+suites = [
+    "tests/01-charityisfriendship-affirmat.lawtest",
+    "tests/01b-charityisfriendship-negata.lawtest",
+    "tests/02-charityinwill-affirmat.lawtest",
+    "tests/02b-charityinwill-negata.lawtest",
+    "tests/03-orderofcharity-affirmat.lawtest",
+    "tests/03b-orderofcharity-negata.lawtest",
+    "tests/04-toloveisactofcharity-affirmat.lawtest",
+    "tests/04b-toloveisactofcharity-negata.lawtest",
+    "tests/05-preceptsofcharity-affirmat.lawtest",
+    "tests/05b-preceptsofcharity-negata.lawtest"
+]
+world = ["la.aquinas.summa.ii_ii_caritate"]
+
+[authoring]
+local_imports = "explicit"

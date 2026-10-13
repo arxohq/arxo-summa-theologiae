@@ -1,0 +1,25 @@
+// Словарь трактата I qq. 103-119.
+// Графы quaestio порождаются sync_summa_treatise.py.
+// Прикладной слой применяет respondeo, не передоказывает возражения.
+
+language "law.core" version "0.2";
+package la.aquinas.summa.i_de_gubernatione version "0.1.0";
+namespace "urn:la:aquinas:clir:summa-i-de-gubernatione";
+
+entity Subject {
+    label la official "res examinata";
+    label ru unofficial "предъявленный предмет respondeo";
+}
+
+pub relation presented(s: Subject) kind empirical {
+    label la official "res examinata proposita est";
+    label ru unofficial "предмет предъявлен к оценке";
+}
+pub relation creature_presented(s: Subject) kind empirical {
+    label la unofficial "creature_presented";
+    label ru unofficial "creature_presented";
+}
+pub relation world_presented(s: Subject) kind empirical {
+    label la unofficial "world_presented";
+    label ru unofficial "world_presented";
+}
